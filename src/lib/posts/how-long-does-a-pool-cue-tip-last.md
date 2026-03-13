@@ -8,7 +8,7 @@ faqs:
     answer: "If you’ve ever been shooting a game of pool and notice that your shots are a little off or that they just don’t feel right, you may start looking for answers on your cue. If you’re using a house cue, you’ll probably want to check the tip to see if it’s worn down. But if you’re using your own cue, you may wonder, “How long does a pool cue tip last?”"
 ---
 
-If you’ve ever been shooting a game of pool and notice that your shots are a little off or that they just don’t feel right, you may start looking for answers on your cue. If you’re using a house cue, you’ll probably want to check the tip to see if it’s worn down. But if you’re using your own cue, you may wonder, “How long does a pool cue tip last?”
+If you’ve ever been shooting a game of pool and notice that your shots are a little off or that they just don’t feel right, you may start looking for answers on your cue. If you’re using a house cue, you’ll probably want to check the tip to see if it’s worn down. But if you’re using your own cue, you may wonder, “How long does a [pool cue tip](/what-cue-tips-do-the-pros-use/) last?”
 
 <strong>Objectively speaking, most cue tips will last anywhere between 6 months and a year on average. But it’s not uncommon for some players to use the same tips for a year or more. There are so many factors for tip use, including hardness, style/time of play, preference, tip care, maintenance, and tip quality. As such, how long a cue tip lasts is more often than not a matter of player preference and habits</strong>.
 

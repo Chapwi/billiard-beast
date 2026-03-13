@@ -54,7 +54,7 @@ But for most chalk, you should apply a new layer before every shot. Some chalk c
 
 ## How Much Does the Quality of the Chalk Matter?
 
-The quality of chalk you use is only going to matter to a point. Most chalks, no matter their price range, perform the same function: allowing you to add friction between the cue tip and the cue ball.
+The quality of chalk you use is only going to matter to a point. Most chalks, no matter their price range, perform the same function: allowing you to add friction between the [cue tip](/what-cue-tips-do-the-pros-use/) and the cue ball.
 
 ## In Conclusion
 

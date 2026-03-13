@@ -8,7 +8,7 @@ faqs:
     answer: "Oftentimes the best rooms in which to put a pool table are the rooms that need carpeting the most. Converted garages and basements are common areas for pool tables, but they also benefit the most from carpet. So, it’s no surprise that a common question among pool enthusiasts is, “Can you put a pool table on carpet?”"
 ---
 
-Oftentimes the best rooms in which to put a pool table are the rooms that need carpeting the most. Converted garages and basements are common areas for pool tables, but they also benefit the most from carpet. So, it’s no surprise that a common question among pool enthusiasts is, “Can you put a pool table on carpet?”
+Oftentimes the best rooms in which to put a [pool table](/pool-table-cost/) are the rooms that need carpeting the most. Converted garages and basements are common areas for pool tables, but they also benefit the most from carpet. So, it’s no surprise that a common question among pool enthusiasts is, “Can you put a pool table on carpet?”
 
 <strong>You can absolutely put a pool table on carpet. However, keep the following in mind before you do so. You will have to level the table more than once as the carpet settles. Also, there’s no getting rid of the divots a pool table leaves.</strong>
 

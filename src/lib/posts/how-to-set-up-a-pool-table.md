@@ -9,7 +9,7 @@ description: "DIY pool table setup guide covering space prep, slate installation
 
 ## Introduction: Is Setting Up a Pool Table Yourself Worth It?
 
-So you're thinking about installing a pool table at home. Maybe you've got a sweet spot in your basement or garage, and you're picturing endless nights of games with friends and family. Here's the real question: should you tackle the setup yourself, or call in the pros?
+So you're thinking about installing a [pool table](/pool-table-cost/) at home. Maybe you've got a sweet spot in your basement or garage, and you're picturing endless nights of games with friends and family. Here's the real question: should you tackle the setup yourself, or call in the pros?
 
 The answer is: it depends. Setting up a pool table is absolutely doable as a DIY project if you've got some basic mechanical skills, patience, and the right tools. You'll save anywhere from $200 to $500 in professional installation fees. But there's a catch—one mistake during setup can mean an uneven playing surface that'll ruin your game. The good news? This guide walks you through every single step, and we'll cover when it makes sense to bring in a professional.
 

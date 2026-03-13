@@ -55,7 +55,7 @@ The cue ball is moved with a <strong>cue,</strong> a slender wooden stick usuall
 
 ## In Conclusion
 
-Pool cues come in a variety of different lengths, weights, and styles. Everyone’s preference in a pool cue is different, and figuring out what you like in a pool cue will come with time. However for most players, a standard length wooden pool cue works just fine.
+Pool cues come in a variety of different lengths, weights, and styles. Everyone’s preference in a [pool cue](/best-pool-cues-for-beginners/) is different, and figuring out what you like in a pool cue will come with time. However for most players, a standard length wooden pool cue works just fine.
 
 <strong>Chalk</strong> is used in a few different ways. Some players will chalk their hands to help remove moisture from there bridge hand. This helps improve stroke smoothness and therefore accuracy as well. Chalking the tip of the pool cue, however, is done in an attempt to produce more “grip” between the tip and the cue ball. This added grip is essential to making good contact with the cue ball and reducing miscues.
 

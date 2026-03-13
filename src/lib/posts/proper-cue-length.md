@@ -14,7 +14,7 @@ For most new players, choosing a proper length cue isn’t high on the to do lis
 
 ## How To Choose A Proper Length Cue
 
-Other common pool cue lengths are 48” and 52”. Jump cues on the other hand are typically around 40” while shorty cues can be as short as 24” and are great for children or when playing in tight spaces.
+Other common [pool cue](/best-pool-cues-for-beginners/) lengths are 48” and 52”. Jump cues on the other hand are typically around 40” while shorty cues can be as short as 24” and are great for children or when playing in tight spaces.
 
 As mentioned earlier, playing with a cue that isn’t the right length for you can negatively impact your game. The problem is that a lot of new players don’t know which length is right for them. There are a lot of factors to consider when buying your own cue but length is one that shouldn’t be overlooked.
 

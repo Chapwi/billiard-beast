@@ -30,7 +30,7 @@ The perfect choice ultimately depends on your unique needs as a player. For casu
 
 ## Why the Big Difference in Price?
 
-In the sections to follow, we’ll dive into the nuances of both types of tables, enabling you to make an informed decision that aligns with your desires and budget. Let’s explore the world of slate and wood pool tables to find the one that’s perfect for you.
+In the sections to follow, we’ll dive into the nuances of both types of tables, enabling you to make an informed decision that aligns with your desires and budget (see our [pool tables under $1,000](/pool-tables-under-1000/) picks). Let’s explore the world of slate and wood pool tables to find the one that’s perfect for you.
 
 ## Playability: The Player’s Experience
 
