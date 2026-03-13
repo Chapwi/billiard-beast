@@ -16,7 +16,7 @@ $3,215 in revenue from 43 units sold.
 
 That's what PureX Technology cues generated through our Amazon affiliate links in 2025. Highest total revenue of any cue on our site. Not because they're expensive — at around $75, they're solidly mid-budget. But because people who buy PureX tend to buy the upgraded models too, and they come back for accessories.
 
-There's something happening with this cue that goes beyond the spec sheet. PureX buyers are a different animal than Valhalla buyers. The Valhalla crowd is testing the waters. The PureX crowd has already decided they're in. They're not looking for the cheapest cue. They're looking for the smartest buy.
+There's something happening with this cue that goes beyond the spec sheet. PureX buyers are a different animal than Valhalla buyers. The [Valhalla](/viking-valhalla-100-series-review/) crowd is testing the waters. The PureX crowd has already decided they're in. They're not looking for the cheapest cue. They're looking for the smartest buy.
 
 ## The low-deflection thing
 

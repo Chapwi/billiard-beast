@@ -14,7 +14,7 @@ faqs:
 
 Forty-nine units.
 
-That's how many Viking Valhalla 100 Series cues our readers bought in 2025. The next closest cue on our list? Forty-three. At roughly a third of the price.
+That's how many Viking Valhalla 100 Series cues our readers bought in 2025. The next closest cue on our list? Forty-three — the [PureX Technology](/purex-technology-pool-cue-review/). At roughly a third of the price.
 
 I didn't pick the Valhalla as our top seller. Our readers did. Thousands of people came to this site looking for pool cue recommendations, read what we had to say, clicked through to Amazon, and reached for the $30 Viking more than anything else. That data point is worth more than any spec sheet comparison I could write.
 

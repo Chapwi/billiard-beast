@@ -50,9 +50,9 @@ The other big buying group: people who play in non-ideal environments. Garages. 
 
 ## How it compares
 
-**Vs. Viking Valhalla 100 (~$30):** Completely different products. The Valhalla is the cheapest good cue. The CXL500 is the cheapest carbon fiber cue. If budget is the priority, buy the Valhalla. If warp resistance and shaft consistency matter to you, the CXL500 is worth the extra $55.
+**Vs. Viking Valhalla 100 (~$30):** Completely different products. The Valhalla is the cheapest good cue. The CXL500 is the cheapest carbon fiber cue. If budget is the priority, buy the [Valhalla](/viking-valhalla-100-series-review/). If warp resistance and shaft consistency matter to you, the CXL500 is worth the extra $55.
 
-**Vs. PureX Technology (~$75):** Close in price, very different in approach. PureX gives you an engineered low-deflection maple shaft. Collapsar gives you a carbon fiber shaft with natural low-deflection properties. The PureX has a more traditional feel. The Collapsar has better environmental resistance. Both are excellent at their price. Your choice depends on whether you prefer maple feel or carbon fiber consistency.
+**Vs. PureX Technology (~$75):** Close in price, very different in approach. [PureX](/purex-technology-pool-cue-review/) gives you an engineered low-deflection maple shaft. Collapsar gives you a carbon fiber shaft with natural low-deflection properties. The PureX has a more traditional feel. The Collapsar has better environmental resistance. Both are excellent at their price. Your choice depends on whether you prefer maple feel or carbon fiber consistency.
 
 **Vs. Predator REVO shaft (~$400+):** The Predator REVO is the gold standard in carbon fiber shafts. It's also five times the price. The REVO is unquestionably a better shaft — tighter tolerances, better construction, more refined feel. But the CXL500 gives you the core benefits of carbon fiber (no warping, natural low deflection) at a fraction of the cost. For casual and intermediate players, the performance gap doesn't justify the price gap.
 

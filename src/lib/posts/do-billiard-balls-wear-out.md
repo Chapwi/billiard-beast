@@ -16,7 +16,7 @@ Like with any hobby or sport we put money into, we want to know how long our equ
 
 ## Material Degradation
 
-<li><strong>Phenolic Resin Balls:</strong> High-quality billiard balls are made from phenolic resin, which is very durable. However, they can still degrade over time, showing signs of yellowing, chipping, or cracking.</li> <li><strong>Polyester or Acrylic Balls:</strong> Lower-quality balls made from polyester or acrylic are more susceptible to wear and tear, including surface scratches and color fading.</li>
+<li><strong>Phenolic Resin Balls (like [Aramith](/are-aramith-pool-balls-worth-it/)):</strong> High-quality billiard balls are made from phenolic resin, which is very durable. However, they can still degrade over time, showing signs of yellowing, chipping, or cracking.</li> <li><strong>Polyester or Acrylic Balls:</strong> Lower-quality balls made from polyester or acrylic are more susceptible to wear and tear, including surface scratches and color fading.</li>
 
 ## Surface Wear
 

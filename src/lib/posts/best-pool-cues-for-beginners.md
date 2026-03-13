@@ -467,7 +467,7 @@ A loose joint means the cue will flex unpredictably where the butt and shaft mee
 
 Here's the short version:
 
-**Just getting started? Not sure you'll stick with it?** Get the **[Viking Valhalla 100](https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20)** (~$30). Thirty bucks. Irish linen wrap. Plays way above its price. This is the cue our readers buy most, and they keep coming back to the site for more gear — which tells me they stuck with the game.
+**Just getting started? Not sure you'll stick with it?** Get the **[Viking Valhalla 100](/viking-valhalla-100-series-review/) — [Check Price on Amazon](https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20)** (~$30). Thirty bucks. Irish linen wrap. Plays way above its price. This is the cue our readers buy most, and they keep coming back to the site for more gear — which tells me they stuck with the game.
 
 **Ready to invest in something you'll keep for years?** The **[PureX Technology](https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20)** (~$75) is the smartest money in the $50-100 range. Low-deflection tech at this price is hard to find anywhere else.
 

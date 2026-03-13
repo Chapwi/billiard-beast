@@ -40,7 +40,7 @@ If you want a high-quality table that will last a lifetime and then some, you’
 
 This typically means the legs and cabinet of the table are made with real wood which helps better support the weight of the table over time without bowing or warping. Also, the bumpers and felt are of superior quality and provide a far better playing experience when compared to cheaper tables. Every component on a high-end table is upgraded to provide an awesome playing experience and increased life span.
 
-On the other hand, budget friendly or entry level tables are usually constructed with cheaper materials to help keep costs as low as possible. While this is good for your wallet, its not so good if you want a table that will be maintenance free for years to come.
+On the other hand, budget friendly (see our [best pool tables under $1,000](/pool-tables-under-1000/) guide) or entry level tables are usually constructed with cheaper materials to help keep costs as low as possible. While this is good for your wallet, its not so good if you want a table that will be maintenance free for years to come.
 
 ## Billiard Accessories
 

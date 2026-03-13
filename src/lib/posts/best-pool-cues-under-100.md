@@ -22,7 +22,7 @@ So instead of writing another generic roundup based on spec sheets, I'm going to
 
 ## The top 6 pool cues under $100 (ranked by actual sales)
 
-### 1. Viking Valhalla 100 Series (~$30) — [Check Price on Amazon](https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20)
+### 1. [Viking Valhalla 100 Series](/viking-valhalla-100-series-review/) (~$30) — [Check Price on Amazon](https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20)
 
 This cue has no business being this good at thirty dollars.
 
@@ -36,7 +36,7 @@ One thing to do before you play: take some 220 grit sandpaper and rough up the t
 
 **Who should buy it:** Anyone testing the waters. Anyone who plays casually at a friend's house. Anyone who wants a backup cue. Anyone who hates spending money on something they might not use.
 
-### 2. PureX Technology Pool Cue (~$75) — [Check Price on Amazon](https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20)
+### 2. [PureX Technology Pool Cue](/purex-technology-pool-cue-review/) (~$75) — [Check Price on Amazon](https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20)
 
 If the Valhalla is the value king, PureX Technology is the performance king under $100.
 
@@ -50,7 +50,7 @@ Our readers bought 43 of these in 2025, generating over $3,200 in sales. That's 
 
 **Who should buy it:** Players who shoot at least weekly and want to invest in something they'll keep for a while. The sweet spot between "testing the waters" and "I'm serious about this."
 
-### 3. Collapsar CXL500 (~$85) — [Check Price on Amazon](https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20)
+### 3. [Collapsar CXL500](/collapsar-cxl500-review/) (~$85) — [Check Price on Amazon](https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20)
 
 The dark horse of budget cues.
 
