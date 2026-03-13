@@ -3,6 +3,9 @@ title: Can You Turn a Pool Table on its Side?
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: Can you tip a pool table on its side to move it? We explain the risks for slate tables and the right (and wrong) ways to move one.
+faqs:
+  - question: "Can You Turn a Pool Table on its Side?"
+    answer: "Fully assembled pool tables are incredibly heavy and hard to move. Most doorways won’t admit a pool table standing on its legs. However, if you’re contemplating moving a pool table, it may be tempting to pay it on its side in order to try and fit it through a doorway. The begs the question, can you turn a pool table on its side?"
 ---
 
 Fully assembled pool tables are incredibly heavy and hard to move. Most doorways won’t admit a pool table standing on its legs. However, if you’re contemplating moving a pool table, it may be tempting to pay it on its side in order to try and fit it through a doorway. The begs the question, can you turn a pool table on its side?

@@ -3,6 +3,9 @@ title: Is Pool Table Felt Glued Down?
 date: "2023-08-28"
 dateModified: "2026-03-11"
 description: Is pool table felt glued down or stapled? We explain how felt is attached to a slate table and what's involved in replacing it yourself.
+faqs:
+  - question: "Is Pool Table Felt Glued Down?"
+    answer: "Unless you’ve seen a pool table assembled or re-felted, how the felt is secured can be quite the mystery. It’s impossible to tell by just looking at the fully assembled table. The surface underneath the felt, or cloth, is so smooth it may not seem like there could be anything under there holding it down. This makes people wonder: Is pool table felt glued down?"
 ---
 
 Unless you’ve seen a pool table assembled or re-felted, how the felt is secured can be quite the mystery. It’s impossible to tell by just looking at the fully assembled table. The surface underneath the felt, or cloth, is so smooth it may not seem like there could be anything under there holding it down. This makes people wonder: Is pool table felt glued down?

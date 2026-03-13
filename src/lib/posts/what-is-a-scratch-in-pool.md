@@ -3,6 +3,11 @@ title: What is a Scratch in Pool? Rules for Scratching in Billiards
 date: "2023-08-22"
 dateModified: "2026-03-11"
 description: What is a scratch in pool? We explain what counts as a scratch, the rules for ball-in-hand, and how scratching on the 8-ball works.
+faqs:
+  - question: "What is a Scratch in Pool? Rules for Scratching in Billiards"
+    answer: "If you’ve ever played pool chances are it has happened to you. A shot goes amiss, and your heart sinks as the cue ball heads straight for a pocket. There goes the game. Your opponent can put the ball anywhere on the table. Or can he? Is placement limited to behind the head string? Or to the side of the table where the cue ball scratched? What exactly is a scratch in pool?"
+  - question: "What Happens if you Scratch on the 8-Ball?"
+    answer: "A scratch is broadly defined as a cue ball driven off the table or pocketed. For most of the game, these actions are considered standard fouls and result in ball-in-hand for the opponent either on the entire table or behind the head string."
 ---
 
 If you’ve ever played pool chances are it has happened to you. A shot goes amiss, and your heart sinks as the cue ball heads straight for a pocket. There goes the game. Your opponent can put the ball anywhere on the table. Or can he? Is placement limited to behind the head string? Or to the side of the table where the cue ball scratched? What exactly is a scratch in pool?

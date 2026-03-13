@@ -3,6 +3,13 @@ title: "Slate vs. Slatron Pool Table: What’s the Difference?"
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: "Slate vs. Slatron pool table: what's the difference? We explain what Slatron is, how it plays, and whether it's worth choosing over slate."
+faqs:
+  - question: "Slate vs Slatron: Which is More Durable?"
+    answer: "Before slate was used in pool tables, wood was the primary surface for billiards. That was until 1826 when a man named John Thurston got the bright idea that flat rock would make a better playing surface. It wouldn’t warp like wood and would ensure a smooth, flat playing surface."
+  - question: "Slate vs Slatron: Which is Cheaper?"
+    answer: "It didn’t take long before the billiard world caught on and never looked back. Well, kind of. The truth is that wood tables are still made today, even though slate is by far the more popular material for pool tables."
+  - question: "Slate vs Slatron: Which is Lighter?"
+    answer: "Slatron is a natural progression in the search for a lighter material that will play similar to slate."
 ---
 
 There seems to be a bevy of different types of pool tables nowadays. There are several different materials used to make the bed, or playing surface, of pool tables. And if you’re in the market for a table, or simply curious about the different materials, you may be wondering: “There’s slate and there’s slatron; what’s the difference?” Well, I’m here to tell you.

@@ -3,6 +3,9 @@ title: How Long Does Pool Table Felt Last?
 date: "2023-08-29"
 dateModified: "2026-03-11"
 description: How long does pool table felt last? We cover the lifespan of different cloth types, what wears felt out faster, and when to replace it.
+faqs:
+  - question: "How Long Does Pool Table Felt Last?"
+    answer: "A pool table as a whole is sturdy, heavy, and might as well be attached to the floor. Considering the game of pool, it’s no surprise that tables can last decades. But there is one part of the pool table that experiences wear every time you play: the felt. In fact, the felt (or cloth) on a pool table wears out long before any other part. But this begs the question: How long does pool table felt ..."
 ---
 
 A pool table as a whole is sturdy, heavy, and might as well be attached to the floor. Considering the game of pool, it’s no surprise that tables can last decades. But there is one part of the pool table that experiences wear every time you play: the felt. In fact, the felt (or cloth) on a pool table wears out long before any other part. But this begs the question: How long does pool table felt last?

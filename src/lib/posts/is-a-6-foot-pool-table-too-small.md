@@ -3,6 +3,11 @@ title: Is a 6 Foot Pool Table Too Small?
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: Is a 6-foot pool table too small? We explain who it's right for, how it plays differently, and whether you'll outgrow it quickly.
+faqs:
+  - question: "Is a 6 Foot Pool Table Too Small?"
+    answer: "For some, even a 7-foot table might be pushing it. But some worry that going any smaller means sacrificing the challenge. So with this article, I’ll answer the question, “Is a 6-foot pool table too small?”"
+  - question: "What Kind of Player Are You?"
+    answer: "To get an idea of where 6-foot tables stand in the grand scheme of things, it’s helpful to compare them to the other available sizes. For our purposes, we’ll assume that each size is “regulation,” meaning its width is exactly half of its length."
 ---
 
 For some, even a 7-foot table might be pushing it. But some worry that going any smaller means sacrificing the challenge. So with this article, I’ll answer the question, “Is a 6-foot pool table too small?”

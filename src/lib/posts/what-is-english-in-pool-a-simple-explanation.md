@@ -3,6 +3,11 @@ title: What is English in Pool? A Simple Explanation
 date: "2023-08-30"
 dateModified: "2026-03-11"
 description: What is English in pool? A simple guide to applying side spin to the cue ball — how to do it, when to use it, and how it affects shots.
+faqs:
+  - question: "What is English in Pool? A Simple Explanation"
+    answer: "If you’re new to pool, you may be confused by the term “English” that’s commonly used among pool enthusiasts. Along with English, you may have heard the term “squirt,” “left English,” or “right English.” Well, if you’re confused by English, don’t worry. This article will clear everything up for you by answering the question: What is English in Pool?"
+  - question: "What is English in Pool?"
+    answer: "In short, English is the spin you put on the cue ball when hitting it anywhere but dead center. Whether you know it or not, English is used all the time in pool and is one of the main ways to control where the cue ball ends up after coming into contact with an object ball."
 ---
 
 If you’re new to pool, you may be confused by the term “English” that’s commonly used among pool enthusiasts. Along with English, you may have heard the term “squirt,” “left English,” or “right English.” Well, if you’re confused by English, don’t worry. This article will clear everything up for you by answering the question: What is English in Pool?

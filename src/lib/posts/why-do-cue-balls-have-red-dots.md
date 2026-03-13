@@ -3,6 +3,11 @@ title: Why Do Cue Balls Have Red Dots?
 date: "2023-08-25"
 dateModified: "2026-03-11"
 description: Why do cue balls have red dots? The dots on a cue ball aren't decoration — they're a training tool. Here's exactly how to use them.
+faqs:
+  - question: "Why Do Cue Balls Have Red Dots?"
+    answer: "If you go to the pool hall often enough, or watch pool tournaments on ESPN, chances are you’ve seen a cue ball with red dots on it. As odd as it may look, those red dots serve a purpose, and that cue ball has a name."
+  - question: "Who Makes the Measles Ball?"
+    answer: "Using a measles ball allows you to easily see the rotation of the cue ball. This helps you pick up on any shot inconsistencies or flaws in your stroke that you may not be able to see with a standard cue ball. Furthermore, using a measles ball allows you to observe the effects of sidespin, topspin, and backspin, all of which are crucial for cue ball control."
 ---
 
 If you go to the pool hall often enough, or watch pool tournaments on ESPN, chances are you’ve seen a cue ball with red dots on it. As odd as it may look, those red dots serve a purpose, and that cue ball has a name.

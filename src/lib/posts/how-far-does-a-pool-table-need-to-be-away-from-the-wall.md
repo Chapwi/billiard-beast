@@ -3,6 +3,9 @@ title: How Far Does a Pool Table Need to Be Away From the Wall?
 date: "2023-08-30"
 dateModified: "2026-03-11"
 description: How much wall clearance does a pool table need? Get the exact measurements for standard and bar-size cues so you never run out of room.
+faqs:
+  - question: "How Far Does a Pool Table Need to Be Away From the Wall?"
+    answer: "After all, there’s not much worse (in the game of pool anyways) than trying to sink a shot and having it hindered from the wall behind you. Generally speaking, the further you can place your pool table from the wall, the better."
 ---
 
 After all, there’s not much worse (in the game of pool anyways) than trying to sink a shot and having it hindered from the wall behind you. Generally speaking, the further you can place your pool table from the wall, the better.

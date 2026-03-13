@@ -3,6 +3,9 @@ title: Can You Put a Pool Table in a 12×12 Room?
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: Is a 12×12 room big enough for a pool table? We run the numbers on cue clearance and table sizes so you don't buy the wrong table.
+faqs:
+  - question: "Can You Put a Pool Table in a 12×12 Room?"
+    answer: "There are many different factors to consider when purchasing a pool table. But before you even think about what color felt you want or what style table will work best in your space, you need to decide if you have enough room for a pool table. And one common question is: Can you put a pool table in a 12x12 room?"
 ---
 
 There are many different factors to consider when purchasing a pool table. But before you even think about what color felt you want or what style table will work best in your space, you need to decide if you have enough room for a pool table. And one common question is: Can you put a pool table in a 12x12 room?

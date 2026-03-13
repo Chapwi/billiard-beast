@@ -3,6 +3,11 @@ title: "Break Cue vs. Playing Cue: What’s the Difference?"
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: "Break cue vs. playing cue: what's the difference? Learn why serious players use a separate break cue and whether you need one."
+faqs:
+  - question: "What About Weight Differences?"
+    answer: "The butt end of the pool cue is the heavy end that typically has some form of wrap on it. Wrap materials can be anything from leather, to Irish Linen, to rubber. Some butts even come with no wrap at all. The type of wrap your butt has on it can drastically change the way your cue handles.For example, a rubber or leather wrap tends to be “grippier”, allowing you to put more power behind your str..."
+  - question: "What Are The Benefits of Using a Designated Break and Playing Cue?"
+    answer: "This is necessary to help prevent damage to the shaft that could occur from using such force. While ordinary shafts aren’t meant to tolerate this kind of use, break cue shafts are designed specifically to be used in this fashion."
 ---
 
 For the majority of casual pool players, using the house cue is the way to go. After all, its free to use and it gets the job done. Using a different cue for breaking and playing is just overkill, right? Well that depends. Casual players can get away with using the house cue for breaking and playing. However, more advanced players usually opt to use a break cue for breaking, and a separate cue for playing.

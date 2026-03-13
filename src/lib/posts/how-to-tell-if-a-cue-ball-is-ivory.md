@@ -3,6 +3,11 @@ title: How to Tell if a Cue Ball is Ivory
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: How to tell if a cue ball is real ivory — 4 tests to identify antique ivory billiard balls vs. plastic or resin reproductions.
+faqs:
+  - question: "Are Ivory Pool Balls Better?"
+    answer: "Remember that great combination of those fuzzy psychedelic posters and black lights? Or was that just me? Even if that wasn’t your thing, chances are you know someone with a blacklight that you can use to help you determine if a cue ball is ivory. However, this is not the ultimate test. It’s best to combine this with other characteristics before you decide for sure. Here’s how the cue ball test..."
+  - question: "How Much Is an Ivory Cue Ball Worth?"
+    answer: "In a dark room, power up the blacklight and shine it on the cue ball. Ivory cue balls will most often give off a white sheen, whereas synthetic materials will have a blue or light blue glow. It’s also possible that, if the ball has a patina, it will glow dull brown or yellow. Bright yellow indicates artificial aging, meaning it’s probably not ivory."
 ---
 
 Although ivory cue balls are rare, it’s entirely possible to run into them. There are bound to be ivory cue ball collections sitting in storage or passed down from generation to generation. Unfortunately, ivory cue balls aren’t often labeled as such. If you don’t know what to look for, it can be hard to tell the difference between clay, ivory, and old acrylic balls. Luckily there are a few easy ways to differentiate between these materials. Read on to learn how to tell if a cue ball is ivory.

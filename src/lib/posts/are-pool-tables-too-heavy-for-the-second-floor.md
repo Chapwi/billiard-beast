@@ -3,6 +3,13 @@ title: Are Pool Tables Too Heavy for the Second Floor?
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: Worried your pool table is too heavy for the second floor? Learn the weight limits, slate table weights, and what to check beforehand.
+faqs:
+  - question: "How Much Weight Will the Second Floor of Your House Hold?"
+    answer: "Certainly there are other considerations to make when putting a pool table upstairs, such as navigating the steps! But with most pool tables for in home use weighing between 300-1000 pounds, there’s little need to worry if your second floor will support it."
+  - question: "Was My House Built to Code?"
+    answer: "Throughout the rest of this article we’ll discuss how we know this to be true, and give you some tips on how to get your pool table upstairs!"
+  - question: "What is the Maximum all-in Weight?"
+    answer: "The pool table shouldn’t be the only thing that you factor into your calculations. Even if it fits within your floor’s load limit, what about any other furniture you may also have around it? When calculating how much weight your floor will hold, always take into account things like couches, TVs, fridges, and other bulky items."
 ---
 
 Having a pool table in your home is a dream come true for most pool enthusiasts. But what if the only place you have for it is in the upstairs of your home? Will the second floor support it?

@@ -3,6 +3,15 @@ title: What You Need to Know About Low Deflection Pool Cues
 date: "2023-08-29"
 dateModified: "2026-03-11"
 description: What is a low-deflection pool cue and do you need one? We explain how LD shafts reduce cue ball deflection and who benefits most.
+faqs:
+  - question: "What Makes a Low Deflection Cue Work?"
+    answer: "Whether or not you need a low deflection pool cue is highly dependent upon your needs as a player, your level of experience, and how invested you are in getting better. Generally speaking, anyone looking to improve their skills at the pool table should get a low deflection cue. Casual players, or those who have played with standard shafts for long periods of time, may not find it beneficial to ..."
+  - question: "Are There Any Disadvantages of Low Deflection Cues?"
+    answer: "If you’d like to know more about low deflection pool cues and whether or not one is right for you, keep reading to learn more. In this article we’re going to share with you everything you need to know about low deflection pool cues."
+  - question: "Whats the Cost Difference?"
+    answer: "Low deflection cues are pool cues that are designed in such a way to reduce “squirt” as much as possible. Squirt, also known as deflection, is the angle change of the cue ball that happens any time you take a shot. There is some degree of squirt on every shot, but LD shafts reduce it as much as possible in order to improve accuracy."
+  - question: "Will a Low Deflection Cue Improve My Game?"
+    answer: "Generally speaking, the amount of squirt grows higher the more “English,” or sidespin, you put on the cue ball. So a straight shot, like a break, will usually have a very small amount of squirt, whereas a shot with a lot of English on it will have more squirt and therefore more deviation from the intended target."
 ---
 
 Low deflection shafts are a fairly recent invention. As a result, many pool players today learned on standard shaft cues, while others learned on low deflection (LD) shaft cues.

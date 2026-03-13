@@ -3,6 +3,11 @@ title: What Cue Tips Do Pros Use?
 date: "2023-09-07"
 dateModified: "2026-03-11"
 description: What cue tips do professional pool players use? We reveal the most popular tips on the pro circuit and what makes them the top choice.
+faqs:
+  - question: "What Cue Tips Do Pros Use?"
+    answer: "If you’re passionate about pool, you probably know the names of a few pro players. Maybe you’ve watched them win tournaments on TV or you’ve seen YouTube videos of their amazing shots. It’s nice to have pro players to look up to and emulate. This is why one of the more common questions among amateur players is, “What cue tips do the pros use?”"
+  - question: "What Makes a “Pro” Level Tip?"
+    answer: "You don’t often hear a pro pool player attributing his or her game to the cue tip (unless they’re being paid to say so). The cue, shaft, and tip are all tools that a player uses, but the skill to use those tools have very little to do with the tools themselves, and more to do with the persistence and practice that the player has put in over the years."
 ---
 
 If you’re passionate about pool, you probably know the names of a few pro players. Maybe you’ve watched them win tournaments on TV or you’ve seen YouTube videos of their amazing shots. It’s nice to have pro players to look up to and emulate. This is why one of the more common questions among amateur players is, “What cue tips do the pros use?”

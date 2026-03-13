@@ -3,6 +3,9 @@ title: Does Pool Cue Weight Really Matter? Light Vs. Heavy
 date: "2023-08-22"
 dateModified: "2026-03-11"
 description: Does pool cue weight actually matter? We compare light vs. heavy cues — power, control, and what weight pros and beginners prefer.
+faqs:
+  - question: "Does Pool Cue Weight Really Matter? Light Vs. Heavy"
+    answer: "When it comes to selecting a pool cue, one of the most overlooked factors is the cue’s weight. A lot of players only think of this as an afterthought, or perhaps not at all. But the question remains, “Does pool cue weight really matter?”"
 ---
 
 When it comes to selecting a pool cue, one of the most overlooked factors is the cue’s weight. A lot of players only think of this as an afterthought, or perhaps not at all. But the question remains, “Does pool cue weight really matter?”

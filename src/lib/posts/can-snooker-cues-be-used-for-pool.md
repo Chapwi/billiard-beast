@@ -3,6 +3,9 @@ title: Can Snooker Cues be Used for Pool?
 date: "2023-08-25"
 dateModified: "2026-03-11"
 description: Can you use a snooker cue for pool? We explain the key differences in tip size, length, and taper, and whether it actually works.
+faqs:
+  - question: "Can Snooker Cues be Used for Pool?"
+    answer: "At a glance, a snooker cue looks identical to a pool cue. This leads people to think that, in theory, a snooker cue could be used to play pool. Maybe you’ve heard stories of professional billiard players shooting pool with a snooker cue. Or maybe all you have right now is a snooker cue and you’re itching to play pool. So, the question is, can snooker cues be used for pool?"
 ---
 
 At a glance, a snooker cue looks identical to a pool cue. This leads people to think that, in theory, a snooker cue could be used to play pool. Maybe you’ve heard stories of professional billiard players shooting pool with a snooker cue. Or maybe all you have right now is a snooker cue and you’re itching to play pool. So, the question is, can snooker cues be used for pool?

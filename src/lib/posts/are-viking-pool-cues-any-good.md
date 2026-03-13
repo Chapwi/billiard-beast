@@ -3,6 +3,9 @@ title: Are Viking Pool Cues Any Good?
 date: "2023-08-21"
 dateModified: "2026-03-11"
 description: Are Viking pool cues worth buying? We review Viking's history, quality, and how they compare to other cues in the same price range.
+faqs:
+  - question: "Are Viking Pool Cues Any Good?"
+    answer: "You can get leather or 100% Double Pressed Irish linen wraps, both of which are professionally applied and guaranteed to stand up year in, year out. Plus, they include a so-called “indestructible ferrule” on every cue. I’m not sure how accurate this statement is, but as long as you’re using the cue for shooting pool, you don’t have to worry about the ferrule cracking on you. You’re on your own ..."
 ---
 
 ## The Early Days: Handcrafted Appeal

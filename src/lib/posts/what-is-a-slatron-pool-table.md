@@ -3,6 +3,11 @@ title: What is a Slatron Pool Table?
 date: "2023-09-09"
 dateModified: "2026-03-11"
 description: What is a Slatron pool table? We explain what Slatron (plastic-coated wood) is, how it plays vs. real slate, and whether it's worth it.
+faqs:
+  - question: "What is a Slatron Pool Table?"
+    answer: "One of the most crucial factors to consider when purchasing a pool table is the playing surface’s material. Slate is the standard for professional pool tables, but there are other options out there, such as medium-density fiberboard (MDF), plastic, and slatron. In this article, I’ll be focusing on this last option as I answer the question: What is a slatron pool table?"
+  - question: "Why Slatron?"
+    answer: "Those new to the pool world may be wondering what exactly ‘playing surface’ means and why the material matters. The playing surface is exactly what it sounds like. It’s where all the action happens on the pool table. The wide, flat area where all the play occurs needs to be able to remain flat and true after years of play. This is why the material matters so much."
 ---
 
 One of the most crucial factors to consider when purchasing a pool table is the playing surface’s material. Slate is the standard for professional pool tables, but there are other options out there, such as medium-density fiberboard (MDF), plastic, and slatron. In this article, I’ll be focusing on this last option as I answer the question: What is a slatron pool table?

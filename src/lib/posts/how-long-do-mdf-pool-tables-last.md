@@ -3,6 +3,9 @@ title: How Long Do MDF Pool Tables Last?
 date: "2023-08-22"
 dateModified: "2026-03-11"
 description: How long do MDF pool tables last? We cover realistic lifespan expectations, what shortens it, and how MDF compares to slate long-term.
+faqs:
+  - question: "How Long Do MDF Pool Tables Last?"
+    answer: "There are two main types of pool tables out there: Slate and MDF. MDF, which stands for Medium-Density Fiberboard, is the umbrella term for pool tables with playing surfaces made from different kinds of wood."
 ---
 
 There are two main types of pool tables out there: Slate and MDF. MDF, which stands for Medium-Density Fiberboard, is the umbrella term for pool tables with playing surfaces made from different kinds of wood.

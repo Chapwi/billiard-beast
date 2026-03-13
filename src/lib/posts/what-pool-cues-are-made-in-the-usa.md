@@ -3,6 +3,9 @@ title: What Pool Cues are Made in the USA?
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: What pool cues are made in the USA? We identify the American-made cue brands and what distinguishes domestic craftsmanship.
+faqs:
+  - question: "What Pool Cues are Made in the USA?"
+    answer: "It can sometimes take a little digging to find out where a product is made. In this sense, pool cues are no different. Not many products are made in the USA anymore, as manufacturing is generally cheaper in other countries. However, those pool players looking for a quality American-made cue don’t have to look far."
 ---
 
 It can sometimes take a little digging to find out where a product is made. In this sense, pool cues are no different. Not many products are made in the USA anymore, as manufacturing is generally cheaper in other countries. However, those pool players looking for a quality American-made cue don’t have to look far.

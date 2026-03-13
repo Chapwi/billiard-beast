@@ -3,6 +3,9 @@ title: Can You Vacuum a Pool Table?
 date: "2023-08-29"
 dateModified: "2026-03-11"
 description: Can you vacuum pool table felt? We explain the right way to clean pool table cloth — and the tools and techniques that won't damage it.
+faqs:
+  - question: "Can You Vacuum a Pool Table?"
+    answer: "If you’ve ever had your pool table re-felted, you know that it’s a bit of an ordeal. At a minimum price of about $250, re-felting is something that’s best avoided as long as possible. But the trick is to avoid it by keeping your felt clean, smooth, and ideal for play. To do this, many people turn to the vacuum cleaner. So a common question I hear a lot is, “Can you vacuum a pool table?”"
 ---
 
 If you’ve ever had your pool table re-felted, you know that it’s a bit of an ordeal. At a minimum price of about $250, re-felting is something that’s best avoided as long as possible. But the trick is to avoid it by keeping your felt clean, smooth, and ideal for play. To do this, many people turn to the vacuum cleaner. So a common question I hear a lot is, “Can you vacuum a pool table?”

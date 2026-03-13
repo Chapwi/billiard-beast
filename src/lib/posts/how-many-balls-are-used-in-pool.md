@@ -3,6 +3,11 @@ title: How Many Balls Are Used In Pool?
 date: "2023-08-30"
 dateModified: "2026-03-11"
 description: How many balls are used in pool? We cover every major billiard game — 8-ball, 9-ball, snooker, cutthroat — and exactly how many balls each uses.
+faqs:
+  - question: "How Many Balls Are Used In Pool?"
+    answer: "Playing pool is a great way to relax and spend time with friends and family. There are tons of different pool games you can learn, and playing each one presents its own unique challenges."
+  - question: "How many balls are used in pool?"
+    answer: "The number of balls in a pool game hinges on the specific game you’re playing. Let’s take a closer look at a few popular pool games and their respective ball counts:"
 ---
 
 Playing pool is a great way to relax and spend time with friends and family. There are tons of different pool games you can learn, and playing each one presents its own unique challenges.

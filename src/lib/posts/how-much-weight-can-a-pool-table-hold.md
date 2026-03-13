@@ -3,6 +3,9 @@ title: How Much Weight Can a Pool Table Hold?
 date: "2023-09-09"
 dateModified: "2026-03-11"
 description: How much weight can a pool table hold? We cover safe weight limits for sitting or standing on a pool table — slate vs. MDF compared.
+faqs:
+  - question: "How Much Weight Can a Pool Table Hold?"
+    answer: "Most pool tables are heavy and seem incredibly sturdy. You may have seen a pool tournament on television in which the winning player jumps up and stands on the table to celebrate. Or maybe you have a pool table you’re not using and you want to place some boxes or other items on it for storage. But to avoid damaging the table, you need to know: How much weight can a pool table hold?"
 ---
 
 Most pool tables are heavy and seem incredibly sturdy. You may have seen a pool tournament on television in which the winning player jumps up and stands on the table to celebrate. Or maybe you have a pool table you’re not using and you want to place some boxes or other items on it for storage. But to avoid damaging the table, you need to know: How much weight can a pool table hold?

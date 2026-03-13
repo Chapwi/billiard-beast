@@ -3,6 +3,9 @@ title: How Long Does a Pool Cue Tip Last?
 date: "2023-08-30"
 dateModified: "2026-03-11"
 description: How long does a pool cue tip last? We explain how many hours of play to expect, signs it needs replacing, and how to extend its life.
+faqs:
+  - question: "How Long Does a Pool Cue Tip Last?"
+    answer: "If you’ve ever been shooting a game of pool and notice that your shots are a little off or that they just don’t feel right, you may start looking for answers on your cue. If you’re using a house cue, you’ll probably want to check the tip to see if it’s worn down. But if you’re using your own cue, you may wonder, “How long does a pool cue tip last?”"
 ---
 
 If you’ve ever been shooting a game of pool and notice that your shots are a little off or that they just don’t feel right, you may start looking for answers on your cue. If you’re using a house cue, you’ll probably want to check the tip to see if it’s worn down. But if you’re using your own cue, you may wonder, “How long does a pool cue tip last?”

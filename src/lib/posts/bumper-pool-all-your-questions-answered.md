@@ -3,6 +3,11 @@ title: "Bumper Pool: All Your Questions Answered"
 date: "2023-08-25"
 dateModified: "2026-03-11"
 description: Everything you need to know about bumper pool — rules, table sizes, how to play, and whether it's worth buying a bumper pool table.
+faqs:
+  - question: "Is Bumper Pool Any Fun?"
+    answer: "I’ve already shown my hand on this question. Of course, “fun” is a relative term. But, anyone who enjoys playing any kind of billiard game will love Bumper Pool. And, even people who have never played a billiard game in their life can pick up on Bumper Pool easily."
+  - question: "What is Bumper Pool?"
+    answer: "The fact is that bumper pool has very few rules to get your head around. It’s unlike most other billiard games in this way. Plus, the tables are significantly smaller than other pool tables, so they’re ideal for those who don’t have enough room for a big table but still want to play a fun billiard game."
 ---
 
 Most people are familiar with pool in some way, shape, or form. Those who have never actually touched a pool cue have probably seen movies about pool, like The Hustler, The Color of Money, or Poolhall Junkies. But, these days, when people hear the words Bumper Pool, most are at a loss. Which is unfortunate because bumper pool is a very fun game. So fun it can be addictive. So, with this article, I’ll tell you all about the wonderful game of bumper pool, answering any questions you may have. Let’s start with the basics.

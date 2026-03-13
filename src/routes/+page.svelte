@@ -22,7 +22,7 @@
 
 <!-- ─── HERO BANNER ─── -->
 <section class="hero-banner">
-  <h1 class="hero-title">BEAST BLOG</h1>
+  <h1 class="hero-title">Pool Tables, Cues &amp; Billiard Guides</h1>
 </section>
 
 <!-- ─── MAIN CONTENT AREA ─── -->

@@ -3,6 +3,9 @@ title: Can You Iron Pool Table Felt?
 date: "2023-08-28"
 dateModified: "2026-03-11"
 description: Can you iron pool table felt? We explain the safe methods for removing wrinkles from cloth, what to avoid, and when to call a pro.
+faqs:
+  - question: "Can You Iron Pool Table Felt?"
+    answer: "You can iron pool table felt - but doing so will not solve the problem of wrinkles in the playing surface, and doing it improperly can severely damage the felt. Special pool table irons are used on some types of felt as part of routine maintenance, but it’s not appropriate on other types. When ironing pool table felt, strict protocols must be followed to avoid damage."
 ---
 
 <strong>You can iron pool table felt - but doing so will not solve the problem of wrinkles in the playing surface, and doing it improperly can severely damage the felt. Special pool table irons are used on some types of felt as part of routine maintenance, but it’s not appropriate on other types. When ironing pool table felt, strict protocols must be followed to avoid damage.</strong>

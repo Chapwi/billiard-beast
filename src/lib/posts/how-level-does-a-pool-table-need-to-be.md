@@ -3,6 +3,9 @@ title: How Level Does a Pool Table Need to Be?
 date: "2023-08-22"
 dateModified: "2026-03-11"
 description: How level does a pool table really need to be? We explain the acceptable tolerance, how to test it, and how to level your table properly.
+faqs:
+  - question: "How Level Does a Pool Table Need to Be?"
+    answer: "Leveling a pool table is not rocket science, but it’s also not the easiest thing in the world to do. Whether your table has levelers in the legs or you’re using shims to level the table, it requires numerous adjustments. But, how do you know when you’re done leveling the table? After all, if you’re using a machinist’s level or other precise equipment, you may never get a perfect reading. So, ho..."
 ---
 
 Leveling a pool table is not rocket science, but it’s also not the easiest thing in the world to do. Whether your table has levelers in the legs or you’re using shims to level the table, it requires numerous adjustments. But, how do you know when you’re done leveling the table? After all, if you’re using a machinist’s level or other precise equipment, you may never get a perfect reading. So, how level does a pool table need to be?

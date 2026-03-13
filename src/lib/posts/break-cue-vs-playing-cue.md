@@ -3,6 +3,13 @@ title: "Break Cue vs Playing Cue: Do You Really Need Both?"
 date: "2026-03-12"
 dateModified: "2026-03-12"
 description: "Understand the differences between break and playing cues. Learn when you need both, top recommendations, and how to protect your investment."
+faqs:
+  - question: "What Is a Playing Cue? Understanding the Purpose-Built Performer"
+    answer: "A playing cue is engineered for finesse, control, and precision. Every aspect of its design serves the goal of helping you execute shots with accuracy and consistency."
+  - question: "What Is a Break Cue? The Blunt Instrument Approach"
+    answer: "A break cue exists for one purpose: launching the cue ball into the rack with maximum force, repeatedly, without degrading in performance."
+  - question: "Jump/Break Combo Cues: Worth the Compromise?"
+    answer: "Some manufacturers sell hybrid cues marketed as jump/break combinations. The pitch: one cue that handles both jumping (hitting below center on the cue ball) and breaking."
 ---
 
 # Break Cue vs Playing Cue: Do You Really Need Both?

@@ -3,6 +3,9 @@ title: Are Viper Pool Cues Any Good? What You Need to Know
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: Are Viper pool cues any good? We break down the Viper lineup — quality, price, and how they stack up for beginners and casual players.
+faqs:
+  - question: "Are Viper Pool Cues Any Good? What You Need to Know"
+    answer: "Each cue also also comes with a removable tip scuffer at the butt, which is a nice feature. The inlays are always great and the Irish linen wraps on all the different styles are high-quality."
 ---
 
 ## Shaft and Butt
