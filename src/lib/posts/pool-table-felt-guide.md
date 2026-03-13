@@ -73,6 +73,8 @@ The quality of your table's cloth depends largely on the manufacturer you choose
 
 ### Simonis
 
+[Check Price on Amazon](https://www.amazon.com/s?k=Simonis+Pool+Table+Cloth&tag=billiardbeast-20)
+
 **Simonis** is widely considered the gold standard in pool table cloth manufacturing. The Belgian company has been producing cloth since 1680 and has earned the trust of professional tournaments and serious players worldwide.
 
 **Why Simonis Stands Out:**
@@ -87,6 +89,8 @@ Simonis cloth is the go-to choice for anyone serious about their game. The sligh
 
 ### Championship
 
+[Check Price on Amazon](https://www.amazon.com/s?k=Championship+Pool+Table+Cloth&tag=billiardbeast-20)
+
 **Championship** is another highly respected manufacturer, known for producing cloth at various price points without sacrificing quality.
 
 **Why Championship is Popular:**
@@ -100,6 +104,8 @@ Championship is an excellent choice if you want professional-quality cloth witho
 
 ### Mali
 
+[Check Price on Amazon](https://www.amazon.com/s?k=Mali+Pool+Table+Cloth&tag=billiardbeast-20)
+
 **Mali** is a Turkish manufacturer that has gained increasing recognition for producing affordable, solid-quality cloth.
 
 **Why Mali is Growing in Popularity:**
@@ -112,6 +118,8 @@ Championship is an excellent choice if you want professional-quality cloth witho
 Mali cloth is suitable for home tables and recreational play, though professional players typically prefer Championship or Simonis.
 
 ### ProLine
+
+[Check Price on Amazon](https://www.amazon.com/s?k=ProLine+Pool+Table+Cloth&tag=billiardbeast-20)
 
 **ProLine** offers budget-friendly options for those seeking basic pool table cloth without premium pricing.
 

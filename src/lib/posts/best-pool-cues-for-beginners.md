@@ -137,7 +137,7 @@ Before you buy, inspect these:
 
 ## Top 7 Recommended Pool Cues for Beginners
 
-### 1. Players G-2401 (Budget-Friendly Starter: ~$65)
+### 1. Players G-2401 (Budget-Friendly Starter: ~$65) — [Check Price on Amazon](https://www.amazon.com/s?k=Players+G-2401+pool+cue&tag=billiardbeast-20)
 
 **The Deal**: Players is famous for offering serious quality at unbeatable prices. The G-2401 is their entry-level offering, and it's hard to beat at the price.
 
@@ -159,7 +159,7 @@ Before you buy, inspect these:
 
 ---
 
-### 2. Players G-3401 (Sweet Spot Budget: ~$120)
+### 2. Players G-3401 (Sweet Spot Budget: ~$120) — [Check Price on Amazon](https://www.amazon.com/s?k=Players+G-3401+pool+cue&tag=billiardbeast-20)
 
 **The Deal**: Move up a step from the G-2401, and you get significantly better construction for a reasonable price bump.
 
@@ -181,7 +181,7 @@ Before you buy, inspect these:
 
 ---
 
-### 3. McDermott ES-1 (Mid-Range Quality: ~$150)
+### 3. McDermott ES-1 (Mid-Range Quality: ~$150) — [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+ES-1+pool+cue&tag=billiardbeast-20)
 
 **The Deal**: McDermott is one of the biggest names in pool for a reason. The ES-1 brings their craftsmanship to the beginner market.
 
@@ -204,7 +204,7 @@ Before you buy, inspect these:
 
 ---
 
-### 4. Lucasi Hybrid LH7 (Straight-Shooter: ~$180)
+### 4. Lucasi Hybrid LH7 (Straight-Shooter: ~$180) — [Check Price on Amazon](https://www.amazon.com/s?k=Lucasi+Hybrid+LH7+pool+cue&tag=billiardbeast-20)
 
 **The Deal**: Lucasi makes some of the straightest, most consistent cues available. The LH7 entry-level hybrid is no exception.
 
@@ -227,7 +227,7 @@ Before you buy, inspect these:
 
 ---
 
-### 5. Viking A200 (Value Performer: ~$140)
+### 5. Viking A200 (Value Performer: ~$140) — [Check Price on Amazon](https://www.amazon.com/s?k=Viking+A200+pool+cue&tag=billiardbeast-20)
 
 **The Deal**: Viking makes tournament-quality cues, and the A200 is their nod to beginners. You get a stripped-down Viking without the fancy inlays and premium wood.
 
@@ -250,7 +250,7 @@ Before you buy, inspect these:
 
 ---
 
-### 6. Predator Roadline (Entry-Level Performance: ~$200)
+### 6. Predator Roadline (Entry-Level Performance: ~$200) — [Check Price on Amazon](https://www.amazon.com/s?k=Predator+Roadline+pool+cue&tag=billiardbeast-20)
 
 **The Deal**: Predator is the luxury brand in pool, but the Roadline is their entry-level attempt to reach beginners without the $500+ price tag.
 
@@ -274,7 +274,7 @@ Before you buy, inspect these:
 
 ---
 
-### 7. Action Advantage AAD-1 (Budget-Conscious Alternative: ~$55)
+### 7. Action Advantage AAD-1 (Budget-Conscious Alternative: ~$55) — [Check Price on Amazon](https://www.amazon.com/s?k=Action+Advantage+AAD-1+pool+cue&tag=billiardbeast-20)
 
 **The Deal**: Action makes solid beginner cues at rock-bottom prices. The AAD-1 is basic but honest.
 
@@ -423,19 +423,19 @@ A loose joint means the cue will flex unpredictably where the butt and shaft mee
 
 If I'm being honest, here's what I recommend:
 
-**Best Overall for Beginners**: **Players G-3401** (~$120)
+**Best Overall for Beginners**: **[Players G-3401](https://www.amazon.com/s?k=Players+G-3401+pool+cue&tag=billiardbeast-20)** (~$120)
 
 Why? It's the perfect sweet spot. You get solid construction, excellent weight, a nice wrap, and a standard joint—all at a price that doesn't make your wallet cry. It looks clean, plays better than cues costing twice as much, and won't hold you back as you improve.
 
-**If Budget Is Tight**: **Players G-2401** (~$65)
+**If Budget Is Tight**: **[Players G-2401](https://www.amazon.com/s?k=Players+G-2401+pool+cue&tag=billiardbeast-20)** (~$65)
 
 You sacrifice aesthetics and the wrap material, but you get a straight, well-balanced cue that performs. Thousands of players learned on this cue.
 
-**If You Want to Feel Premium**: **McDermott ES-1** (~$150)
+**If You Want to Feel Premium**: **[McDermott ES-1](https://www.amazon.com/s?k=McDermott+ES-1+pool+cue&tag=billiardbeast-20)** (~$150)
 
 You're paying a bit for the name and finish, but you earn it. This cue looks and feels expensive, and that matters for confidence.
 
-**If Performance is Everything**: **Lucasi Hybrid LH7** (~$180)
+**If Performance is Everything**: **[Lucasi Hybrid LH7](https://www.amazon.com/s?k=Lucasi+Hybrid+LH7+pool+cue&tag=billiardbeast-20)** (~$180)
 
 You're getting a cue that plays like it costs $300. Straight, consistent, and playable at a high level.
 

@@ -30,7 +30,12 @@
 
   <!-- Ad slot: top of content -->
   <div class="ad-slot ad-slot--horiz" aria-label="Advertisement">
-    <span class="ad-label">ADVERTISEMENT</span>
+    <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-5746515442496455"
+      data-ad-slot="auto"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
   </div>
 
   <!-- ─── FEATURED + SIDEBAR ─── -->
@@ -76,7 +81,12 @@
 
   <!-- Ad slot: mid-page -->
   <div class="ad-slot ad-slot--horiz" aria-label="Advertisement">
-    <span class="ad-label">ADVERTISEMENT</span>
+    <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-5746515442496455"
+      data-ad-slot="auto"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
   </div>
 
 </div><!-- /home-wrap dark -->

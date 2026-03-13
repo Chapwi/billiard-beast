@@ -72,10 +72,10 @@
     <!-- Logo -->
     <a href="/" class="logo-link">
       <img
-        src="/images/billiard-beast-logo-2.webp"
+        src="/images/billiard-beast-logo-glass.svg"
         alt="BilliardBeast"
-        width="140"
-        height="42"
+        width="180"
+        height="64"
         class="logo"
       />
     </a>
@@ -109,7 +109,7 @@
 <footer>
   <div class="footer-inner">
     <a href="/" class="footer-logo">
-      <img src="/images/billiard-beast-logo-2.webp" alt="BilliardBeast" width="120" height="36" />
+      <img src="/images/billiard-beast-logo-glass.svg" alt="BilliardBeast" width="160" height="57" />
     </a>
     <p class="footer-tagline">Activate Beast-Mode on Everything Billiards</p>
     <nav class="footer-links" aria-label="Footer navigation">
@@ -202,7 +202,7 @@
     justify-content: center;
   }
   .logo {
-    height: 42px;
+    height: 54px;
     width: auto;
   }
 

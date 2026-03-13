@@ -101,7 +101,12 @@
 
       <!-- In-content ad (after intro — improves AdSense RPM significantly) -->
       <div class="ad-slot ad-slot--inline" aria-label="Advertisement">
-        <span class="ad-label">ADVERTISEMENT</span>
+        <ins class="adsbygoogle"
+          style="display:block"
+          data-ad-client="ca-pub-5746515442496455"
+          data-ad-slot="auto"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
       </div>
 
       <!-- MDsvex renders here -->
@@ -123,7 +128,12 @@
 
       <!-- In-content ad (end of article) -->
       <div class="ad-slot ad-slot--inline" aria-label="Advertisement">
-        <span class="ad-label">ADVERTISEMENT</span>
+        <ins class="adsbygoogle"
+          style="display:block"
+          data-ad-client="ca-pub-5746515442496455"
+          data-ad-slot="auto"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
       </div>
 
     </div><!-- /article-content -->
@@ -132,7 +142,12 @@
     <aside class="article-sidebar">
       <!-- Ad slot: sidebar top -->
       <div class="ad-slot ad-slot--sidebar" aria-label="Advertisement">
-        <span class="ad-label">ADVERTISEMENT</span>
+        <ins class="adsbygoogle"
+          style="display:block"
+          data-ad-client="ca-pub-5746515442496455"
+          data-ad-slot="auto"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
       </div>
 
       <!-- Related posts -->
@@ -164,7 +179,12 @@
 
       <!-- Sidebar ad (sticky) -->
       <div class="ad-slot ad-slot--sidebar sidebar-sticky" aria-label="Advertisement">
-        <span class="ad-label">ADVERTISEMENT</span>
+        <ins class="adsbygoogle"
+          style="display:block"
+          data-ad-client="ca-pub-5746515442496455"
+          data-ad-slot="auto"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
       </div>
 
     </aside>

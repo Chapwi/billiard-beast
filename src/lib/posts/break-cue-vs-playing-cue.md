@@ -246,6 +246,8 @@ Here are some genuinely solid options across different price points.
 
 ### Predator BK Rush ($280-320)
 
+[Check Price on Amazon](https://www.amazon.com/s?k=Predator+BK+Rush&tag=billiardbeast-20)
+
 The industry standard. Predator designed the BK Rush specifically for breaking. It features:
 
 - **Phenolic resin tip** with exceptional hardness
@@ -256,6 +258,8 @@ The industry standard. Predator designed the BK Rush specifically for breaking. 
 The BK Rush costs more than some competitors, but it's the default choice for serious players. It's proven, reliable, and holds resale value.
 
 ### Players JB ($120-150)
+
+[Check Price on Amazon](https://www.amazon.com/s?k=Players+JB+Break+Cue&tag=billiardbeast-20)
 
 A fantastic budget option. The Players JB delivers:
 
@@ -268,6 +272,8 @@ If you want to dip your toes into owning a break cue without a big investment, t
 
 ### Lucasi Break Cues ($180-250)
 
+[Check Price on Amazon](https://www.amazon.com/s?k=Lucasi+Break+Cue&tag=billiardbeast-20)
+
 Lucasi offers several break cue models with different specs:
 
 - **Varied weights** - you can choose 20, 21, or 22 ounces depending on your preference
@@ -277,6 +283,8 @@ Lucasi offers several break cue models with different specs:
 Some Lucasi break cues have more playable profiles than pure break cues, making them decent options if you occasionally play with your break cue.
 
 ### Sneaky Pete Break Cues ($130-180)
+
+[Check Price on Amazon](https://www.amazon.com/s?k=Sneaky+Pete+Break+Cue&tag=billiardbeast-20)
 
 A solid mid-range option:
 
