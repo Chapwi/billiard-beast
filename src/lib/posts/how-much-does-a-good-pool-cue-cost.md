@@ -1,7 +1,7 @@
 ---
 title: How Much Does a Good Pool Cue Cost? (With Examples)
 date: "2023-08-17"
-dateModified: "2026-03-11"
+dateModified: "2026-03-13"
 description: How much does a good pool cue cost? From $50 beginner sticks to $500+ pro cues, we explain what you get at each price point.
 faqs:
   - question: "How Much Does a Good Pool Cue Cost? (With Examples)"
@@ -36,21 +36,23 @@ Any reputable cue maker will have glue on tips on their cues. Glue on tips are m
 
 ## Material
 
-## Players Classic C-960
+## Players Classic C-960 — [Check Price on Amazon](https://www.amazon.com/s?k=Players+Classic+C-960+pool+cue&tag=billiardbeast-20)
 
 Most pool cues are made out of wood. Wood has been the go to material for hundreds of years, and for good reason. It provides the best feel, playability, and function out of all the other materials. Most professional players use wood cues for these reasons.
 
-## Lucasi Custom Sneaky Pete
+## Lucasi Custom Sneaky Pete — [Check Price on Amazon](https://www.amazon.com/s?k=Lucasi+Custom+Sneaky+Pete+pool+cue&tag=billiardbeast-20)
 
 Other materials such as fiberglass or composite cues have gained tremendous popularity over the years for their enhanced durability and/or functionality. These types of cues are great and do serve a purpose, however, cues made from other materials such as plastic or aluminum should be avoided. Cues made of this material are typically cheaply made and aren’t good for anyone looking to get better at pool.
 
-## Lucasi Custom Super Birds-Eye
+## Lucasi Custom Super Birds-Eye — [Check Price on Amazon](https://www.amazon.com/s?k=Lucasi+Custom+Super+Birds+Eye+pool+cue&tag=billiardbeast-20)
 
 ## Fit & Feel
 
 ## Conclusion
 
 A good pool cue should feel solid in your hands. There shouldn’t be any slop or looseness in the cue at all. When screwed together, a 2 piece cue should feel like one solid piece of wood. While the majority of the weight is in the butt of the cue, it should still feel somewhat balanced. If the butt of the cue feels like you’re holding a bowling ball then move onto something else. You want to make sure that the cue is proper weight for you and that it feels like an extension of your body when you use it, not a foreign object.
+
+If you're ready to buy, check our [best pool cues for the money](/best-pool-cues-for-the-money/) guide for specific recommendations at every price tier, or our [best pool cues for beginners](/best-pool-cues-for-beginners/) guide if you're just starting out.
 
 ## Other Articles You May Be Interested In
 

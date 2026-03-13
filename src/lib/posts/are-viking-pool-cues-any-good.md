@@ -1,7 +1,7 @@
 ---
 title: Are Viking Pool Cues Any Good?
 date: "2023-08-21"
-dateModified: "2026-03-11"
+dateModified: "2026-03-13"
 description: Are Viking pool cues worth buying? We review Viking's history, quality, and how they compare to other cues in the same price range.
 faqs:
   - question: "Are Viking Pool Cues Any Good?"
@@ -50,7 +50,7 @@ The bumpers are threaded and low-profile so you don’t have to constantly be pu
 
 ## Warranty Information
 
-As I mentioned above, the Valhalla cues are much more budget-friendly because they’re not made in America and generally don’t have all the exotic woods and inlays, although you can customize them to an extent if you want to pay extra.
+As I mentioned above, the Valhalla cues are much more budget-friendly because they’re not made in America and generally don’t have all the exotic woods and inlays, although you can customize them to an extent if you want to pay extra. [Learn more in our Valhalla 100 Series review](/viking-valhalla-100-series-review/) or — [Browse Viking Cues on Amazon](https://www.amazon.com/s?k=Viking+pool+cue&tag=billiardbeast-20)
 
 ## Other Articles You May Be Interested In
 
@@ -58,7 +58,7 @@ As I mentioned above, the Valhalla cues are much more budget-friendly because th
 
 <li><strong>Material and manufacturing defects</strong></li> <li><strong>Warpage and all non-replaceable components of the cue</strong></li> <li><strong>Joint changes</strong></li>
 
-That said, the Valhalla line is great for younger players or those new to the game who want a cue of their own. Valhalla cues are aesthetically pleasing, well-built, and won’t break the bank. So you can invest in one and not feel like you’re out a bunch of money if you decide to get another cue or to start switching out some components for better ones.
+That said, the Valhalla line is great for younger players or those new to the game who want a cue of their own. Valhalla cues are aesthetically pleasing, well-built, and won’t break the bank. So you can invest in one and not feel like you’re out a bunch of money if you decide to get another cue or to start switching out some components for better ones. — [Browse Viking Valhalla Cues on Amazon](https://www.amazon.com/s?k=Viking+Valhalla+pool+cue&tag=billiardbeast-20)
 
 It comes with a 100% Irish linen wrap and a Northwoods Maple forearm. The pro taper shaft is ideal for control, accuracy, and low deflection. It’s designed for low vibration, enhancing the smooth strokes needed for a flawless game.
 

@@ -1,7 +1,7 @@
 ---
 title: How Much Does a Pool Table Cost? Complete 2026 Price Guide
 date: "2023-09-07"
-dateModified: "2026-03-11"
+dateModified: "2026-03-13"
 description: How much does a pool table cost in 2026? We cover every price range — from $500 bar tables to $5,000+ slate tables — so you buy smart.
 faqs:
   - question: "How Much Does a Pool Table Cost? Complete 2026 Price Guide"
