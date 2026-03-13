@@ -17,7 +17,7 @@ Throughout this article we’ll discuss everything you need to know about puttin
 
 Pool tables come in many different sizes — and so do mobile homes. Single wide, double wide, and triple wide mobile homes can vary wildly in floor plan and size. You may be able to fit a pool table comfortably in a bedroom in a triple wide mobile home, but not in a double or single wide. But again, this depends on the size of the pool table and the size of the cues you’re going to use.
 
-The best room for a pool table in a mobile home is wherever it will fit. For many mobile homes, the best place is the living room. But this also means that it can’t have much furniture around and the table can’t be too big. Rest assured that you can fit a pool table in your mobile home, you just need to<strong>[</strong>find the right size**](/best-pool-table-options-for-limited-space/).
+The best room for a pool table in a mobile home is wherever it will fit. For many mobile homes, the best place is the living room. But this also means that it can’t have much furniture around and the table can’t be too big. Rest assured that you can fit a pool table in your mobile home, you just need to **[find the right size](/best-pool-table-options-for-limited-space/)**.
 
 But, I’m getting ahead of myself. Let’s start with the size requirements for pool tables, mobile home or not.
 
