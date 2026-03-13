@@ -10,6 +10,7 @@ faqs:
     answer: "Carbon fiber and maple play differently. Carbon fiber resists warping and humidity better, delivers more consistent performance, and typically has lower deflection. Maple has a more traditional feel that many players prefer. Carbon fiber isn't objectively better — it's more consistent, which matters in certain environments."
   - question: "What is the Collapsar CXL500 made of?"
     answer: "The CXL500 features a carbon fiber shaft with a composite butt section. The carbon fiber shaft is the main selling point — it provides low-deflection properties and immunity to warping from temperature and humidity changes."
+image: "/images/canva-pool-cue.webp"
 ---
 
 Carbon fiber pool cues are supposed to cost $200. Minimum.

@@ -8,6 +8,7 @@ faqs:
     answer: "For aspiring pool enthusiasts looking to create their very own billiard room, the debate between choosing a slate or wood bed table often takes center stage. With slate tables reigning in popularity and desirability over their MDF (wood) counterparts, many are left pondering, “Should I buy a slate or wood bed table?” The answer, however, is not always simple."
   - question: "Why the Big Difference in Price?"
     answer: "In the sections to follow, we’ll dive into the nuances of both types of tables, enabling you to make an informed decision that aligns with your desires and budget. Let’s explore the world of slate and wood pool tables to find the one that’s perfect for you."
+image: "/images/1-piece-slate_.webp"
 ---
 
 For aspiring pool enthusiasts looking to create their very own billiard room, the debate between choosing a slate or wood bed table often takes center stage. With slate tables reigning in popularity and desirability over their MDF (wood) counterparts, many are left pondering, “Should I buy a slate or wood bed table?” The answer, however, is not always simple.

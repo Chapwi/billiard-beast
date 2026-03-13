@@ -3,6 +3,7 @@ title: "How to Play Pool by Yourself: 9 Pool Games You Can Play Alone"
 date: "2023-08-23"
 dateModified: "2026-03-11"
 description: 9 pool games you can play alone to sharpen your skills. From 14.1 straight pool to custom drills — the best solo billiard practice games.
+image: "/images/canva-man-playing-billiards.webp"
 ---
 
 Most people know that pool is a game that typically requires two players. Whether it be casually playing against your buddy at the local pool hall, or on a more advanced level, pool is a competitive game, pitting one player against another.

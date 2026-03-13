@@ -6,6 +6,7 @@ description: How long does a pool table last? Slate tables can last a lifetime �
 faqs:
   - question: "How Long Do Pool Tables Last?"
     answer: "Owning a pool table is unlike owning any other piece of furniture. Unlike the indispensable couch in your living room, a pool table occupies a unique space as a non-essential yet highly valuable item, often found in rec rooms or basements. One burning question that resonates among our readers here at BilliardBeast is: “How long do pool tables last?”"
+image: "/images/cimarron-pool-table-smoke_2048x2048.webp"
 ---
 
 Owning a pool table is unlike owning any other piece of furniture. Unlike the indispensable couch in your living room, a pool table occupies a unique space as a non-essential yet highly valuable item, often found in rec rooms or basements. One burning question that resonates among our readers here at BilliardBeast is: “How long do pool tables last?”

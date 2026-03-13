@@ -10,6 +10,7 @@ faqs:
     answer: "Most players do well with 18 or 19 oz. The Valhalla 100 comes in options from 18 to 21 oz. Beginners should start at 18-19 oz for better control. Heavier options (20-21 oz) work for players who prefer more mass behind the cue ball on break shots."
   - question: "Does the Viking Valhalla 100 have a good tip?"
     answer: "The factory tip is functional but basic. We recommend scuffing it lightly with 220-grit sandpaper and shaping it with a tip tool before your first game. After that initial prep, the tip holds chalk and plays fine for casual and intermediate use."
+image: "/images/viking-productionworking.webp"
 ---
 
 Forty-nine units.

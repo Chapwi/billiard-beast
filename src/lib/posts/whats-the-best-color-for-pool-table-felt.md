@@ -6,6 +6,7 @@ description: What's the best color for pool table felt? We cover the most popula
 faqs:
   - question: "What’s the Best Color for Pool Table Felt?"
     answer: "Green and blue are generally considered the best colors for pool table felt in most circumstances – but it’s ultimately a subjective matter. The decision largely depends on personal preference and whether the table is more for practice or decoration. However, more objective factors such as eye comfort and playability also make a difference."
+image: "/images/pool-table-blue-felt.png"
 ---
 
 <strong>Green and blue are generally considered the best colors for pool table felt in most circumstances – but it’s ultimately a subjective matter. The decision largely depends on personal preference and whether the table is more for practice or decoration. However, more objective factors such as eye comfort and playability also make a difference.</strong>

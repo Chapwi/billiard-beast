@@ -3,6 +3,7 @@ title: "The Evolution of Billiards: From Kings to Commoners"
 date: "2023-08-27"
 dateModified: "2026-03-11"
 description: "The history of billiards: from a lawn game for French royalty to bar rooms worldwide. A fascinating look at how pool evolved over 600 years."
+image: "/images/french-royalty.webp"
 ---
 
 ## 400px

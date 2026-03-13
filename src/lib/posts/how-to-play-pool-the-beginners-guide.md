@@ -3,6 +3,7 @@ title: "How to Play Pool: The Beginners Guide"
 date: "2023-08-29"
 dateModified: "2026-03-11"
 description: "How to play pool: the complete beginner's guide. Learn the rules, how to rack, break, aim, and win your first game of 8-ball pool."
+image: "/images/canva-male-holding-cue-stick-ready-to-hit-the-ball-e1577030114986.webp"
 ---
 
 Pool is a game enjoyed by millions of people around the world. From the many who play casually on the weekends to the pro’s who travel the globe and compete at the highest level. But regardless of your current skill level, each of us has to start from the bottom. And that means learning the basics.

@@ -15,6 +15,7 @@ faqs:
   - question: "What's the difference between Taom Pyro and Taom Soft?"
     answer: "Taom Pyro is harder and lasts forever. Taom Soft is closer to traditional chalk—it feels more familiar if you've been using Master your whole life. Pyro is the workhorse. Soft is if you want premium quality with a classic feel."
 published: true
+image: "/images/canva-billiards-balls-and-cue-on-billiards-table.-billiard-sport-concept.webp"
 ---
 
 You're losing games because of chalk.

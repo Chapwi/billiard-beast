@@ -3,6 +3,7 @@ title: 3 Player Pool Games You’re Sure to Love
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: Need pool games for 3 players? We cover the best 3-player billiard games — Cutthroat, 3-Ball, Cowboy, and more. Rules included.
+image: "/images/3-friends-playing-pool.png"
 ---
 
 Pool is a game loved and enjoyed by millions of people around the world. It usually consists of two players pitted against each other in a fierce battle to be the first one to legally pocket the 8-ball, or 9-ball, or whatever ball the particular game you’re playing requires you to pocket in order to win.

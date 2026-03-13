@@ -6,6 +6,7 @@ description: Is the cue ball the same size as the object balls? We compare stand
 faqs:
   - question: "Is the Cue Ball Bigger or Smaller Than the Object Balls?"
     answer: "There seems to be a lot of myth and confusion surrounding the topic of cue ball size relative to the object balls. And if you play on a lot of public pool tables, especially in bars, recreation centers, or arcades, you may have noticed (or at least suspected) that the cue ball seemed slightly different than the rest of the balls. So with this article, I’ll attempt to cut through the mystery and..."
+image: "/images/canva-billiards-billiard-balls-on-the-table.webp"
 ---
 
 There seems to be a lot of myth and confusion surrounding the topic of cue ball size relative to the object balls. And if you play on a lot of public pool tables, especially in bars, recreation centers, or arcades, you may have noticed (or at least suspected) that the cue ball seemed slightly different than the rest of the balls. So with this article, I’ll attempt to cut through the mystery and answer the question, “Is the cue ball bigger or smaller than the object balls?”

@@ -6,6 +6,7 @@ description: Do billiard balls wear out? Find out how long pool balls last, sign
 faqs:
   - question: "Do Billiard Balls Wear Out? What You Need to Know"
     answer: "Like with any hobby or sport we put money into, we want to know how long our equipment will last. The same can be said for us pool players who have put hundreds, if not thousands of dollars into our equipment, billiard balls included. And because billiard balls take so much abuse at the table, its natural to wonder it they’ll ever wear out. So do they?"
+image: "/images/billiard-balls-2017868.webp"
 ---
 
 Like with any hobby or sport we put money into, we want to know how long our equipment will last. The same can be said for us pool players who have put hundreds, if not thousands of dollars into our equipment, billiard balls included. And because billiard balls take so much abuse at the table, its natural to wonder it they’ll ever wear out. So do they?

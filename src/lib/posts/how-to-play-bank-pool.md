@@ -3,6 +3,7 @@ title: "How To Play Bank Pool: Easy To Learn"
 date: "2023-08-28"
 dateModified: "2026-03-11"
 description: "How to play Bank Pool: rules, legal shots, and strategy for a game where every pocketed ball must come off a cushion first."
+image: "/images/canva-man-playing-billiard.webp"
 ---
 
 ## If you’ve never played bank pool, you’re missing out!

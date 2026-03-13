@@ -3,6 +3,7 @@ title: "Best Pool Cue Cases in 2026: Protect Your Investment"
 date: "2026-03-12"
 dateModified: "2026-03-12"
 description: "Compare soft, hard, tube, and backpack pool cue cases. Expert guide to materials, brands, features, and travel tips for protecting your cues."
+image: "/images/canva-pool-sticks-cross.webp"
 ---
 
 # Best Pool Cue Cases in 2026: Protect Your Investment

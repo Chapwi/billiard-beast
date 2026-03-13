@@ -66,10 +66,10 @@
         <!-- Author -->
         <div class="article-author">
           <span class="author-by">by</span>
-          <span class="author-name">Joe Chappius</span>
+          <span class="author-name">Joe</span>
           <img
-            src="/images/joe-chappius-avatar.webp"
-            alt="Joe Chappius"
+            src="/images/joe-masked.webp"
+            alt="Joe"
             class="author-avatar"
             width="48"
             height="48"
@@ -378,15 +378,19 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(255,255,255,0.03);
-    border: 1px dashed #2a2a2c;
+    background: transparent;
+    border: none;
     border-radius: var(--radius-sm);
   }
+  .ad-slot:empty,
+  .ad-slot:not(:has(ins[data-ad-status="filled"])) {
+    display: none;
+  }
   .ad-slot--inline {
-    min-height: 90px;
+    min-height: 0;
     margin: 1.75rem 0;
   }
-  .ad-slot--sidebar { min-height: 250px; margin-bottom: 1.5rem; }
+  .ad-slot--sidebar { min-height: 0; margin-bottom: 1.5rem; }
   .ad-label {
     font-family: var(--font-ui);
     font-size: 0.65rem;

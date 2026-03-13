@@ -10,6 +10,7 @@ faqs:
     answer: "Yes, all Players cues come with a limited lifetime warranty covering manufacturing and material defects, as well as warpage. The ferrules are also guaranteed against chipping or cracking."
   - question: "Are Players cues good for beginners?"
     answer: "Absolutely. Players cues are excellent for beginners and casual players. They offer great playability at affordable prices and are known for holding up well to heavy use."
+image: "/images/canva-pool-table-and-cues.webp"
 ---
 
 If you’re in the market for a pool cue and you’ve done even a little bit of research on the subject, you’ve probably read a thing or two about Players cues. Or you may have simply heard the name thrown around at your local pool hall – a few of the sharks in there were probably even playing with a Players cue. The point is, the name “Players” is very well known in the world of pool, and for good reason.

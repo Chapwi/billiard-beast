@@ -152,15 +152,15 @@
   .hero-banner {
     background: var(--bg-dark);
     text-align: center;
-    padding: 3.5rem 1rem 3rem;
+    padding: 2rem 1rem 1.5rem;
     border-bottom: 2px solid var(--border-dark);
   }
   .hero-title {
     font-family: var(--font-body);
     font-weight: 800;
-    font-size: clamp(4rem, 14vw, 11rem);
+    font-size: clamp(2.5rem, 8vw, 5.5rem);
     letter-spacing: -0.02em;
-    line-height: 0.9;
+    line-height: 0.95;
     color: var(--text-primary);
     text-transform: uppercase;
   }
@@ -189,11 +189,15 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100px;
+    min-height: 0;
     margin: 1.5rem 0;
-    background: rgba(255,255,255,0.03);
-    border: 1px dashed #2a2a2c;
+    background: transparent;
+    border: none;
     border-radius: var(--radius-sm);
+  }
+  .ad-slot:empty,
+  .ad-slot:not(:has(ins[data-ad-status="filled"])) {
+    display: none;
   }
   .ad-label {
     font-family: var(--font-ui);
@@ -413,7 +417,7 @@
     .popular-grid { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 600px) {
-    .hero-title { font-size: clamp(3rem, 18vw, 5rem); }
+    .hero-title { font-size: clamp(2rem, 12vw, 3.5rem); }
     .sidebar-post { grid-template-columns: 120px 1fr; }
     .sidebar-post__img { width: 120px; }
     .popular-grid { grid-template-columns: repeat(2, 1fr); }

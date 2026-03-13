@@ -24,6 +24,7 @@ faqs:
     answer: "Gameplay Impact: The game of snooker requires strategic placement of the cue ball to score points by potting the colored balls in a specific sequence. The larger table surface, combined with smaller pockets and more balls, significantly alters the gameplay dynamics. Difficulty: With tighter pockets relative to the ball size and the need to navigate across a more extended surface, precision and ..."
   - question: "10. What materials are commonly used for pool tables?"
     answer: "Carom billiards (or three-cushion billiards) is played on pocketless tables, usually about 10 feet in length."
+image: "/images/canva-pool-table-with-pool-balls-and-stick.webp"
 ---
 
 Thinking about leveling up your entertainment space with a pool table, or billiard table? Or perhaps you’re in the middle of a friendly debate about pool table sizes? We totally understand. At first glance, most pool tables might seem to sport a uniform size. But, when it comes to ensuring the best gameplay and the right fit for your room, diving deep into the specifics of pool table size is crucial.

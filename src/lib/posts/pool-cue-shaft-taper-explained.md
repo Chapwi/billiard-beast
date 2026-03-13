@@ -3,6 +3,7 @@ title: Pool Cue Shaft Taper Explained
 date: "2023-08-30"
 dateModified: "2026-03-11"
 description: "Pool cue shaft taper explained: pro taper vs. European taper, how taper affects deflection and feel, and which is right for your game."
+image: "/images/cue-anatomy.webp"
 ---
 
 Anyone who has done any shopping for a pool cue has come across the different taper styles available. But unless you already know the game of pool pretty well, you’re not likely to know what the different tapers are all about or which one is “better” than the other. In other words, it’s hard to know which taper means what unless you have a pool cue shaft taper explained.

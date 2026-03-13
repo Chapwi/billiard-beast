@@ -10,6 +10,7 @@ faqs:
     answer: "Most players do well spending $30-150. The $30 Viking Valhalla is enough for casual play. The $75-100 range (PureX, Collapsar) gets you real technology. Above $150 you're paying for premium materials and aesthetics, which matter but aren't necessary for good play."
   - question: "Are expensive pool cues worth it?"
     answer: "Depends on how much you play. The performance jump from $30 to $100 is significant. From $100 to $300, noticeable but smaller. Above $300, you're mostly paying for feel, aesthetics, and bragging rights. A $150 cue in skilled hands beats a $500 cue in unskilled hands every time."
+image: "/images/canva-pool-sticks-cross.webp"
 ---
 
 Pool cues cost anywhere from $25 to $5,000. That's a ridiculous spread. A guy buying a cue for his garage and a professional touring player are shopping from the same market, and the price tags reflect it.

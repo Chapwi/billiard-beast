@@ -6,6 +6,7 @@ description: "Pool cue wrap vs. no wrap: which is better? We compare Irish linen
 faqs:
   - question: "Pool Cue Wrap vs No Wrap: Which is Better?"
     answer: "Pool cues come in various designs and offer different playing experiences. One common consideration is the choice between a wrap and no wrap on the cue. This decision can greatly influence the feel and performance of the cue. In this article, we will dive into the differences between wrapped and unwrapped pool cues and guide you towards the right choice."
+image: "/images/irish-linen-.webp"
 ---
 
 Pool cues come in various designs and offer different playing experiences. One common consideration is the choice between a wrap and no wrap on the cue. This decision can greatly influence the feel and performance of the cue. In this article, we will dive into the differences between wrapped and unwrapped pool cues and guide you towards the right choice.

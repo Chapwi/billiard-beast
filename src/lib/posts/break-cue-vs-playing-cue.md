@@ -10,6 +10,7 @@ faqs:
     answer: "A break cue exists for one purpose: launching the cue ball into the rack with maximum force, repeatedly, without degrading in performance."
   - question: "Jump/Break Combo Cues: Worth the Compromise?"
     answer: "Some manufacturers sell hybrid cues marketed as jump/break combinations. The pitch: one cue that handles both jumping (hitting below center on the cue ball) and breaking."
+image: "/images/canva-man-hits-a-pyramid-in-billiards.webp"
 ---
 
 # Break Cue vs Playing Cue: Do You Really Need Both?

@@ -3,6 +3,7 @@ title: "Snooker vs. Pool: A Comprehensive Comparison of Two Iconic Cue Sports"
 date: "2023-08-25"
 dateModified: "2026-03-11"
 description: "Snooker vs. pool: a full comparison of rules, table size, balls, cues, and difficulty. Which cue sport is right for you?"
+image: "/images/canva-snooker-balls-set.webp"
 ---
 
 Stroll into a bustling sports bar in New York or Los Angeles, and you’re likely to see animated players gathered around pool tables, meticulously lining up shots in a game of 8-ball. Venture over to a club in London or Beijing, however, and you might be greeted by the contemplative hush of a snooker match, with players mapping out their strategies several shots in advance. Depending on which corner of the world you find yourself in, the echoing crack of a cue ball might signify two very different games: snooker or pool.

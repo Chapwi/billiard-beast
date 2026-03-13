@@ -6,6 +6,7 @@ description: Can you put a pool table in a mobile home? We cover floor weight li
 faqs:
   - question: "Can You Put a Pool Table in a Mobile Home?"
     answer: "Putting a pool table in your home can be a great investment. It can allow you to improve your skills so you can start beating your friends or hustling strangers at the pool hall (or, just to get good!). It can also save you tons of money on gas and pool-hall expenses."
+image: "/images/canva-billiard-table.webp"
 ---
 
 Putting a pool table in your home can be a great investment. It can allow you to improve your skills so you can start beating your friends or hustling strangers at the pool hall (or, just to get good!). It can also save you tons of money on gas and pool-hall expenses.

@@ -3,6 +3,7 @@ title: "The Colors of Billiard (Pool) Balls: Solids &amp; Stripes"
 date: "2023-08-30"
 dateModified: "2026-03-11"
 description: What color are billiard balls? A complete guide to pool ball colors, numbers, and the difference between solid and striped balls.
+image: "/images/canva-billiard-balls-1.webp"
 ---
 
 If you’re brand new to the game of pool, you may be unfamiliar with the colors and numbers of billiard balls. But don’t worry. They’re not too complicated and once you play for a while, you’ll be able to recognize them all immediately without even having to think about it.

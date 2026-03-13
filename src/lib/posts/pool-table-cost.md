@@ -6,6 +6,7 @@ description: How much does a pool table cost in 2026? We cover every price range
 faqs:
   - question: "How Much Does a Pool Table Cost? Complete 2026 Price Guide"
     answer: "Other than available space, the biggest factor most people have to consider when buying a pool table is the cost. We all know that a high-quality, well-built pool table isn’t going to be cheap. But exactly how much does a pool table cost?"
+image: "/images/canva-billiard-table.webp"
 ---
 
 Other than available space, the biggest factor most people have to consider when buying a pool table is the cost. We all know that a high-quality, well-built pool table isn’t going to be cheap. But exactly how much does a pool table cost?

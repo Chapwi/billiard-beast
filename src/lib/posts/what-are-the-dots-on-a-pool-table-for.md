@@ -6,6 +6,7 @@ description: What are the dots on a pool table for? Learn how to use pool table 
 faqs:
   - question: "What Are The Dots on a Pool Table For?"
     answer: "If you’ve played pool for any length of time, you’ve probably noticed the dots or diamonds spaced out along the rails of every pool table. In the beginning, most of us assume they’re just for decoration or don’t give them much thought at all. But these dots do serve a purpose - one that nearly every advanced player is aware of. So, what are the dots on a pool table for?"
+image: "/images/head-string-diagram.webp"
 ---
 
 If you’ve played pool for any length of time, you’ve probably noticed the dots or diamonds spaced out along the rails of every pool table. In the beginning, most of us assume they’re just for decoration or don’t give them much thought at all. But these dots do serve a purpose - one that nearly every advanced player is aware of. So, what are the dots on a pool table for?

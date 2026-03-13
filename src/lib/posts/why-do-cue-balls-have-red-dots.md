@@ -8,6 +8,7 @@ faqs:
     answer: "If you go to the pool hall often enough, or watch pool tournaments on ESPN, chances are you’ve seen a cue ball with red dots on it. As odd as it may look, those red dots serve a purpose, and that cue ball has a name."
   - question: "Who Makes the Measles Ball?"
     answer: "Using a measles ball allows you to easily see the rotation of the cue ball. This helps you pick up on any shot inconsistencies or flaws in your stroke that you may not be able to see with a standard cue ball. Furthermore, using a measles ball allows you to observe the effects of sidespin, topspin, and backspin, all of which are crucial for cue ball control."
+image: "/images/canva-billiard-balls-1.webp"
 ---
 
 If you go to the pool hall often enough, or watch pool tournaments on ESPN, chances are you’ve seen a cue ball with red dots on it. As odd as it may look, those red dots serve a purpose, and that cue ball has a name.

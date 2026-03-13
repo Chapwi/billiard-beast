@@ -3,6 +3,7 @@ title: How Heavy is a Slate Pool Table (With Examples)
 date: "2023-09-17"
 dateModified: "2026-03-11"
 description: How heavy is a slate pool table? We list real weights for 1-piece, 2-piece, and 3-piece slate tables by size — with examples.
+image: "/images/why-are-pool-tables-so-heavy_.webp"
 ---
 
 Slate pool tables are considered the best pool tables available, far and wide. They are used exclusively for tournaments and are the go-to for commercial pool tables for their endurance, resilience, and longevity.

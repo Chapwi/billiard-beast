@@ -6,6 +6,7 @@ description: Are Aramith pool balls worth the price? We compare Aramith's phenol
 faqs:
   - question: "Are Aramith Pool Balls Worth the Money?"
     answer: "The quick answer is yes—for the serious player, their superior durability, flawless roll, and reduced table wear make them a savvy long-term investment."
+image: "/images/aramith-or-not_.webp"
 ---
 
 <strong>The quick answer is yes—for the serious player, their superior durability, flawless roll, and reduced table wear make them a savvy long-term investment.</strong>

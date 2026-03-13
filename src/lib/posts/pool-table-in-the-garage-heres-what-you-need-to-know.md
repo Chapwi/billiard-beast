@@ -6,6 +6,7 @@ description: Putting a pool table in the garage? We cover climate, humidity, lev
 faqs:
   - question: "Pool Table in the Garage? Here’s What You Need to Know"
     answer: "For many people, the garage is the best (or only) place for a home pool table. Unless you only have a single car garage, there’s plenty of room for a table. You can even leave enough room to share the garage with a car when you’re not playing."
+image: "/images/can-you-put-a-pool-table-in-the-garage_.webp"
 ---
 
 For many people, the garage is the best (or only) place for a home [pool table](/pool-tables-under-1000/). Unless you only have a single car garage, there’s plenty of room for a table. You can even leave enough room to share the garage with a car when you’re not playing.

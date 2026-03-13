@@ -6,6 +6,7 @@ description: Is snooker harder than pool? We compare the two cue sports on pocke
 faqs:
   - question: "Is Snooker Harder Than Pool?"
     answer: "Snooker is often compared to other cue sports for different reasons. Invented in the late 19th century, snooker has been around for a while. It’s popular in Britain, whereas 8 and 9-ball are more popular in North America and Asia. Each game requires a similar skill set and reaching a professional level takes years of practice, determination, and skill. But none of this answers the question."
+image: "/images/canva-snooker-balls-set-1.webp"
 ---
 
 Snooker is often compared to other cue sports for different reasons. Invented in the late 19th century, snooker has been around for a while. It’s popular in Britain, whereas 8 and 9-ball are more popular in North America and Asia. Each game requires a similar skill set and reaching a professional level takes years of practice, determination, and skill. But none of this answers the question.

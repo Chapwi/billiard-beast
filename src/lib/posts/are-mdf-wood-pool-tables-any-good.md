@@ -8,6 +8,7 @@ faqs:
     answer: "The quest to find the perfect pool table can often be a daunting task. Whether you’re a casual player looking for some friendly competition or a serious enthusiast aiming to elevate your game, the best value for your money is paramount. But what exactly makes a great pool table? It needs to be long-lasting, resistant to warping, and cater to your personal preferences. One popular option you mig..."
   - question: "The Common Query: Garage or Not?"
     answer: "Weight is a significant concern for many potential buyers of pool tables. This section explores the weight of MDF pool tables and why it might matter to you."
+image: "/images/do-pool-tables.webp"
 ---
 
 The quest to find the perfect pool table can often be a daunting task. Whether you’re a casual player looking for some friendly competition or a serious enthusiast aiming to elevate your game, the best value for your money is paramount. But what exactly makes a great pool table? It needs to be long-lasting, resistant to warping, and cater to your personal preferences. One popular option you might be considering is a wood-bed pool table, specifically those made from MDF.

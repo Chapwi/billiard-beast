@@ -8,6 +8,7 @@ faqs:
     answer: "When you make a ball in, as long as it was not an illegal shot (something I define later in the article), you get to keep shooting. If a player has all the balls within their group pocketed then they are eliminated from play, unless someone commits a foul. At the end of the game whichever player has any number of their balls remaining is the official winner."
   - question: "What is a Legal Shot?"
     answer: "Naturally the cue ball will then be placed somewhere behind the head string. The head string is not a physical line that rest on the table but an imaginary one that’s created when players look at the diamonds on the side of billiards tables. As long as the player puts the cue ball below the diamond that’s closest to the middle of the table, then it’s okay to break."
+image: "/images/canva-man-playing-billiards-1-1.webp"
 ---
 
 In the past, one of the hardest things that I would have to deal with as a pool player was what to do when there were more three people who wanted to play a game. It’s not always that fun to be the third wheel waiting to play while watching two friends play. So, needless to say I’ve ended up playing a lot of cutthroat in my day.

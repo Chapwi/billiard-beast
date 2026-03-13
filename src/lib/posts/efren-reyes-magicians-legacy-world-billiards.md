@@ -3,6 +3,7 @@ title: "Efren Reyes: The Magician’s Legacy in the World of Billiards"
 date: "2023-08-30"
 dateModified: "2026-03-11"
 description: The story of Efren 'The Magician' Reyes — the greatest pool player of all time. His legendary shots, titles, and lasting legacy explained.
+image: "/images/efren-reyes-shooting.jpg"
 ---
 
 When discussing billiards legends, one name inevitably stands out: Efren Reyes. Originating from the sun-kissed islands of the Philippines, he’s not just a player; he’s an institution in the world of cue sports. Popularly dubbed “The Magician,” Efren has consistently amazed audiences worldwide with his remarkable skills and seemingly impossible shots.

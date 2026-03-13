@@ -10,6 +10,7 @@ faqs:
     answer: Yes, Meucci cues are highly regarded in the pool community. They are American-made with premium materials, have won more tournament money than any other cue line, and come with a one-year limited warranty against manufacturer defects.
   - question: What's the difference between handcrafted and mass-produced pool cues?
     answer: Handcrafted cues like Schon are made with individual attention to detail, using only the highest quality materials and focusing on precision and excellence. This results in superior consistency and playability compared to mass-produced alternatives.
+image: "/images/canva-pool-cue.webp"
 ---
 
 We all know that the brand of pool cue a person uses has very little to do with his skills or abilities as a player. Getting good at pool is something that just takes time, patience, and lots of practice. But using a quality cue from a reputable maker can definitely make the process a little easier. With years of experience and expertise, brand name cue makers provide exceptional quality and consistency in their cues which translates into more consistent practice sessions and increased confidence at the table.

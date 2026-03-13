@@ -3,6 +3,7 @@ title: "Billiard Games: 14 Pool Table Games You Have To Try"
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: 14 billiard games you need to try beyond 8-ball. From 9-ball to Straight Pool to One Pocket — rules, tips, and why each game rocks.
+image: "/images/14-billiard-games-you-have-to-try.webp"
 ---
 
 If you’re new to the world of billiards, it may come as a surprise to you as to how many different billiard games there are. While its true that 8-Ball and 9-Ball are the most popular here in the states, there are lots of other billiard games that are just as much fun.

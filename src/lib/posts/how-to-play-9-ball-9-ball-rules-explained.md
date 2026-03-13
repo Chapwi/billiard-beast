@@ -3,6 +3,7 @@ title: How to Win More 9 Ball Games
 date: "2023-01-01"
 dateModified: "2026-03-11"
 description: "9-Ball rules explained: how to play, legal shots, the money ball, and strategies to win more games of 9-ball pool."
+image: "/images/canva-9th-billiard-ball-on-pool-table.webp"
 ---
 
 ## How to Win

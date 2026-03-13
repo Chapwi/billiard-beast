@@ -6,6 +6,7 @@ description: "How does a coin-op pool table know which ball is the cue ball? We 
 faqs:
   - question: "How Does a Pool Table Recognize the Cue Ball?"
     answer: "Most of us have played at least one game of pool on a big, boxy, coin-operated pool table in an arcade, restaurant, bowling alley, or bar. They seem simple enough – you feed in your quarters or tokens to release the balls, and as you pocket each one, it returns to its windowed enclosure to await the next round."
+image: "/images/canva-billiards-balls-and-cue-on-billiards-table.-billiard-sport-concept.webp"
 ---
 
 Most of us have played at least one game of pool on a big, boxy, coin-operated pool table in an arcade, restaurant, bowling alley, or bar. They seem simple enough – you feed in your quarters or tokens to release the balls, and as you pocket each one, it returns to its windowed enclosure to await the next round.

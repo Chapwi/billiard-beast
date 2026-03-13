@@ -6,6 +6,7 @@ description: What happens if you scratch on the 8-ball? We explain the official 
 faqs:
   - question: "What Happens if You Scratch on the 8 Ball?"
     answer: "One of the fun things about playing pool with your friends or acquaintances at the local pool hall or bar is the variation in rules. Many areas have different rules for the game of pool. In fact, the rules often change depending on who you’re playing with. While this can make things interesting, it can also be a point of contention when two players aren’t on the same page. This is why, in this ..."
+image: "/images/canva-billiards-kick-off-white-ball-queue-glove-1.webp"
 ---
 
 One of the fun things about playing pool with your friends or acquaintances at the local pool hall or bar is the variation in rules. Many areas have different rules for the game of pool. In fact, the rules often change depending on who you’re playing with. While this can make things interesting, it can also be a point of contention when two players aren’t on the same page. This is why, in this article, I’ll answer the question: What happens if you scratch on the 8-ball?

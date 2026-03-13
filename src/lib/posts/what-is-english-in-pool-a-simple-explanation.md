@@ -8,6 +8,7 @@ faqs:
     answer: "If you’re new to pool, you may be confused by the term “English” that’s commonly used among pool enthusiasts. Along with English, you may have heard the term “squirt,” “left English,” or “right English.” Well, if you’re confused by English, don’t worry. This article will clear everything up for you by answering the question: What is English in Pool?"
   - question: "What is English in Pool?"
     answer: "In short, English is the spin you put on the cue ball when hitting it anywhere but dead center. Whether you know it or not, English is used all the time in pool and is one of the main ways to control where the cue ball ends up after coming into contact with an object ball."
+image: "/images/canva-billiards-kick-off-white-ball-queue-glove-1.webp"
 ---
 
 If you’re new to pool, you may be confused by the term “English” that’s commonly used among pool enthusiasts. Along with English, you may have heard the term “squirt,” “left English,” or “right English.” Well, if you’re confused by English, don’t worry. This article will clear everything up for you by answering the question: What is English in Pool?

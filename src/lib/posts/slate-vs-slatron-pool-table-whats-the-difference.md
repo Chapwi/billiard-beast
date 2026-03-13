@@ -10,6 +10,7 @@ faqs:
     answer: "It didn’t take long before the billiard world caught on and never looked back. Well, kind of. The truth is that wood tables are still made today, even though slate is by far the more popular material for pool tables."
   - question: "Slate vs Slatron: Which is Lighter?"
     answer: "Slatron is a natural progression in the search for a lighter material that will play similar to slate."
+image: "/images/can-a-slate-pool-table.webp"
 ---
 
 There seems to be a bevy of different types of pool tables nowadays. There are several different materials used to make the bed, or playing surface, of pool tables. And if you’re in the market for a table, or simply curious about the different materials, you may be wondering: “There’s slate and there’s slatron; what’s the difference?” Well, I’m here to tell you.

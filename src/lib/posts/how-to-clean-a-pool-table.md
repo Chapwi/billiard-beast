@@ -3,6 +3,7 @@ title: "How to Clean a Pool Table: It’s Easier Than You Think"
 date: "2023-08-28"
 dateModified: "2026-03-11"
 description: How to clean a pool table the right way — step-by-step instructions for brushing felt, cleaning rails, and keeping your table in top shape.
+image: "/images/canva-close-up-of-billiard-table.webp"
 ---
 
 Luckily cleaning and maintaining your pool table isn’t hard or expensive to do. If you have a few bucks to spare and about 15 minutes a week, you can keep your pool table clean with little effort. In this article were going to show you how clean a pool table step by step. Keep reading to learn how to do it!

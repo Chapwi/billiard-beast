@@ -14,6 +14,7 @@ faqs:
     answer: "Today, phenolic resin is the gold standard for pool balls. Developed through the polymerization of phenol and formaldehyde, phenolic resin offers a combination of durability, impact resistance, and a consistent playing experience, making it the preferred choice for professional and serious amateur players alike."
   - question: "Why does the material of a pool ball matter?"
     answer: "By tracing the materials used in pool balls from ivory to phenolic resin, we can see a clear evolution towards sustainability, durability, and performance. Each era of material reflects the priorities and capabilities of its time, making the history of pool ball materials a microcosm of broader technological and ethical advances."
+image: "/images/canva-billiards-billiard-balls-on-the-table.webp"
 ---
 
 Have you ever paused in the middle of a spirited game of pool to wonder what those shiny, colorful billiard balls are actually made of? If so, you’re not alone. Understanding the materials used in pool balls can be as enlightening as it is surprising.

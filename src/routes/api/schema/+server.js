@@ -3,7 +3,7 @@ import { getPost, getAllPosts } from '$lib/posts.js';
 
 const SITE_URL = 'https://billiardbeast.com';
 const DEFAULT_IMAGE = `${SITE_URL}/images/billiard-beast-logo-2.webp`;
-const AUTHOR = { '@type': 'Person', name: 'Joe Chappius', url: SITE_URL };
+const AUTHOR = { '@type': 'Person', name: 'Joe', url: SITE_URL };
 const PUBLISHER = {
   '@type': 'Organization',
   name: 'BilliardBeast',

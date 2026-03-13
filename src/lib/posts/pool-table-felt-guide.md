@@ -3,6 +3,7 @@ title: "Pool Table Felt Guide: How to Choose the Right Cloth for Your Table"
 date: "2026-03-12"
 dateModified: "2026-03-12"
 description: "Expert guide to pool table cloth: woolen vs. worsted, top brands, installation, maintenance, and when to replace for optimal play."
+image: "/images/pool-table-blue-felt.png"
 ---
 
 # Pool Table Felt Guide: How to Choose the Right Cloth for Your Table

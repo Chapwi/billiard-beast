@@ -3,6 +3,7 @@ title: "How To Rack Pool Balls Properly: A Complete Guide"
 date: "2023-08-17"
 dateModified: "2026-03-11"
 description: How to rack pool balls correctly for 8-ball and 9-ball. A step-by-step guide to proper racking — tight rack, legal placement, and tips.
+image: "/images/canva-rack-of-pool-balls.webp"
 ---
 
 If you’ve ever felt you hit an awesome break shot and yet you didn’t get a good spread, its probably because the rack was too lose. This can be very frustrating but fortunately, getting a tight, solid rack isn’t hard to do and in this article we’re going to show you how.

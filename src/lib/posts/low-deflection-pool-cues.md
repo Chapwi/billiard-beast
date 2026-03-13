@@ -12,6 +12,7 @@ faqs:
     answer: "Low deflection cues are pool cues that are designed in such a way to reduce “squirt” as much as possible. Squirt, also known as deflection, is the angle change of the cue ball that happens any time you take a shot. There is some degree of squirt on every shot, but LD shafts reduce it as much as possible in order to improve accuracy."
   - question: "Will a Low Deflection Cue Improve My Game?"
     answer: "Generally speaking, the amount of squirt grows higher the more “English,” or sidespin, you put on the cue ball. So a straight shot, like a break, will usually have a very small amount of squirt, whereas a shot with a lot of English on it will have more squirt and therefore more deviation from the intended target."
+image: "/images/predator-ikon4-1-pool-cue-butt-cap-1920x1080.jpg"
 ---
 
 Low deflection shafts are a fairly recent invention. As a result, many pool players today learned on standard shaft cues, while others learned on low deflection (LD) shaft cues.

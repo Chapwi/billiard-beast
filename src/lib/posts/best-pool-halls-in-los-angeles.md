@@ -3,6 +3,7 @@ title: The Best Pool Halls in Los Angeles, CA
 date: "2023-09-01"
 dateModified: "2026-03-11"
 description: The best pool halls in Los Angeles reviewed — from competitive billiards rooms to laid-back spots with great tables. Find your game in LA.
+image: "/images/q-billiard-club.png"
 ---
 
 ## Our Rating

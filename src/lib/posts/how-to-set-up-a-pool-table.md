@@ -3,6 +3,7 @@ title: "How to Set Up a Pool Table: Step-by-Step Guide for Home Installation"
 date: "2026-03-12"
 dateModified: "2026-03-12"
 description: "DIY pool table setup guide covering space prep, slate installation, leveling, felt application, and professional vs. DIY cost considerations."
+image: "/images/anatomy-pooltable.jpg"
 ---
 
 # How to Set Up a Pool Table: Step-by-Step Guide for Home Installation

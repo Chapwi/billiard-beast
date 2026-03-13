@@ -6,6 +6,7 @@ description: What cue length is right for your height? Use our height-to-cue-len
 faqs:
   - question: "Which Length Cue Is Right For Your Height? (With Chart)"
     answer: "For most new players, choosing a proper length cue isn’t high on the to do list. Most often we just want to shoot some pool and have a good time. But shooting with a cue that isn’t right for your height can negatively affect your game. And if you’re looking to progress your skills as a player, then finding out which cue length is right for you is a must."
+image: "/images/cue-anatomy.webp"
 ---
 
 For most new players, choosing a proper length cue isn’t high on the to do list. Most often we just want to shoot some pool and have a good time. But shooting with a cue that isn’t right for your height can negatively affect your game. And if you’re looking to progress your skills as a player, then finding out which cue length is right for you is a must.

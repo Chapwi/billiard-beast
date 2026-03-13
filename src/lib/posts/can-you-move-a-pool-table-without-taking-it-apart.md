@@ -6,6 +6,7 @@ description: Can you move a pool table without disassembling it? We explain when
 faqs:
   - question: "Can You Move a Pool Table Without Taking it Apart?"
     answer: "The appearance of a pool table can be deceiving when you’re figuring out how to move it. You may measure the table, the distance between the legs, and the doorways you want to get it through and determine that it will be no problem. Just flip the table on its side and maneuver it through the doorway."
+image: "/images/how-much-does-it-cost-to-move-a-pool-table_-1.webp"
 ---
 
 The appearance of a pool table can be deceiving when you’re figuring out how to move it. You may measure the table, the distance between the legs, and the doorways you want to get it through and determine that it will be no problem. Just flip the table on its side and maneuver it through the doorway.

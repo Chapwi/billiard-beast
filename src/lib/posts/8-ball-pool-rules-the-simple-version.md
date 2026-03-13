@@ -3,6 +3,7 @@ title: "8-Ball Pool Rules: The Simple Version"
 date: "2023-08-28"
 dateModified: "2026-03-11"
 description: Master 8-ball pool rules fast. We break down legal shots, fouls, scratches, the 8-ball, and common rule disputes — no fluff.
+image: "/images/canva-billiard-balls-on-a-billiard-table.webp"
 ---
 
 There are <em>so</em> many different variations of 8-ball pool that it’s hard to know which set of rules to play by. Chances are you’ve probably been in the middle of a game with someone when a certain rule pauses the game and leads to controversy. The rules you know aren’t quite the same as the rules your opponent plays by. When you can’t come to an agreement, the best thing to do is to find 8 ball pool rules: the simple version.

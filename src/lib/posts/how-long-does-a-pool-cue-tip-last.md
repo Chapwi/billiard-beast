@@ -6,6 +6,7 @@ description: How long does a pool cue tip last? We explain how many hours of pla
 faqs:
   - question: "How Long Does a Pool Cue Tip Last?"
     answer: "If you’ve ever been shooting a game of pool and notice that your shots are a little off or that they just don’t feel right, you may start looking for answers on your cue. If you’re using a house cue, you’ll probably want to check the tip to see if it’s worn down. But if you’re using your own cue, you may wonder, “How long does a pool cue tip last?”"
+image: "/images/the-ultimate-guide-to-choosing-a-pool-cue-tip.webp"
 ---
 
 If you’ve ever been shooting a game of pool and notice that your shots are a little off or that they just don’t feel right, you may start looking for answers on your cue. If you’re using a house cue, you’ll probably want to check the tip to see if it’s worn down. But if you’re using your own cue, you may wonder, “How long does a [pool cue tip](/what-cue-tips-do-the-pros-use/) last?”

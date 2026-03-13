@@ -8,6 +8,7 @@ faqs:
     answer: "Choosing a pool cue can be tricky business, especially if you’re a beginner. Throw in the fact that not all cues are made from the same material and your decision gets even harder. Wood and fiberglass are the most popular material pool cues are made from. But whats the difference between wood and fiberglass pool cues?"
   - question: "So What’s the Verdict?"
     answer: "In this article we’re going to discuss the differences between wood and fiberglass pool cues. Hopefully by the end of this article you’ll have a better understanding of their differences so you can decide on a pool cue that’s right for you."
+image: "/images/canva-pool-sticks-cross.webp"
 ---
 
 Choosing a pool cue can be tricky business, especially if you’re a beginner. Throw in the fact that not all cues are made from the same material and your decision gets even harder. Wood and fiberglass are the most popular material pool cues are made from. But whats the difference between wood and fiberglass pool cues?

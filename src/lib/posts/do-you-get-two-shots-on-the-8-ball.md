@@ -8,6 +8,7 @@ faqs:
     answer: "The reason why many people are confused about the two-shot rule is because of the difference in rules between American 8 Ball and English 8 Ball or Blackball. The specific rules for English 8 Ball and Blackball differ slightly, especially in pubs and homes, but they both allow for two shots when there’s a foul committed."
   - question: "Two Shots on the 8 Ball?"
     answer: "If you play American rules, you won’t be getting two shots on the 8 ball. In some instances in English 8 Ball, you may get two shots on the 8 ball, but the circumstances leading up to this are not very common. However, there are some house rules that do call for two shots on the 8 ball, mostly in England and Australia and those countries that have a basis in English pool rules."
+image: "/images/canva-billiards-billiard-balls-on-the-table.webp"
 ---
 
 All the different rules surrounding billiard games can be pretty confusing. It doesn’t help that, if you’re playing a friendly game at a bar or someone’s house, they may play by rules you’ve never even heard of. These are often called “house rules” and they’re the reason you should clarify major rules before you take the first shot. And one of the most common rule questions we get here at BilliardBeast is “Do you get two shots on the 8 ball?”

@@ -10,6 +10,7 @@ faqs:
     answer: "PureX is manufactured by Cue & Case Sales International (CCSI), the same parent company that makes Lucasi and Players pool cues. They share manufacturing facilities and quality standards, which is why PureX punches above its price point."
   - question: "What does low-deflection mean in a pool cue?"
     answer: "Low-deflection means the shaft is engineered to reduce 'squirt' — the tendency for the cue ball to veer sideways when you hit it off-center for spin shots. Standard shafts deflect more, making english shots less predictable. Low-deflection shafts keep the cue ball closer to your aim line."
+image: "/images/canva-pool-cue.webp"
 ---
 
 $3,215 in revenue from 43 units sold.

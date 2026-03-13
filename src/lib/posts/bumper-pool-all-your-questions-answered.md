@@ -8,6 +8,7 @@ faqs:
     answer: "I’ve already shown my hand on this question. Of course, “fun” is a relative term. But, anyone who enjoys playing any kind of billiard game will love Bumper Pool. And, even people who have never played a billiard game in their life can pick up on Bumper Pool easily."
   - question: "What is Bumper Pool?"
     answer: "The fact is that bumper pool has very few rules to get your head around. It’s unlike most other billiard games in this way. Plus, the tables are significantly smaller than other pool tables, so they’re ideal for those who don’t have enough room for a big table but still want to play a fun billiard game."
+image: "/images/bumper-pool-all-your-questions-answered.webp"
 ---
 
 Most people are familiar with pool in some way, shape, or form. Those who have never actually touched a pool cue have probably seen movies about pool, like The Hustler, The Color of Money, or Poolhall Junkies. But, these days, when people hear the words Bumper Pool, most are at a loss. Which is unfortunate because bumper pool is a very fun game. So fun it can be addictive. So, with this article, I’ll tell you all about the wonderful game of bumper pool, answering any questions you may have. Let’s start with the basics.

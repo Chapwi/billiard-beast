@@ -15,6 +15,7 @@ faqs:
   - question: "Should I just buy a mini pool table instead?"
     answer: "Not if you want an actual game. Mini tables (3 or 4 feet) are novelties. They're fun to have around, but the pockets are tiny, the felt is rough, and it's frustrating to play on. Get a real 6-footer and make the space work."
 published: true
+image: "/images/fatcattrueshotfoldablebilliardstable.webp"
 ---
 
 You're staring at your apartment floor, measuring with your hands like an idiot, thinking "yeah, a pool table would fit." It won't. Not like you think it will.

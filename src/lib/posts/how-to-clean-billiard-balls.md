@@ -3,6 +3,7 @@ title: "How to Clean Billiard Balls: Step by Step"
 date: "2023-08-22"
 dateModified: "2026-03-11"
 description: "How to clean billiard balls: a step-by-step guide. From dish soap to ball polishers, learn the best methods to restore shine and grip."
+image: "/images/canva-billiard-balls-on-a-billiard-table.webp"
 ---
 
 ## The Struggle with Dirty Billiard Equipment

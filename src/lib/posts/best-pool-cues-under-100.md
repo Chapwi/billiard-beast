@@ -12,6 +12,7 @@ faqs:
     answer: "Based on actual sales data, the Viking Valhalla 100 Series is the most purchased beginner cue, followed by PureX Technology cues and the Collapsar CXL500. Budget cues under $100 account for the majority of first-time cue purchases."
   - question: "Is PureX a good pool cue brand?"
     answer: "PureX is made by the same parent company as Lucasi and Players (CCSI). Their Technology line offers low-deflection shaft technology at under $100, which is rare. They're a strong mid-budget choice with solid manufacturing quality."
+image: "/images/canva-pool-table-and-cues.webp"
 ---
 
 You don't need to spend $300 on a pool cue. You don't even need to spend $200.
