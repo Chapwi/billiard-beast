@@ -1,7 +1,7 @@
 ---
 title: How Does a Pool Table Recognize the Cue Ball?
 date: "2023-08-25"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: "How does a coin-op pool table know which ball is the cue ball? We explain the 3 mechanisms used: size, magnetism, and light sensors."
 faqs:
   - question: "How Does a Pool Table Recognize the Cue Ball?"

@@ -1,7 +1,7 @@
 ---
 title: "McDermott Pool Cues: Quality, Value & Full Review (2026)"
 date: "2023-01-01"
-dateModified: "2026-03-13"
+dateModified: "2026-03-14"
 description: "McDermott pool cues reviewed: quality, construction, and value across their lineup. Are McDermott cues worth the price in 2026?"
 faqs:
   - question: "Are McDermott cues worth the price?"
@@ -11,6 +11,10 @@ faqs:
   - question: "Where can I buy genuine McDermott cues?"
     answer: "Genuine McDermott cues are available through authorized retailers including Amazon, specialty pool equipment stores, and the official McDermott website. Always verify the seller's authenticity to ensure you receive a genuine product with proper warranty coverage."
 image: "/images/american-made.webp"
+product:
+  name: "McDermott Pool Cues"
+  brand: "McDermott"
+  description: "American-made pool cues ranging from the ES-1 entry series to high-end G-series with exotic wood inlays."
 ---
 
 McDermott has been building cues in Menomonee Falls, Wisconsin since 1975. That matters. In an industry where "American-made" gets slapped on cues assembled from imported parts, McDermott actually manufactures here. Their wood comes from North American suppliers, their wraps are done in-house, and their warranty backs the whole thing for life.

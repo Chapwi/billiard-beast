@@ -1,6 +1,7 @@
 ---
 title: "Best Pool Chalk in 2026: What Actually Works (and What's Hype)"
 date: "2026-03-13"
+dateModified: "2026-03-14"
 slug: "best-pool-chalk"
 description: "The best pool chalk in 2026, compared side by side. From $2 Master chalk to $30 Taom — what's worth the money and what's marketing."
 faqs:

@@ -1,7 +1,7 @@
 ---
 title: How to Tell if a Pool Table is Slate or Wood
 date: "2023-08-17"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: How to tell if a pool table has a slate or wood bed — 4 simple tests you can do at home before buying a used pool table.
 image: "/images/can-a-slate-pool-table.webp"
 faqs:

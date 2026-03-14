@@ -1,7 +1,7 @@
 ---
 title: "How to Play Pool by Yourself: 9 Pool Games You Can Play Alone"
 date: "2023-08-23"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: 9 pool games you can play alone to sharpen your skills. From 14.1 straight pool to custom drills — the best solo billiard practice games.
 image: "/images/canva-man-playing-billiards.webp"
 faqs:

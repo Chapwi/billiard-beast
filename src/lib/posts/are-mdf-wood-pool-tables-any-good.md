@@ -1,7 +1,7 @@
 ---
 title: Are MDF (Wood) Pool Tables Any Good? The Truth
 date: "2023-08-23"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: "Are MDF pool tables any good? The honest truth on wood-bed tables: durability, play quality, and whether they're worth buying."
 slug: are-mdf-wood-pool-tables-any-good
 faqs:

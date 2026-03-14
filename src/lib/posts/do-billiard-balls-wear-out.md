@@ -1,7 +1,7 @@
 ---
 title: Do Billiard Balls Wear Out? What You Need to Know
 date: "2023-09-07"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: Do billiard balls wear out? Find out how long pool balls last, signs of wear to look for, and when it's time to replace your set.
 faqs:
   - question: "Do Billiard Balls Wear Out? What You Need to Know"

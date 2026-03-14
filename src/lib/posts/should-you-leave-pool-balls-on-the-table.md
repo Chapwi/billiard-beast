@@ -1,7 +1,7 @@
 ---
 title: Should You Leave Pool Balls on the Table?
 date: "2023-08-17"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: Should you leave pool balls on the table when not in use? We explain how resting balls affect felt, slate, and cushions over time.
 faqs:
   - question: "Should You Leave Pool Balls on the Table?"

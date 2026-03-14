@@ -1,7 +1,7 @@
 ---
 title: "8-Ball Pool Rules: The Simple Version"
 date: "2023-08-28"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: Master 8-ball pool rules fast. We break down legal shots, fouls, scratches, the 8-ball, and common rule disputes — no fluff.
 image: "/images/canva-billiard-balls-on-a-billiard-table.webp"
 faqs:

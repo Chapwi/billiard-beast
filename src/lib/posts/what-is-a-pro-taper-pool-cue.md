@@ -1,7 +1,7 @@
 ---
 title: What is a Pro Taper Pool Cue?
 date: "2023-08-30"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: What is a pro taper pool cue? We explain how pro taper shafts work, how they differ from European taper, and who should use them.
 faqs:
   - question: "What is a Pro Taper Pool Cue?"

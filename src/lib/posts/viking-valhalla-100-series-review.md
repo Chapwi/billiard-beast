@@ -1,7 +1,7 @@
 ---
 title: "Viking Valhalla 100 Series Review: The $30 Cue That Outsells Everything"
 date: "2026-03-13"
-dateModified: "2026-03-13"
+dateModified: "2026-03-14"
 description: "Viking Valhalla 100 Series review — specs, pros, cons, and why this $30 pool cue outsells sticks costing 5x more. Real data from real buyers."
 faqs:
   - question: "Is the Viking Valhalla 100 a good pool cue?"
@@ -11,6 +11,11 @@ faqs:
   - question: "Does the Viking Valhalla 100 have a good tip?"
     answer: "The factory tip is functional but basic. We recommend scuffing it lightly with 220-grit sandpaper and shaping it with a tip tool before your first game. After that initial prep, the tip holds chalk and plays fine for casual and intermediate use."
 image: "/images/viking-productionworking.webp"
+product:
+  name: "Viking Valhalla 100 Series Pool Cue"
+  brand: "Viking"
+  description: "Budget pool cue with Irish linen wrap, 13mm tip, and solid maple construction. The best-selling cue under $50."
+  price: "30"
 ---
 
 Forty-nine units.

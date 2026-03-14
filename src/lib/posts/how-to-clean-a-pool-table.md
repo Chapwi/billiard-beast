@@ -1,7 +1,7 @@
 ---
 title: "How to Clean a Pool Table: It’s Easier Than You Think"
 date: "2023-08-28"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: How to clean a pool table the right way — step-by-step instructions for brushing felt, cleaning rails, and keeping your table in top shape.
 image: "/images/canva-close-up-of-billiard-table.webp"
 faqs:

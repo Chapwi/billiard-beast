@@ -1,7 +1,7 @@
 ---
 title: "Efren Reyes: The Greatest Pool Player Who Ever Lived"
 date: "2023-08-30"
-dateModified: "2026-03-13"
+dateModified: "2026-03-14"
 description: "Who is Efren 'The Magician' Reyes? His story from Angeles City Philippines to winning virtually every major pool title. The shots that changed billiards forever."
 image: "/images/efren-reyes-shooting.jpg"
 faqs:

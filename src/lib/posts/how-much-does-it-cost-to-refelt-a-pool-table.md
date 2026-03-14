@@ -1,7 +1,7 @@
 ---
 title: How Much Does it Cost to Refelt a Pool Table? (2026 Prices)
 date: "2023-08-28"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: How much does pool table refelting cost in 2026? We break down professional vs. DIY pricing, felt grades, and what affects the final bill.
 faqs:
   - question: "How Much Does it Cost to Refelt a Pool Table? (2026 Prices)"

@@ -1,7 +1,7 @@
 ---
 title: "How to Play Pool: The Beginners Guide"
 date: "2023-08-29"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: "How to play pool: the complete beginner's guide. Learn the rules, how to rack, break, aim, and win your first game of 8-ball pool."
 image: "/images/canva-male-holding-cue-stick-ready-to-hit-the-ball-e1577030114986.webp"
 faqs:

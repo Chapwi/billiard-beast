@@ -1,7 +1,7 @@
 ---
 title: How Far Does a Pool Table Need to Be Away From the Wall?
 date: "2023-08-30"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: How much wall clearance does a pool table need? Get the exact measurements for standard and bar-size cues so you never run out of room.
 faqs:
   - question: "How Far Does a Pool Table Need to Be Away From the Wall?"

@@ -1,7 +1,7 @@
 ---
 title: "How to Play 3-Ball Pool: The Quickest Game In Billiards"
 date: "2023-08-22"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: How to play 3-Ball pool — the fastest game in billiards. Rules, scoring, and why this quick format is perfect for practicing your break.
 image: "/images/canva-people-standing-around-billard-table.webp"
 faqs:

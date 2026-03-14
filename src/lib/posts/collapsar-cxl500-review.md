@@ -1,7 +1,7 @@
 ---
 title: "Collapsar CXL500 Review: Carbon Fiber Pool Cue for $85"
 date: "2026-03-13"
-dateModified: "2026-03-13"
+dateModified: "2026-03-14"
 description: "Collapsar CXL500 review — a carbon fiber shaft pool cue at $85. How does it compare to maple cues at twice the price? Real buyer data inside."
 faqs:
   - question: "Is the Collapsar CXL500 a good pool cue?"
@@ -11,6 +11,11 @@ faqs:
   - question: "What is the Collapsar CXL500 made of?"
     answer: "The CXL500 features a carbon fiber shaft with a composite butt section. The carbon fiber shaft is the main selling point — it provides low-deflection properties and immunity to warping from temperature and humidity changes."
 image: "/images/canva-pool-cue.webp"
+product:
+  name: "Collapsar CXL500 Carbon Fiber Pool Cue"
+  brand: "Collapsar"
+  description: "Carbon fiber shaft pool cue at a budget price point. Low deflection technology for under $100."
+  price: "85"
 ---
 
 Carbon fiber pool cues are supposed to cost $200. Minimum.

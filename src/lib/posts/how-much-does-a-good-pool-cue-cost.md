@@ -1,7 +1,7 @@
 ---
 title: How Much Does a Good Pool Cue Cost? (With Examples)
 date: "2023-08-17"
-dateModified: "2026-03-13"
+dateModified: "2026-03-14"
 description: How much does a good pool cue cost? From $50 beginner sticks to $500+ pro cues, we explain what you get at each price point.
 faqs:
   - question: "How Much Does a Good Pool Cue Cost? (With Examples)"

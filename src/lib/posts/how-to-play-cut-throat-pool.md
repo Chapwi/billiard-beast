@@ -1,7 +1,7 @@
 ---
 title: "How To Play Cut Throat Pool: A Fun 3 Player Game"
 date: "2023-08-29"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: "How to play Cutthroat pool: rules for this fun 3-player game where each player defends their own set of balls. Strategy tips included."
 faqs:
   - question: "Who Goes First?"

@@ -1,7 +1,7 @@
 ---
 title: "Slate vs Wood Pool Table: Which Table is Right for You?"
 date: "2023-08-23"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: "Slate vs. wood (MDF) pool table: which should you buy? We compare both on play quality, durability, price, and long-term value."
 faqs:
   - question: "Slate vs Wood Pool Table: Which Table is Right for You?"

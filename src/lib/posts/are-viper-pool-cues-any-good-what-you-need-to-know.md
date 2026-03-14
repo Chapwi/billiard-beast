@@ -11,6 +11,10 @@ faqs:
   - question: "Do Viper cues come with a warranty?"
     answer: "Most Viper cues include a 3-year manufacturer warranty. Some customers who received warped shafts have reported positive experiences with GLD's warranty process."
 image: "/images/canva-pool-table-and-cues.webp"
+product:
+  name: "Viper Pool Cues"
+  brand: "Viper (GLD Products)"
+  description: "Budget pool cue brand by GLD Products. Entry-level cues for casual players and beginners."
 ---
 
 Viper pool cues sit at the budget end of the market, typically running between $20 and $80. They're made by GLD Products, the same company behind Fat Cat tables and Casemaster accessories. If you're wondering whether these cues are worth buying or if you should save up for something pricier, here's what we've found after looking at the full lineup.

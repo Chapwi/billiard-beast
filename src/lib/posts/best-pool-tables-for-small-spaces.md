@@ -1,6 +1,7 @@
 ---
 title: "Best Pool Tables for Small Spaces: Real Options for Tight Rooms (2026)"
 date: "2026-03-13"
+dateModified: "2026-03-14"
 slug: "best-pool-tables-for-small-spaces"
 description: "The best pool tables for small rooms and apartments in 2026. Actual dimensions, room clearance requirements, and which tables are worth buying when space is tight."
 faqs:

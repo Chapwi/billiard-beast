@@ -1,7 +1,7 @@
 ---
 title: Are Pool Tables Too Heavy for the Second Floor?
 date: "2023-08-17"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: Worried your pool table is too heavy for the second floor? Learn the weight limits, slate table weights, and what to check beforehand.
 faqs:
   - question: "How Much Weight Will the Second Floor of Your House Hold?"

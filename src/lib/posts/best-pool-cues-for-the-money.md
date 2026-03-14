@@ -1,7 +1,7 @@
 ---
 title: "Best Pool Cues for the Money: A Stick for Every Budget (2026)"
 date: "2023-08-31"
-dateModified: "2026-03-13"
+dateModified: "2026-03-14"
 description: "The best pool cues for the money in 2026 — reviewed across every budget. Get the most performance per dollar, from $30 to $500+."
 faqs:
   - question: "What is the best pool cue for the money?"

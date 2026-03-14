@@ -1,7 +1,7 @@
 ---
 title: Are Pool Cues Allowed on Airplanes?
 date: "2023-08-30"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: Can you bring a pool cue on a plane? We explain TSA rules, airline policies for carry-on vs. checked bags, and tips to travel safely.
 faqs:
   - question: "Are Pool Cues Allowed on Airplanes?"

@@ -1,7 +1,7 @@
 ---
 title: "Billiard Games: 14 Pool Table Games You Have To Try"
 date: "2023-08-17"
-dateModified: "2026-03-11"
+dateModified: "2026-03-14"
 description: 14 billiard games you need to try beyond 8-ball. From 9-ball to Straight Pool to One Pocket — rules, tips, and why each game rocks.
 image: "/images/14-billiard-games-you-have-to-try.webp"
 faqs:

@@ -1,7 +1,7 @@
 ---
 title: "Best Pool Cues Under $100 in 2026: Tested and Ranked"
 date: "2026-03-13"
-dateModified: "2026-03-13"
+dateModified: "2026-03-14"
 description: "The best pool cues under $100 in 2026, ranked by real sales data. Viking Valhalla, PureX, Collapsar — what budget cue players actually buy."
 faqs:
   - question: "What is the best pool cue under $100?"

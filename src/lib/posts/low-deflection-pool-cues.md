@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About Low Deflection Pool Cues
 date: "2023-08-29"
-dateModified: "2026-03-13"
+dateModified: "2026-03-14"
 description: What is a low-deflection pool cue and do you need one? We explain how LD shafts reduce cue ball deflection and who benefits most.
 faqs:
   - question: "What Makes a Low Deflection Cue Work?"

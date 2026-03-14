@@ -1,7 +1,7 @@
 ---
 title: Top 10 Best Brands of Pool Cues (2026)
 date: "2023-08-31"
-dateModified: "2026-03-13"
+dateModified: "2026-03-14"
 description: The top 10 pool cue brands in 2026, ranked. From budget-friendly to pro-level, find the best brands for every player and price point.
 faqs:
   - question: What makes a high-quality pool cue?
