@@ -4,6 +4,17 @@ date: "2023-08-17"
 dateModified: "2026-03-11"
 description: How to rack pool balls correctly for 8-ball and 9-ball. A step-by-step guide to proper racking — tight rack, legal placement, and tips.
 image: "/images/canva-rack-of-pool-balls.webp"
+faqs:
+  - question: "Why does my break not spread the balls if I hit hard?"
+    answer: "A loose rack is the most common culprit. Balls need to be tight and compact so they transfer energy from the cue ball evenly across the group. Use your fingers inside the rack to push balls forward before removing it."
+  - question: "What's the difference between a triangle rack and a diamond rack?"
+    answer: "A triangle rack is used for 8-ball and 14:1 games with all 15 balls. A diamond rack is used for 9-ball with just 9 balls. Triangle racks are wider; diamond racks are narrower and diamond-shaped."
+  - question: "Should the apex ball be on the foot spot or the head spot?"
+    answer: "The apex ball (the front ball of the rack) should always be placed on the foot spot, which is the center of the foot string at the far end of the table from the cue ball."
+  - question: "What should I do if balls move when I lift the rack?"
+    answer: "Re-rack the table. A properly racked set should be completely still when you lift the rack. If balls are moving, apply more pressure with your fingers to tighten the formation before removing the rack."
+  - question: "Is the Magic Rack worth buying?"
+    answer: "Yes, if you struggle to get tight racks consistently. The Magic Rack stays in place until after the break, eliminating the risk of disturbing balls when removing a traditional rack. It's especially useful for casual players."
 ---
 
 If you’ve ever felt you hit an awesome break shot and yet you didn’t get a good spread, its probably because the rack was too lose. This can be very frustrating but fortunately, getting a tight, solid rack isn’t hard to do and in this article we’re going to show you how.
@@ -61,6 +72,28 @@ As you can see from the diagram above, the <strong>Foot String</strong> is the i
 Knowing these terms will help learning to rack properly a bit easier. Plus, you’ll probably learn them anyways if you spend enough time at the pool hall.
 
 ---
+
+## FAQ
+
+**Why does my break not spread the balls if I hit hard?**
+
+A loose rack is the most common culprit. Balls need to be tight and compact so they transfer energy from the cue ball evenly across the group. Use your fingers inside the rack to push balls forward before removing it.
+
+**What's the difference between a triangle rack and a diamond rack?**
+
+A triangle rack is used for 8-ball and 14:1 games with all 15 balls. A diamond rack is used for 9-ball with just 9 balls. Triangle racks are wider; diamond racks are narrower and diamond-shaped.
+
+**Should the apex ball be on the foot spot or the head spot?**
+
+The apex ball (the front ball of the rack) should always be placed on the foot spot, which is the center of the foot string at the far end of the table from the cue ball.
+
+**What should I do if balls move when I lift the rack?**
+
+Re-rack the table. A properly racked set should be completely still when you lift the rack. If balls are moving, apply more pressure with your fingers to tighten the formation before removing the rack.
+
+**Is the Magic Rack worth buying?**
+
+Yes, if you struggle to get tight racks consistently. The Magic Rack stays in place until after the break, eliminating the risk of disturbing balls when removing a traditional rack. It's especially useful for casual players.
 
 ## Related Articles
 

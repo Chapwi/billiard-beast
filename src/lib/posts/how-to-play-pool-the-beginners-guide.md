@@ -4,6 +4,17 @@ date: "2023-08-29"
 dateModified: "2026-03-11"
 description: "How to play pool: the complete beginner's guide. Learn the rules, how to rack, break, aim, and win your first game of 8-ball pool."
 image: "/images/canva-male-holding-cue-stick-ready-to-hit-the-ball-e1577030114986.webp"
+faqs:
+  - question: "What size is a standard pool table?"
+    answer: "A standard pool table is 9 feet long and measures 100 inches by 50 inches."
+  - question: "How many balls are used in pool?"
+    answer: "15 object balls plus 1 cue ball. Object balls 1-8 are solid colors and 9-15 are striped."
+  - question: "Why do pool players chalk their cue?"
+    answer: "Chalk improves grip between the cue tip and cue ball, helping you make solid contact and reducing miscues."
+  - question: "What's the difference between solids and stripes?"
+    answer: "In 8-ball, one player shoots solids (balls 1-7) and the other shoots stripes (balls 9-15). The 8-ball is sunk last to win."
+  - question: "How many pockets does a pool table have?"
+    answer: "A standard pool table has 6 pockets: one in each corner and one in the middle of each long side."
 ---
 
 Pool is a game enjoyed by millions of people around the world. From the many who play casually on the weekends to the pro’s who travel the globe and compete at the highest level. But regardless of your current skill level, each of us has to start from the bottom. And that means learning the basics.
@@ -69,6 +80,28 @@ The cue is used to push the cue-ball into the object balls with the goal of movi
 ## Racking Up
 
 The game begins with <strong>rack</strong>ing the balls into a pointed shape, with the front ball positioned on the <strong>foot-spot</strong>. The foot-spot is the center of the <strong>head-string</strong> which is an imaginary line that connects the second of the diamonds on the two sides of the table. Once the balls are tightly held and organized in the rack, the rack is carefully removed and we’re ready to break.
+
+## FAQ
+
+**What size is a standard pool table?**
+
+A standard pool table is 9 feet long and measures 100 inches by 50 inches.
+
+**How many balls are used in pool?**
+
+15 object balls plus 1 cue ball. Object balls 1-8 are solid colors and 9-15 are striped.
+
+**Why do pool players chalk their cue?**
+
+Chalk improves grip between the cue tip and cue ball, helping you make solid contact and reducing miscues.
+
+**What’s the difference between solids and stripes?**
+
+In 8-ball, one player shoots solids (balls 1-7) and the other shoots stripes (balls 9-15). The 8-ball is sunk last to win.
+
+**How many pockets does a pool table have?**
+
+A standard pool table has 6 pockets: one in each corner and one in the middle of each long side.
 
 ---
 

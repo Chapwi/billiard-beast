@@ -4,6 +4,17 @@ date: "2023-08-17"
 dateModified: "2026-03-11"
 description: How to tell if a pool table has a slate or wood bed — 4 simple tests you can do at home before buying a used pool table.
 image: "/images/can-a-slate-pool-table.webp"
+faqs:
+  - question: "How much does a slate pool table weigh compared to a wood one?"
+    answer: "Slate tables typically weigh 650-1,000 pounds due to the heavy slate bed and sturdy frame needed to support it. Wood (MDF) tables weigh only 100-300 pounds, making them much lighter."
+  - question: "What's the difference in playing feel between slate and wood tables?"
+    answer: "Slate provides a smoother, more true roll with consistent ball speed and predictable play. Wood tables feel rougher and balls don't travel as far with the same amount of power, making slate the preferred surface for serious players."
+  - question: "Can I move a slate pool table easily?"
+    answer: "No. Slate tables are too heavy and fragile to move without professional help. Wood (MDF) tables are portable and often have foldable legs, making them easy to transport."
+  - question: "How can I tell what material my table has by feel?"
+    answer: "Reach into a pocket and feel the playing surface if possible. Slate feels cool and hard like stone. MDF feels like dense, compressed wood. You can also tap the underside with a coin to hear the difference."
+  - question: "Why is slate more expensive than wood for pool tables?"
+    answer: "Slate is a natural stone that requires precision cutting and doesn't warp like wood. It's more durable, provides superior play quality, and the sturdy frame needed to support it adds to the cost. These factors make slate tables last decades."
 ---
 
 If you’re fairly new to the world of pool, or simply haven’t paid much attention to the tables you’ve played on, it can be hard to tell what material a pool table’s surface is. After all, it’s covered in cloth (or felt, as some call it), so you can’t get a good look at it. But there are other easy ways to tell what type of material is used on any given pool table.
@@ -63,6 +74,30 @@ Slate tables are the standard because the balls seem to roll smoothly on their s
 In short, playing on a slate table just seems to make everything smoother. I don’t have any scientific evidence to back this up, but if you play pool enough on different tables, you’ll know what I mean.
 
 Now that we’ve discussed the big ones, here are a few other ways to tell if a pool table is slate or wood. These methods should be combined with one or more of the main tactics outlined above.
+
+---
+
+## FAQ
+
+**How much does a slate pool table weigh compared to a wood one?**
+
+Slate tables typically weigh 650-1,000 pounds due to the heavy slate bed and sturdy frame needed to support it. Wood (MDF) tables weigh only 100-300 pounds, making them much lighter.
+
+**What’s the difference in playing feel between slate and wood tables?**
+
+Slate provides a smoother, more true roll with consistent ball speed and predictable play. Wood tables feel rougher and balls don’t travel as far with the same amount of power, making slate the preferred surface for serious players.
+
+**Can I move a slate pool table easily?**
+
+No. Slate tables are too heavy and fragile to move without professional help. Wood (MDF) tables are portable and often have foldable legs, making them easy to transport.
+
+**How can I tell what material my table has by feel?**
+
+Reach into a pocket and feel the playing surface if possible. Slate feels cool and hard like stone. MDF feels like dense, compressed wood. You can also tap the underside with a coin to hear the difference.
+
+**Why is slate more expensive than wood for pool tables?**
+
+Slate is a natural stone that requires precision cutting and doesn’t warp like wood. It’s more durable, provides superior play quality, and the sturdy frame needed to support it adds to the cost. These factors make slate tables last decades.
 
 ---
 

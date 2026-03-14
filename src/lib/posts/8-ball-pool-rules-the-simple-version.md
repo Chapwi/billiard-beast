@@ -4,6 +4,17 @@ date: "2023-08-28"
 dateModified: "2026-03-11"
 description: Master 8-ball pool rules fast. We break down legal shots, fouls, scratches, the 8-ball, and common rule disputes — no fluff.
 image: "/images/canva-billiard-balls-on-a-billiard-table.webp"
+faqs:
+  - question: "Where should the 8-ball be positioned when racking?"
+    answer: "The 8-ball goes in the center of the rack, two rows from the top and two rows from the bottom. The 1-ball sits at the apex at the top of the triangle."
+  - question: "What is a legal break in 8-ball?"
+    answer: "A legal break requires at least four balls to hit a cushion. If fewer than four balls hit the rail, your opponent can either play the table as is or ask for a re-break."
+  - question: "What happens if you pocket the cue ball on the break?"
+    answer: "If the cue ball goes in a pocket on the break, your opponent can place the cue ball anywhere behind the head string and shoot, or they can ask for a re-rack and re-break."
+  - question: "How do you win at 8-ball?"
+    answer: "Legally pocket all your assigned balls (either solids or stripes), then pocket the 8-ball in a called pocket without scratching the cue ball."
+  - question: "What makes the table 'open' in 8-ball?"
+    answer: "The table is open after the break and remains open until a player legally pockets a ball. Once a ball is pocketed, that player is assigned either solids or stripes for the rest of the game."
 ---
 
 There are <em>so</em> many different variations of 8-ball pool that it’s hard to know which set of rules to play by. Chances are you’ve probably been in the middle of a game with someone when a certain rule pauses the game and leads to controversy. The rules you know aren’t quite the same as the rules your opponent plays by. When you can’t come to an agreement, the best thing to do is to find 8 ball pool rules: the simple version.
@@ -67,6 +78,30 @@ If the 8-ball is potted (sunk) on the break, the opposing player can ask for a r
 ## Assigning Solids and Stripes
 
 After the break is made, the next rule concerns assigning each player either solids or stripes. Before this happens, the table is considered ‘open’. This means that either player can sink or ‘pot’ solid or striped balls.
+
+---
+
+## FAQ
+
+**Where should the 8-ball be positioned when racking?**
+
+The 8-ball goes in the center of the rack, two rows from the top and two rows from the bottom. The 1-ball sits at the apex at the top of the triangle.
+
+**What is a legal break in 8-ball?**
+
+A legal break requires at least four balls to hit a cushion. If fewer than four balls hit the rail, your opponent can either play the table as is or ask for a re-break.
+
+**What happens if you pocket the cue ball on the break?**
+
+If the cue ball goes in a pocket on the break, your opponent can place the cue ball anywhere behind the head string and shoot, or they can ask for a re-rack and re-break.
+
+**How do you win at 8-ball?**
+
+Legally pocket all your assigned balls (either solids or stripes), then pocket the 8-ball in a called pocket without scratching the cue ball.
+
+**What makes the table 'open' in 8-ball?**
+
+The table is open after the break and remains open until a player legally pockets a ball. Once a ball is pocketed, that player is assigned either solids or stripes for the rest of the game.
 
 ---
 

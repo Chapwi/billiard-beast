@@ -4,6 +4,17 @@ date: "2026-03-12"
 dateModified: "2026-03-12"
 description: "DIY pool table setup guide covering space prep, slate installation, leveling, felt application, and professional vs. DIY cost considerations."
 image: "/images/anatomy-pooltable.jpg"
+faqs:
+  - question: "How long does a pool table installation actually take?"
+    answer: "DIY installation typically takes 8-12 hours spread over 1-3 days for someone without experience. Professional installers usually finish in 3-4 hours. The main time sink is leveling the table properly."
+  - question: "What if my floor isn't level? Can I still set up a table?"
+    answer: "Yes, but you'll need to shim the legs to compensate. Minor variations up to ½ inch are manageable. Major slopes over 1 inch should be addressed before installation for best results."
+  - question: "Can I install the table alone, or do I need help?"
+    answer: "You can do it solo, but having a second person makes it significantly easier and safer, especially when lifting slate, positioning the table, and stretching felt. Help is highly recommended if your table uses one-piece slate."
+  - question: "How do I know if my slate is warped?"
+    answer: "Place a straightedge on the slate in multiple directions. You shouldn't see light under the edge. If you do, the slate is warped and requires replacement."
+  - question: "How often should I replace the felt?"
+    answer: "For casual home play, every 3-5 years. For regular use (2-3 times weekly), every 2-3 years. Heavy commercial use requires annual replacement. Look for pilling, stains, or worn paths as signs it's time."
 ---
 
 # How to Set Up a Pool Table: Step-by-Step Guide for Home Installation
@@ -401,6 +412,28 @@ Learn from others' mistakes:
 ### 8. Not Testing the Marble Roll
 **The mistake**: Assuming the table is level because it looks square.
 **The fix**: The marble roll test is non-negotiable. Trust it.
+
+## FAQ
+
+**How long does a pool table installation actually take?**
+
+DIY installation typically takes 8-12 hours spread over 1-3 days for someone without experience. Professional installers usually finish in 3-4 hours. The main time sink is leveling the table properly.
+
+**What if my floor isn't level? Can I still set up a table?**
+
+Yes, but you'll need to shim the legs to compensate. Minor variations up to ½ inch are manageable. Major slopes over 1 inch should be addressed before installation for best results.
+
+**Can I install the table alone, or do I need help?**
+
+You can do it solo, but having a second person makes it significantly easier and safer, especially when lifting slate, positioning the table, and stretching felt. Help is highly recommended if your table uses one-piece slate.
+
+**How do I know if my slate is warped?**
+
+Place a straightedge on the slate in multiple directions. You shouldn't see light under the edge. If you do, the slate is warped and requires replacement.
+
+**How often should I replace the felt?**
+
+For casual home play, every 3-5 years. For regular use (2-3 times weekly), every 2-3 years. Heavy commercial use requires annual replacement. Look for pilling, stains, or worn paths as signs it's time.
 
 ## Frequently Asked Questions
 

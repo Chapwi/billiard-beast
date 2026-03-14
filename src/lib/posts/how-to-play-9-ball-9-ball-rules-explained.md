@@ -4,6 +4,17 @@ date: "2023-01-01"
 dateModified: "2026-03-11"
 description: "9-Ball rules explained: how to play, legal shots, the money ball, and strategies to win more games of 9-ball pool."
 image: "/images/canva-9th-billiard-ball-on-pool-table.webp"
+faqs:
+  - question: "What's the main goal in 9-ball?"
+    answer: "You must legally pocket the 9-ball to win. Your cue ball must first strike the lowest numbered ball on the table, then any ball can legally go in the pocket."
+  - question: "Can you win 9-ball on the break?"
+    answer: "Yes. If the breaker hits the 1-ball first and sinks the 9-ball on the break without fouling, they win instantly, though this is extremely difficult."
+  - question: "How do you rack for 9-ball?"
+    answer: "Use a diamond rack with the 1-ball at the top, the 9-ball in the center, and the 2-ball at the bottom. All other balls fill the remaining spots."
+  - question: "What's an illegal break in 9-ball?"
+    answer: "A break is illegal if no ball is pocketed and fewer than 3 object balls touch a rail. The opponent can choose to re-rack or accept the table as-is."
+  - question: "Do both players have their own set of balls?"
+    answer: "No. Unlike 8-ball, both players use the same set of balls in 9-ball with the same goal: to legally sink the 9-ball first."
 ---
 
 ## How to Win
@@ -71,6 +82,28 @@ This is incredibly hard to do, but it’s definitely possible.
 It’s fairly common for players in a friendly game to determine who breaks first with a coin flip or a best-out-of-three roshambo. From then on, players alternate breaking. However, in professional tournaments or league play, it’s often decided by a player’s rating. If they have no rating or the same rating, a lag shot is often used.
 
 ## Lag Shot or “Lagging”
+
+## FAQ
+
+**What's the main goal in 9-ball?**
+
+You must legally pocket the 9-ball to win. Your cue ball must first strike the lowest numbered ball on the table, then any ball can legally go in the pocket.
+
+**Can you win 9-ball on the break?**
+
+Yes. If the breaker hits the 1-ball first and sinks the 9-ball on the break without fouling, they win instantly, though this is extremely difficult.
+
+**How do you rack for 9-ball?**
+
+Use a diamond rack with the 1-ball at the top, the 9-ball in the center, and the 2-ball at the bottom. All other balls fill the remaining spots.
+
+**What's an illegal break in 9-ball?**
+
+A break is illegal if no ball is pocketed and fewer than 3 object balls touch a rail. The opponent can choose to re-rack or accept the table as-is.
+
+**Do both players have their own set of balls?**
+
+No. Unlike 8-ball, both players use the same set of balls in 9-ball with the same goal: to legally sink the 9-ball first.
 
 ---
 

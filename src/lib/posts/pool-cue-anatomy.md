@@ -4,6 +4,17 @@ date: "2023-08-30"
 dateModified: "2026-03-11"
 description: Pool cue anatomy explained — every part of a pool cue from tip to butt, what each component does, and how it affects your game.
 image: "/images/cue-anatomy.webp"
+faqs:
+  - question: "What's the difference between a soft, medium, and hard tip?"
+    answer: "Soft tips give you more control and spin options but wear down faster. Hard tips provide more power and durability but offer less control. Medium tips are a balanced choice for most recreational players."
+  - question: "How often should I replace my cue tip?"
+    answer: "With regular play, a tip typically lasts about 6 months before it needs replacement. Check for flattening, mushrooming, or excessive wear that affects shot accuracy and spin."
+  - question: "What's the purpose of the ferrule on a pool cue?"
+    answer: "The ferrule sits between the tip and shaft, acting as a shock absorber. It helps distribute energy from your shot throughout the cue and reduces vibration when you strike the cue ball."
+  - question: "Should I get a one-piece or two-piece cue?"
+    answer: "One-piece cues are simpler and often cheaper, suitable for casual players. Two-piece cues are better for serious players because they screw apart for easy travel and transport."
+  - question: "Why do pool cues taper from tip to butt?"
+    answer: "The taper allows the cue to slide smoothly through your fingers while maintaining enough weight for a stable, controlled stroke. This design is crucial for proper stance and shot execution."
 ---
 
 If you’ve ever really taken the time to look at your pool cue, you probably know its made up of more than just 2 pieces of wood screwed together. There are lots of different parts of the pool cue, all of which are important to its functionality. From the tip of the pool cue, all the way to the bumper, each part has a role to play.
@@ -77,6 +88,30 @@ This is the longest part of the pool cue, no matter what type of cue you have. O
 A distinct feature of the shaft is that it gets narrower the closer it gets to the tip. This is called taper. The purpose of the taper is to allow for the pool cue to easily slide through your fingers, while also allowing for enough weight for a stable stroke.
 
 ## Collar
+
+---
+
+## FAQ
+
+**What's the difference between a soft, medium, and hard tip?**
+
+Soft tips give you more control and spin options but wear down faster. Hard tips provide more power and durability but offer less control. Medium tips are a balanced choice for most recreational players.
+
+**How often should I replace my cue tip?**
+
+With regular play, a tip typically lasts about 6 months before it needs replacement. Check for flattening, mushrooming, or excessive wear that affects shot accuracy and spin.
+
+**What's the purpose of the ferrule on a pool cue?**
+
+The ferrule sits between the tip and shaft, acting as a shock absorber. It helps distribute energy from your shot throughout the cue and reduces vibration when you strike the cue ball.
+
+**Should I get a one-piece or two-piece cue?**
+
+One-piece cues are simpler and often cheaper, suitable for casual players. Two-piece cues are better for serious players because they screw apart for easy travel and transport.
+
+**Why do pool cues taper from tip to butt?**
+
+The taper allows the cue to slide smoothly through your fingers while maintaining enough weight for a stable, controlled stroke. This design is crucial for proper stance and shot execution.
 
 ---
 

@@ -4,6 +4,17 @@ date: "2023-08-22"
 dateModified: "2026-03-11"
 description: "How to clean billiard balls: a step-by-step guide. From dish soap to ball polishers, learn the best methods to restore shine and grip."
 image: "/images/canva-billiard-balls-on-a-billiard-table.webp"
+faqs:
+  - question: "Can I clean billiard balls in a dishwasher?"
+    answer: "No, never use a dishwasher. The heat damages phenolic resin or polyester-resin materials, dulling shine and reducing durability. It can cause permanent damage to your balls."
+  - question: "What's the safest way to clean billiard balls?"
+    answer: "Fill a bucket with warm water, add mild dish soap like Dawn, soak balls for 5 minutes, then scrub gently with a microfiber cloth. Dry thoroughly without heat."
+  - question: "What household products should I avoid?"
+    answer: "Don't use CLR, bleach, Windex, Simple Green, or toothpaste. These can discolor balls, create yellow staining, or leave residue. Stick to mild soap and water."
+  - question: "How do I remove yellow stains from billiard balls?"
+    answer: "For non-acrylic or non-polyester balls, soak in hot water with light detergent for 5 minutes, then scrub with a microfiber cloth. For other materials, use room-temperature water with white vinegar instead."
+  - question: "How often should I clean my billiard balls?"
+    answer: "Clean them weekly if you play regularly. Dust and oil from handling accumulate quickly and affect gameplay. Regular cleaning extends ball life and maintains consistent performance."
 ---
 
 ## The Struggle with Dirty Billiard Equipment
@@ -63,6 +74,30 @@ Only if you are sure that your billiard balls are not acrylic or polyester, and 
 If you’re unsure of the make of your billiard balls, avoid this step as heat and soap can affect acrylic or polyester products. Instead, soak the balls in <strong>room-temperature</strong> water with a small amount of white vinegar and then use your micro-fiber towel to wipe them down afterwards.
 
 ## Removing Yellow Stain
+
+---
+
+## FAQ
+
+**Can I clean billiard balls in a dishwasher?**
+
+No, never use a dishwasher. The heat damages phenolic resin or polyester-resin materials, dulling shine and reducing durability. It can cause permanent damage to your balls.
+
+**What’s the safest way to clean billiard balls?**
+
+Fill a bucket with warm water, add mild dish soap like Dawn, soak balls for 5 minutes, then scrub gently with a microfiber cloth. Dry thoroughly without heat.
+
+**What household products should I avoid?**
+
+Don’t use CLR, bleach, Windex, Simple Green, or toothpaste. These can discolor balls, create yellow staining, or leave residue. Stick to mild soap and water.
+
+**How do I remove yellow stains from billiard balls?**
+
+For non-acrylic or non-polyester balls, soak in hot water with light detergent for 5 minutes, then scrub with a microfiber cloth. For other materials, use room-temperature water with white vinegar instead.
+
+**How often should I clean my billiard balls?**
+
+Clean them weekly if you play regularly. Dust and oil from handling accumulate quickly and affect gameplay. Regular cleaning extends ball life and maintains consistent performance.
 
 ---
 

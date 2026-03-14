@@ -4,6 +4,17 @@ date: "2023-08-28"
 dateModified: "2026-03-11"
 description: "How to play Bank Pool: rules, legal shots, and strategy for a game where every pocketed ball must come off a cushion first."
 image: "/images/canva-man-playing-billiard.webp"
+faqs:
+  - question: "What's the main rule of bank pool?"
+    answer: "Every pocketed ball must be banked off at least one cushion before going into the pocket. Direct shots don't count."
+  - question: "How many balls do you need for bank pool?"
+    answer: "Bank pool is traditionally played with 15 object balls, but you can also play a shorter version with 9 balls."
+  - question: "How many balls do you need to win?"
+    answer: "With a full 15-ball rack, you win by legally pocketing 8 balls. With a 9-ball rack, you win by pocketing 5 balls."
+  - question: "Do you have to call your shots in bank pool?"
+    answer: "Yes. Every shot must be called in advance, stating which ball you'll hit, which rail(s) it will contact, and which pocket it will enter."
+  - question: "What happens if you pocket multiple balls in one shot?"
+    answer: "Only the ball you intended counts. Any unintentional balls are spotted back on the table without penalty, and you continue your turn."
 ---
 
 ## If you’ve never played bank pool, you’re missing out!
@@ -75,6 +86,28 @@ Each players inning will continue for as long as they continue to pocket shots l
 Pocketing a second ball does not result in the end of your inning. Your inning ends if you fail to legally pocket an object ball, scratch, jump the cue ball off the table, or if you foul.
 
 Any ball that is pocketed without being banked and called is illegal.
+
+## FAQ
+
+**What's the main rule of bank pool?**
+
+Every pocketed ball must be banked off at least one cushion before going into the pocket. Direct shots don't count.
+
+**How many balls do you need for bank pool?**
+
+Bank pool is traditionally played with 15 object balls, but you can also play a shorter version with 9 balls.
+
+**How many balls do you need to win?**
+
+With a full 15-ball rack, you win by legally pocketing 8 balls. With a 9-ball rack, you win by pocketing 5 balls.
+
+**Do you have to call your shots in bank pool?**
+
+Yes. Every shot must be called in advance, stating which ball you'll hit, which rail(s) it will contact, and which pocket it will enter.
+
+**What happens if you pocket multiple balls in one shot?**
+
+Only the ball you intended counts. Any unintentional balls are spotted back on the table without penalty, and you continue your turn.
 
 ---
 

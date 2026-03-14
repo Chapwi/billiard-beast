@@ -4,6 +4,17 @@ date: "2023-08-25"
 dateModified: "2026-03-11"
 description: How to move a pool table a few feet without disassembling it. We explain the safest methods for sliding or rolling a heavy table short distances.
 image: "/images/how-much-does-it-cost-to-move-a-pool-table_-1.webp"
+faqs:
+  - question: "What do pool tables usually weigh?"
+    answer: "Most pool tables weigh between 800 to 1200 pounds, making them difficult to move without proper equipment and assistance."
+  - question: "Can I move a pool table just a few feet without taking it apart?"
+    answer: "Yes. You can use four dollies, furniture sliders with helpers, or a pool table lift to move a table short distances without full disassembly."
+  - question: "Should I lift a pool table by the rails?"
+    answer: "No, never lift by the rails as they damage easily. Always lift the table by its body or legs to protect the rails and playability."
+  - question: "How many people do I need to move a pool table?"
+    answer: "You should never attempt to move a pool table alone. Always have at least two to three helpers to safely manage the weight and avoid injury."
+  - question: "What should I clear before moving?"
+    answer: "Clear the path to the table's new location of all obstacles to minimize tripping hazards and prevent damage to the table or your home."
 ---
 
 Pool tables are heavy items. Most tables weigh around 800 to 1200 pounds. But it’s not just their weight that makes them hard to move. They are also relatively fragile and are definitely not designed to be moved fully intact.
@@ -59,6 +70,28 @@ When moving a pool table, mistakes can result in damage to the table, your home,
 <li><em>How to Avoid</em>: Always lift the table high enough that the legs are clear of the floor, or use furniture sliders or dollies to move it smoothly.</li>
 
 <li><em>How to Avoid</em>: Lift the table by its body or legs, not the rails. The rails can be damaged easily, which affects the table’s playability.</li>
+
+## FAQ
+
+**What do pool tables usually weigh?**
+
+Most pool tables weigh between 800 to 1200 pounds, making them difficult to move without proper equipment and assistance.
+
+**Can I move a pool table just a few feet without taking it apart?**
+
+Yes. You can use four dollies, furniture sliders with helpers, or a pool table lift to move a table short distances without full disassembly.
+
+**Should I lift a pool table by the rails?**
+
+No, never lift by the rails as they damage easily. Always lift the table by its body or legs to protect the rails and playability.
+
+**How many people do I need to move a pool table?**
+
+You should never attempt to move a pool table alone. Always have at least two to three helpers to safely manage the weight and avoid injury.
+
+**What should I clear before moving?**
+
+Clear the path to the table’s new location of all obstacles to minimize tripping hazards and prevent damage to the table or your home.
 
 ---
 
