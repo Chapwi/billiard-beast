@@ -47,6 +47,8 @@ A strip of metal called a ball shunt is installed at the ball separator intercha
 
 ## Optical Sensor Ball Return
 
+
+Optical sensor systems use a camera inside the ball return to identify the cue ball by its color, but this technology is no longer manufactured.
 This type of table is no longer made because the added size and weight of the cue ball can affect game dynamics, particularly on shots straight along the rail (since the skewed contact point will exert a slight lateral force), and on shots involving any form of English. However, these tables are still used in many settings, particularly bars and recreation centers.
 
 ## Consistency in Shot Making
@@ -59,6 +61,8 @@ Using a slightly smaller cue ball was the preferred method for decades in Britis
 
 ## Psychological Factors
 
+
+On British coin-op tables, the smaller 1 7/8-inch cue ball separates from the 2-inch object balls by passing through a size-selective gate.
 On these British coin-op tables, the smaller cue ball (usually 1 ⅞-inch) simply falls through a sort of trap door and rolls to the head of the table while the object balls roll right over the opening and on into the ball trap.
 
 ## Adapting to Various Systems

@@ -15,6 +15,8 @@ As sturdy and durable as most pool tables are, they do tend to get worn down and
 
 ## Type and Quality of the Cloth
 
+
+Worsted cloth like Simonis 860 costs $150-$300 for the material alone and lasts 3-5x longer than the $50-$100 woolen felt found on budget tables.
 Before we get into the main factors that determine the cost of a refelt, it’s worth noting that some types of pool tables may require a slightly different refelting process and some tables may not be worth refelting at all.
 
 Most of the tables that feature a 1-piece slate bed are coin-operated “bar boxes” - typically 7’ or smaller. These rarely have a wooden backing, so the felt must be glued on. The rails and cushions are usually constructed a little differently on bar boxes than on traditional tables, so the process of refelting the cushions may be a little different as well.

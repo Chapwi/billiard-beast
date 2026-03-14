@@ -15,6 +15,12 @@ faqs:
     answer: "Yes, but it requires a lathe and proper tools. Most players take tips to a cue repair shop ($15-25). DIY installation risks ruining your shaft."
   - question: "Are expensive tips worth it?"
     answer: "Premium tips like Kamui last longer and perform more consistently. But beginners don't need them. Spend money on tips once you can consistently pocket balls."
+items:
+  - name: "Le Pro Pool Cue Tips"
+  - name: "Tiger Sniper Pool Cue Tips"
+  - name: "Kamui Black Pool Cue Tips"
+  - name: "Predator Victory Pool Cue Tips"
+  - name: "Elk Master Pool Cue Tips"
 ---
 
 You're shooting the 8-ball. The angle is tight, you need maximum control, and your current tip is mushroomed out like it's been through a war. You're probably thinking: *Does my tip actually matter, or am I just making excuses?*
@@ -140,6 +146,17 @@ Shape matters. When your tip starts to mushroom (flatten out on the sides), you'
 Keep your tip dry. Humid conditions make leather tips swell. If your tip gets wet, let it dry completely before playing.
 
 Check the glue. If your tip is wobbling, the glue is failing. Don't wait—get it replaced. A falling tip mid-match is worse than any missed shot.
+
+
+## Quick Comparison
+
+| Tip | Price | Hardness | Best For | Lifespan |
+|-----|-------|----------|----------|----------|
+| Le Pro | $8-15 | Medium | Beginners, casual play | 6-12 months |
+| Tiger Sniper | $15-22 | Medium-hard | All-around players | 8-12 months |
+| Kamui Black | $20-30 | Soft | Spin and draw shots | 4-6 months |
+| Predator Victory | $18-25 | Medium | Power and consistency | 6-10 months |
+| Elk Master | $5-10 | Soft | Budget soft option | 3-6 months |
 
 ## FAQ
 

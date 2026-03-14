@@ -21,6 +21,8 @@ If you’re new to the world of billiards, it may come as a surprise to you as t
 
 ## Racking and Breaking
 
+
+Rack all 15 balls in the triangle, break from behind the head string, and continue pocketing balls in any order after the break.
 Pretty much every pool table game is similar in the way its played, but the the various rules, ball count, and techniques used can vary drastically. Take Bank Pool, for example, where every pocketed shot has to be a result of a bank shot. Learning different pool table games is a great way to improve your game and have a blast doing it.
 
 ## Racking and Breaking
@@ -81,6 +83,8 @@ To make the game more difficult, the players must call the pocket and the ball w
 
 ## That’s it! Pretty easy!
 
+
+If you pocket a ball accidentally or in the wrong pocket, your turn ends and the ball stays down.
 If a player sinks a ball unintentionally or hits the called ball into the wrong pocket, the opposing player has the option to take over as the table is, or require the shooter to continue.
 
 ## Racking and Breaking

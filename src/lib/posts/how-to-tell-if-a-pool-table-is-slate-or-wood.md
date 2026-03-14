@@ -65,6 +65,8 @@ Portability is another factor that has to do with the weight of the table. You w
 
 ## Financial Consideration for Maintenance
 
+
+Slate tables cost more to refelt ($300-$600) but need it less often, while MDF tables need cheaper refelts ($150-$300) more frequently.
 If you talk to anyone who has been playing pool for a while, they’ll tell you that they can feel the difference between a slate and an MDF table when they play on it. The reason this isn’t at the top of the list is that it’s hard to explain and not everyone can simply feel the difference. But, I’ll do my best to explain how play differs on these two types of tables.
 
 Slate tables are the standard because the balls seem to roll smoothly on their surface. The field of play is more_true_than on a wood table. If you were to place a slate and a wood table side by side and make the exact same shot on each, you’d likely see the difference. It would be small, but noticeable. The amount of power you put into a shot on a slate table seems to make the ball go further than the same amount on a wood table.

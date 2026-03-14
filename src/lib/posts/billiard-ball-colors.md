@@ -31,6 +31,8 @@ The 8-ball is special. It’s solid black with no number, and it has its own rul
 
 ## Pool Ball Colors: What You’re Actually Looking At
 
+
+Standard American pool uses 7 solid-colored balls (1-7), 7 striped balls (9-15), the black 8-ball, and a white cue ball.
 Here’s the standard lineup for American pool:
 
 **Solids (1-7):**

@@ -39,6 +39,8 @@ Unlike 8-ball, the players don’t have their own set of balls to shoot. Instead
 
 ## Winning on the Break
 
+
+If you pocket the 9-ball on the break while legally hitting the 1-ball first, you win the rack instantly. It happens more often than you'd think.
 Although it’s easier to rack 9-ball with a diamond rack, it’s also possible to do it with the 8-ball triangle rack. To do this, set the triangle rack on the foot spot like you would in 8-ball. Place the 1-ball at the apex of the triangle, and then build out the rest of the diamond, taking care to make sure the balls are touching.
 
 ## Determining Break

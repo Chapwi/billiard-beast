@@ -46,6 +46,8 @@ The solution is climate control. The same thing that helps slate tables last lon
 
 ## Preventing Warping: The Real Talk
 
+
+Keep your MDF table in a climate-controlled room at 60-70% humidity and avoid placing drinks directly on the playing surface.
 You can minimize warping by:
 
 - Keeping the table in a climate-controlled room (best option)
@@ -119,6 +121,8 @@ But for most people? MDF is totally acceptable.
 
 ## Comparing Slate vs MDF
 
+
+Slate costs $2,000+ and lasts 30-50 years with zero warping, while MDF runs $700-$1,500 and lasts 10-15 years with humidity risk.
 | Factor | Slate | MDF |
 |--------|-------|-----|
 | Cost | $2,000+ | $700-$1,500 |

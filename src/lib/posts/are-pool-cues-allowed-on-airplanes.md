@@ -29,6 +29,8 @@ In general, it’s always a good idea to consult the TSA’s list of accepted an
 
 ## Flying Between Other Countries
 
+
+International airline policies vary widely, so always check your specific carrier's rules before flying with a pool cue as checked baggage.
 If you’re flying internationally, it’s good to be aware of the rules in other countries and regions. The UK government, for instance, does include pool cues in their list of accepted carry-on items. However, some countries and even individual airports or airlines may have their own set of rules for what is and isn’t allowed on airplanes. Some countries may not allow pool cues even if they’re checked.
 
 It’s always best to check in advance with the airline you’ll be using and the government in your destination country to find out whether or not they’ll allow you to fly with your cue.

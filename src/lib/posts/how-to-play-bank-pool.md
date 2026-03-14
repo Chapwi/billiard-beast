@@ -55,6 +55,8 @@ With the rack in place you then proceed to the break. Who gets to break is typic
 
 ## Angle Is Everything
 
+
+Bank shots require hitting the object ball into a cushion at the right angle so it rebounds into the target pocket.
 On the break shot, and when playing with a full rack, a minimum of 2 object balls must come in contact with the rails or else it is considered an illegal break.
 
 ## Speed Control

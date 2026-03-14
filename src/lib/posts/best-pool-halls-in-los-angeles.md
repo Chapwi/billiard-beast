@@ -13,6 +13,8 @@ faqs:
     answer: “Pricing varies by venue, but expect $15-$25 per hour for table rental. Some places charge less during happy hour or offer membership discounts.”
   - question: “Are there pool halls in other parts of LA besides West LA?”
     answer: “LA is spread out, so locations vary. Q’s is one of the longest-running spots, but checking Google Maps for ‘pool halls near me’ with your zip code helps find options in your neighborhood.”
+items:
+  - name: "Q's Billiard Club"
 ---
 
 LA’s got plenty of places to shoot pool, but most of them aren’t pure pool halls anymore. They’ve evolved into hybrid bars and restaurants where you can actually get food and drinks while you play. That’s not necessarily bad. It means you can spend three hours on the tables without getting hungry or thirsty, and you’ve got social options if someone in your group doesn’t play.

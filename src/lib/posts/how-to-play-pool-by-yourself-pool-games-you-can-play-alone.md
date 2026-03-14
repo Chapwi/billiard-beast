@@ -39,6 +39,8 @@ Pretty much any game of pool you can think of can be played alone with some vari
 
 ## 3 Ball
 
+
+Rack all 15 balls normally, break, then try to run the table. Count your total shots per rack and track your average over time.
 To start, rack all fifteen balls like you would in a traditional game of 8 ball with the 8 ball in the center surrounded by the rest of the balls in random order. Break, and then proceed to sink all of the striped balls followed by the solids, or vice versa. Be sure to pocket the 8 ball last and call your pocket for good practice. Solo 8 ball is a great way to keep your skills sharp while having a good time doing so.
 
 ## Tips for Playing Pool Alone

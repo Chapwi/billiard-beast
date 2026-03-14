@@ -51,6 +51,8 @@ The rest of the triangle rack should be random, save for the two corner balls at
 
 ## Winning The Game
 
+
+You win 8-ball by legally pocketing all seven of your group balls (solids or stripes) and then sinking the 8-ball in your called pocket.
 The break formation should be aligned with the apex ball (Number 1 Ball) at the foot spot on the table (usually a little round marker at one end of the table). The bottom of the break formation should be aligned parallel with the closest end of the table.
 
 ## 8 Ball Fouls Explained

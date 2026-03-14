@@ -33,6 +33,8 @@ In truth the rest of the rules of cutthroat are very similar to something like 8
 
 ## Who Goes First?
 
+
+Players lag or flip a coin to determine order. Going third in cutthroat is the worst position, so winning the lag matters.
 When you make a ball in, as long as it was not an illegal shot (something I define later in the article), you get to keep shooting. If a player has all the balls within their group pocketed then they are eliminated from play, unless someone commits a foul. At the end of the game whichever player has any number of their balls remaining is the official winner.
 
 ## Playing With Called Shots

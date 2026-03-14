@@ -11,6 +11,17 @@ faqs:
   - question: "Are expensive pool cues worth it?"
     answer: "Depends on how much you play. The performance jump from $30 to $100 is significant. From $100 to $300, noticeable but smaller. Above $300, you're mostly paying for feel, aesthetics, and bragging rights. A $150 cue in skilled hands beats a $500 cue in unskilled hands every time."
 image: "/images/canva-pool-sticks-cross.webp"
+items:
+  - name: "Viking Valhalla 100 Series"
+  - name: "Viper Sinister"
+  - name: "PureX Technology Pool Cue"
+  - name: "Collapsar CXL500"
+  - name: "Players G-2401"
+  - name: "Players G-3401"
+  - name: "McDermott ES-1"
+  - name: "Lucasi Hybrid LH7"
+  - name: "Predator Roadline"
+  - name: "McDermott G-series"
 ---
 
 Pool cues cost anywhere from $25 to $5,000. That's a ridiculous spread. A guy buying a cue for his garage and a professional touring player are shopping from the same market, and the price tags reflect it.
@@ -110,6 +121,20 @@ The biggest mistake I see is people spending too much too early. A $30 Valhalla 
 Go shoot.
 
 ---
+
+
+## Quick Comparison
+
+| Cue | Price | Key Feature | Verdict |
+|-----|-------|-------------|---------|
+| Viking Valhalla 100 | ~$30 | Irish linen wrap at budget price | Best value |
+| PureX Technology | ~$75 | Low-deflection shaft | Price-to-performance king |
+| Collapsar CXL500 | ~$85 | Carbon fiber shaft | Dark horse |
+| Players G-2401 | ~$65 | Solid maple, reliable | No-frills pick |
+| Players G-3401 | ~$120 | Balanced, premium feel | Sweet spot |
+| McDermott ES-1 | ~$150 | Leather wrap, beautiful finish | Confidence builder |
+| Lucasi Hybrid LH7 | ~$180 | Plays like a $300 cue | Performance pick |
+| Predator Roadline | ~$200-250 | Premium brand engineering | Trusted name |
 
 ## Related Articles
 

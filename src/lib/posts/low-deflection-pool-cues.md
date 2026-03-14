@@ -21,6 +21,8 @@ LD players swear by their cues and standard shaft players swear by theirs. It ca
 
 ## What Makes a Low Deflection Cue Work?
 
+
+Low deflection shafts use a hollow or carbon-fiber core that reduces the end mass, so the cue ball deflects less on off-center hits.
 <strong>Whether or not you need a low deflection pool cue is highly dependent upon your needs as a player, your level of experience, and how invested you are in getting better. Generally speaking, anyone looking to improve their skills at the pool table should get a low deflection cue. Casual players, or those who have played with standard shafts for long periods of time, may not find it beneficial to purchase a low deflection pool cue.</strong>
 
 ## Benefits and Advantages of Low Deflection Cues

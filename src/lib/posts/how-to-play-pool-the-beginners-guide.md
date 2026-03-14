@@ -23,6 +23,8 @@ As with anything new, just getting started can be a bit overwhelming. After all,
 
 ## The Basics of Billiards
 
+
+Pool uses a cue stick, 15 numbered object balls, and one white cue ball on a 7 to 9-foot felt-covered table with six pockets.
 If you’ve never played pool before or are still fairly new and want to learn the ins and outs, the terminology, and how to play, before you actually make it to the table, you’ve come to the right place. In this article we’re going to share with you everything you need to know about how to play pool.
 
 ## Equipment
@@ -59,10 +61,14 @@ Fifteen, 2.25-inch diameter <strong>object balls</strong>, made from cast phenol
 
 ## 8-Ball
 
+
+In 8-ball, rack all 15 balls in a triangle with the 8-ball in the center, then break from behind the head string.
 The object balls are put in a triangular <strong>rack</strong> at the beginning of the game, which puts the balls in the order and particular shape required to play each variety of game. The <strong>cue ball</strong> is a slightly heavier white ball with a slightly larger diameter; it is used to knock into other balls to affect their placement.
 
 ## Nine-Ball
 
+
+Nine-ball uses balls 1 through 9 racked in a diamond shape. Hit the lowest ball first each shot, and whoever sinks the 9 wins.
 The cue ball is moved with a <strong>cue,</strong> a slender wooden stick usually between 57 and 59 inches, with a uniform taper (meaning it increases in diameter from the tip to the butt). The tip of the cue is usually constructed of leather to improve finesse of your shot and protect the condition of the balls.
 
 ## In Conclusion

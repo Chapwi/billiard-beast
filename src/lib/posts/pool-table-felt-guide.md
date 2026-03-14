@@ -31,6 +31,8 @@ In this complete guide, we'll walk you through everything you need to know about
 
 ## Felt vs. Cloth: Understanding the Terminology
 
+
+Pool players say 'felt' but the correct term is 'cloth.' Worsted cloth (like Simonis) plays faster, while woolen felt is cheaper and fuzzier.
 Before we go further, let's clarify something that confuses many pool table owners: **felt and cloth are not the same thing**, though the terms are often used interchangeably in casual conversation.
 
 **Cloth** is the technically correct term for the woven fabric covering your pool table. It's made from natural and synthetic fibers and is engineered specifically for billiards.

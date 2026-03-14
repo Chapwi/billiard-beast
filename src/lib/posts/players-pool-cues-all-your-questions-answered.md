@@ -31,10 +31,14 @@ Players pool cues are designed in America and manufactured in China using Americ
 
 ## Cue Protection & Finish
 
+
+Players cues use a multi-coat UV-cured finish that resists dings and moisture better than most cues under $200.
 The finer details of the Players cue production chain are kept under wraps, but according to the available information, Players cues are conceptualized and designed by a woman-led design team in Florida. The specifications are then sent to the Chinese factory, where assembly begins. After manufacturing is complete, the cues are then shipped back to the U.S.
 
 ## Shaft
 
+
+Players shafts use Canadian hard rock maple with a pro taper, performing well for the price but lacking the low-deflection tech of $400+ cues.
 Players pool cues may not be as good as the more expensive high-end cues on the market, but they are still excellent cues, especially compared with others in their price range. The solid materials, improved features, great playability, and overall quality of construction give these cues tremendous value for the money.
 
 ## Ferrule & Tip

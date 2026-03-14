@@ -39,6 +39,51 @@ function buildArticleSchema(post, url) {
     });
   }
 
+  // Add ItemList schema for ranked/listicle articles (best-of, top picks)
+  if (post.items && post.items.length > 0) {
+    schema.push({
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: post.title,
+      numberOfItems: post.items.length,
+      itemListElement: post.items.map((item, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: item.name,
+        url: item.url || url
+      }))
+    });
+  }
+
+  // Add Product schema for individual product reviews
+  if (post.product) {
+    const productSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: post.product.name,
+      brand: { '@type': 'Brand', name: post.product.brand || '' },
+      description: post.product.description || post.description || ''
+    };
+    if (post.product.price) {
+      productSchema.offers = {
+        '@type': 'Offer',
+        price: post.product.price,
+        priceCurrency: 'USD',
+        availability: 'https://schema.org/InStock'
+      };
+    }
+    if (post.product.rating) {
+      productSchema.aggregateRating = {
+        '@type': 'AggregateRating',
+        ratingValue: post.product.rating,
+        bestRating: '5',
+        worstRating: '1',
+        ratingCount: post.product.ratingCount || 1
+      };
+    }
+    schema.push(productSchema);
+  }
+
   return schema;
 }
 

@@ -39,6 +39,8 @@ One of the differences is that the game only uses four balls total between the c
 
 ## How Do MostPlayers Do It?
 
+
+Most players average 3-5 shots per rack in casual 3-ball. Pros regularly clear in 2 shots, and a 1-shot clear is the gold standard.
 The second difference is that the way to win the game is not based on being the last person to pocket a particular ball, but to be the person who can pocket all three balls with the fewest amount of shots. 3-ball is a lot like golf in that the more points you have the worse you’re doing because you could have theoretically done the same thing in less attempts.
 
 ## Additional Ways to Keep Score

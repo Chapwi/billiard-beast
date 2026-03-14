@@ -79,6 +79,8 @@ He also brought a different temperament to competitive pool. Less trash talk. Le
 
 ## Playing Like Efren: What We Can Learn
 
+
+Study Efren's pattern play and creativity, not his specific shots. His real skill was seeing angles three shots ahead of everyone else.
 If you're learning pool, whether you're just starting with [the basics of how to hold a cue](/how-to-hold-a-pool-cue-a-simple-guide-for-beginners/) or you've been playing for years, there are lessons in Efren's game you can take.
 
 First: position is everything. Before you even shoot, know where the cue ball needs to be for your next shot. This is more important than sinking the ball in front of you. Get good [learning what English means in pool](/what-is-english-in-pool-a-simple-explanation/) and how to control the cue ball, because that's where matches are won.

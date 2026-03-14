@@ -51,6 +51,8 @@ Pool balls aren’t light, and they will eventually stretch out the pockets a bi
 
 ## Cue and Ball Wall Rack
 
+
+A wall-mounted cue and ball rack keeps everything organized and prevents balls from sitting on the felt 24/7, reducing wear on the cloth.
 Some people say that you can wear out the cloth around the pool table pockets, but I don’t see how this is possible if you just leave the balls in the pockets after a game is over. Unless you’re switching balls from pocket to pocket just for the heck of it (why would anyone do that?), then you shouldn’t have to worry about extra wear on the cloth.
 
 ## Other Articles You May Be Interested In

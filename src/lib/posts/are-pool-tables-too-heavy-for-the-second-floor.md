@@ -39,6 +39,8 @@ These numbers will vary depending upon the regulations set by your local governm
 
 ## Vibration Concerns
 
+
+Most residential floors support 30-40 pounds per square foot, so a 1,000-lb slate table spread across 35+ square feet stays well within limits.
 This means that if you have a 10×10 room with a 30 pound per square foot weight limit, the total amount of weight that should be placed in the room is 3000 pounds. We get this number by taking the total square footage of the room and multiplying it by the pound per square foot weight limit of your second floor.
 
 ## Mitigation Strategies

@@ -16,6 +16,12 @@ faqs:
     answer: "Not if you want an actual game. Mini tables (3 or 4 feet) are novelties. They're fun to have around, but the pockets are tiny, the felt is rough, and it's frustrating to play on. Get a real 6-footer and make the space work."
 published: true
 image: "/images/fatcattrueshotfoldablebilliardstable.webp"
+items:
+  - name: "Fat Cat Trueshot 6-Foot Pool Table"
+  - name: "GoSports Mid-Size 6-Foot Pool Table"
+  - name: "Hathaway Fairmont 6-Foot Pool Table"
+  - name: "Mizerak Dynasty 6.5-Foot Pool Table"
+  - name: "Fat Cat Reno 7-Foot Pool Table"
 ---
 
 You're staring at your apartment floor, measuring with your hands like an idiot, thinking "yeah, a pool table would fit." It won't. Not like you think it will.
@@ -185,6 +191,17 @@ If you're going to spend the money, jump to Hathaway or Mizerak. The jump in pla
 Stop shopping for space solutions and start measuring your actual space. Build from there. The table that fits your room is the right table, even if it's not the size you wanted.
 
 ---
+
+
+## Quick Comparison
+
+| Table | Price | Size | Surface | Best For |
+|-------|-------|------|---------|----------|
+| Fat Cat Trueshot | ~$300-400 | 6 ft | Composite | Budget option |
+| GoSports Mid-Size | ~$250-350 | 6 ft | Standard felt | Compact spaces |
+| Hathaway Fairmont | ~$350-500 | 6 ft | Real felt | Quality jump |
+| Mizerak Dynasty | ~$400-600 | 6.5 ft | Real slate | Practice table |
+| Fat Cat Reno | ~$500-700 | 7 ft | Real slate | Best overall |
 
 ## FAQ
 

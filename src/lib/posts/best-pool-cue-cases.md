@@ -15,6 +15,15 @@ faqs:
     answer: "Yes, pool cues are allowed in checked baggage and often treated as sporting equipment. Use a hard case with TSA-approved lock options and contact your airline beforehand."
   - question: "How long do pool cue cases last?"
     answer: "Soft cases last 3-5 years with moderate use. Hard cases last 10+ years, and leather cases can last 10+ years with proper care."
+items:
+  - name: "Casemaster Vinyl Case 1x1"
+  - name: "Viper Soft Case 2x2"
+  - name: "Casemaster Crown Royal Leather Case 2x2"
+  - name: "Predator Deluxe Soft Case 2x4"
+  - name: "InStroke Deluxe Nylon Case 2x4"
+  - name: "Predator Icon Hard Case 2x4"
+  - name: "Casemaster Elite Hard Case 3x5"
+  - name: "McDermott Premium Hard Case 2x4"
 ---
 
 # Best Pool Cue Cases in 2026: Protect Your Investment
@@ -400,6 +409,18 @@ Policies vary by carrier, but most treat cue cases as sporting equipment:
 - Label your case clearly with your contact information
 
 ---
+
+
+## Quick Comparison
+
+| Case | Price | Type | Capacity | Best For |
+|------|-------|------|----------|----------|
+| Casemaster Vinyl 1x1 | ~$35-45 | Soft | 1 butt, 1 shaft | Starter case |
+| Viper Soft 2x2 | ~$50-65 | Soft | 2 butts, 2 shafts | Value pick |
+| Casemaster Crown Royal 2x2 | ~$80-120 | Soft leather | 2 butts, 2 shafts | Style upgrade |
+| InStroke Deluxe 2x4 | ~$100-150 | Soft nylon | 2 butts, 4 shafts | Durable choice |
+| Predator Deluxe 2x4 | ~$120-160 | Soft | 2 butts, 4 shafts | Regular player |
+| Predator Icon 2x4 | ~$250-350 | Hard ABS | 2 butts, 4 shafts | Tournament grade |
 
 ## FAQ
 

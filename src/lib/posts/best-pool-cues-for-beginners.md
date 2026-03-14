@@ -15,6 +15,11 @@ faqs:
     answer: "Spend between $50-150. This range offers solid quality without overspending. Cheaper cues warp and frustrate you; more expensive ones are overkill for beginners."
   - question: "Do I need to buy a case with my cue?"
     answer: "Not immediately, but soon. A good soft case ($30-50) protects your investment and prevents warping during transport. Cues left loose in cars get damaged."
+items:
+  - name: "Players HXT15 Pool Cue"
+  - name: "Viking Valhalla VA221 Pool Cue"
+  - name: "McDermott Lucky Series Pool Cue"
+  - name: "Lucasi Custom LZC Pool Cue"
 ---
 
 # Best Pool Cues for Beginners in 2026: A Complete Buyer's Guide
@@ -430,6 +435,18 @@ A loose joint means the cue will flex unpredictably where the butt and shaft mee
 **Solution**: Gently twist the joint when assembled. It should barely move. Some play is normal, but it should feel solid.
 
 ---
+
+
+## Quick Comparison
+
+| Cue | Price | Weight | Tip Size | Best For |
+|-----|-------|--------|----------|----------|
+| Viking Valhalla 100 | ~$30 | 18-21 oz | 13mm | Try-before-commit |
+| Players G-2401 | ~$65 | 19 oz | 13mm | Budget-friendly |
+| PureX Technology | ~$75 | 18.5 oz | 12.75mm | Smartest buy |
+| Players G-3401 | ~$120 | 19 oz | 13mm | Top overall pick |
+| McDermott ES-1 | ~$150 | 19 oz | 13mm | Premium feel |
+| Lucasi Hybrid LH7 | ~$180 | 18.5 oz | 11.75mm | Performance focus |
 
 ## FAQ
 

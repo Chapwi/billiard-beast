@@ -21,6 +21,8 @@ A European taper means that the entire length of the shaft (or the whole cue) is
 
 ## Pro Taper
 
+
+A pro taper shaft stays the same diameter (usually 13mm) from the tip down to about 12-14 inches, then gradually widens toward the joint.
 As stated above, a pro taper shaft has the same diameter from the tip to a certain point along the shaft (usually around 12 inches down), where the diameter begins increasing toward the shaft. This makes it look almost like an elongated funnel.
 
 ## Pro Taper

@@ -11,6 +11,13 @@ faqs:
   - question: What's the difference between handcrafted and mass-produced pool cues?
     answer: Handcrafted cues like Schon are made with individual attention to detail, using only the highest quality materials and focusing on precision and excellence. This results in superior consistency and playability compared to mass-produced alternatives.
 image: "/images/canva-pool-cue.webp"
+items:
+  - name: "Meucci"
+  - name: "Schon"
+  - name: "Lucasi"
+  - name: "Pechauer"
+  - name: "Jacoby"
+  - name: "Balabushka"
 ---
 
 We all know that the brand of pool cue a person uses has very little to do with his skills or abilities as a player. Getting good at pool is something that just takes time, patience, along with also lots of practice. But using a quality cue from a reputable maker can definitely make the process a little easier. With years of experience and expertise, brand name cue makers provide exceptional quality and consistency in their cues which translates into more consistent practice sessions and increased confidence at the table.
@@ -74,6 +81,18 @@ In 2017, Stephen Janes, following in his father’s footsteps, was named Cuemake
 — [Browse Jacoby on Amazon](https://www.amazon.com/s?k=Jacoby+pool+cue&tag=billiardbeast-20)
 
 ---
+
+
+## Quick Comparison
+
+| Brand | Price Range | Made In | Known For | Best For |
+|-------|-----------|---------|-----------|----------|
+| Meucci | $300-1,500+ | USA | Low deflection shafts | Competitive players |
+| Schon | $500-2,000+ | USA | Handcrafted exotic woods | Collectors |
+| Lucasi | $150-800 | Imported | Consistent straightness | Performance value |
+| Pechauer | $300-1,200 | USA | Joint and ferrule engineering | Precision players |
+| Jacoby | $400-1,500 | USA | Black Dot Bullseye Shaft | Family-built quality |
+| Balabushka | $500-5,000+ | USA | Tournament-proven legacy | Serious collectors |
 
 ## Related Articles
 

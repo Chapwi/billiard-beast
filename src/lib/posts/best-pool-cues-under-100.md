@@ -13,6 +13,13 @@ faqs:
   - question: "Is PureX a good pool cue brand?"
     answer: "PureX is made by the same parent company as Lucasi and Players (CCSI). Their Technology line offers low-deflection shaft technology at under $100, which is rare. They're a strong mid-budget choice with solid manufacturing quality."
 image: "/images/canva-pool-table-and-cues.webp"
+items:
+  - name: "Viking Valhalla 100 Series"
+  - name: "PureX Technology Pool Cue"
+  - name: "Collapsar CXL500"
+  - name: "Viper Sinister 5 Series"
+  - name: "Players G-2401"
+  - name: "Pure X HXT62"
 ---
 
 You don't need to spend $300 on a pool cue. You don't even need to spend $200.
@@ -116,6 +123,18 @@ Buy the [Viking Valhalla 100](https://www.amazon.com/s?k=Viking+Valhalla+100+poo
 Then stop shopping and go play pool.
 
 ---
+
+
+## Quick Comparison
+
+| Cue | Price | Tip Size | Key Feature | Verdict |
+|-----|-------|----------|-------------|---------|
+| Viking Valhalla 100 | ~$30 | 13mm | Irish linen wrap | Best seller |
+| PureX Technology | ~$75 | 12.75mm | Low-deflection shaft | Performance king |
+| Collapsar CXL500 | ~$85 | 13mm | Carbon fiber shaft | Best tech |
+| Viper Sinister 5 | ~$25 | 13mm | Basic maple | Bare essentials |
+| Players G-2401 | ~$65 | 13mm | Solid maple | Reliable choice |
+| Pure X HXT62 | ~$90 | 12.75mm | Kamui tip, HXT shaft | Upgraded tech |
 
 ## Related Articles
 

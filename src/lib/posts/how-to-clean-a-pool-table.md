@@ -27,6 +27,8 @@ The best way to keep your pool table clean is to minimize the potential for mess
 
 ## Ways <em>Not</em> To Clean
 
+
+Never use a vacuum with a beater bar, household cleaners, or excessive water on your pool table felt. All three will damage or shrink the cloth.
 ## Ways <em>Not</em> To Clean
 
 A sudden mess, like a spilled drink, can cause a pool table owner to switch into crisis mode, with quick and sudden reactions that sometimes may do more harm than good. Imagine the frustration of tending to a situation with the life of your pool-table hanging in the balance, only to find you’ve caused further damage.

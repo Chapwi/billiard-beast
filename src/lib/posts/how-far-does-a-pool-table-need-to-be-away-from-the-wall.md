@@ -23,6 +23,8 @@ In this article we’re not only going to discuss how far a pool table should be
 
 ## When Additional Space May Be Necessary
 
+
+Add 6-12 extra inches beyond the standard 5 feet if your room has furniture, doors that swing inward, or low-hanging light fixtures.
 Although 58 inches is the industry standard when it comes to pool cue length, there are numerous other lengths available. And depending on which length cue you play with, the amount of space needed between your pool table and the wall will vary.
 
 For example, if you’re using a 48 inch cue, then you need at least 48 inches between your pool table and its surrounding walls. This will ensure the butt end of your cue wont hit the wall when taking a shot. Likewise with a 58 inch cue, you technically only need 58 inches of space between the table and its surrounding walls.

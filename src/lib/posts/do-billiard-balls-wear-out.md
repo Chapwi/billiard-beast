@@ -45,6 +45,8 @@ Whether you are a novice who likes to rack them up on the weekends or an advance
 
 ## Japer Bees Deluxe
 
+
+The Japer Bees Deluxe set costs around $40 and uses A-grade resin that holds up well for home tables, lasting 3-5 years with regular play.
 To help you better understand when and how billiard balls wear out, we have put together this informational guide to explain how to keep billiard balls from wearing out, how long they normally last, when to replace them, and with which options.
 
 Billiard balls wear out due to the friction produced during the shot. Cue balls tend to wear out faster because they’re used for every shot and are struck with the cue tip, whereas the object balls don’t receive as much abuse.

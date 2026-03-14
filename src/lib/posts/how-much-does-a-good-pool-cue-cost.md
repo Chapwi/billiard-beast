@@ -19,6 +19,8 @@ Why such a big difference in price? Expensive pool cues tend to be of higher qua
 
 ## Fit & Feel
 
+
+A good cue should feel balanced at 18-19 oz with a comfortable wrap and a tip that matches your playing style. Try before you buy.
 So, whether your a novice or expert, hobbyist or professional, having a good, dependable cue that fits your level of skill is essential to growing your skills and improving your game. If you’d like to know more about what makes a pool cue good, what affects the price of pool cues, and how to find one that’s a good fit for you, keep reading to learn more!
 
 ## Looks

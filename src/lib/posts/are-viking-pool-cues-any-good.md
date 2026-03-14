@@ -51,6 +51,8 @@ The bumpers are threaded and low-profile so you don’t have to constantly be pu
 
 ## Warranty Information
 
+
+Viking backs their ViKORE and USA-made cues with a limited lifetime warranty covering material defects, warpage, and craftsmanship issues.
 As I mentioned above, the Valhalla cues are much more budget-friendly because they’re not made in America and generally don’t have all the exotic woods and inlays, although you can customize them to an extent if you want to pay extra. [Learn more in our Valhalla 100 Series review](/viking-valhalla-100-series-review/) or — [Browse Viking Cues on Amazon](https://www.amazon.com/s?k=Viking+pool+cue&tag=billiardbeast-20)
 
 ## Other Articles You May Be Interested In
