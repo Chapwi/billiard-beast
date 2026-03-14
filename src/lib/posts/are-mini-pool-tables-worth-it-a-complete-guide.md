@@ -17,7 +17,7 @@ It’s not possible for everyone to have a full-size pool table in their home. S
 
 If you’re unsure about whether to buy a mini pool table, read on. This article is a complete guide to mini pool tables, and it includes everything you need to know to make an informed decision. Plus, there’s even a recommendation for the best mini pool table at the end!
 
-Mini pool tables can provide hours of fun for the whole family. They’re exactly what they sound like: miniature versions of larger pool tables found in bars and pool halls. The key concepts remain the same on mini pool tables as they are on larger tables. It’s still all about accuracy, angles, power, and finesse.
+Mini pool tables can provide hours of fun for the whole family. They’re exactly what they sound like: miniature versions of larger pool tables found in bars and pool halls. The key concepts remain the same on mini pool tables as they are on larger tables. It’s still all about accuracy, angles, power, along with finesse.
 
 ## Complete Set
 
@@ -68,6 +68,10 @@ While we’re on the subject of slate, let’s talk about how much mini pool tab
 The smallest tabletop pool tables weigh under 10 pounds. Mid-size mini pool tables usually weigh between 25 and 50 pounds. The largest of the mini tables, those that are around 6-feet, generally weigh somewhere between 100 and 150 pounds.
 
 ---
+
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

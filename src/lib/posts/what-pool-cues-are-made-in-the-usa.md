@@ -40,7 +40,7 @@ The cues are known for beauty as much as performance. People display them in the
 
 Jerry Pechauer started by repairing cues in his spare time. In 1980, he opened a billiard supply store. He and his son Joe started taking custom orders for cues. That was 40+ years ago.
 
-Pechauer is still Wisconsin-based (you're seeing a pattern; there's something in the water there). They won Cue of the Year awards in 2013, 2015, 2017, and 2019. These are actual competition awards, not marketing claims.
+Pechauer is still Wisconsin-based (you're seeing a pattern; there's something in the water there). They won Cue of the Year awards in 2013, 2015, 2017, along with 2019. These are actual competition awards, not marketing claims.
 
 Recently, Pechauer developed a carbon fiber cue line. Carbon fiber is lighter and doesn't warp like wood can. It's gaining traction, especially among players who play in varying humidity conditions. The technology is relatively new to pool cues, but Pechauer's versions are respected.
 
@@ -78,7 +78,7 @@ You might wonder: can't I just get a cue from somewhere cheaper?
 
 You can. And it might be fine. But here's what's different about American-made:
 
-**Warranty service.** If something breaks, you're dealing with a company that's still here, reachable, and willing to fix it.
+**Warranty service.** If something breaks, you're dealing with a company that's still here, reachable, along with willing to fix it.
 
 **Consistent materials.** American makers control their supply chain. You're not dealing with unexpected variations in wood quality or construction standards.
 
@@ -94,6 +94,10 @@ Read reviews from actual players, not just promotional material. People playing 
 
 Call the company. Ask where it's manufactured. If they're evasive or outsourcing, they'll likely hedge. If they made it in-house, they'll tell you exactly which facility.
 
+
+
+**Worth checking out:** For a reliable starter cue, take a look at the [CUESOUL 58-Inch Pool Cue Set](https://www.amazon.com/dp/B09C1RVQGV?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **Are American-made cues worth twice the price of imports?**
@@ -102,7 +106,7 @@ Not always exactly twice, but they do cost more. The price difference reflects l
 
 **Can I get a custom cue from any of these makers?**
 
-Schon and Pechauer take custom orders regularly. Jacoby, Meucci, and Balabushka do selective custom work. Smaller makers often specialize in customs. Call ahead and ask about their process and timeline.
+Schon and Pechauer take custom orders regularly. Jacoby, Meucci, along with Balabushka do selective custom work. Smaller makers often specialize in customs. Call ahead and ask about their process and timeline.
 
 **Do these cues hold their value?**
 

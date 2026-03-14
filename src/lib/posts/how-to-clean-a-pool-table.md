@@ -73,6 +73,10 @@ You can extend the life of your table and avoid costly repairs by keeping your b
 
 ---
 
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **What tool should I use to clean pool table felt?**

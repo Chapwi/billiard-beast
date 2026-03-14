@@ -19,7 +19,7 @@ Read on to discover the breakdown of different pool tables and how much weight t
 
 I want to start this off by saying that it’s never a good idea to place anything heavy on a pool table. While some tables are built sturdier than others, there are many components that won’t hold up under the stress or strain of a foreign object on the table— especially a heavy one.
 
-Pool table felt can be stretched, scuffed, and scratched easily in the process of putting something that doesn’t belong on the table. The railings can be damaged with a little force. The wood frame of the table can be cracked. And the playing surface, whether it be slate or wood, can crack, warp, or break.
+Pool table felt can be stretched, scuffed, along with scratched easily in the process of putting something that doesn’t belong on the table. The railings can be damaged with a little force. The wood frame of the table can be cracked. And the playing surface, whether it be slate or wood, can crack, warp, or break.
 
 At the very least, setting anything heavy on a pool table will force it out of level. If you want to play on the table again, you’ll need to re-level it beforehand.
 
@@ -52,6 +52,10 @@ Slate pool tables are heavy and they look like they can hold a bunch of weight. 
 ## Other Articles You May Be Interested In
 
 ---
+
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

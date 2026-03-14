@@ -87,6 +87,10 @@ Pocketing a second ball does not result in the end of your inning. Your inning e
 
 Any ball that is pocketed without being banked and called is illegal.
 
+
+
+**Worth checking out:** Grab a copy of the official rule book, take a look at the [Official BCA Rules Book](https://www.amazon.com/dp/B00KXHVGDS?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **What's the main rule of bank pool?**

@@ -75,6 +75,10 @@ Start at Q’s if you’re visiting LA for the first time and want a guaranteed 
 
 ---
 
+
+
+**Worth checking out:** Grab a copy of the official rule book, take a look at the [Official BCA Rules Book](https://www.amazon.com/dp/B00KXHVGDS?tag=billiardbeast-20) on Amazon.
+
 ## Related Articles
 
 For more on this topic, check out [Efren Reyes](/efren-reyes-magicians-legacy-world-billiards/), [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), and [billiard game types](/billiard-games/).

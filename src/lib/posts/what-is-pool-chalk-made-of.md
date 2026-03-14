@@ -16,7 +16,7 @@ It's not chalk. That's the first shock most people get. Despite the name, pool c
 
 ## Pool Chalk Isn't Actually Chalk
 
-Real chalk (the kind you used in school) comes from calcium carbonate. It forms in the ocean over millions of years from the shells and skeletons of tiny plankton that die and sink to the bottom. Entire cliff faces are made of this stuff. It's soft, dusty, and easily erasable.
+Real chalk (the kind you used in school) comes from calcium carbonate. It forms in the ocean over millions of years from the shells and skeletons of tiny plankton that die and sink to the bottom. Entire cliff faces are made of this stuff. It's soft, dusty, along with easily erasable.
 
 That's not what's on your cue tip.
 
@@ -26,7 +26,7 @@ The reason? Real chalk doesn't work. It's too dusty and too weak. It'd stain you
 
 ## What You're Actually Rubbing On Your Cue
 
-**Silica** is a mineral found as quartz in sand, concrete, and granite. It's hard, durable, and creates friction. In large quantities it's a health hazard to inhale, but the amount you're exposed to while chalking your cue is negligible. You're not creating clouds of dust.
+**Silica** is a mineral found as quartz in sand, concrete, along with granite. It's hard, durable, along with creates friction. In large quantities it's a health hazard to inhale, but the amount you're exposed to while chalking your cue is negligible. You're not creating clouds of dust.
 
 **Corundum**, or aluminum oxide, is a crystalline compound used in everything from composite fibers to electrical insulation. In its gem form, it's rubies and sapphires. On your cue tip, it adds hardness and abrasive properties, helping create the friction your cue ball needs.
 
@@ -129,6 +129,10 @@ The reason is simple: chalk does the job well, it's cheap, and players are used 
 Keep your chalk in a dry place. Chalk cubes are hygroscopic (they absorb moisture from the air). A damp cube is less effective. If you notice your chalk getting less grippy, it might have absorbed moisture.
 
 Some players keep chalk in sealed containers or even in the freezer to keep it dry and fresh. Others just use it normally and don't overthink it. For casual play, normal storage is fine.
+
+
+
+**Worth checking out:** Top-tier chalk for serious players, take a look at the [Kamui Black Chalk](https://www.amazon.com/dp/B07DCKVX9C?tag=billiardbeast-20) on Amazon.
 
 ## FAQ
 

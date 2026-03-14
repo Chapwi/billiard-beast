@@ -85,6 +85,10 @@ Legal shots are the ones where you hit your ball without committing a foul. Acco
 
 ---
 
+
+
+**Worth checking out:** The gold standard in pool balls, take a look at the [Aramith Pure Phenolic Pool Balls](https://www.amazon.com/dp/B009L16GJI?tag=billiardbeast-20) on Amazon.
+
 ## Related Articles
 
 For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [8-ball rules](/8-ball-pool-rules-the-simple-version/), [9-ball rules](/how-to-play-9-ball-9-ball-rules-explained/), [10-ball rules](/how-to-play-10-ball-pool-rules-and-gameplay/), and [cutthroat pool rules](/how-to-play-cutthroat-pool/).

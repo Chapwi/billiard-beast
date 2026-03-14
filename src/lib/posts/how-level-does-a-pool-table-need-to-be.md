@@ -35,7 +35,7 @@ So, here are a few ways to tell if your table is level, from least precise to mo
 
 The least precise way to tell if your table is level is to use your billiard balls. You can do this with your hand or with a cue stick. If you use a cue stick, use the cue ball. If you use your hand, it doesn’t matter.
 
-All you want to do is slowly roll the ball across the table every which way you can. A level table should allow the ball to travel in a relatively straight line. So the idea is to watch the ball as it travels for any irregularities. Do this longways, short ways, diagonal, and from each pocket to every other pocket. If you don’t see any noticeable irregularities, your table is level enough for fair play.
+All you want to do is slowly roll the ball across the table every which way you can. A level table should allow the ball to travel in a relatively straight line. So the idea is to watch the ball as it travels for any irregularities. Do this longways, short ways, diagonal, along with from each pocket to every other pocket. If you don’t see any noticeable irregularities, your table is level enough for fair play.
 
 ## Use a Machinist’s Level
 
@@ -62,6 +62,10 @@ Machinist’s levels are incredibly expensive and incredibly precise. In fact, t
 In short, your pool table needs to be as level as you want it to be. For most people, slow rolling a ball on the table will tell them if it’s level enough. If you want to get more precise, use a pane of glass and a marble, a carpenter’s level, or a machinist’s level. But really, a decent table should be precision-leveled once at installation and only adjusted periodically after that.
 
 ---
+
+
+
+**Worth checking out:** If you need to replace your felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

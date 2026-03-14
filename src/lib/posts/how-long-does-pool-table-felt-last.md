@@ -9,7 +9,7 @@ faqs:
 image: "/images/how-long-does-pool-table-felt-last_.webp"
 ---
 
-A pool table as a whole is sturdy, heavy, and might as well be attached to the floor. Considering the game of pool, it’s no surprise that tables can last decades. But there is one part of the pool table that experiences wear every time you play: the felt. In fact, the felt (or cloth) on a pool table wears out long before any other part. But this begs the question: How long does [pool table felt](/pool-table-felt-guide/) last?
+A pool table as a whole is sturdy, heavy, along with might as well be attached to the floor. Considering the game of pool, it’s no surprise that tables can last decades. But there is one part of the pool table that experiences wear every time you play: the felt. In fact, the felt (or cloth) on a pool table wears out long before any other part. But this begs the question: How long does [pool table felt](/pool-table-felt-guide/) last?
 
 <strong>For those tables that see daily or near-daily play, felt lasts between 3 and 5 years. Those tables that only see occasional play can go anywhere from 5 to 15 years without changing the felt. Proper care and quality-made felt can help to drastically increase the life of your pool table felt.</strong>
 
@@ -54,6 +54,10 @@ Before you decide, I’d suggest watching a video of felt replacement (like the 
 If it looks like a little too much, you can always contact a professional to do it for you.
 
 ---
+
+
+
+**Worth checking out:** If you need replacement felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

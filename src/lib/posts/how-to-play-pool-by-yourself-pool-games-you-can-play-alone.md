@@ -83,6 +83,10 @@ Cowboy pool is basically a game of 8 ball played backwards. You rack the balls i
 
 In standard 8 ball you strike the cue ball first which then hits your object ball hopefully into a pocket. With cowboy pool, you strike your object ball first, which then has to hit the cue ball before making its way into a pocket. This game is a great way to learn angles and position play.
 
+
+
+**Worth checking out:** Grab a copy of the official rule book, take a look at the [Official BCA Rules Book](https://www.amazon.com/dp/B00KXHVGDS?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **Can you really play pool by yourself?**

@@ -21,7 +21,7 @@ Pool is a game loved and enjoyed by millions of people around the world. It usua
 
 ## Cut Throat Pool: A Thrilling 3-Player Game
 
-But pool doesn’t have to be played with just two people. In fact, there are some pool games that are great for three players including Cut Throat, Rotation, and Kelly Pool. You can even modify traditional pool games such as 8-ball and 9-ball to accommodate three players.
+But pool doesn’t have to be played with just two people. In fact, there are some pool games that are great for three players including Cut Throat, Rotation, along with Kelly Pool. You can even modify traditional pool games such as 8-ball and 9-ball to accommodate three players.
 
 ## Number of Players
 
@@ -114,6 +114,10 @@ By following these guidelines, you can enjoy a lively game of Cut Throat Pool wi
 ## In Conclusion
 
 ---
+
+
+
+**Worth checking out:** Grab a copy of the official rule book, take a look at the [Official BCA Rules Book](https://www.amazon.com/dp/B00KXHVGDS?tag=billiardbeast-20) on Amazon.
 
 ## FAQ
 

@@ -105,6 +105,10 @@ For this reason, it’s possible to play 3 Ball with more than two people, but t
 
 ---
 
+
+
+**Worth checking out:** Works well for snooker-style play too, take a look at the [Players Technology Series HXT15 Cue](https://www.amazon.com/dp/B000F3S62A?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **What are the most popular pool games?**
@@ -121,7 +125,7 @@ Yes, bank pool is significantly harder. Every shot must be a bank shot, meaning 
 
 **Can I play different pool games on a standard table?**
 
-Yes, all standard billiard games are played on the same 4x8 or 3.5x7 pool tables. Different games use different racking patterns, rules, and winning conditions.
+Yes, all standard billiard games are played on the same 4x8 or 3.5x7 pool tables. Different games use different racking patterns, rules, along with winning conditions.
 
 **Which pool games are best for beginners?**
 

@@ -39,9 +39,9 @@ You can get leather or 100% Double Pressed Irish linen wraps, both of which are 
 
 ## Wraps and Ferrules
 
-## Bumpers, Colors, and Exotic Woods
+## Bumpers, Colors, along with also Exotic Woods
 
-## Bumpers, Colors, and Exotic Woods
+## Bumpers, Colors, along with also Exotic Woods
 
 The bumpers are threaded and low-profile so you don’t have to constantly be pushing it back in or worrying about losing it. Plus, they offer cues in pretty much any kind of wood you can think of. They also offer 15 different colors to choose from, so you can get a cue that’s well-made and truly unique.
 
@@ -61,7 +61,7 @@ As I mentioned above, the Valhalla cues are much more budget-friendly because th
 
 That said, the Valhalla line is great for younger players or those new to the game who want a cue of their own. Valhalla cues are aesthetically pleasing, well-built, and won’t break the bank. So you can invest in one and not feel like you’re out a bunch of money if you decide to get another cue or to start switching out some components for better ones. — [Browse Viking Valhalla Cues on Amazon](https://www.amazon.com/s?k=Viking+Valhalla+pool+cue&tag=billiardbeast-20)
 
-It comes with a 100% Irish linen wrap and a Northwoods Maple forearm. The pro taper shaft is ideal for control, accuracy, and low deflection. It’s designed for low vibration, enhancing the smooth strokes needed for a flawless game.
+It comes with a 100% Irish linen wrap and a Northwoods Maple forearm. The pro taper shaft is ideal for control, accuracy, along with also low deflection. It’s designed for low vibration, enhancing the smooth strokes needed for a flawless game.
 
 The three UV coats will keep the shaft protected and looking fantastic for years to come. It also has a high-impact joint and quick-release, stainless steel pin. And, of course, it includes a lifetime warranty covering warpage and manufacturer and material defects.
 

@@ -35,7 +35,7 @@ If you must install carpet under an existing pool table, carpet tiles are the wa
 
 ## How to Protect the Carpet
 
-If you’re installing wall-to-wall carpet, you’ll likely need to move the table. There are two ways to do this, and your particular situation will dictate which is best for you. The first is to pay to have the table disassembled, moved, and then reassembled after the carpet has been installed. You can do this yourself, but I wouldn’t recommend it, as it’s a tough and very involved job.
+If you’re installing wall-to-wall carpet, you’ll likely need to move the table. There are two ways to do this, and your particular situation will dictate which is best for you. The first is to pay to have the table disassembled, moved, along with then reassembled after the carpet has been installed. You can do this yourself, but I wouldn’t recommend it, as it’s a tough and very involved job.
 
 The other option is to move the pool table without taking it apart. This option won’t work for most people, given that doorways are too small to fit most pool tables through. And, moving a pool table without taking it apart can damage the frame. You definitely want to <strong>avoid tipping the pool table on its side or moving it more than a short distance</strong>. If you need to move it up or down stairs, you’ll have to take it apart.
 
@@ -58,6 +58,10 @@ After leveling the table the first time, wait a week or two and then check it ag
 How long it takes for a pool table to settle on carpet depends. For plush carpet and a thick underlay padding, it can take months in some cases. The weight of the pool table also influences this. <strong>Most pool tables should be settled on carpet within a few weeks.</strong>
 
 ---
+
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

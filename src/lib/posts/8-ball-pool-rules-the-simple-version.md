@@ -81,6 +81,10 @@ After the break is made, the next rule concerns assigning each player either sol
 
 ---
 
+
+
+**Worth checking out:** The gold standard in pool balls, take a look at the [Aramith Pure Phenolic Pool Balls](https://www.amazon.com/dp/B009L16GJI?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **Where should the 8-ball be positioned when racking?**

@@ -39,7 +39,7 @@ The tip is 12.75mm. Same precision-oriented size as the PureX Technology cue. Sm
 
 Weight is in the standard range. Joint is standard. Wrap is basic but functional. The money clearly went into the shaft, which is where it should go.
 
-At $85, the Collapsar is competing against maple cues from Players, PureX, and entry-level McDermotts. None of those give you carbon fiber. None of those are immune to warping. The CXL500 is playing a different game . Lliterally.
+At $85, the Collapsar is competing against maple cues from Players, PureX, along with entry-level McDermotts. None of those give you carbon fiber. None of those are immune to warping. The CXL500 is playing a different game . Lliterally.
 
 ## Who's buying these
 

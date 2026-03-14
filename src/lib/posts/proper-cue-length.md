@@ -110,9 +110,13 @@ Keep it clean and dry. Wipe the shaft down after you play. Clean spills immediat
 
 ## The Takeaway
 
-Cue length, balance, and weight all pull together to either support or undermine your game. Match these factors to your body, practice like hell, and you’ll see improvements. Ignore them and you’re fighting physics every time you bend down for a shot.
+Cue length, balance, along with weight all pull together to either support or undermine your game. Match these factors to your body, practice like hell, and you’ll see improvements. Ignore them and you’re fighting physics every time you bend down for a shot.
 
 Your best play starts with the right stick in your hands.
+
+
+
+**Worth checking out:** For a reliable starter cue, take a look at the [CUESOUL 58-Inch Pool Cue Set](https://www.amazon.com/dp/B09C1RVQGV?tag=billiardbeast-20) on Amazon.
 
 ## FAQ
 

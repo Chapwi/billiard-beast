@@ -35,7 +35,7 @@ When a player receives “ball in hand” he or she can place the cue ball anywh
 
 ## Pocketing the 8-Ball and Scratching
 
-Potting, sinking, and pocketing all mean the same thing. They are just different ways of saying that a ball went into a pocket.
+Potting, sinking, along with pocketing all mean the same thing. They are just different ways of saying that a ball went into a pocket.
 
 ## Pocketing the 8-Ball and Scratching on a Break Shot
 
@@ -74,6 +74,10 @@ However, the US Professional Pool Players Association (UPA) says something diffe
 Unless you’re a maverick or haven’t played much pool, you’ve probably potted a cue ball on an 8-ball shot. When shooting the 8-ball, most of the other balls are usually in the pockets, meaning the table is pretty clear. And a clear table means that there are no obstructions to stop the cue ball.
 
 ---
+
+
+
+**Worth checking out:** The gold standard in pool balls, take a look at the [Aramith Pure Phenolic Pool Balls](https://www.amazon.com/dp/B009L16GJI?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

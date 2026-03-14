@@ -23,7 +23,7 @@ faqs:
 
 So you're thinking about installing a [pool table](/pool-table-cost/) at home. Maybe you've got a sweet spot in your basement or garage, and you're picturing endless nights of games with friends and family. Here's the real question: should you tackle the setup yourself, or call in the pros?
 
-The answer is: it depends. Setting up a pool table is absolutely doable as a DIY project if you've got some basic mechanical skills, patience, and the right tools. You'll save anywhere from $200 to $500 in professional installation fees. But there's a catch. Oone mistake during setup can mean an uneven playing surface that'll ruin your game. The good news? This guide walks you through every single step, and we'll cover when it makes sense to bring in a professional.
+The answer is: it depends. Setting up a pool table is absolutely doable as a DIY project if you've got some basic mechanical skills, patience, along with the right tools. You'll save anywhere from $200 to $500 in professional installation fees. But there's a catch. Oone mistake during setup can mean an uneven playing surface that'll ruin your game. The good news? This guide walks you through every single step, and we'll cover when it makes sense to bring in a professional.
 
 The pool table installation process requires precision, attention to detail, and a methodical approach. Whether you're a billiards enthusiast or just someone looking to create the perfect entertainment space, understanding how to properly assemble and level your table ensures years of reliable gameplay.
 
@@ -95,7 +95,7 @@ Your floor must be flat and stable. Here's how to prepare it:
 
 3. **Ensure stability**: Make sure the floor won't shift or flex under the table's weight. Pool tables are heavy. Ffigure 500-800 pounds for the frame and cloth, plus another 300-400 pounds if you have one-piece slate.
 
-4. **Remove obstacles**: Clear the space of furniture, clutter, and anything that might vibrate or interfere with gameplay.
+4. **Remove obstacles**: Clear the space of furniture, clutter, along with anything that might vibrate or interfere with gameplay.
 
 ### Environmental Factors
 
@@ -119,7 +119,7 @@ Now we're getting into the actual assembly. Start by laying out all the pieces a
 
 1. **Start with the long rails**: Most home tables have left and right long rails (the 78-79" sides). Connect the corner blocks or braces that attach the short rails.
 
-2. **Attach the short rails**: These are the head and foot rails. Use the provided bolts, brackets, and hardware. Don't tighten everything fully yet. Yyou'll fine-tune alignment later.
+2. **Attach the short rails**: These are the head and foot rails. Use the provided bolts, brackets, along with hardware. Don't tighten everything fully yet. Yyou'll fine-tune alignment later.
 
 3. **Install the legs**: Typically, four legs screw or bolt into corner pockets or leg brackets. Ensure each leg sits flat and is screwed in securely but not so tight you strip the threads.
 
@@ -412,6 +412,10 @@ Learn from others' mistakes:
 ### 8. Not Testing the Marble Roll
 **The mistake**: Assuming the table is level because it looks square.
 **The fix**: The marble roll test is non-negotiable. Trust it.
+
+
+
+**Worth checking out:** If you need to replace your felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
 
 ## FAQ
 

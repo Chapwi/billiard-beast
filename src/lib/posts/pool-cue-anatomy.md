@@ -91,9 +91,13 @@ A distinct feature of the shaft is that it gets narrower the closer it gets to t
 
 ---
 
+
+
+**Worth checking out:** For a reliable starter cue, take a look at the [CUESOUL 58-Inch Pool Cue Set](https://www.amazon.com/dp/B09C1RVQGV?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
-**What's the difference between a soft, medium, and hard tip?**
+**What's the difference between a soft, medium, along with hard tip?**
 
 Soft tips give you more control and spin options but wear down faster. Hard tips provide more power and durability but offer less control. Medium tips are a balanced choice for most recreational players.
 

@@ -25,7 +25,7 @@ Have you ever paused in the middle of a spirited game of pool to wonder what tho
 
 ## Fascinating Factoids: What You Didn’t Know About Pool Balls
 
-For those in a hurry: Modern, high-quality pool balls are primarily made from <strong>phenolic resin</strong>, a durable and high-density synthetic polymer. This material offers superior impact resistance, longevity, and consistent play.
+For those in a hurry: Modern, high-quality pool balls are primarily made from <strong>phenolic resin</strong>, a durable and high-density synthetic polymer. This material offers superior impact resistance, longevity, along with consistent play.
 
 ## A Brief History: The Evolution of Pool Ball Materials
 
@@ -37,7 +37,7 @@ Less expensive alternatives include acrylic and polyester, which are less durabl
 
 ## Late 19th Century: Celluloid and Clay
 
-<li><p><strong>Ivory Rarity</strong>: In the era of ivory pool balls, it took roughly three elephants to create a single set of billiard balls. This unsustainable practice led to the search for alternative materials.</p></li> <li><p><strong>Explosive Alternatives</strong>: The celluloid used in early pool balls was highly flammable and could sometimes even explode upon impact!</p></li> <li><p><strong>Weighty Matters</strong>: A standard pool ball weighs about 5.5 to 6 ounces (156 to 170 grams). This weight has been standardized for professional play.</p></li> <li><p><strong>Color Coding</strong>: The colors on pool balls are not just for show. They’re standardized for various games; for instance, the 8-ball is always black, and the 1 and 9 balls are typically yellow.</p></li> <li><p><strong>Sound Signature</strong>: Phenolic resin pool balls produce a unique, crisp sound when colliding, which is not just pleasing to the ear but also an indicator of quality.</p></li> <li><p><strong>High-Tech Testing</strong>: Modern pool balls go through stringent quality tests, including balance, hardness, diameter, sphericity, and weight tests to ensure top-notch performance.</p></li> <li><p><strong>Material Milestone</strong>: Phenolic resin, the material of choice for modern pool balls, was actually first developed as an electrical insulator before it revolutionized the billiards world.</p></li> <li><p><strong>Eco-Friendly Shift</strong>: As environmental concerns grow, there’s research going into creating eco-friendly materials for pool balls that perform as well as current industry standards but are biodegradable or recyclable.</p></li>
+<li><p><strong>Ivory Rarity</strong>: In the era of ivory pool balls, it took roughly three elephants to create a single set of billiard balls. This unsustainable practice led to the search for alternative materials.</p></li> <li><p><strong>Explosive Alternatives</strong>: The celluloid used in early pool balls was highly flammable and could sometimes even explode upon impact!</p></li> <li><p><strong>Weighty Matters</strong>: A standard pool ball weighs about 5.5 to 6 ounces (156 to 170 grams). This weight has been standardized for professional play.</p></li> <li><p><strong>Color Coding</strong>: The colors on pool balls are not just for show. They’re standardized for various games; for instance, the 8-ball is always black, and the 1 and 9 balls are typically yellow.</p></li> <li><p><strong>Sound Signature</strong>: Phenolic resin pool balls produce a unique, crisp sound when colliding, which is not just pleasing to the ear but also an indicator of quality.</p></li> <li><p><strong>High-Tech Testing</strong>: Modern pool balls go through stringent quality tests, including balance, hardness, diameter, sphericity, along with weight tests to ensure top-notch performance.</p></li> <li><p><strong>Material Milestone</strong>: Phenolic resin, the material of choice for modern pool balls, was actually first developed as an electrical insulator before it revolutionized the billiards world.</p></li> <li><p><strong>Eco-Friendly Shift</strong>: As environmental concerns grow, there’s research going into creating eco-friendly materials for pool balls that perform as well as current industry standards but are biodegradable or recyclable.</p></li>
 
 ## Early 20th Century: Bakelite and Crystalite
 
@@ -89,7 +89,7 @@ Today, phenolic resin is the gold standard for pool balls. Developed through the
 
 ## Why does the material of a pool ball matter?
 
-By tracing the materials used in pool balls from ivory to phenolic resin, we can see a clear evolution towards sustainability, durability, and performance. Each era of material reflects the priorities and capabilities of its time, making the history of pool ball materials a microcosm of broader technological and ethical advances.
+By tracing the materials used in pool balls from ivory to phenolic resin, we can see a clear evolution towards sustainability, durability, along with performance. Each era of material reflects the priorities and capabilities of its time, making the history of pool ball materials a microcosm of broader technological and ethical advances.
 
 ## Are there eco-friendly pool ball options?
 
@@ -98,6 +98,10 @@ By tracing the materials used in pool balls from ivory to phenolic resin, we can
 ## What tests do pool balls go through?
 
 ---
+
+
+
+**Worth checking out:** The gold standard in pool balls, take a look at the [Aramith Pure Phenolic Pool Balls](https://www.amazon.com/dp/B009L16GJI?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

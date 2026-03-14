@@ -19,7 +19,7 @@ faqs:
 
 If you’re fairly new to the world of pool, or simply haven’t paid much attention to the tables you’ve played on, it can be hard to tell what material a pool table’s surface is. After all, it’s covered in cloth (or felt, as some call it), so you can’t get a good look at it. But there are other easy ways to tell what type of material is used on any given pool table.
 
-<strong>In short, it comes down to the feel of play and the table’s construction, weight, and cost. On many tables, you can also reach into a pocket or look under the table to see if it’s slate or wood.</strong>
+<strong>In short, it comes down to the feel of play and the table’s construction, weight, along with cost. On many tables, you can also reach into a pocket or look under the table to see if it’s slate or wood.</strong>
 
 ## Slate vs Wood
 
@@ -47,7 +47,7 @@ MDF tables, on the other hand, range from $700 to $1500 for a quality table. You
 
 ## Construction
 
-As you can probably imagine, slate tables are very heavy. Not only does the slate weigh a lot (450 pounds, on average), but the rest of the table weighs a lot, too. This is because a slate table must be constructed to support the weight of the heavy slate bed. This is typically done with a heavy-duty wood frame and large legs. Then you have to think about the cushions, sides, pockets, and any decorative additions that make the table look nice. <strong>Slate pool tables usually weigh between 650 and 1,000 pounds</strong>.
+As you can probably imagine, slate tables are very heavy. Not only does the slate weigh a lot (450 pounds, on average), but the rest of the table weighs a lot, too. This is because a slate table must be constructed to support the weight of the heavy slate bed. This is typically done with a heavy-duty wood frame and large legs. Then you have to think about the cushions, sides, pockets, along with any decorative additions that make the table look nice. <strong>Slate pool tables usually weigh between 650 and 1,000 pounds</strong>.
 
 MDF tables, on the other hand, weigh significantly less. The wood board of the playing surface is nowhere near as heavy as that of a slate table. Therefore, the rest of the table, including the frame, doesn’t have to be made to support a lot of weight. <strong>MDF tables generally weigh between 100 and 300 pounds.</strong>
 
@@ -76,6 +76,10 @@ In short, playing on a slate table just seems to make everything smoother. I don
 Now that we’ve discussed the big ones, here are a few other ways to tell if a pool table is slate or wood. These methods should be combined with one or more of the main tactics outlined above.
 
 ---
+
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
 
 ## FAQ
 

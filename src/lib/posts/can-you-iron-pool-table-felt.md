@@ -69,6 +69,10 @@ Worsted cloth, sometimes referred to as American cloth, is spun and woven to giv
 
 ---
 
+
+
+**Worth checking out:** If you need replacement felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
+
 ## Related Articles
 
 For more on this topic, check out [pool table felt guide](/pool-table-felt-guide/), [best felt color](/whats-the-best-color-for-pool-table-felt/), [how long felt lasts](/how-long-does-pool-table-felt-last/), [refelting costs](/how-much-does-it-cost-to-refelt-a-pool-table/), and [how felt is attached](/is-pool-table-felt-glued-down/).

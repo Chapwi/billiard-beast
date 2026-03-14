@@ -89,6 +89,10 @@ Need help picking a table to go with that felt? Check our [pool table reviews](/
 
 ---
 
+
+
+**Worth checking out:** If you need replacement felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
+
 ## Related Articles
 
 For more on this topic, check out [pool table felt guide](/pool-table-felt-guide/), [how long felt lasts](/how-long-does-pool-table-felt-last/), [refelting costs](/how-much-does-it-cost-to-refelt-a-pool-table/), [ironing pool table felt](/can-you-iron-pool-table-felt/), and [how felt is attached](/is-pool-table-felt-glued-down/).

@@ -79,6 +79,10 @@ In most magnetic coin-op tables, the ball separator is a slightly sloped trench 
 
 ---
 
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
+
 ## Related Articles
 
 For more on this topic, check out [billiard ball colors](/billiard-ball-colors/), [how many balls in pool](/how-many-balls-are-used-in-pool/), [Aramith ball review](/are-aramith-pool-balls-worth-it/), [cleaning billiard balls](/how-to-clean-billiard-balls/), and [cue ball size](/is-the-cue-ball-bigger-or-smaller-than-the-object-balls/).

@@ -63,7 +63,7 @@ The good news is that setting up a pool table in a garage doesn’t have to be c
 
 ## Dehumidifier
 
-Many garages double as storage areas, filled with tools, bikes, boxes, and more. While it might seem like there’s plenty of room for a pool table, it’s vital to accurately assess the space. Most people underestimate how much room they need to comfortably play pool. So, if you’re considering adding a pool table to your garage, here’s a detailed breakdown:
+Many garages double as storage areas, filled with tools, bikes, boxes, along with more. While it might seem like there’s plenty of room for a pool table, it’s vital to accurately assess the space. Most people underestimate how much room they need to comfortably play pool. So, if you’re considering adding a pool table to your garage, here’s a detailed breakdown:
 
 ## Rack ‘Em Up!
 
@@ -78,6 +78,10 @@ A pool table can be a fantastic addition to your garage. But choosing the right 
 Not only are slate bed tables what the pros play on, but they also resist warping and last a long time. Slate is a type of rock so a bit of humidity isn’t going to affect it. A slate bed table in the garage will play true for decades with a little bit of care.
 
 ---
+
+
+
+**Worth checking out:** If you need to replace your felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

@@ -33,7 +33,7 @@ When you grab a wrapped cue, you’re getting something between you and the wood
 
 **Rubber wraps** show up on cheaper cues and budget models. They’re not bad, exactly. They grip decently when dry. But they wear out faster than the other materials and don’t absorb sweat well. If you’re learning and might upgrade in a year or two, a rubber wrap is fine. If you plan to keep your cue, don’t settle for rubber.
 
-The real advantage of any wrap: it protects the wood underneath. Your cue’s butt is exposed to oils, moisture, and occasional bumps. A wrap extends the life of the actual cue, not just the feel of it.
+The real advantage of any wrap: it protects the wood underneath. Your cue’s butt is exposed to oils, moisture, along with occasional bumps. A wrap extends the life of the actual cue, not just the feel of it.
 
 ## The No-Wrap Case
 

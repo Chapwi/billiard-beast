@@ -20,7 +20,7 @@ image: "/images/canva-billiards-balls-and-cue-on-billiards-table.-billiard-sport
 
 You walk into a pool hall and see stacks of blue chalk cubes. You grab blue because that's what everyone uses. But have you ever thought about *why*?
 
-Blue chalk doesn't perform better than green, brown, or black. What matters is friction. Chalk creates friction between your cue tip and the cue ball, giving you control over spin, speed, and direction. That's the actual function. Everything else is psychology and aesthetics.
+Blue chalk doesn't perform better than green, brown, or black. What matters is friction. Chalk creates friction between your cue tip and the cue ball, giving you control over spin, speed, along with direction. That's the actual function. Everything else is psychology and aesthetics.
 
 ## What Chalk Actually Does
 
@@ -134,7 +134,7 @@ Chalk is just one small part of the game. A good tip, proper technique, and soli
 
 If you want a complete understanding of cue setup, read about [cue tips and what pros actually use](/what-cue-tips-do-the-pros-use/). You should also know about [caring for your cue tip](/how-to-care-for-your-pool-cue/) to keep it in peak condition. And if you're serious about your setup, understand why [American-made cues](/what-pool-cues-are-made-in-the-usa/) matter when paired with quality chalk and tips.
 
-For felt care, check out our guides on [how long pool table felt lasts](/how-long-does-pool-table-felt-last/), [maintaining your felt](/pool-table-felt-guide/), and [why Aramith balls matter](/are-aramith-pool-balls-worth-it/). Understanding the whole table, including cloth, balls, and cues, makes you a better player.
+For felt care, check out our guides on [how long pool table felt lasts](/how-long-does-pool-table-felt-last/), [maintaining your felt](/pool-table-felt-guide/), and [why Aramith balls matter](/are-aramith-pool-balls-worth-it/). Understanding the whole table, including cloth, balls, along with cues, makes you a better player.
 
 Ready to stock up? Find quality chalk [on Amazon](https://www.amazon.com/s?k=pool+cue+chalk&tag=billiardbeast-20).
 

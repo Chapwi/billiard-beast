@@ -25,7 +25,7 @@ If you really want to refelt your MDF table, check with the manufacturer beforeh
 
 ## Labor Costs & Other Fees
 
-Though built to last, not all outdoor pool tables are meant to be refelted. Outdoor tables use a special fabric, typically made from acrylic, that’s UV-resistant, waterproof, and very durable. It just doesn’t wear down the way traditional billiard cloth does, meaning that it usually lasts about as long as the table itself. As with MDF tables, be sure you check with the dealer or manufacturer to make sure it can be refelted.
+Though built to last, not all outdoor pool tables are meant to be refelted. Outdoor tables use a special fabric, typically made from acrylic, that’s UV-resistant, waterproof, along with very durable. It just doesn’t wear down the way traditional billiard cloth does, meaning that it usually lasts about as long as the table itself. As with MDF tables, be sure you check with the dealer or manufacturer to make sure it can be refelted.
 
 ## Type and Quality of the Cloth
 
@@ -45,7 +45,7 @@ For a lower-end pool table cloth, the price goes up or down by about $10-15 per 
 
 ## Other Articles You May Be Interested In
 
-<strong>The average labor cost for a professional pool table refelt is about $125</strong>. This typically includes disassembly, reassembly, and leveling. Of course, every company is different, and if the job requires extra work, they may charge more.
+<strong>The average labor cost for a professional pool table refelt is about $125</strong>. This typically includes disassembly, reassembly, along with leveling. Of course, every company is different, and if the job requires extra work, they may charge more.
 
 For instance, if the slate is chipped, the pool table mechanic will need to fill in the holes (with your permission), which consumes more labor time and materials. Little repairs like these can make the bill add up. Some companies may even charge travel fees if you live outside their typical service area.
 
@@ -58,6 +58,10 @@ Similarly, it’s best to get your refelting done during a move, if possible. Mo
 When shopping around for a professional refelting service, there are a few things to keep in mind.
 
 ---
+
+
+
+**Worth checking out:** If you need replacement felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

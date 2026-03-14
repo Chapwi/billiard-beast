@@ -15,7 +15,7 @@ Unless you’ve seen a pool table assembled or re-felted, how the felt is secure
 
 ## Staples vs Glue
 
-The Super 77 is a spray adhesive while the Scotch-Weld needs to be applied with a brush or a roller. They’re also designed to work on cardboard, plastic, metal, and wood. These glues don’t solidify for several minutes, meaning if you make a mistake putting the felt on, it’s possible to correct it before the glue dries.
+The Super 77 is a spray adhesive while the Scotch-Weld needs to be applied with a brush or a roller. They’re also designed to work on cardboard, plastic, metal, along with wood. These glues don’t solidify for several minutes, meaning if you make a mistake putting the felt on, it’s possible to correct it before the glue dries.
 
 However, both of them are considered permanent glue, so making a mistake that you don’t notice until the glue is dry can be a costly one.
 
@@ -56,6 +56,10 @@ As a rule of thumb, it’s best to use whichever technique the manufacturer used
 ## In Conclusion
 
 ---
+
+
+
+**Worth checking out:** If you need replacement felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

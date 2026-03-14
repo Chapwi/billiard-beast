@@ -9,7 +9,7 @@ faqs:
 image: "/images/vacuum-on-pool-table.png"
 ---
 
-If you’ve ever had your pool table re-felted, you know that it’s a bit of an ordeal. At a minimum price of about $250, re-felting is something that’s best avoided as long as possible. But the trick is to avoid it by keeping your felt clean, smooth, and ideal for play. To do this, many people turn to the vacuum cleaner. So a common question I hear a lot is, “Can you vacuum a pool table?”
+If you’ve ever had your pool table re-felted, you know that it’s a bit of an ordeal. At a minimum price of about $250, re-felting is something that’s best avoided as long as possible. But the trick is to avoid it by keeping your felt clean, smooth, along with ideal for play. To do this, many people turn to the vacuum cleaner. So a common question I hear a lot is, “Can you vacuum a pool table?”
 
 <strong>Yes, you can absolutely vacuum a pool table. But some types of vacuums and attachments can damage the felt and affect playability. A vacuum with gentle suction and a nonrevolving, soft-bristled brush will ensure cleanliness and long life for your pool table felt.</strong>
 
@@ -66,6 +66,10 @@ Now that you know what to look for in a vacuum cleaner and attachments, here are
 Once you’ve brushed the debris and residue loose, it’s time to start vacuuming. Use the vacuum attachment the same way you used the brush. Again, all straight lines, no circles or wiggles. Most people do half of the table at a time, working their way from the bumpers toward the middle down the length of the table, then doing the same on the other side.
 
 ---
+
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

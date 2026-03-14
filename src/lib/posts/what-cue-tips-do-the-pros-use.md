@@ -32,7 +32,7 @@ The frustrating truth is that pro cue tip choices are all over the map. Some swe
 
 The sponsored players have no choice. They're getting paid to play with a certain brand, so that's what they use. But the non-sponsored players? They pick whatever feels good to them that week.
 
-Some pros focus on hardness. They try soft, medium, hard, and extra-hard tips until something clicks. Others care only about size. Still others make their own rules and pound a new tip on the floor to break it in faster, changing how it feels and plays.
+Some pros focus on hardness. They try soft, medium, hard, along with extra-hard tips until something clicks. Others care only about size. Still others make their own rules and pound a new tip on the floor to break it in faster, changing how it feels and plays.
 
 In short, there's no magic answer to what pro tips they use. Information like that becomes outdated fast anyway. By the time you read an article listing what the top 10 players use, half of them have probably switched.
 
@@ -50,7 +50,7 @@ Most new and intermediate players should start with a medium tip. Once you've lo
 
 ## Size: 13mm Is The Standard
 
-Cue tips come in several sizes: 11.75mm, 12mm, 12.5mm, 13mm, 14mm, and 15mm. The most common size across both amateur and pro play is 13mm. That's what you'll find on most house cues and most quality personal cues.
+Cue tips come in several sizes: 11.75mm, 12mm, 12.5mm, 13mm, 14mm, along with 15mm. The most common size across both amateur and pro play is 13mm. That's what you'll find on most house cues and most quality personal cues.
 
 Going smaller (12mm or 11.75mm) gives you a bit more accuracy on delicate shots. Going larger (14mm) spreads your contact over more area, which some players prefer for power.
 
@@ -90,7 +90,7 @@ The breaking-in period is why some players buy and bench extra tips. They break 
 
 ## Cue Tip Brands That Matter
 
-If you're serious about equipment, brands like Predator, Kamui, Moori, Tiger, and Mezz make quality tips. They're consistent, they hold their shape, and they last longer than budget options. But here's what matters: you don't need the best brand to play well.
+If you're serious about equipment, brands like Predator, Kamui, Moori, Tiger, along with Mezz make quality tips. They're consistent, they hold their shape, and they last longer than budget options. But here's what matters: you don't need the best brand to play well.
 
 A $15 quality tip from a decent manufacturer works fine for most people. You don't need a $30 Kamui tip unless you're shooting competitively and want that extra reliability. For practice and casual play, save your money.
 
@@ -132,6 +132,10 @@ A pro could probably play well with any decent tip. But they don't. They find on
 
 ---
 
+
+
+**Worth checking out:** Top-tier chalk for serious players, take a look at the [Kamui Black Chalk](https://www.amazon.com/dp/B07DCKVX9C?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 <div>
@@ -142,7 +146,7 @@ If you're passionate about pool, you probably know the names of a few pro player
 
 **What Makes a "Pro" Level Tip?**
 
-You don't often hear a pro pool player attributing his or her game to the cue tip (unless they're being paid to say so). The cue, shaft, and tip are all tools that a player uses, but the skill to use those tools have very little to do with the tools themselves, and more to do with the persistence and practice that the player has put in over the years.
+You don't often hear a pro pool player attributing his or her game to the cue tip (unless they're being paid to say so). The cue, shaft, along with tip are all tools that a player uses, but the skill to use those tools have very little to do with the tools themselves, and more to do with the persistence and practice that the player has put in over the years.
 
 </div>
 

@@ -443,7 +443,7 @@ Start with 13mm tips. They're forgiving enough for beginners while precise enoug
 
 **Should I buy a one-piece or two-piece cue?**
 
-Buy two-piece cues. They're easier to store, transport, and protect. One-piece cues look cool but are harder to care for and carry.
+Buy two-piece cues. They're easier to store, transport, along with protect. One-piece cues look cool but are harder to care for and carry.
 
 **What's the ideal price range for a beginner cue?**
 
@@ -459,7 +459,7 @@ Not immediately, but soon. A good soft case ($30-50) protects your investment an
 
 ### Q: Should I buy a one-piece or two-piece cue?
 
-**A**: Two-piece. One-piece cues look cool and play great, but they're harder to store, transport, and protect. Two-piece is standard for good reason.
+**A**: Two-piece. One-piece cues look cool and play great, but they're harder to store, transport, along with protect. Two-piece is standard for good reason.
 
 ### Q: What's the difference between a "break cue" and a "playing cue"?
 
@@ -475,7 +475,7 @@ Not immediately, but soon. A good soft case ($30-50) protects your investment an
 
 ### Q: Can I try a friend's cue first?
 
-**A**: Absolutely. In fact, I recommend it. Borrowing a variety of cues helps you understand what weight, balance, and feel you prefer.
+**A**: Absolutely. In fact, I recommend it. Borrowing a variety of cues helps you understand what weight, balance, along with feel you prefer.
 
 ### Q: Will I eventually need to upgrade?
 

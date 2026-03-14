@@ -85,9 +85,13 @@ But was your home built to comply with those regulations in the first place? Som
 
 ## What is the Maximum all-in Weight?
 
-The pool table shouldn’t be the only thing that you factor into your calculations. Even if it fits within your floor’s load limit, what about any other furniture you may also have around it? When calculating how much weight your floor will hold, always take into account things like couches, TVs, fridges, and other bulky items.
+The pool table shouldn’t be the only thing that you factor into your calculations. Even if it fits within your floor’s load limit, what about any other furniture you may also have around it? When calculating how much weight your floor will hold, always take into account things like couches, TVs, fridges, along with other bulky items.
 
 ---
+
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

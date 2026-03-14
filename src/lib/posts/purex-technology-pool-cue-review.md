@@ -59,7 +59,7 @@ For players coming from house cues or sub-$50 sticks, though? The improvement is
 
 ## The CCSI connection
 
-CCSI (Cue & Case Sales International) makes PureX, Lucasi, and Players. This matters.
+CCSI (Cue & Case Sales International) makes PureX, Lucasi, along with Players. This matters.
 
 Players is their budget line . Rreliable, basic, no-frills. Lucasi is their mid-to-premium line . Pprecision-focused, higher-grade materials. PureX sits in between, borrowing Lucasi's technology at Players' price point.
 

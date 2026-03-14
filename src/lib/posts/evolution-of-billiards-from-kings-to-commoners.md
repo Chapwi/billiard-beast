@@ -77,6 +77,10 @@ It also adapted when it needed to. When lighting was bad, it became brighter. Wh
 
 That's why you can still go shoot a game tonight and you're doing something that shares DNA with what King Louis XI was doing in 1470. Not exactly the same. Nothing is ever exactly the same. But the basic idea (a cue, a ball, a table, strategy) has held up for six hundred years.
 
+
+
+**Worth checking out:** Works well for snooker-style play too, take a look at the [Players Technology Series HXT15 Cue](https://www.amazon.com/dp/B000F3S62A?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **What does "English" mean in billiards?**

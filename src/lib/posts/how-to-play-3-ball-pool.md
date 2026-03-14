@@ -35,7 +35,7 @@ But what makes 3-ball different from 9-ball and 8-ball and why do we need a whol
 
 ## Fouls in 3-Ball
 
-One of the differences is that the game only uses four balls total between the cue ball and the three object balls. For simplicities sake I’m just going to recommend that players use the 1, 2, and 3 ball when they play.
+One of the differences is that the game only uses four balls total between the cue ball and the three object balls. For simplicities sake I’m just going to recommend that players use the 1, 2, along with 3 ball when they play.
 
 ## How Do MostPlayers Do It?
 
@@ -43,11 +43,11 @@ The second difference is that the way to win the game is not based on being the 
 
 ## Additional Ways to Keep Score
 
-The last difference between 3-ball and its sister games is that players take turns and do not use the same rack. For example, I would rack the 3-balls, break, and then pocket the remaining balls.
+The last difference between 3-ball and its sister games is that players take turns and do not use the same rack. For example, I would rack the 3-balls, break, along with then pocket the remaining balls.
 
 ## Friendly Wagering: Spice Up the Game
 
-The next person would also rack, break, and pocket their balls. We would just see who was able to pocket the balls in the fewest attempts. Don’t worry though because I’m going to break all of that down, starting with how to rack properly.
+The next person would also rack, break, along with pocket their balls. We would just see who was able to pocket the balls in the fewest attempts. Don’t worry though because I’m going to break all of that down, starting with how to rack properly.
 
 ## Making the Pot
 
@@ -80,6 +80,10 @@ This is why the balls not touching the sides of the table on the break is not a 
 Keeping score is as simple as adding one point every time the cue ball is struck with the cue. This includes any time the player does not pocket a ball on a hit, accidentally scratches or commits a foul.
 
 ## Fouls in 3-Ball
+
+
+
+**Worth checking out:** The gold standard in pool balls, take a look at the [Aramith Pure Phenolic Pool Balls](https://www.amazon.com/dp/B009L16GJI?tag=billiardbeast-20) on Amazon.
 
 ## FAQ
 

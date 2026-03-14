@@ -73,6 +73,10 @@ Knowing these terms will help learning to rack properly a bit easier. Plus, youâ
 
 ---
 
+
+
+**Worth checking out:** The gold standard in pool balls, take a look at the [Aramith Pure Phenolic Pool Balls](https://www.amazon.com/dp/B009L16GJI?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **Why does my break not spread the balls if I hit hard?**

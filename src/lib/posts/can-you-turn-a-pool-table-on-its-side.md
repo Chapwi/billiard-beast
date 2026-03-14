@@ -11,7 +11,7 @@ image: "/images/can-you-turn-a-pool-table-on-its-side_.webp"
 
 Fully assembled pool tables are incredibly heavy and hard to move. Most doorways won’t admit a pool table standing on its legs. However, if you’re contemplating moving a pool table, it may be tempting to pay it on its side in order to try and fit it through a doorway. The begs the question, can you turn a pool table on its side?
 
-<strong>The answer to this question depends on the type of pool table. Most pool tables should never be turned on their sides because doing so can damage the frame, rails, pockets, and slate. However, some lightweight wood or MDF pool tables can be turned on their sides safely and easily.</strong>
+<strong>The answer to this question depends on the type of pool table. Most pool tables should never be turned on their sides because doing so can damage the frame, rails, pockets, along with slate. However, some lightweight wood or MDF pool tables can be turned on their sides safely and easily.</strong>
 
 ## Conclusion
 
@@ -54,6 +54,10 @@ If you can help it, avoid turning one of these tables on its side, unless the ow
 Foldable or portable tables are designed to be placed on their sides easily. There are many such options on the market for casual players or kids.
 
 ---
+
+
+
+**Worth checking out:** If you need to replace your felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

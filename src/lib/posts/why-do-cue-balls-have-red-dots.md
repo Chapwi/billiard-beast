@@ -23,7 +23,7 @@ The red dots serve one purpose: they show you exactly what your cue is doing to 
 
 ## What’s the Deal With Red Dots?
 
-A measles ball doesn’t do anything special when you hit it. It rolls, bounces, and banks the same as any other cue ball. The difference is what you *see*. Those dots spin as the ball moves. Watch them for a few shots and you’ll start noticing patterns in your stroke that would take months to figure out with a regular white ball.
+A measles ball doesn’t do anything special when you hit it. It rolls, bounces, along with banks the same as any other cue ball. The difference is what you *see*. Those dots spin as the ball moves. Watch them for a few shots and you’ll start noticing patterns in your stroke that would take months to figure out with a regular white ball.
 
 Some players call it a training ball. Others call it a practice tool. The name doesn’t matter. What matters is that the dots let you see your mistakes in real time.
 
@@ -97,7 +97,7 @@ The fix is simple: always end your practice sessions with at least 15–20 minut
 
 ## Where to Buy
 
-Most pool supply shops stock measles balls. Online, you’ll find them on Amazon, PoolCentral, and specialty billiard retailers. Aramith makes the most reliable ones. Expect $20–$30 for a quality ball.
+Most pool supply shops stock measles balls. Online, you’ll find them on Amazon, PoolCentral, along with specialty billiard retailers. Aramith makes the most reliable ones. Expect $20–$30 for a quality ball.
 
 A measles ball isn’t flashy. It won’t get you wins by itself. But if you’re serious about tightening your stroke and building consistency, it’s one of the best training investments you can make. You’ll see the difference inside a week.
 

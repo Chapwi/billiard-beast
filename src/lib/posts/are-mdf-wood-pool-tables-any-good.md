@@ -177,6 +177,10 @@ Treat it with basic care, keep it climate-controlled if you're in a humid area, 
 
 The question isn't "Are MDF tables good?" It's "Are MDF tables good enough for me?" That answer depends on your situation, your budget, and how seriously you play. Be honest about those factors and you'll make the right call.
 
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 <div>

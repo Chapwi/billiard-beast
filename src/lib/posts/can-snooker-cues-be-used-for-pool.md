@@ -11,7 +11,7 @@ image: "/images/canva-snooker-balls-set.webp"
 
 At a glance, a snooker cue looks identical to a [pool cue](/best-pool-cues-for-beginners/). This leads people to think that, in theory, a snooker cue could be used to play pool. Maybe you’ve heard stories of professional billiard players shooting pool with a snooker cue. Or maybe all you have right now is a snooker cue and you’re itching to play pool. So, the question is, can snooker cues be used for pool?
 
-<strong>Snooker cues have smaller tips, brass ferrules, and are made with dense ash wood. It’s possible to play pool with a snooker cue, but many players find that they sacrifice some cue ball control and power when doing so. That said, it’s mostly a matter of player preference, feel, and style of play.</strong>
+<strong>Snooker cues have smaller tips, brass ferrules, and are made with dense ash wood. It’s possible to play pool with a snooker cue, but many players find that they sacrifice some cue ball control and power when doing so. That said, it’s mostly a matter of player preference, feel, along with style of play.</strong>
 
 ## Tip Size
 
@@ -74,6 +74,10 @@ So, when playing pool with a snooker cue, you can reasonably expect some issues,
 Since the tips of snooker cues are smaller than pool cues, your chances of unwanted squirt and miscueing increase. You need to be more precise when striking the cue ball with a snooker cue than you otherwise would with a pool cue. There’s less surface area on a snooker tip, which makes inaccurate shots more apparent.
 
 ---
+
+
+
+**Worth checking out:** For a reliable starter cue, take a look at the [CUESOUL 58-Inch Pool Cue Set](https://www.amazon.com/dp/B09C1RVQGV?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

@@ -71,6 +71,10 @@ When moving a pool table, mistakes can result in damage to the table, your home,
 
 <li><em>How to Avoid</em>: Lift the table by its body or legs, not the rails. The rails can be damaged easily, which affects the table’s playability.</li>
 
+
+
+**Worth checking out:** If you need to replace your felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **What do pool tables usually weigh?**

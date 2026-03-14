@@ -60,7 +60,7 @@ In 8-ball, one player shoots solids and the other shoots stripes. You can tell a
 
 ## Why These Colors? A Brief History
 
-Billiards manufacturers didn’t randomly pick these colors. Practical concerns drove the choices. When billiards was gaining popularity in the 1800s and early 1900s, dye technology meant some colors were easier and cheaper to produce than others. Red, yellow, blue, and green were the reliable options. Black for the 8-ball provided maximum contrast.
+Billiards manufacturers didn’t randomly pick these colors. Practical concerns drove the choices. When billiards was gaining popularity in the 1800s and early 1900s, dye technology meant some colors were easier and cheaper to produce than others. Red, yellow, blue, along with green were the reliable options. Black for the 8-ball provided maximum contrast.
 
 The color pairs (yellow-blue, red-purple, orange-green, maroon-maroon) were also chosen because they’re distinguishable under various lighting conditions. Pool halls traditionally had yellow-tinted overhead lights, which changed how colors appeared. The color selection needed to work regardless of whether you were playing under incandescent bulbs or natural daylight.
 
@@ -116,7 +116,7 @@ You get 7 reds, 7 yellows, and a black 8-ball. The balls are smaller than Americ
 
 The table is also smaller than an American pool table, and the pockets are tighter. This changes how the game plays. Shots that would be routine on an American table become challenging on a British table.
 
-British blackball is the standard in the UK, Ireland, France, and parts of Europe. If you travel and see a smaller table with red and yellow balls, you’re playing blackball, not American 8-ball. The rules are similar enough that a competent American pool player can pick it up, but the equipment differences take adjustment.
+British blackball is the standard in the UK, Ireland, France, along with parts of Europe. If you travel and see a smaller table with red and yellow balls, you’re playing blackball, not American 8-ball. The rules are similar enough that a competent American pool player can pick it up, but the equipment differences take adjustment.
 
 ## Choosing Your Set
 
@@ -137,6 +137,10 @@ Pool balls use color and pattern (solid vs. striped) to distinguish groups. This
 For 99% of players reading this, you care about American pool balls. Learn the solid and stripe colors, understand that solids are 1-7 and stripes are 9-15, and remember that the 8-ball is last. Everything else follows from there.
 
 ---
+
+
+
+**Worth checking out:** The gold standard in pool balls, take a look at the [Aramith Pure Phenolic Pool Balls](https://www.amazon.com/dp/B009L16GJI?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

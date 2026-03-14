@@ -110,6 +110,10 @@ If you want something faster, more social, and easier to get into, pool is your 
 
 The real answer: try both. They’re different enough that the answer depends on you. Some people love snooker’s meditative precision. Others find it frustrating and prefer pool’s faster pace. Neither is objectively better; they’re just different approaches to the same basic idea.
 
+
+
+**Worth checking out:** Works well for snooker-style play too, take a look at the [Players Technology Series HXT15 Cue](https://www.amazon.com/dp/B000F3S62A?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **Why are snooker pockets so tight?**

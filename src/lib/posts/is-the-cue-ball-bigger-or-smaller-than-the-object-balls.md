@@ -82,6 +82,10 @@ If you're playing on a standard table, stop worrying. Everything matches. Your s
 
 If you're grinding on coin-ops, understand that some tables might have a cue ball that plays slightly differently than what you practice with at home. The more tables you play on, the more comfortable you'll become with adapting. Pros develop this flexibility naturally.
 
+
+
+**Worth checking out:** For a reliable starter cue, take a look at the [CUESOUL 58-Inch Pool Cue Set](https://www.amazon.com/dp/B09C1RVQGV?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **Can a cue ball really be a different size and affect my shot?**

@@ -51,7 +51,7 @@ That's fine if you're renting or in a temporary setup. If you plan to keep a tab
 
 Here's the failure order on any pool table:
 
-**The felt.** This is number one. Felt under heavy play lasts 2-5 years before it starts thinning, pilling, and slowing down ball roll. Professional pool halls refelt every 1-2 years because the table gets eight-hour daily use. A home table in casual play? 5-7 years before refelt becomes necessary.
+**The felt.** This is number one. Felt under heavy play lasts 2-5 years before it starts thinning, pilling, along with slowing down ball roll. Professional pool halls refelt every 1-2 years because the table gets eight-hour daily use. A home table in casual play? 5-7 years before refelt becomes necessary.
 
 A refelt costs $300-$600 depending on table size and felt quality. Premium felt runs $600+. That's much cheaper than a new table.
 
@@ -79,7 +79,7 @@ The slate itself doesn't care. It's staying flat. But if the frame around it is 
 
 You don't need to obsess over your table. But a few basic habits prevent major problems.
 
-**Get a cover.** This is the single best investment after the table itself. A basic cover costs $100-$300 and protects against dust, sunlight, spills, and debris. Dust getting into the ball mechanism is annoying. But UV light fading the felt over five years is expensive. A cover fixes both.
+**Get a cover.** This is the single best investment after the table itself. A basic cover costs $100-$300 and protects against dust, sunlight, spills, along with debris. Dust getting into the ball mechanism is annoying. But UV light fading the felt over five years is expensive. A cover fixes both.
 
 **Keep drinks off the table.** Obvious but worth saying. Beer, soda, water. Aall of it damages felt and wood. Keep a separate drink table nearby. Some people use coasters on the frame and that works fine. But nothing above the playing surface.
 

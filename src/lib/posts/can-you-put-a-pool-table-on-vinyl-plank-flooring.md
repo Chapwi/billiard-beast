@@ -25,7 +25,7 @@ Selecting the appropriate vinyl plank flooring is vital to ensure its durability
 
 <li><strong>Opt for Premium Quality:</strong> Consider premium vinyl planks with thicker wear layers (usually measured in mils). These are more resistant to scratches and dents, providing a solid foundation for your pool table.</li> <li><strong>Check the Wear Layer:</strong> The wear layer is the top surface of the vinyl plank that protects against wear and tear. Look for vinyl plank options with at least a 20-mil wear layer for optimal resilience.</li> <li><strong>Consider Thickness:</strong> A thicker vinyl plank, approximately 5mm or more, provides more stability and resistance to heavy weight. This thickness ensures the flooring remains solid and attractive, even under the stress of a heavy pool table.</li>
 
-Vinyl plank flooring offers an aesthetically pleasing and practical solution for those looking to install a pool table. By choosing the right type of vinyl plank and taking precautionary measures like using furniture pads, you can enjoy a smooth and beautiful playing surface without worrying about damaging your floors. It’s a perfect blend of style, function, and durability that meets the demands of pool enthusiasts.
+Vinyl plank flooring offers an aesthetically pleasing and practical solution for those looking to install a pool table. By choosing the right type of vinyl plank and taking precautionary measures like using furniture pads, you can enjoy a smooth and beautiful playing surface without worrying about damaging your floors. It’s a perfect blend of style, function, along with durability that meets the demands of pool enthusiasts.
 
 ## Importance of Leveling Before Placement
 
@@ -70,6 +70,10 @@ Uneven floors can put additional stress on certain parts of the table and may le
 Vinyl plank flooring can expand and contract with fluctuations in temperature and humidity. This movement can potentially affect the levelness and stability of your pool table. To minimize this risk, maintain a consistent indoor climate.
 
 ---
+
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

@@ -77,6 +77,10 @@ If you’re unsure of the make of your billiard balls, avoid this step as heat a
 
 ---
 
+
+
+**Worth checking out:** The gold standard in pool balls, take a look at the [Aramith Pure Phenolic Pool Balls](https://www.amazon.com/dp/B009L16GJI?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **Can I clean billiard balls in a dishwasher?**

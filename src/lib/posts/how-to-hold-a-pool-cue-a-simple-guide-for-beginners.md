@@ -17,7 +17,7 @@ faqs:
     answer: "Rail bridges are specialized techniques used in special situations when you need to shoot over or along the side of the table in unusual shot positions."
 ---
 
-If you’ve ever paid attention at a pool hall or bar where people are shooting pool, chances are you’ve seen several different ways to hold a cue. This is because there is no one set way you should hold a pool cue. It’s different for each player and varies depending on skill level, technique, comfort level, dominant hand (left or right), style, arm length, height, and how they learned to hold a cue.
+If you’ve ever paid attention at a pool hall or bar where people are shooting pool, chances are you’ve seen several different ways to hold a cue. This is because there is no one set way you should hold a pool cue. It’s different for each player and varies depending on skill level, technique, comfort level, dominant hand (left or right), style, arm length, height, along with how they learned to hold a cue.
 
 But, while there’s no one right way to hold a cue, there are a couple of things new players should know. This is why I decided to write this article on how to hold a pool cue. Although this is a simple guide for beginners, it can also help those who have been playing pool for a while.
 
@@ -73,13 +73,17 @@ That’s it! When you combine the open bridge with the grip tips above, you shou
 
 Now let’s talk about the more advanced closed bridge.
 
-<li>Make a loose fist with your non-dominant hand and place it on the table.</li> <li>Free your pinkie, ring, and middle finger from the fist and spread them out on the table. Leave your index finger how it is.</li> <li>Pick your index finger up and move the side of your thumb up against the side of your middle finger. They should meet at about the knuckle in the middle of your middle finger. This should create a small V shape between thumb and middle finger.</li> <li>Loop your index finger over the top of the thumb, creating a hole large enough for the cue to fit through.</li> <li>Put the cue through the loop made by your index finger, allowing the cue to rest in the V you made with your thumb and middle finger.</li>
+<li>Make a loose fist with your non-dominant hand and place it on the table.</li> <li>Free your pinkie, ring, along with middle finger from the fist and spread them out on the table. Leave your index finger how it is.</li> <li>Pick your index finger up and move the side of your thumb up against the side of your middle finger. They should meet at about the knuckle in the middle of your middle finger. This should create a small V shape between thumb and middle finger.</li> <li>Loop your index finger over the top of the thumb, creating a hole large enough for the cue to fit through.</li> <li>Put the cue through the loop made by your index finger, allowing the cue to rest in the V you made with your thumb and middle finger.</li>
 
 That’s it! For many new players, the closed bridge feels strange. That’s okay. Practice with it and it will get comfortable over time.
 
 The closed bridge is a little more accurate once you get the hang of it, and is better than the open bridge for certain shots. The looped index finger keeps the cue from moving around, providing accuracy that is hard to master with an open bridge.Now there are some other bridge techniques you should know. These are only used in special situations, but they can be lifesavers if you know when to employ them.
 
 ## Rail Bridge
+
+
+
+**Worth checking out:** For a reliable starter cue, take a look at the [CUESOUL 58-Inch Pool Cue Set](https://www.amazon.com/dp/B09C1RVQGV?tag=billiardbeast-20) on Amazon.
 
 ## FAQ
 

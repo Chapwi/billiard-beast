@@ -9,7 +9,7 @@ faqs:
 image: "/images/canva-snooker-balls-set-1.webp"
 ---
 
-Snooker is often compared to other cue sports for different reasons. Invented in the late 19th century, snooker has been around for a while. It’s popular in Britain, whereas 8 and 9-ball are more popular in North America and Asia. Each game requires a similar skill set and reaching a professional level takes years of practice, determination, and skill. But none of this answers the question.
+Snooker is often compared to other cue sports for different reasons. Invented in the late 19th century, snooker has been around for a while. It’s popular in Britain, whereas 8 and 9-ball are more popular in North America and Asia. Each game requires a similar skill set and reaching a professional level takes years of practice, determination, along with skill. But none of this answers the question.
 
 ## Is Snooker Harder Than Pool?
 
@@ -64,6 +64,10 @@ So, as you can imagine, those who have access to snooker and are able to play it
 Of course, mastering any type of billiard game (or anything, for that matter) is difficult. So, maybe both groups are right. This brings me to the last subject, which is player perception.
 
 ---
+
+
+
+**Worth checking out:** Works well for snooker-style play too, take a look at the [Players Technology Series HXT15 Cue](https://www.amazon.com/dp/B000F3S62A?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

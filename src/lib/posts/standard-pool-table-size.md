@@ -19,7 +19,7 @@ image: "/images/canva-pool-table-with-pool-balls-and-stick.webp"
 
 You're standing in the showroom at a pool table retailer, and there are three tables in a row, 7 feet, 8 feet, 9 feet. They all look basically the same. They're not.
 
-The size of a pool table changes how you play. It changes what's possible. A 7-foot bar table plays nothing like a 9-foot tournament table. The difference between them isn't just the numbers. Iit's strategy, difficulty, and whether you can actually play the game you want to play.
+The size of a pool table changes how you play. It changes what's possible. A 7-foot bar table plays nothing like a 9-foot tournament table. The difference between them isn't just the numbers. Iit's strategy, difficulty, along with whether you can actually play the game you want to play.
 
 ## The Three Standard Sizes
 

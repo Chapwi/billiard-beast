@@ -86,6 +86,10 @@ For multiple-rail shots, you essentially reverse-engineer the path. If you want 
 
 This is above beginner level. Most casual players never need it. But understanding that the system *can* handle complex calculations explains why pros use the dots even for seemingly impossible shots.
 
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **Do I need to memorize the number system to play pool?**

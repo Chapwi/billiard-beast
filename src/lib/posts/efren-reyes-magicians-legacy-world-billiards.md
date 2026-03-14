@@ -109,6 +109,10 @@ That's the real magic. Not the shots. The inspiration.
 
 ---
 
+
+
+**Worth checking out:** Works well for snooker-style play too, take a look at the [Players Technology Series HXT15 Cue](https://www.amazon.com/dp/B000F3S62A?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 <div itemscope itemtype="https://schema.org/FAQPage">

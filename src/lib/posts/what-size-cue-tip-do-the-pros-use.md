@@ -63,6 +63,10 @@ Players with a little more finesse, relying on English, tend to use smaller tips
 
 ---
 
+
+
+**Worth checking out:** Top-tier chalk for serious players, take a look at the [Kamui Black Chalk](https://www.amazon.com/dp/B07DCKVX9C?tag=billiardbeast-20) on Amazon.
+
 ## Related Articles
 
 For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).

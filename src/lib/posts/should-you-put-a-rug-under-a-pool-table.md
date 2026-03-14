@@ -9,7 +9,7 @@ faqs:
 image: "/images/should-you-put-a-rug-under-a-pool-table_.webp"
 ---
 
-Getting a game room, rec room, or man cave together is fun, but it does take a little planning. And the pool table is likely the biggest item you’ll have to put in the room. Since pool tables are large, heavy, and hard to move, it pays to plan ahead. Making sure your floor is prepared for a table will keep you from having to move the table. And when planning for a pool table, one question comes up often: Should you put a rug under a pool table?
+Getting a game room, rec room, or man cave together is fun, but it does take a little planning. And the pool table is likely the biggest item you’ll have to put in the room. Since pool tables are large, heavy, along with hard to move, it pays to plan ahead. Making sure your floor is prepared for a table will keep you from having to move the table. And when planning for a pool table, one question comes up often: Should you put a rug under a pool table?
 
 <strong>Putting a rug under a pool table is a great option. It helps protect hard flooring, adds some aesthetics, helps dampen sound, and can tie the room together. For best results, you’ll need a big rug, the correct thickness (low or medium-pile), and a little patience when leveling.</strong>
 
@@ -68,6 +68,10 @@ Any time you put a pool table on a rug or carpeting, it’s going to take a litt
 If you get a rug that’s too thick, you can create a tripping hazard. This is why low or medium-pile rugs are preferable for use under pool tables. Most people won’t trip over a thin rug. Thick, fluffy rugs are a different story.
 
 ---
+
+
+
+**Worth checking out:** If you need to replace your felt, take a look at the [Championship Saturn II Billiard Felt](https://www.amazon.com/dp/B005I1HYGE?tag=billiardbeast-20) on Amazon.
 
 ## Related Articles
 

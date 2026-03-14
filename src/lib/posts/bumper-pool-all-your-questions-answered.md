@@ -85,6 +85,10 @@ Bumper pool is played with ten balls total – 5 red and 5 white. One red ball a
 
 ---
 
+
+
+**Worth checking out:** If you're shopping for a solid home table, take a look at the [Barrington Billiards 7.5ft Table](https://www.amazon.com/dp/B0BXRT7D9S?tag=billiardbeast-20) on Amazon.
+
 ## Related Articles
 
 For more on this topic, check out [snooker vs pool](/snooker-vs-pool-comparison/), [is snooker harder](/is-snooker-harder-than-pool/), [snooker cues for pool](/can-snooker-cues-be-used-for-pool/), [history of billiards](/evolution-of-billiards-from-kings-to-commoners/), and [billiard game types](/billiard-games/).

@@ -55,6 +55,10 @@ I hope by now you have the information you need to make sure you’re playing wi
 
 ---
 
+
+
+**Worth checking out:** The gold standard in pool balls, take a look at the [Aramith Pure Phenolic Pool Balls](https://www.amazon.com/dp/B009L16GJI?tag=billiardbeast-20) on Amazon.
+
 ## Related Articles
 
 For more on this topic, check out [billiard ball colors](/billiard-ball-colors/), [Aramith ball review](/are-aramith-pool-balls-worth-it/), [cleaning billiard balls](/how-to-clean-billiard-balls/), [cue ball size](/is-the-cue-ball-bigger-or-smaller-than-the-object-balls/), and [cue ball red dots](/why-do-cue-balls-have-red-dots/).

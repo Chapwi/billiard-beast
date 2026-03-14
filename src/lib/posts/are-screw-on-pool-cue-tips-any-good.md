@@ -67,6 +67,10 @@ Maybe you bought a cue with a screw-on tip before you knew there was a differenc
 
 ---
 
+
+
+**Worth checking out:** Top-tier chalk for serious players, take a look at the [Kamui Black Chalk](https://www.amazon.com/dp/B07DCKVX9C?tag=billiardbeast-20) on Amazon.
+
 ## Related Articles
 
 For more on this topic, check out [how long cue tips last](/how-long-does-a-pool-cue-tip-last/), [what tips pros use](/what-cue-tips-do-the-pros-use/), [best pool chalk](/best-pool-chalk/), [what chalk is made of](/what-is-pool-chalk-made-of/), and [chalk color](/does-pool-chalk-color-matter/).

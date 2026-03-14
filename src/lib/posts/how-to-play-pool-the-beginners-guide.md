@@ -19,7 +19,7 @@ faqs:
 
 Pool is a game enjoyed by millions of people around the world. From the many who play casually on the weekends to the pro’s who travel the globe and compete at the highest level. But regardless of your current skill level, each of us has to start from the bottom. And that means learning the basics.
 
-As with anything new, just getting started can be a bit overwhelming. After all, there’s so much to learn, and if you’re anything like me you want to learn as much as you can as fast as you can. This is especially true if you’re really excited and passionate about the subject. But don’t worry! Pool isn’t rocket science and the rules, equipment, and etiquette aren’t that hard to wrap your head around.
+As with anything new, just getting started can be a bit overwhelming. After all, there’s so much to learn, and if you’re anything like me you want to learn as much as you can as fast as you can. This is especially true if you’re really excited and passionate about the subject. But don’t worry! Pool isn’t rocket science and the rules, equipment, along with etiquette aren’t that hard to wrap your head around.
 
 ## The Basics of Billiards
 
@@ -31,7 +31,7 @@ If you’ve never played pool before or are still fairly new and want to learn t
 
 ## Playing Billiards
 
-Billiards, or “pool,” is a parlor game that offers relaxation, socialization, and can be played all one’s life. The game was invented in the fifteenth century in Europe as an alternative to croquet and first gained popular notoriety when King Louis the IX grew an interest in it as an activity to entertain guests.
+Billiards, or “pool,” is a parlor game that offers relaxation, socialization, along with can be played all one’s life. The game was invented in the fifteenth century in Europe as an alternative to croquet and first gained popular notoriety when King Louis the IX grew an interest in it as an activity to entertain guests.
 
 ## Racking Up
 
@@ -67,7 +67,7 @@ The cue ball is moved with a <strong>cue,</strong> a slender wooden stick usuall
 
 ## In Conclusion
 
-Pool cues come in a variety of different lengths, weights, and styles. Everyone’s preference in a [pool cue](/best-pool-cues-for-beginners/) is different, and figuring out what you like in a pool cue will come with time. However for most players, a standard length wooden pool cue works just fine.
+Pool cues come in a variety of different lengths, weights, along with styles. Everyone’s preference in a [pool cue](/best-pool-cues-for-beginners/) is different, and figuring out what you like in a pool cue will come with time. However for most players, a standard length wooden pool cue works just fine.
 
 <strong>Chalk</strong> is used in a few different ways. Some players will chalk their hands to help remove moisture from there bridge hand. This helps improve stroke smoothness and therefore accuracy as well. Chalking the tip of the pool cue, however, is done in an attempt to produce more “grip” between the tip and the cue ball. This added grip is essential to making good contact with the cue ball and reducing miscues.
 
@@ -80,6 +80,10 @@ The cue is used to push the cue-ball into the object balls with the goal of movi
 ## Racking Up
 
 The game begins with <strong>rack</strong>ing the balls into a pointed shape, with the front ball positioned on the <strong>foot-spot</strong>. The foot-spot is the center of the <strong>head-string</strong> which is an imaginary line that connects the second of the diamonds on the two sides of the table. Once the balls are tightly held and organized in the rack, the rack is carefully removed and we’re ready to break.
+
+
+
+**Worth checking out:** Grab a copy of the official rule book, take a look at the [Official BCA Rules Book](https://www.amazon.com/dp/B00KXHVGDS?tag=billiardbeast-20) on Amazon.
 
 ## FAQ
 

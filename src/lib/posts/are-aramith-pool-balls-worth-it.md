@@ -18,17 +18,17 @@ The cheaper polyester set will start wearing down inside a year if you play regu
 
 Here's the thing about phenolic resin: it's not just better marketing. The material actually behaves differently. When a polyester ball gets struck, it gradually loses its perfect shape. It becomes slightly flatter on one side, wobbles imperceptibly, and your stroke feels "off" without you knowing why. You blame yourself, your technique, your cue. But the problem is sitting in a ball that's 0.001 inches out of round.
 
-Aramith balls maintain their shape, density, and balance year after year. They won't scuff easily. They stay glossy. They feel alive on the table.
+Aramith balls maintain their shape, density, along with balance year after year. They won't scuff easily. They stay glossy. They feel alive on the table.
 
 The Belgian company Sulac owns Aramith and has dominated 80% of the billiard ball market. They started making balls in the 1960s and quickly became the standard for professional tournaments worldwide. In 2012, they merged with Iwan Simonis, one of the top felt manufacturers, so they had a vested interest in making balls that don't destroy the cloth.
 
 ## The Engineering Behind the Price
 
-Sulac doesn't just pour resin into a mold and ship it out. Each ball gets checked at least six times: by computer during forming, then by hand before it leaves the factory. They measure roundness, diameter tolerance, surface polish, brilliance, and color precision. It sounds obsessive. It is. But that obsession is why professionals trust them.
+Sulac doesn't just pour resin into a mold and ship it out. Each ball gets checked at least six times: by computer during forming, then by hand before it leaves the factory. They measure roundness, diameter tolerance, surface polish, brilliance, along with color precision. It sounds obsessive. It is. But that obsession is why professionals trust them.
 
 When a pool ball is off by even 0.005 inches, it affects how it rolls and how other balls respond when you strike them. At the professional level, you can feel the difference immediately. At the amateur level, the difference is more subtle, but it's still there, grinding away at your confidence every time you miss a shot.
 
-Polyester balls don't get this treatment. They're cut, polished, and packed.
+Polyester balls don't get this treatment. They're cut, polished, along with packed.
 
 ## The Real Cost of Cheap Balls
 
@@ -62,7 +62,7 @@ You've probably noticed that professional tournaments use specific equipment. Po
 
 If players could bring their own balls, and those balls had slightly different weights, sizes, or rolling characteristics, you'd have an unfair advantage. The stronger player might have slower balls. The weaker player might get faster ones. The playing surface itself becomes unpredictable.
 
-Tournaments eliminate that variable by mandating equipment standards. Aramith meets the strictest specifications. They've been the default choice since the 1960s because Sulac understood that consistency in manufacturing, materials, and quality control was the only way to build trust.
+Tournaments eliminate that variable by mandating equipment standards. Aramith meets the strictest specifications. They've been the default choice since the 1960s because Sulac understood that consistency in manufacturing, materials, along with quality control was the only way to build trust.
 
 When you buy Aramith balls for your home table, you're getting the same equipment used in professional play. That matters to serious players. It means your practice on home equipment translates directly to match conditions. You're not adjusting for different balls when you walk into a tournament.
 

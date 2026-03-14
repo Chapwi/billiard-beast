@@ -87,9 +87,9 @@ But you're also paying the Predator premium. A $250 Predator performs comparably
 
 ## $500+: Custom and professional
 
-This is where cues become art. Custom builders like Southwest, Schon, and Meucci produce sticks with exotic woods, hand-laid inlays, and craftsmanship that takes months per cue. They play beautifully. They also cost as much as a used car payment.
+This is where cues become art. Custom builders like Southwest, Schon, along with Meucci produce sticks with exotic woods, hand-laid inlays, and craftsmanship that takes months per cue. They play beautifully. They also cost as much as a used car payment.
 
-Is a $1,000 cue better than a $300 cue? Technically, yes. The materials are better, the construction is more precise, the feel is more refined. Is it three times better? No. The performance difference is marginal. You're paying for exclusivity, craftsmanship, and the satisfaction of owning something exceptional.
+Is a $1,000 cue better than a $300 cue? Technically, yes. The materials are better, the construction is more precise, the feel is more refined. Is it three times better? No. The performance difference is marginal. You're paying for exclusivity, craftsmanship, along with the satisfaction of owning something exceptional.
 
 If you have the money and pool is your passion, go for it. If you're trying to decide between a $500 cue and a $200 cue with $300 of table time at your local hall, take the table time. Practice beats equipment every time.
 

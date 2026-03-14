@@ -83,6 +83,10 @@ It’s fairly common for players in a friendly game to determine who breaks firs
 
 ## Lag Shot or “Lagging”
 
+
+
+**Worth checking out:** The gold standard in pool balls, take a look at the [Aramith Pure Phenolic Pool Balls](https://www.amazon.com/dp/B009L16GJI?tag=billiardbeast-20) on Amazon.
+
 ## FAQ
 
 **What's the main goal in 9-ball?**
