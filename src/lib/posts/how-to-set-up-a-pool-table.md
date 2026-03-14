@@ -12,7 +12,7 @@ image: "/images/anatomy-pooltable.jpg"
 
 So you're thinking about installing a [pool table](/pool-table-cost/) at home. Maybe you've got a sweet spot in your basement or garage, and you're picturing endless nights of games with friends and family. Here's the real question: should you tackle the setup yourself, or call in the pros?
 
-The answer is: it depends. Setting up a pool table is absolutely doable as a DIY project if you've got some basic mechanical skills, patience, and the right tools. You'll save anywhere from $200 to $500 in professional installation fees. But there's a catch—one mistake during setup can mean an uneven playing surface that'll ruin your game. The good news? This guide walks you through every single step, and we'll cover when it makes sense to bring in a professional.
+The answer is: it depends. Setting up a pool table is absolutely doable as a DIY project if you've got some basic mechanical skills, patience, and the right tools. You'll save anywhere from $200 to $500 in professional installation fees. But there's a catch. Oone mistake during setup can mean an uneven playing surface that'll ruin your game. The good news? This guide walks you through every single step, and we'll cover when it makes sense to bring in a professional.
 
 The pool table installation process requires precision, attention to detail, and a methodical approach. Whether you're a billiards enthusiast or just someone looking to create the perfect entertainment space, understanding how to properly assemble and level your table ensures years of reliable gameplay.
 
@@ -52,7 +52,7 @@ Pro tip: Most quality pool tables come with installation instructions and many o
 
 ## Step 1: Choose the Right Room and Prepare Your Space
 
-This is foundational—literally. Before you even unpack your table, you need the right environment.
+This is foundational. Lliterally. Before you even unpack your table, you need the right environment.
 
 ### Space Requirements
 
@@ -82,7 +82,7 @@ Your floor must be flat and stable. Here's how to prepare it:
    - Shimming the table legs during installation (we'll cover this)
    - Having the floor professionally leveled (more expensive but worth it for serious players)
 
-3. **Ensure stability**: Make sure the floor won't shift or flex under the table's weight. Pool tables are heavy—figure 500-800 pounds for the frame and cloth, plus another 300-400 pounds if you have one-piece slate.
+3. **Ensure stability**: Make sure the floor won't shift or flex under the table's weight. Pool tables are heavy. Ffigure 500-800 pounds for the frame and cloth, plus another 300-400 pounds if you have one-piece slate.
 
 4. **Remove obstacles**: Clear the space of furniture, clutter, and anything that might vibrate or interfere with gameplay.
 
@@ -108,7 +108,7 @@ Now we're getting into the actual assembly. Start by laying out all the pieces a
 
 1. **Start with the long rails**: Most home tables have left and right long rails (the 78-79" sides). Connect the corner blocks or braces that attach the short rails.
 
-2. **Attach the short rails**: These are the head and foot rails. Use the provided bolts, brackets, and hardware. Don't tighten everything fully yet—you'll fine-tune alignment later.
+2. **Attach the short rails**: These are the head and foot rails. Use the provided bolts, brackets, and hardware. Don't tighten everything fully yet. Yyou'll fine-tune alignment later.
 
 3. **Install the legs**: Typically, four legs screw or bolt into corner pockets or leg brackets. Ensure each leg sits flat and is screwed in securely but not so tight you strip the threads.
 
@@ -170,7 +170,7 @@ This is where patience pays off:
 
 2. **Work systematically**: Check the center, all four corners, and the midpoints of each side.
 
-3. **Add shims incrementally** under table legs until the marble stays centered. Use small movements—even ¼ inch can matter.
+3. **Add shims incrementally** under table legs until the marble stays centered. Use small movements. Eeven ¼ inch can matter.
 
 4. **Recheck constantly** as you adjust. It's easy to over-correct.
 
@@ -218,7 +218,7 @@ Now we're bringing your table to life visually. Felt installation requires care 
 
 1. **Center the felt carefully**: Start by centering the felt lengthwise on the slate. Have a helper hold one end while you work.
 
-2. **Smooth as you go**: Working from the center outward, smooth out wrinkles and air pockets. Use a plastic squeegee or a clean cloth—never rough tools that might snag the felt.
+2. **Smooth as you go**: Working from the center outward, smooth out wrinkles and air pockets. Use a plastic squeegee or a clean cloth. Nnever rough tools that might snag the felt.
 
 3. **Stretch evenly**: As you wrap the felt around the rails, maintain even tension. Too much tension in one area causes wrinkles elsewhere; too little causes sagging.
 
@@ -252,7 +252,7 @@ Most home tables have:
 
 2. **Position the rails**: Carefully position the long rails (sides) first, then the short rails (head and foot). They should fit snugly against the slate.
 
-3. **Secure with bolts**: Most tables use bolts or set screws through the frame into the rails. Tighten securely but don't over-torque—you can crack wood.
+3. **Secure with bolts**: Most tables use bolts or set screws through the frame into the rails. Tighten securely but don't over-torque. Yyou can crack wood.
 
 4. **Check alignment**: The rails should form a perfect rectangle with the slate. No gaps should exist between the rail and the slate edge.
 
@@ -262,7 +262,7 @@ Most home tables have:
 
 ## Step 7: Level the Table Completely
 
-You've assembled everything. Now comes the final leveling—the most critical step for play quality.
+You've assembled everything. Now comes the final leveling. Tthe most critical step for play quality.
 
 ### Why Leveling Matters
 
@@ -428,7 +428,7 @@ Place a straightedge on the slate in multiple directions. You shouldn't see ligh
 
 ### What should I do if I get an uneven feel while playing after installation?
 
-Don't panic. This usually means the table has shifted slightly (common in the first month). Re-level using the marble roll test and adjust shims as needed. If the problem persists, call a professional—you may have a deeper issue.
+Don't panic. This usually means the table has shifted slightly (common in the first month). Re-level using the marble roll test and adjust shims as needed. If the problem persists, call a professional. Yyou may have a deeper issue.
 
 ### Can I move the table once it's installed?
 

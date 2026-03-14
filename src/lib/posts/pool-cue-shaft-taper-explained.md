@@ -23,7 +23,7 @@ It matters. Taper shapes how your cue feels, how it hits, and how much you need 
 
 ## The Pro Taper: Your Parallel Section and Then Some
 
-A pro taper cue has a straightforward design: the first 14 to 15 inches (or sometimes 12 to 13 inches on shorter cues) stay at a constant diameter. Think of it as a solid, parallel column from the tip all the way down to somewhere past your bridge hand. Then—right around the joint on a two-piece cue—the shaft begins to taper toward the butt.
+A pro taper cue has a straightforward design: the first 14 to 15 inches (or sometimes 12 to 13 inches on shorter cues) stay at a constant diameter. Think of it as a solid, parallel column from the tip all the way down to somewhere past your bridge hand. Then. Rright around the joint on a two-piece cue. Tthe shaft begins to taper toward the butt.
 
 This parallel section is the key. When you're bridging the cue, your hand lands on that straight part. You're never gripping diameter changes right where your stroke happens. That stability matters, especially if you're the type who likes consistency.
 
@@ -33,13 +33,13 @@ The downside? Pro taper cues do deflect more on off-center hits. The extra mass 
 
 ## The European Taper: Cone All the Way
 
-Also called a straight taper, this design tapers continuously from the tip to the butt—basically shaped like an elongated cone. No two spots on the shaft have the same diameter. Most house cues in pool halls use this profile because it's cheaper to manufacture and plays okay for casual games.
+Also called a straight taper, this design tapers continuously from the tip to the butt. Bbasically shaped like an elongated cone. No two spots on the shaft have the same diameter. Most house cues in pool halls use this profile because it's cheaper to manufacture and plays okay for casual games.
 
 The European taper was developed partly for deflection control. The gradual cone shape allows the shaft to flex more evenly across its length when you hit off-center. That flex helps absorb some of the sideways force, reducing how much the cue tip travels left or right. If you're sensitive to squirt and want a cue that forgets about English a bit more, European taper is your direction.
 
 The tradeoff is that the cue feels softer overall. Less mass stays in the hitting zone, so power transfer is less efficient. You'll feel more vibration on hard shots, and the break never quite has that solid, planted feel. Some players hate it. Others prefer the feedback because it tells them exactly what their stroke is doing.
 
-Some modern cues blend the two approaches—keeping it straight for a few inches, then ramping up the taper more aggressively near the ferrule, then easing off again toward the joint. [Cue manufacturers like Raven](https://www.amazon.com/s?k=Raven+pool+cue&tag=billiardbeast-20) experiment with hybrid profiles to catch the best of both worlds.
+Some modern cues blend the two approaches. Kkeeping it straight for a few inches, then ramping up the taper more aggressively near the ferrule, then easing off again toward the joint. [Cue manufacturers like Raven](https://www.amazon.com/s?k=Raven+pool+cue&tag=billiardbeast-20) experiment with hybrid profiles to catch the best of both worlds.
 
 ## Shaft Mass and How It Plays
 
@@ -47,17 +47,17 @@ Here's where taper connects to the actual physics of the game. A pro taper keeps
 
 First, it delivers force more directly. When your stroke pushes through a heavier front section, the cue ball gets hit hard and clean. Second, it resists flex. A stiffer hitting zone means less side movement when you're aiming for power.
 
-A European taper distributes its weight more evenly along the length of the shaft. Lighter near the tip, gradually getting heavier toward the butt. This creates a more whip-like feel—more flex, more give, more feedback. Some players swear by this because they can feel everything their stroke is doing wrong.
+A European taper distributes its weight more evenly along the length of the shaft. Lighter near the tip, gradually getting heavier toward the butt. This creates a more whip-like feel. Mmore flex, more give, more feedback. Some players swear by this because they can feel everything their stroke is doing wrong.
 
 But here's the key: the total weight of the cue matters more than the taper alone. A 19-ounce pro taper cue and a 19-ounce European taper cue are in the same ballpark. The taper just changes how that weight is distributed and how the cue responds.
 
 ## Deflection and Squirt: The Real Test
 
-Deflection—also called squirt—happens because the cue tip moves sideways when it strikes the cue ball at an angle. You hit the ball with follow-through and English, and the tip bends instead of traveling in a straight line. The result is the cue ball doesn't go exactly where you aimed.
+Deflection. Aalso called squirt. Hhappens because the cue tip moves sideways when it strikes the cue ball at an angle. You hit the ball with follow-through and English, and the tip bends instead of traveling in a straight line. The result is the cue ball doesn't go exactly where you aimed.
 
 Right English pushes the tip to the left, causing left squirt. Left English pushes right. Every player learns to compensate, but the amount varies wildly between cues.
 
-Pro taper cues show more deflection on off-center hits. The straight section doesn't flex as much, so sideways force travels more directly. If you're hitting a rail at an angle with English, you'll see bigger deviation. But here's the thing—pros actually like this because they know it's consistent. Predictable deflection beats unpredictable flexibility.
+Pro taper cues show more deflection on off-center hits. The straight section doesn't flex as much, so sideways force travels more directly. If you're hitting a rail at an angle with English, you'll see bigger deviation. But here's the thing. Ppros actually like this because they know it's consistent. Predictable deflection beats unpredictable flexibility.
 
 European tapers flex more, so they reduce deflection. The cue shaft absorbs more of the side force, which means less of it reaches the cue ball. On paper, this sounds great. But in reality, this flex is less consistent between shots. Two identical strokes might produce slightly different results because the shaft flex isn't totally predictable.
 
@@ -65,13 +65,13 @@ European tapers flex more, so they reduce deflection. The cue shaft absorbs more
 
 If you're breaking and running, and you care about power and solid contact, pro taper is the move. You want that parallel section giving you a consistent platform. Players who jump a lot also tend toward pro taper because jump shots need that crisp, clean hit without deflection complications.
 
-If you're a position player—someone who cares more about control and feel—European taper might suit you. You're making softer shots, banking carefully, taking tough angles. The extra feedback and reduced deflection can help you navigate. Just understand you're giving up some power.
+If you're a position player. Ssomeone who cares more about control and feel. European taper might suit you. You're making softer shots, banking carefully, taking tough angles. The extra feedback and reduced deflection can help you navigate. Just understand you're giving up some power.
 
 The reality is most serious players own cues with both profiles and grab based on what they're playing that day. A [McDermott cue](https://www.amazon.com/s?k=McDermott+pool+cue&tag=billiardbeast-20) with pro taper sits next to a cue with European taper. You shoot a few warm-up games, feel out the table and see which one clicks.
 
 ## Modern Cues Are Getting Creative
 
-Because nobody agrees on the perfect taper, manufacturers have started experimenting with hybrid designs. Some keep the pro taper concept but soften the transition to the butt. Others use a steeper taper near the ferrule—for more control in the hitting zone—then flatten out toward the joint for stability. Brands like [Meucci and Predator](https://www.amazon.com/s?k=Predator+Meucci+pool+cue&tag=billiardbeast-20) offer variations of these compromises.
+Because nobody agrees on the perfect taper, manufacturers have started experimenting with hybrid designs. Some keep the pro taper concept but soften the transition to the butt. Others use a steeper taper near the ferrule. Ffor more control in the hitting zone. Tthen flatten out toward the joint for stability. Brands like [Meucci and Predator](https://www.amazon.com/s?k=Predator+Meucci+pool+cue&tag=billiardbeast-20) offer variations of these compromises.
 
 The benefit is you get some deflection control without losing all your power. The downside is more complexity means higher prices. A basic pro taper cue runs $200-400. A hybrid design with custom taper engineering could easily hit $600-1,200.
 

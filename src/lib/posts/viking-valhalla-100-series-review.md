@@ -15,7 +15,7 @@ image: "/images/viking-productionworking.webp"
 
 Forty-nine units.
 
-That's how many Viking Valhalla 100 Series cues our readers bought in 2025. The next closest cue on our list? Forty-three — the [PureX Technology](/purex-technology-pool-cue-review/). At roughly a third of the price.
+That's how many Viking Valhalla 100 Series cues our readers bought in 2025. The next closest cue on our list? Forty-three . Tthe [PureX Technology](/purex-technology-pool-cue-review/). At roughly a third of the price.
 
 I didn't pick the Valhalla as our top seller. Our readers did. Thousands of people came to this site looking for pool cue recommendations, read what we had to say, clicked through to Amazon, and reached for the $30 Viking more than anything else. That data point is worth more than any spec sheet comparison I could write.
 
@@ -31,7 +31,7 @@ That's the spec that makes pool players double-take. Irish linen is the standard
 
 Viking apparently decided that was unacceptable even at their lowest price point. Whether that's generosity or just smart business (hook them cheap, upsell them later), the result is the same: you get a wrap material that belongs on a much more expensive cue.
 
-The shaft is solid hardwood. Not maple — Viking doesn't specify the exact wood species on the Valhalla line, and that's fine. It's not premium North American rock maple. But it's straight, it's consistent, and it doesn't warp in normal conditions. I've seen house cues at bars that cost the owner twice as much and play half as well.
+The shaft is solid hardwood. Not maple . Viking doesn't specify the exact wood species on the Valhalla line, and that's fine. It's not premium North American rock maple. But it's straight, it's consistent, and it doesn't warp in normal conditions. I've seen house cues at bars that cost the owner twice as much and play half as well.
 
 The joint is standard 5/16 x 14. That matters for one reason: if you ever want to upgrade just the shaft down the road, you have options. You're not locked into a proprietary system.
 
@@ -57,7 +57,7 @@ Based on our data, Valhalla buyers fall into a few camps:
 
 **The bar league player.** Someone who plays weekly at a bar and wants consistency without investment. Same cue every week means muscle memory develops faster.
 
-That last group is bigger than most people realize. A huge percentage of pool in America happens at bars with warped house cues and torn felt. Just owning your own straight cue — any straight cue — immediately levels up your game because you're removing a variable.
+That last group is bigger than most people realize. A huge percentage of pool in America happens at bars with warped house cues and torn felt. Just owning your own straight cue . Aany straight cue — immediately levels up your game because you're removing a variable.
 
 ## How it compares
 

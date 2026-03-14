@@ -19,7 +19,7 @@ faqs:
 
 You're shopping for a pool table and the question hits you: can my floor handle it? Your apartment's above another unit. The basement isn't reinforced. That's when slate's weight becomes real.
 
-Most slate pool tables land somewhere between 700 and 1,000 pounds. Some commercial monsters hit 1,500-2,000 pounds. An 8-foot residential table weighs around 850 pounds. A 9-foot gets close to 1,100. These aren't approximations—they're why you need to call movers instead of recruiting your buddies.
+Most slate pool tables land somewhere between 700 and 1,000 pounds. Some commercial monsters hit 1,500-2,000 pounds. An 8-foot residential table weighs around 850 pounds. A 9-foot gets close to 1,100. These aren't approximations. Tthey're why you need to call movers instead of recruiting your buddies.
 
 Here's what actually matters: where that weight comes from, how different table types compare, and whether your space can handle it.
 
@@ -27,11 +27,11 @@ Here's what actually matters: where that weight comes from, how different table 
 
 The slate itself makes up roughly 50% of any pool table's total weight. That's what makes the difference. A single piece of slate from a 9-foot table can weigh 250 pounds. Three pieces for a residential 8-foot? Expect 125-150 pounds each.
 
-Here's how manufacturers work with this. They start with one massive piece of slate and precision-grind it down to within ten-thousandths of an inch. That gets you a flat playing surface. Then they cut it into three pieces—easier to move and less risk of ruining the entire table if something goes wrong in installation.
+Here's how manufacturers work with this. They start with one massive piece of slate and precision-grind it down to within ten-thousandths of an inch. That gets you a flat playing surface. Then they cut it into three pieces. Eeasier to move and less risk of ruining the entire table if something goes wrong in installation.
 
 Most quality residential tables use 1-inch thick slate. Commercial tables often use 3/4-inch slate because it's just as good for play while shaving off some weight. Doesn't sound like much until you're moving it.
 
-The rest of the table—frame, rails, cushions, legs—fills out the remaining weight. But slate is what makes the table what it is. You can't cheap out on slate and expect tournament-quality play.
+The rest of the table. Fframe, rails, cushions, legs. Ffills out the remaining weight. But slate is what makes the table what it is. You can't cheap out on slate and expect tournament-quality play.
 
 ## 7-Foot vs. 8-Foot vs. 9-Foot: The Numbers
 
@@ -49,7 +49,7 @@ This seems backwards at first. A commercial 7-footer (700 pounds) weighs less th
 
 Commercial tables use a single piece of slate instead of three. Why? Bars and pool halls move tables around. One solid piece of slate stays level during transport. Three separate pieces can shift and throw off the playing surface.
 
-But commercial tables have heavy-duty frames. The cabinet is solid wood or reinforced composite—built to take years of abuse. Coin mechanisms add weight. The cushions are often thicker rubber built for consistent rebound after thousands of impacts.
+But commercial tables have heavy-duty frames. The cabinet is solid wood or reinforced composite. Bbuilt to take years of abuse. Coin mechanisms add weight. The cushions are often thicker rubber built for consistent rebound after thousands of impacts.
 
 A commercial 9-foot table at a pro shop? Expect 1,100-1,500 pounds. That's museum-quality equipment meant to last 20+ years in constant use. The [Brunswick Gold Crown](https://www.amazon.com/s?k=Brunswick+Gold+Crown+pool+table&tag=billiardbeast-20) sits around $5,000-$7,000 and weighs 1,100+ pounds. Every single pound is there for a reason.
 
@@ -59,7 +59,7 @@ Residential tables come with three pieces of slate for a reason: they're easier 
 
 Problem? If installation goes wrong, you're replacing individual pieces. Or if you move the table down the line, the pieces can shift and throw off the playing surface completely. Bad installation creates decades of wonky play. Good installers know how to reassemble and level everything perfectly using precision tools.
 
-The [Brunswick Gold Crown V](https://www.amazon.com/s?k=Brunswick+Gold+Crown+pool+table&tag=billiardbeast-20) is the industry standard—around $4,000-$6,000 and it weighs about 1,000 pounds. Every pound is premium wood, competition slate, and precision engineering. You're buying a table that will [outlive your marriage if you take care of it](/how-long-do-pool-tables-last/).
+The [Brunswick Gold Crown V](https://www.amazon.com/s?k=Brunswick+Gold+Crown+pool+table&tag=billiardbeast-20) is the industry standard. Aaround $4,000-$6,000 and it weighs about 1,000 pounds. Every pound is premium wood, competition slate, and precision engineering. You're buying a table that will [outlive your marriage if you take care of it](/how-long-do-pool-tables-last/).
 
 MDF tables, by contrast, weigh 300-500 pounds total. Way lighter. Much cheaper. But they won't last. A slate table lasts 30+ years with basic care. MDF might last 5-10 years before the playing surface starts warping and cupping.
 

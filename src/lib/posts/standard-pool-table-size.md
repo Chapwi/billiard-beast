@@ -17,31 +17,31 @@ faqs:
 image: "/images/canva-pool-table-with-pool-balls-and-stick.webp"
 ---
 
-You're standing in the showroom at a pool table retailer, and there are three tables in a row—7 feet, 8 feet, 9 feet. They all look basically the same. They're not.
+You're standing in the showroom at a pool table retailer, and there are three tables in a row, 7 feet, 8 feet, 9 feet. They all look basically the same. They're not.
 
-The size of a pool table changes how you play. It changes what's possible. A 7-foot bar table plays nothing like a 9-foot tournament table. The difference between them isn't just the numbers—it's strategy, difficulty, and whether you can actually play the game you want to play.
+The size of a pool table changes how you play. It changes what's possible. A 7-foot bar table plays nothing like a 9-foot tournament table. The difference between them isn't just the numbers. Iit's strategy, difficulty, and whether you can actually play the game you want to play.
 
 ## The Three Standard Sizes
 
-**7-foot bar box** — You know these. They're everywhere. Bars, pool halls, some basements. Measuring 3.5 feet wide by 7 feet long, they're fast and forgiving. Games finish quickly. You can break and play a full game of 8-ball in 15 minutes if both players are decent. The tight table means more balls go down, fewer difficult shots, and quicker action. Best for casual play or learning. Not best if you want to get seriously good.
+**7-foot bar box** . You know these. They're everywhere. Bars, pool halls, some basements. Measuring 3.5 feet wide by 7 feet long, they're fast and forgiving. Games finish quickly. You can break and play a full game of 8-ball in 15 minutes if both players are decent. The tight table means more balls go down, fewer difficult shots, and quicker action. Best for casual play or learning. Not best if you want to get seriously good.
 
-**8-foot home table** — This is the standard for people who actually own a pool table. Four feet wide by 8 feet long. It's the real thing without being absurd about space. Most billiard companies—[Brunswick](https://www.amazon.com/s?k=Brunswick+pool+table&tag=billiardbeast-20), [Diamond](https://www.amazon.com/s?k=Diamond+pool+table&tag=billiardbeast-20), [Olhausen](https://www.amazon.com/s?k=Olhausen+pool+table&tag=billiardbeast-20)—make 8-footers as their standard home model. You can play any game on it. 8-ball, 9-ball, straight pool. You need real skill to run the table. Bank shots start to demand accuracy. Games take longer but aren't marathons. If you're buying one table for your home, this is the one.
+**8-foot home table** . This is the standard for people who actually own a pool table. Four feet wide by 8 feet long. It's the real thing without being absurd about space. Most billiard companies, [Brunswick](https://www.amazon.com/s?k=Brunswick+pool+table&tag=billiardbeast-20), [Diamond](https://www.amazon.com/s?k=Diamond+pool+table&tag=billiardbeast-20), [Olhausen](https://www.amazon.com/s?k=Olhausen+pool+table&tag=billiardbeast-20). Mmake 8-footers as their standard home model. You can play any game on it. 8-ball, 9-ball, straight pool. You need real skill to run the table. Bank shots start to demand accuracy. Games take longer but aren't marathons. If you're buying one table for your home, this is the one.
 
-**9-foot tournament table** — 4.5 feet wide by 9 feet long. This is what professionals play on. The World Pool-Billiard Association (WPA) specifies this size for all sanctioned tournaments. The extra length and width make everything harder. Distance shots require more control. Angle shots demand precision. A mediocre player struggles on a 9-footer—you can't just push balls around and hope they go in. You need to actually play pool. They're expensive, they need a lot of room, and they're overkill unless you're serious.
+**9-foot tournament table** , 4.5 feet wide by 9 feet long. This is what professionals play on. The World Pool-Billiard Association (WPA) specifies this size for all sanctioned tournaments. The extra length and width make everything harder. Distance shots require more control. Angle shots demand precision. A mediocre player struggles on a 9-footer. Yyou can't just push balls around and hope they go in. You need to actually play pool. They're expensive, they need a lot of room, and they're overkill unless you're serious.
 
 ## Pocket Size and Ball Ratio
 
 Here's something people forget: the pockets get slightly bigger on larger tables, but not proportionally bigger. A 7-foot table has 1 1/8-inch pockets. An 8-foot has 1 1/4-inch. A 9-foot has 1 3/8-inch.
 
-That sounds like a small difference. It's not. A 7-foot table is brutally forgiving because the pockets are relatively larger compared to the playing surface. A 9-footer is the opposite—the pockets look small, and anything short of a clean shot is a miss.
+That sounds like a small difference. It's not. A 7-foot table is brutally forgiving because the pockets are relatively larger compared to the playing surface. A 9-footer is the opposite. Tthe pockets look small, and anything short of a clean shot is a miss.
 
-This is why a player who dominates at the local bar on a 7-footer can look helpless on a tournament 9-foot. It's not that they can't play—they just learned on a table that forgave mistakes.
+This is why a player who dominates at the local bar on a 7-footer can look helpless on a tournament 9-foot. It's not that they can't play. Tthey just learned on a table that forgave mistakes.
 
 ## Room Space and Clearance
 
 Before you buy, measure your room. Not the table dimensions. The room dimensions.
 
-An 8-foot table needs about 16 feet by 14 feet of open space. That's the table (8 feet long) plus roughly 5 feet of cue clearance on the long sides and 4 feet on the short sides. In a tighter room, you might only have 4 feet per side, but you'll feel it—jump shots toward the walls become impossible, and banking becomes a pain.
+An 8-foot table needs about 16 feet by 14 feet of open space. That's the table (8 feet long) plus roughly 5 feet of cue clearance on the long sides and 4 feet on the short sides. In a tighter room, you might only have 4 feet per side, but you'll feel it. Jjump shots toward the walls become impossible, and banking becomes a pain.
 
 A 7-foot fits in a smaller space. You could squeeze it into a 13-foot by 11-foot room. A 9-footer needs something like 18 feet by 16 feet, and that's minimum.
 
@@ -55,7 +55,7 @@ If you care about the actual playing surface (where the balls go), the numbers a
 **8-foot**: 4 feet by 8 feet of playing surface (48 inches by 96 inches)
 **9-foot**: 4.5 feet by 9 feet of playing surface (54 inches by 108 inches)
 
-These are the dimensions from the inner edge of the rail to the inner edge of the opposite rail. Your actual table will be slightly larger—you need wood on the sides for the frame.
+These are the dimensions from the inner edge of the rail to the inner edge of the opposite rail. Your actual table will be slightly larger. Yyou need wood on the sides for the frame.
 
 ## Which Size Should You Buy?
 

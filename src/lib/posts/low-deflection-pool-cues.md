@@ -75,7 +75,7 @@ Here’s a quick video to help explain deflection and how LD shafts work.
 
 If you're looking for a low-deflection cue without spending a fortune, these are the best options at different price points:
 
-**Budget pick: [PureX Technology](/purex-technology-pool-cue-review/) (~$75)** — [Check Price on Amazon](https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20). Low-deflection shaft technology at a price that undercuts most competitors by $100+. The 12.75mm tip gives slightly more precision than standard 13mm tips.
+**Budget pick: [PureX Technology](/purex-technology-pool-cue-review/) (~$75)** , [Check Price on Amazon](https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20). Low-deflection shaft technology at a price that undercuts most competitors by $100+. The 12.75mm tip gives slightly more precision than standard 13mm tips.
 
 **Carbon fiber pick: [Collapsar CXL500](/collapsar-cxl500-review/) (~$85)** — [Check Price on Amazon](https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20). Carbon fiber shafts are inherently low-deflection and never warp. Most carbon fiber cues start at $200+. The Collapsar is a steal.
 

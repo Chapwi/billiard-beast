@@ -37,7 +37,7 @@ Any reputable cue maker will have glue on tips on their cues. Glue on tips are m
 
 ## Material
 
-## Players Classic C-960 — [Check Price on Amazon](https://www.amazon.com/s?k=Players+Classic+C-960+pool+cue&tag=billiardbeast-20)
+## Players Classic C-960 , [Check Price on Amazon](https://www.amazon.com/s?k=Players+Classic+C-960+pool+cue&tag=billiardbeast-20)
 
 Most pool cues are made out of wood. Wood has been the go to material for hundreds of years, and for good reason. It provides the best feel, playability, and function out of all the other materials. Most professional players use wood cues for these reasons.
 

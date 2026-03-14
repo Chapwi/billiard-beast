@@ -95,7 +95,7 @@ The break cue prioritizes:
 
 ### The Break Cue Price Range
 
-Quality break cues start around $100-150 and range up to $300-400 for premium models. They're generally cheaper than playing cues because less precision is required—you're not performing delicate shots, just hitting hard.
+Quality break cues start around $100-150 and range up to $300-400 for premium models. They're generally cheaper than playing cues because less precision is required. Yyou're not performing delicate shots, just hitting hard.
 
 The Predator BK Rush and similar high-end break cues run $250-350. Budget break cues from brands like Players or Viking are $80-150 and do the job adequately.
 
@@ -109,9 +109,9 @@ Let's compare the two side by side.
 
 **Playing Cue**: Medium hardness. Compresses slightly on impact, allowing better control and spin generation. The give in the tip helps with precision.
 
-**Break Cue**: Very hard. Minimal compression means maximum velocity transfer. A phenolic resin tip is essentially a steel ball wrapped in a cue stick—it's all about power.
+**Break Cue**: Very hard. Minimal compression means maximum velocity transfer. A phenolic resin tip is essentially a steel ball wrapped in a cue stick. Iit's all about power.
 
-**Why it matters**: A hard break cue tip on delicate touch shots causes unpredictable spin and control issues. The reverse problem is less noticeable—using a soft playing cue for breaking works in the short term but damages the tip quickly.
+**Why it matters**: A hard break cue tip on delicate touch shots causes unpredictable spin and control issues. The reverse problem is less noticeable. Uusing a soft playing cue for breaking works in the short term but damages the tip quickly.
 
 ### Shaft Stiffness
 
@@ -166,7 +166,7 @@ A quality playing cue tip costs $20-40 to replace and takes 10 minutes to have i
 
 ### Ferrule Stress: The Expensive Problem
 
-Here's where things get costly. The ferrule is the collar that holds the tip in place. It's engineered to handle the forces of normal playing—controlled shots, english, speed variations.
+Here's where things get costly. The ferrule is the collar that holds the tip in place. It's engineered to handle the forces of normal playing. Ccontrolled shots, english, speed variations.
 
 A break is violent. It's the most forceful impact your cue will experience in regular play.
 
@@ -176,7 +176,7 @@ A break is violent. It's the most forceful impact your cue will experience in re
 - Separate the tip from the ferrule, requiring professional re-tipping
 - Cause tiny hairline fractures that propagate over time
 
-A cracked or damaged ferrule can't be repaired—it requires a full re-tipping, which runs $50-100+ depending on your cue and the pro shop.
+A cracked or damaged ferrule can't be repaired. Iit requires a full re-tipping, which runs $50-100+ depending on your cue and the pro shop.
 
 ### Shaft Warping: The Long-Term Disaster
 
@@ -186,7 +186,7 @@ The shaft is a precision engineering component. It's meant to be straight. A war
 
 **Why it happens**: The break generates forces that flex the shaft beyond its designed tolerance. Over hundreds of breaks with a playing cue, micro-stresses accumulate. The wood grain can shift, and the cue loses its straightness.
 
-This is rare with quality playing cues, but it happens. It's also why break cues have stiffer shafts—they're engineered to handle that stress without warping.
+This is rare with quality playing cues, but it happens. It's also why break cues have stiffer shafts. Tthey're engineered to handle that stress without warping.
 
 ---
 
@@ -206,7 +206,7 @@ A cheap break cue won't meaningfully improve your game, but a better playing cue
 
 ### If You Play Straight Pool
 
-Straight pool (also called 14.1) doesn't really have a "break" in the traditional sense. You're not smashing a rack—you're breaking open a tight cluster. The forces involved are different. A playing cue is entirely adequate.
+Straight pool (also called 14.1) doesn't really have a "break" in the traditional sense. You're not smashing a rack. Yyou're breaking open a tight cluster. The forces involved are different. A playing cue is entirely adequate.
 
 Same with 9-ball or 8-ball in casual settings where you're not trying to destroy the rack and running 200 balls on the break.
 

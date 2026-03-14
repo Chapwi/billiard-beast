@@ -31,7 +31,7 @@ The best way to do this is to keep it in a room that doesn’t get a ton of dire
 
 ## Avoid Humidity
 
-Unfortunately, humidity, which can prematurely age the pool table felt, is harder to control. Many people keep pool tables in garages, unfinished basements, or outside under awnings. In basements and garages, you can install a window HVAC system or a dehumidifier to help protect the table. If you keep the table outside, there’s not much you can do about the humidity— other than moving the table inside.
+Unfortunately, humidity, which can prematurely age the pool table felt, is harder to control. Many people keep pool tables in garages, unfinished basements, or outside under awnings. In basements and garages, you can install a window HVAC system or a dehumidifier to help protect the table. If you keep the table outside, there’s not much you can do about the humidity. Oother than moving the table inside.
 
 ## Avoid Humidity
 

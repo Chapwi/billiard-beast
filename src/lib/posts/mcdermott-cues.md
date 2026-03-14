@@ -17,7 +17,7 @@ McDermott has been building cues in Menomonee Falls, Wisconsin since 1975. That 
 
 But does any of that translate into a cue worth buying in 2026? Let's break down every series they make.
 
-## Lucky Cues — The Entry Point
+## Lucky Cues . The Entry Point
 
 **Price Range:** $62 – $175 | [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+Lucky+Cues&tag=billiardbeast-20)
 
@@ -25,7 +25,7 @@ If you're buying your first real cue, start here. The Lucky series ships with a 
 
 The catch? No frills. No low-deflection technology. No exotic woods. Just a solid, straight cue that does what it's supposed to do. For casual players who shoot a few times a month, that's plenty.
 
-## G-Series — The Mid-Range Workhorse
+## G-Series . The Mid-Range Workhorse
 
 **Price Range:** $195 – $340 | [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+G-Series+pool+cue&tag=billiardbeast-20)
 
@@ -33,7 +33,7 @@ This is where McDermott starts getting interesting. The G-Series ships with a G-
 
 The wraps are nicer, the inlay work is cleaner, and the balance feels more intentional. If you're playing in a league or shooting regularly, the G-Series hits the sweet spot of performance without burning $700+.
 
-## Select Series — Stepping Up
+## Select Series . Stepping Up
 
 **Price Range:** $695 – $1,350 | [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+Select+Series+pool+cue&tag=billiardbeast-20)
 
@@ -41,7 +41,7 @@ The Select Series is for players who care about aesthetics as much as performanc
 
 Is the jump from $340 to $700+ worth it? If you play three or more times a week and you notice the difference between shafts, yes. If you're still working on your fundamentals, stick with the G-Series and invest the difference in table time.
 
-## H-Series — Performance First
+## H-Series . Performance First
 
 **Price Range:** $750 – $2,100 | [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+H-Series+pool+cue&tag=billiardbeast-20)
 
@@ -49,21 +49,21 @@ The H-Series is McDermott's flagship playing line. Every cue ships with an i-Sha
 
 At $2,100 for the top models, you're in territory where custom cuemakers start competing for your money. The H-Series holds its own against most of them.
 
-## Shafts — Where the Real Performance Lives
+## Shafts . Where the Real Performance Lives
 
 McDermott makes three shaft options, and honestly, the shaft matters more than the butt for how a cue actually plays.
 
-### G-Core Shaft — [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+G-Core+Shaft&tag=billiardbeast-20)
+### G-Core Shaft , [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+G-Core+Shaft&tag=billiardbeast-20)
 
 The G-Core uses a triple-layer maple construction to reduce deflection. It's the standard shaft on G-Series and above. For the money, it's one of the better laminated maple shafts on the market.
 
-### Intimidator i-Shaft — [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+Intimidator+i-Shaft&tag=billiardbeast-20)
+### Intimidator i-Shaft , [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+Intimidator+i-Shaft&tag=billiardbeast-20)
 
 **Price Range:** $420 – $5,000
 
 The i-Shaft is McDermott's answer to Predator's Z series and OB's Classic. It uses a radially-spliced maple core with a carbon fiber inner sleeve. Deflection is noticeably lower than the G-Core, and the feedback through the hit is crisp without feeling hollow. This is the shaft that comes standard on H-Series cues.
 
-### DEFY Carbon Fiber Shaft — [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+DEFY+Carbon+Fiber+Shaft&tag=billiardbeast-20)
+### DEFY Carbon Fiber Shaft , [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+DEFY+Carbon+Fiber+Shaft&tag=billiardbeast-20)
 
 **Price Range:** $455 – $465
 
@@ -71,13 +71,13 @@ McDermott's full carbon fiber option. The DEFY uses SmacWrap technology (origina
 
 If you've been curious about carbon fiber but hated the feel of other brands, the DEFY is worth trying.
 
-### Traditional All Maple Shaft — [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+Traditional+All+Maple+Shaft&tag=billiardbeast-20)
+### Traditional All Maple Shaft , [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+Traditional+All+Maple+Shaft&tag=billiardbeast-20)
 
 For players who want the classic feel. No lamination, no carbon, just a solid piece of hard rock maple turned on a lathe. Some players swear the feedback from a one-piece maple shaft is more honest than anything engineered. That's not wrong. It's just different.
 
 ## Specialty Cues
 
-### Stinger Break/Jump Cues — [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+Stinger+Break+Jump+Cues&tag=billiardbeast-20)
+### Stinger Break/Jump Cues , [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+Stinger+Break+Jump+Cues&tag=billiardbeast-20)
 
 **Price Range:** $420 – $1,090
 

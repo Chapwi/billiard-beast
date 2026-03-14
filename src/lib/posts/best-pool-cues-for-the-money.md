@@ -23,11 +23,11 @@ I've organized this by actual price tiers: under $50, $50-100, $100-200, $200-50
 
 At this price, you're buying a tool. Not a statement piece. The goal is a straight stick that holds chalk and doesn't embarrass you.
 
-**Best pick: [Viking Valhalla 100 Series](/viking-valhalla-100-series-review/) (~$30)** — [Buy on Amazon](https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20)
+**Best pick: [Viking Valhalla 100 Series](/viking-valhalla-100-series-review/) (~$30)** , [Buy on Amazon](https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20)
 
 This is the most popular cue our readers buy. Forty-nine units sold in 2025. At $30, it comes with an Irish linen wrap that has no business being at this price point. Available in weights from 18 to 21 oz. Straight out of the box. Scuff the tip before your first game and you're set.
 
-**Runner up: Viper Sinister (~$25)** — [Buy on Amazon](https://www.amazon.com/s?k=Viper+Sinister+pool+cue&tag=billiardbeast-20)
+**Runner up: Viper Sinister (~$25)** , [Buy on Amazon](https://www.amazon.com/s?k=Viper+Sinister+pool+cue&tag=billiardbeast-20)
 
 Five bucks cheaper, simpler construction, basic wrap. Gets the job done. If $5 matters, this works. If comfort matters, spend the extra five.
 
@@ -39,17 +39,17 @@ Five bucks cheaper, simpler construction, basic wrap. Gets the job done. If $5 m
 
 This is the sweet spot for most players. The performance jump from under-$50 to this range is the biggest in all of pool equipment. You go from "functional tool" to "real pool cue."
 
-**Best pick: [PureX Technology](/purex-technology-pool-cue-review/) (~$75)** — [Buy on Amazon](https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20)
+**Best pick: [PureX Technology](/purex-technology-pool-cue-review/) (~$75)** , [Buy on Amazon](https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20)
 
 Low-deflection shaft technology at $75. Made by the same company that produces Lucasi (their premium brand). Our second most popular cue, 43 units sold in 2025, and the highest total revenue of any cue on the site ($3,215). The 12.75mm tip is slightly smaller than standard, giving you more precision potential. The shaft is solid maple with internal engineering to reduce cue ball deflection on english shots.
 
 Read our [full PureX review](/purex-technology-pool-cue-review/) for the deep dive on why this cue punches way above its weight class.
 
-**Also excellent: [Collapsar CXL500](/collapsar-cxl500-review/) (~$85)** — [Buy on Amazon](https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20)
+**Also excellent: [Collapsar CXL500](/collapsar-cxl500-review/) (~$85)** , [Buy on Amazon](https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20)
 
 Carbon fiber shaft at $85. Carbon fiber doesn't warp. Ever. If you play in a garage, basement, or anywhere with humidity swings, this removes an entire category of worry. Most carbon fiber cues start at $200+. The Collapsar undercuts everyone. Seventeen units sold in 2025.
 
-**Budget alternative: Players G-2401 (~$65)** — [Buy on Amazon](https://www.amazon.com/s?k=Players+G-2401+pool+cue&tag=billiardbeast-20)
+**Budget alternative: Players G-2401 (~$65)** , [Buy on Amazon](https://www.amazon.com/s?k=Players+G-2401+pool+cue&tag=billiardbeast-20)
 
 Solid maple, standard joint, straight and balanced. The Toyota of pool cues. Nothing exciting, nothing wrong.
 
@@ -59,11 +59,11 @@ Solid maple, standard joint, straight and balanced. The Toyota of pool cues. Not
 
 At this level, the cues start looking as good as they play. Better wood selection, nicer wraps, tighter joints, and construction that you can feel in your hands.
 
-**Best pick: Players G-3401 (~$120)** — [Buy on Amazon](https://www.amazon.com/s?k=Players+G-3401+pool+cue&tag=billiardbeast-20)
+**Best pick: Players G-3401 (~$120)** , [Buy on Amazon](https://www.amazon.com/s?k=Players+G-3401+pool+cue&tag=billiardbeast-20)
 
 The sweet spot for committed beginners. 19 oz, 13mm tip, solid maple, Irish linen wrap, moderate taper. Everything you need, nothing you don't. If you told me to buy one cue for someone who plays twice a week and wants to get better, I'd hand them this.
 
-**Premium feel: McDermott ES-1 (~$150)** — [Buy on Amazon](https://www.amazon.com/s?k=McDermott+ES-1+pool+cue&tag=billiardbeast-20)
+**Premium feel: McDermott ES-1 (~$150)** , [Buy on Amazon](https://www.amazon.com/s?k=McDermott+ES-1+pool+cue&tag=billiardbeast-20)
 
 McDermott's entry-level offering. You're paying for the name, the finish, and the leather wrap. The quality control is excellent. If walking up to the table with a cue that looks and feels like money matters to you, this is where that starts.
 

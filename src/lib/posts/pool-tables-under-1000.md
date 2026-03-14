@@ -18,7 +18,7 @@ If you’ve been searching for the best pool tables under $1000, this article is
 
 ## Why Choose the Spartan?
 
-This stylish black pool table is great for those that don’t have a lot of space or that need to move their table often. The foldable legs allow for easy storage and transport. The Fat Cat Trueshot — [Check Price on Amazon](https://www.amazon.com/s?k=Fat+Cat+Trueshot+pool+table&tag=billiardbeast-20) is the best of both worlds because it is sturdy and at the same time doesn’t require lots of people to move. The cloth on the Trueshot is designed to be durable and scratch resistant. The billiard balls included are low-friction and chip-resistant.
+This stylish black pool table is great for those that don’t have a lot of space or that need to move their table often. The foldable legs allow for easy storage and transport. The Fat Cat Trueshot , [Check Price on Amazon](https://www.amazon.com/s?k=Fat+Cat+Trueshot+pool+table&tag=billiardbeast-20) is the best of both worlds because it is sturdy and at the same time doesn’t require lots of people to move. The cloth on the Trueshot is designed to be durable and scratch resistant. The billiard balls included are low-friction and chip-resistant.
 
 <li>Easy To Transport.</li> <li>Great For Smaller Spaces.</li> <li>Great For Kids And Adults Alike.</li> <li>Sleek Black Design Fits Any Decor.</li> <li>Comes With Everything You Need To Play.</li> <li>Sturdy Materials And Design.</li> <li>Quick And Easy Setup.</li> <li>Scratch-Resistant Cloth.</li> <li>Low-Friction and Chip-Resistant Balls.</li>
 
@@ -38,7 +38,7 @@ The playing surface is 18mm wood that makes for smooth play and accurate bounce 
 
 <li>No Other Cloth Color Options.</li> <li>Requires Assembly.</li> <li>Requires Several People To Move.</li>
 
-Since this table is made with a fiberboard play surface, it only weighs around 185 pounds, making it less of a hassle to move. Between the drop pockets, you’ll find K66 rubber bumpers for consistent bank shots. The all-around heavy-duty construction of the Titan — [Check Price on Amazon](https://www.amazon.com/s?k=Titan+pool+table&tag=billiardbeast-20) table means you’ll have tons of fun without worrying about the table falling apart on you. The most common complaint with this table is about the cloth wearing down too quickly.
+Since this table is made with a fiberboard play surface, it only weighs around 185 pounds, making it less of a hassle to move. Between the drop pockets, you’ll find K66 rubber bumpers for consistent bank shots. The all-around heavy-duty construction of the Titan , [Check Price on Amazon](https://www.amazon.com/s?k=Titan+pool+table&tag=billiardbeast-20) table means you’ll have tons of fun without worrying about the table falling apart on you. The most common complaint with this table is about the cloth wearing down too quickly.
 
 ## Level of Skill
 

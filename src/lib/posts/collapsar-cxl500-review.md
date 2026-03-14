@@ -39,13 +39,13 @@ The tip is 12.75mm. Same precision-oriented size as the PureX Technology cue. Sm
 
 Weight is in the standard range. Joint is standard. Wrap is basic but functional. The money clearly went into the shaft, which is where it should go.
 
-At $85, the Collapsar is competing against maple cues from Players, PureX, and entry-level McDermotts. None of those give you carbon fiber. None of those are immune to warping. The CXL500 is playing a different game — literally.
+At $85, the Collapsar is competing against maple cues from Players, PureX, and entry-level McDermotts. None of those give you carbon fiber. None of those are immune to warping. The CXL500 is playing a different game . Lliterally.
 
 ## Who's buying these
 
 Our data shows 17 units sold at about $85 each. That's less volume than the Valhalla (49 units) or PureX (43 units), but the buyers are interesting.
 
-The Collapsar buyer tends to be someone who already knows what carbon fiber is. They searched specifically for affordable carbon fiber cues. They found the CXL500, checked the price, and couldn't believe it. These aren't impulse purchases or gift buys — they're informed decisions from players who know what they want.
+The Collapsar buyer tends to be someone who already knows what carbon fiber is. They searched specifically for affordable carbon fiber cues. They found the CXL500, checked the price, and couldn't believe it. These aren't impulse purchases or gift buys . Tthey're informed decisions from players who know what they want.
 
 The other big buying group: people who play in non-ideal environments. Garages. Unfinished basements. Outdoor covered patios. Anywhere with temperature swings or humidity issues. A maple cue in a garage will eventually warp. A carbon fiber cue in a garage will be fine.
 
@@ -55,7 +55,7 @@ The other big buying group: people who play in non-ideal environments. Garages. 
 
 **Vs. PureX Technology (~$75):** Close in price, very different in approach. [PureX](/purex-technology-pool-cue-review/) gives you an engineered low-deflection maple shaft. Collapsar gives you a carbon fiber shaft with natural low-deflection properties. The PureX has a more traditional feel. The Collapsar has better environmental resistance. Both are excellent at their price. Your choice depends on whether you prefer maple feel or carbon fiber consistency.
 
-**Vs. Predator REVO shaft (~$400+):** The Predator REVO is the gold standard in carbon fiber shafts. It's also five times the price. The REVO is unquestionably a better shaft — tighter tolerances, better construction, more refined feel. But the CXL500 gives you the core benefits of carbon fiber (no warping, natural low deflection) at a fraction of the cost. For casual and intermediate players, the performance gap doesn't justify the price gap.
+**Vs. Predator REVO shaft (~$400+):** The Predator REVO is the gold standard in carbon fiber shafts. It's also five times the price. The REVO is unquestionably a better shaft . Ttighter tolerances, better construction, more refined feel. But the CXL500 gives you the core benefits of carbon fiber (no warping, natural low deflection) at a fraction of the cost. For casual and intermediate players, the performance gap doesn't justify the price gap.
 
 **Vs. other budget carbon fiber cues:** This is where Collapsar's pricing gets interesting. Most budget carbon fiber cues from known brands start around $150-200. The CXL500 undercuts all of them. Collapsar is a newer, less established brand, which is probably how they're able to price so aggressively. Less marketing overhead, less brand tax.
 

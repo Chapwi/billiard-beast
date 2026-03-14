@@ -45,7 +45,7 @@ Meucci cues are known for a great feel and a soft hit for increased control and 
 
 They come with a joint and ferrule designed for maximum playability and finesse. Their Black Dot Bullseye Shaft is made from 35 Northern Hard Rock maple laminations in order to give it strength, stability, and to decrease warpage. Meucci cues come with a one-year limited warranty against manufacturer defects.
 
-— [Browse Meucci on Amazon](https://www.amazon.com/s?k=Meucci+pool+cue&tag=billiardbeast-20)
+, [Browse Meucci on Amazon](https://www.amazon.com/s?k=Meucci+pool+cue&tag=billiardbeast-20)
 
 There is a long list of tournaments and money won with Meucci cues. According to Bob Meucci himself, his cues have won more money than any other cue lines put together. A couple of the big names that use or have used Meucci cues are Skylar Woodward, Dennis Hatch, John Morra, Loree Jon Hasson, Dennis Orcollo, Chris Lawson, Max Eberle, Cory Deuel, Jayson Shaw, and Devin Poteet.
 

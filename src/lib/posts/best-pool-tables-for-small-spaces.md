@@ -22,7 +22,7 @@ You're staring at your apartment floor, measuring with your hands like an idiot,
 
 This is the problem everyone runs into: pool tables need way more room than you expect. The table itself might squeeze in, but can you actually *shoot* at it? Can you get a cue back for a full stroke? Can two people play without bumping into each other constantly?
 
-The answer is usually no. But here's the good news—there are real options if you know what you're looking for and you're honest about your space.
+The answer is usually no. But here's the good news. Tthere are real options if you know what you're looking for and you're honest about your space.
 
 ## The Real Space Math (Don't Skip This)
 
@@ -50,19 +50,19 @@ This takes five minutes. It saves you from a $400 mistake.
 
 ## The Best Small-Space Pool Tables (Real Recommendations)
 
-### Fat Cat Trueshot 6-Foot — Best Budget Option for Real Spaces
+### Fat Cat Trueshot 6-Foot . Best Budget Option for Real Spaces
 
 This is the table to buy if you're on a budget and you have maybe 12x15 feet to work with. It's a 6-footer. The slate is textured hard composite (not real slate, but fine for casual play). The pockets are forgiving without being sloppy.
 
 The real win: folding legs. You can push this table against a wall and fold the legs in if you need the space back. It's not something you'll do often, but the option is there.
 
-Price hovers around $300-400 depending on sales. It comes with everything you need—balls, cue sticks, triangle, brush.
+Price hovers around $300-400 depending on sales. It comes with everything you need. Bballs, cue sticks, triangle, brush.
 
 Build quality is honest. It won't last 20 years with heavy play, but for an apartment? You'll get five solid years, easy. Maybe more if you're not brutal with it.
 
 **Get it here:** [Fat Cat Trueshot 6-foot](https://www.amazon.com/s?k=Fat+Cat+Trueshot+6+foot+pool+table&tag=billiardbeast-20)
 
-### GoSports Mid-Size 6-Foot — Compact and Practical
+### GoSports Mid-Size 6-Foot . Compact and Practical
 
 GoSports makes everything from cornhole to ping pong, and their 6-foot pool table is genuinely practical for apartment living. It folds up. The specs are reasonable.
 
@@ -74,7 +74,7 @@ The folding mechanism is actually smooth, which matters more than it sounds. Som
 
 **Get it here:** [GoSports Mid-Size 6-foot](https://www.amazon.com/s?k=GoSports+6+foot+pool+table+fold&tag=billiardbeast-20)
 
-### Hathaway Fairmont 6-Foot — Best Portable Mid-Tier Option
+### Hathaway Fairmont 6-Foot . Best Portable Mid-Tier Option
 
 You spend a little more ($350-500), and Hathaway gives you better felt and more solid construction. This is a step up from the budget crowd, but still designed with portability in mind.
 
@@ -88,7 +88,7 @@ If you can stretch your budget to $400-450, this is the sweet spot for quality v
 
 **Get it here:** [Hathaway Fairmont 6-foot](https://www.amazon.com/s?k=Hathaway+Fairmont+6+foot+pool+table&tag=billiardbeast-20)
 
-### Mizerak Dynasty 6.5-Foot — When You Want Something Nicer
+### Mizerak Dynasty 6.5-Foot . When You Want Something Nicer
 
 Here's where things get real.
 
@@ -96,7 +96,7 @@ Here's where things get real.
 
 Space needed: 12.5 by 15.5 feet minimum. You're in tight apartment territory, but it works if you've actually measured and confirmed.
 
-The Dynasty line is solid wood construction, real slate bed (not composite), and better felt. The pockets are tighter than budget tables—meaning you have to earn your shots. Everything plays true.
+The Dynasty line is solid wood construction, real slate bed (not composite), and better felt. The pockets are tighter than budget tables. Mmeaning you have to earn your shots. Everything plays true.
 
 Price: $400-600 depending on exact model and sales. That's real money, but it's also a table that'll last 10+ years with reasonable use.
 
@@ -104,7 +104,7 @@ This is the table you buy if you're not just dabbling. You want to actually *pra
 
 **Get it here:** [Mizerak Dynasty 6.5-foot](https://www.amazon.com/s?k=Mizerak+Dynasty+6.5+foot+pool+table&tag=billiardbeast-20)
 
-### Fat Cat Reno 7-Foot — If You Can Fit It
+### Fat Cat Reno 7-Foot . If You Can Fit It
 
 Only mention this if you've *actually* confirmed 13x16 feet of space.
 
@@ -112,7 +112,7 @@ The Reno is Fat Cat's solid mid-range 7-footer. Real slate, decent felt, forgivi
 
 Seven feet is the professional size. Angles play true. Bank shots behave like they should. You stop making excuses about "the table" and start working on your game.
 
-But—and this is critical—you need the space. Don't squeeze a 7-footer into a 13x15 foot room thinking you'll make it work. You won't. You'll hate it.
+But. Aand this is critical. Yyou need the space. Don't squeeze a 7-footer into a 13x15 foot room thinking you'll make it work. You won't. You'll hate it.
 
 **Get it here:** [Fat Cat Reno 7-foot](https://www.amazon.com/s?k=Fat+Cat+Reno+7+foot+pool+table&tag=billiardbeast-20)
 
@@ -120,7 +120,7 @@ But—and this is critical—you need the space. Don't squeeze a 7-footer into a
 
 Standard cues are 58 inches. In tight spaces, you might see 48-inch cues mentioned as a solution.
 
-Here's the reality: yes, a 48-inch cue takes up less space. But you lose reach. You lose leverage. Your stroke suffers. It's not a great solution—it's a compromise you make when you have literally no other option.
+Here's the reality: yes, a 48-inch cue takes up less space. But you lose reach. You lose leverage. Your stroke suffers. It's not a great solution. Iit's a compromise you make when you have literally no other option.
 
 If you can fit a real table and use real cues, do that instead. The 48-inch cue is a bandage on a space problem, not a fix.
 

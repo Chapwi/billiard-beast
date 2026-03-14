@@ -17,7 +17,7 @@ faqs:
     answer: "Keep your space at 45-55% relative humidity. Extremely dry air (below 35%) shrinks slate and wood. Very humid air (above 60%) causes warping. Stable humidity matters more than the exact number."
 ---
 
-Your buddy bought a slate pool table. Fast forward fifteen years and it plays like the day he got it. Meanwhile, your cousin's MDF table from the same year is practically unusable—the surface has warped, the cushions are dead, felt is thin.
+Your buddy bought a slate pool table. Fast forward fifteen years and it plays like the day he got it. Meanwhile, your cousin's MDF table from the same year is practically unusable. Tthe surface has warped, the cushions are dead, felt is thin.
 
 That's the difference between slate and everything else.
 
@@ -27,7 +27,7 @@ How long a pool table lasts depends almost entirely on what it's made from and h
 
 A good slate pool table will last 50+ years. Some 40-year-old tables in basement rec rooms still play perfectly. Some 70-year-old tables in commercial pool halls are still in action, though they've been refelted multiple times.
 
-The slate itself almost never fails. It won't wear out. Slate doesn't get softer or harder. It stays flat. What fails around it—the felt, the cushions, the leather on the cue stick rest, the wood frame if it gets moisture damage—those you replace.
+The slate itself almost never fails. It won't wear out. Slate doesn't get softer or harder. It stays flat. What fails around it. Tthe felt, the cushions, the leather on the cue stick rest, the wood frame if it gets moisture damage. Tthose you replace.
 
 The [Brunswick Gold Crown](https://www.amazon.com/s?k=Brunswick+Gold+Crown+pool+table&tag=billiardbeast-20) at your local pool hall has probably been refelted fifteen times. The slate underneath? Original, still flat, still perfect. That's why bars invest in slate.
 
@@ -39,7 +39,7 @@ But the slate? Decades. Easily.
 
 MDF is where budget pool tables live. They cost $300-$800 new. You get what you pay for.
 
-MDF (Medium-Density Fiberboard) tables last 5-10 years in light use. In heavy use—like a dorm room where someone's shooting eight hours a day—you're looking at 3-5 years before the playing surface starts to really degrade.
+MDF (Medium-Density Fiberboard) tables last 5-10 years in light use. In heavy use. Llike a dorm room where someone's shooting eight hours a day. Yyou're looking at 3-5 years before the playing surface starts to really degrade.
 
 The problem: MDF compresses. It warps. Humidity affects it. Spilled drinks ruin it. The playing surface develops cups and dead spots. You can't refelt an MDF table and magically fix it because the underlying bed has shifted.
 
@@ -65,13 +65,13 @@ Replacing cushions costs $400-$800 for a quality 8-foot table. Again, way cheape
 
 ## Temperature and Humidity: The Silent Killers
 
-Pool tables hate inconsistent climates. Not because of the slate—that's indestructible—but because everything around it expands and contracts.
+Pool tables hate inconsistent climates. Not because of the slate. Tthat's indestructible. Bbut because everything around it expands and contracts.
 
 Wood frames swell when humidity spikes (above 60%). They shrink when the air gets dry (below 35%). That expansion and contraction cracks glue joints. It warps the rails. Over years, it throws the table's level off.
 
-Felt is also sensitive to humidity. Damp felt stretches and becomes sluggish. Dry felt becomes faster but more fragile. Consistent humidity in the 45-55% range is ideal. You don't need a humidifier running constantly—just avoid extremes.
+Felt is also sensitive to humidity. Damp felt stretches and becomes sluggish. Dry felt becomes faster but more fragile. Consistent humidity in the 45-55% range is ideal. You don't need a humidifier running constantly. Jjust avoid extremes.
 
-Temperature swings do similar damage. Basements that swing from 45°F in winter to 75°F in summer are hell on tables. Garage tables are worse—outdoor temperature swings destroy wood frames.
+Temperature swings do similar damage. Basements that swing from 45°F in winter to 75°F in summer are hell on tables. Garage tables are worse. Ooutdoor temperature swings destroy wood frames.
 
 The slate itself doesn't care. It's staying flat. But if the frame around it is constantly moving, you'll notice play drift over time.
 
@@ -81,7 +81,7 @@ You don't need to obsess over your table. But a few basic habits prevent major p
 
 **Get a cover.** This is the single best investment after the table itself. A basic cover costs $100-$300 and protects against dust, sunlight, spills, and debris. Dust getting into the ball mechanism is annoying. But UV light fading the felt over five years is expensive. A cover fixes both.
 
-**Keep drinks off the table.** Obvious but worth saying. Beer, soda, water—all of it damages felt and wood. Keep a separate drink table nearby. Some people use coasters on the frame and that works fine. But nothing above the playing surface.
+**Keep drinks off the table.** Obvious but worth saying. Beer, soda, water. Aall of it damages felt and wood. Keep a separate drink table nearby. Some people use coasters on the frame and that works fine. But nothing above the playing surface.
 
 **Don't treat it like storage.** Your pool table is not a combination bar/laundry hamper. Stack things on it and you'll eventually spill something or put pressure on the rails in weird ways.
 
@@ -89,7 +89,7 @@ You don't need to obsess over your table. But a few basic habits prevent major p
 
 **Rack and break properly.** Violent breaks with cheap cues create impact spikes that degrade cushions faster. Use a proper cue, a solid break technique, and the table lasts longer. This matters more than you'd think.
 
-**Store it dry.** If you take the table apart for moving, store the slate pieces flat and horizontal. Never store them on edge or at an angle—slate can crack under its own weight if positioned wrong.
+**Store it dry.** If you take the table apart for moving, store the slate pieces flat and horizontal. Never store them on edge or at an angle. Sslate can crack under its own weight if positioned wrong.
 
 ## When to Refelt vs. Buy New
 
@@ -97,9 +97,9 @@ Let's say your table is ten years old. The felt is thin. The cushions are mushy.
 
 Ask yourself: Is the slate flat?
 
-If yes—refelt. Cost: $400-$600. You get another 5-7 years easy.
+If yes. Rrefelt. Cost: $400-$600. You get another 5-7 years easy.
 
-If no—the surface is cupped, warped, or has dead spots—then you've got a problem. Refelting won't fix it. You're either replacing the slate (expensive) or buying a new table.
+If no. Tthe surface is cupped, warped, or has dead spots. Tthen you've got a problem. Refelting won't fix it. You're either replacing the slate (expensive) or buying a new table.
 
 A slate table is almost always worth saving. A quality slate bed costs $2,000-$4,000 on its own. The rest of the table (rails, frame, legs) might be another $2,000-$3,000. Total new table: $4,000-$7,000. Refelt: $500. Obviously you refelt.
 

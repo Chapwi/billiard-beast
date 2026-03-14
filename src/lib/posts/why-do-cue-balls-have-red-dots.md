@@ -17,7 +17,7 @@ faqs:
 image: "/images/canva-billiard-balls-1.webp"
 ---
 
-You’ve probably seen it at your local pool hall—that weird white cue ball covered in red dots. It’s not some novelty item. That’s a measles ball, and it’s one of the smartest training tools you can throw in your cue bag.
+You’ve probably seen it at your local pool hall. Tthat weird white cue ball covered in red dots. It’s not some novelty item. That’s a measles ball, and it’s one of the smartest training tools you can throw in your cue bag.
 
 The red dots serve one purpose: they show you exactly what your cue is doing to the ball. Every rotation, every spin, every bit of English you put on it. That visual feedback is money when you’re trying to tighten up your game.
 
