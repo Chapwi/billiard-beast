@@ -14,7 +14,7 @@ When most people set up a pool table, they focus on the frame, the slate, and th
 
 Choosing the right felt isn't just about aesthetics. The quality, material composition, and condition of your table's cloth directly impact your game. A premium felt allows for consistent roll and predictable ball behavior, while worn or low-quality cloth introduces variables that make the game unpredictable and frustrating.
 
-In this comprehensive guide, we'll walk you through everything you need to know about selecting, installing, and maintaining pool table felt. Whether you're a competitive player, a casual enthusiast, or someone looking to upgrade your game room, this guide will help you make informed decisions that enhance your playing experience.
+In this comprehensive guide, we'll walk you through everything you need to know about selecting, installing, and maintaining pool table felt. Whether you're a competitive player, a casual enthusiast, or someone looking to upgrade your game room, this guide will help you make informed decisions that improve your playing experience.
 
 ---
 
@@ -32,7 +32,7 @@ However, industry convention and common usage have blurred these lines. Most man
 
 ## Types of Pool Table Cloth: Woolen vs. Worsted
 
-The two primary types of pool table cloth are woolen and worsted, and understanding the differences between them is crucial to making the right choice for your table.
+The two primary types of pool table cloth are woolen and worsted, and understanding the differences between them is important to making the right choice for your table.
 
 ### Woolen Cloth
 

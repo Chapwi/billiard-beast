@@ -59,7 +59,7 @@ Of course, there are those occasions where a pocket gets too full during a game 
 
 ## The Importance of Proper Pool Ball Maintenance
 
-While the focus has been on where to store your pool balls, it’s equally crucial to consider how to maintain them. After all, with proper care, your pool balls can last significantly longer and provide a consistent gaming experience.
+While the focus has been on where to store your pool balls, it’s equally important to consider how to maintain them. After all, with proper care, your pool balls can last significantly longer and provide a consistent gaming experience.
 
 ## Cleaning Your Pool Balls
 

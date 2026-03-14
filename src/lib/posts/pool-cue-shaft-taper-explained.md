@@ -65,7 +65,7 @@ European tapers flex more, so they reduce deflection. The cue shaft absorbs more
 
 If you're breaking and running, and you care about power and solid contact, pro taper is the move. You want that parallel section giving you a consistent platform. Players who jump a lot also tend toward pro taper because jump shots need that crisp, clean hit without deflection complications.
 
-If you're a position player. Ssomeone who cares more about control and feel. European taper might suit you. You're making softer shots, banking carefully, taking tough angles. The extra feedback and reduced deflection can help you navigate. Just understand you're giving up some power.
+If you're a position player. Ssomeone who cares more about control and feel. European taper might suit you. You're making softer shots, banking carefully, taking tough angles. The extra feedback and reduced deflection can help you handle. Just understand you're giving up some power.
 
 The reality is most serious players own cues with both profiles and grab based on what they're playing that day. A [McDermott cue](https://www.amazon.com/s?k=McDermott+pool+cue&tag=billiardbeast-20) with pro taper sits next to a cue with European taper. You shoot a few warm-up games, feel out the table and see which one clicks.
 

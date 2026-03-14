@@ -27,7 +27,7 @@ On the other side of the spectrum, the affordability of MDF tables opens up the 
 
 ## The Price Range
 
-The perfect choice ultimately depends on your unique needs as a player. For casual players aiming for enjoyment without breaking the bank, an MDF table is an excellent option. Conversely, competitive players seeking to enhance their skills will find the slate table’s consistent playing surface to be a valuable investment.
+The perfect choice ultimately depends on your unique needs as a player. For casual players aiming for enjoyment without breaking the bank, an MDF table is an excellent option. Conversely, competitive players seeking to improve their skills will find the slate table’s consistent playing surface to be a valuable investment.
 
 ## Why the Big Difference in Price?
 
@@ -59,7 +59,7 @@ As we consider any purchase, cost inevitably becomes a factor. This principle ho
 
 ## The High Price of Quality
 
-<li><strong>Sourcing and Shipping:</strong> Most slate used in pool tables comes from overseas, making it pricier than local MDF. After sourcing, it must be shaped, packaged with other components, and shipped – a costly process considering its heavy weight.</li> <li><strong>Quality of Materials:</strong> Due to slate’s weight, the table must be constructed from stronger, higher-quality materials, thus increasing the cost.</li> <li><strong>Custom Options:</strong> Custom tables with top-of-the-line slate can make prices skyrocket.</li> <li><strong>Benefits of MDF:</strong> MDF is lighter and cheaper to produce. This, combined with the use of less robust materials, keeps MDF tables relatively inexpensive, making them an appealing choice for those wanting a personal table without a significant investment.</li>
+<li><strong>Sourcing and Shipping:</strong> Most slate used in pool tables comes from overseas, making it pricier than local MDF. After sourcing, it must be shaped, packaged with other components, and shipped – a costly process considering its heavy weight.</li> <li><strong>Quality of Materials:</strong> Due to slate’s weight, the table must be constructed from stronger, higher-quality materials, thus increasing the cost.</li> <li><strong>Custom Options:</strong> Custom tables with top-of-the-line slate can make prices skyrocket.</li> <li><strong>Benefits of MDF:</strong> MDF is lighter and cheaper to produce. This, combined with the use of less solid materials, keeps MDF tables relatively inexpensive, making them an appealing choice for those wanting a personal table without a significant investment.</li>
 
 ## Include Assembly and Moving Costs
 

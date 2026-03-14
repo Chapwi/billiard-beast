@@ -21,7 +21,7 @@ However, with each new game comes a new set of rules and regulations that have t
 
 The number of balls in a pool game hinges on the specific game you’re playing. Let’s take a closer look at a few popular pool games and their respective ball counts:
 
-<li><p><strong>8-Ball Pool:</strong> A popular favorite, 8-Ball pool is played with 15 object balls and a cue ball. This variety adds layers of strategy and excitement to the game, as players navigate through a larger set of balls.</p></li> <li><p><strong>9-Ball Pool:</strong> With its focus on precision and shot selection, 9-Ball pool utilizes 9 object balls and a cue ball. This streamlined setup encourages players to strategize carefully with a limited number of balls on the table.</p></li> <li><p><strong>Other Pool Games:</strong> Beyond the well-known 8-Ball and 9-Ball variants, some pool games use even fewer object balls, often as few as 3. These games offer unique challenges due to the reduced number of balls in play.</p></li>
+<li><p><strong>8-Ball Pool:</strong> A popular favorite, 8-Ball pool is played with 15 object balls and a cue ball. This variety adds layers of strategy and excitement to the game, as players handle through a larger set of balls.</p></li> <li><p><strong>9-Ball Pool:</strong> With its focus on precision and shot selection, 9-Ball pool utilizes 9 object balls and a cue ball. This streamlined setup encourages players to strategize carefully with a limited number of balls on the table.</p></li> <li><p><strong>Other Pool Games:</strong> Beyond the well-known 8-Ball and 9-Ball variants, some pool games use even fewer object balls, often as few as 3. These games offer unique challenges due to the reduced number of balls in play.</p></li>
 
 ## Balls Used In Various Pool Games
 

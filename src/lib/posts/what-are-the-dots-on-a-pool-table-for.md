@@ -29,7 +29,7 @@ To better understand the purpose of the sights on a pool table (and how to use t
 
 ## Rails
 
-The key point here is to distinguish between the head rail and the foot rail. As the name suggests, the head rail is at the head of the table - the end of the table you stand at to break. The foot and head rails are “short rails” while the side rails are “long rails.”
+The main point here is to distinguish between the head rail and the foot rail. As the name suggests, the head rail is at the head of the table - the end of the table you stand at to break. The foot and head rails are “short rails” while the side rails are “long rails.”
 
 ## Bank Shots and Kick Shots
 

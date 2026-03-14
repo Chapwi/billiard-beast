@@ -151,7 +151,7 @@ The format is **Width x Length** or represents **rows x columns** depending on t
 
 ## Materials: What Protects Your Cue Best?
 
-The case's exterior material is crucial for protection. Here's what you need to know:
+The case's exterior material is important for protection. Here's what you need to know:
 
 ### Vinyl
 

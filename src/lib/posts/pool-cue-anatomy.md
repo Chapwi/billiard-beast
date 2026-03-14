@@ -6,7 +6,7 @@ description: Pool cue anatomy explained — every part of a pool cue from tip to
 image: "/images/cue-anatomy.webp"
 ---
 
-If you’ve ever really taken the time to look at your pool cue, you probably know its made up of more than just 2 pieces of wood screwed together. There are lots of different parts of the pool cue, all of which are crucial to its functionality. From the tip of the pool cue, all the way to the bumper, each part has a role to play.
+If you’ve ever really taken the time to look at your pool cue, you probably know its made up of more than just 2 pieces of wood screwed together. There are lots of different parts of the pool cue, all of which are important to its functionality. From the tip of the pool cue, all the way to the bumper, each part has a role to play.
 
 In this article we’re going to take an in depth look at the anatomy of a pool cue. By the time we’re finished, you’ll know every part of your cue and its function.
 

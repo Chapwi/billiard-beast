@@ -43,7 +43,7 @@ The butt end of the pool cue is the heavy end that typically has some form of wr
 
 ## The Debate: Heavy vs. Light Break Cues
 
-This is perfect for breaking. On the other hand, playing cues typically come with Irish Linen, which is better suited for finesse shots. This subtle difference in wraps is one key difference between a break and playing cue.The butt is also where the majority of the weight is. Break cues are often heavier than playing cues. This added weight helps put some extra force behind your shot which helps make breaking a bit easier. We’ll talk more about weight a little bit later.
+This is perfect for breaking. On the other hand, playing cues typically come with Irish Linen, which is better suited for finesse shots. This subtle difference in wraps is one main difference between a break and playing cue.The butt is also where the majority of the weight is. Break cues are often heavier than playing cues. This added weight helps put some extra force behind your shot which helps make breaking a bit easier. We’ll talk more about weight a little bit later.
 
 ## Heavy Break Cues (27oz): Power Without Speed
 
@@ -67,7 +67,7 @@ Most playing cues come equipped with either a soft or medium leather tip. These 
 
 ## Benefit 3: Skill Enhancement through Proper Tools
 
-Hard leather and phenolic tips are also maintenance free and can last for years. However, they don’t hold chalk well and therefore shouldn’t be used for anything other than breaking. Having a hard leather or phenolic tip on your break cue is crucial for a good solid break. Never replace your break cue tip with anything other than another hard leather or phenolic tip. Doing so defeats the purpose of having a designated break cue.
+Hard leather and phenolic tips are also maintenance free and can last for years. However, they don’t hold chalk well and therefore shouldn’t be used for anything other than breaking. Having a hard leather or phenolic tip on your break cue is important for a good solid break. Never replace your break cue tip with anything other than another hard leather or phenolic tip. Doing so defeats the purpose of having a designated break cue.
 
 ## How to Choose the Right Break and Playing Cues for Your Game
 

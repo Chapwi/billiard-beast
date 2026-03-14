@@ -87,7 +87,7 @@ The break cue prioritizes:
 
 **Weight**: Break cues trend heavier, commonly 20-22 ounces, sometimes up to 23. The extra weight, combined with shaft stiffness, produces higher velocity from the same stroke intensity.
 
-**Ferrule**: Thicker and more robust, often made from phenolic resin or composite materials. It has to absorb the repeated shock of impact without cracking or loosening.
+**Ferrule**: Thicker and more solid, often made from phenolic resin or composite materials. It has to absorb the repeated shock of impact without cracking or loosening.
 
 **Joint**: Solidly engineered, typically one-piece or with a very secure two-piece connection. No flex, no play, no excuses.
 
@@ -101,7 +101,7 @@ The Predator BK Rush and similar high-end break cues run $250-350. Budget break 
 
 ---
 
-## Key Differences: Breaking Down the Breakdown Stick
+## Main Differences: Breaking Down the Breakdown Stick
 
 Let's compare the two side by side.
 
@@ -133,7 +133,7 @@ Let's compare the two side by side.
 
 **Playing Cue**: Thinner ferrule, minimized vibration transfer. Acts as a precision connection point.
 
-**Break Cue**: Thicker, more robust ferrule. Designed to handle repeated impact without loosening or cracking.
+**Break Cue**: Thicker, more solid ferrule. Designed to handle repeated impact without loosening or cracking.
 
 **Why it matters**: A stressed ferrule on a playing cue becomes a disaster. It loosens, the tip gets loose, and your consistency evaporates. Break cue ferrules are over-engineered because they're expected to take a beating.
 

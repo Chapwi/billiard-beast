@@ -67,7 +67,7 @@ Many garages double as storage areas, filled with tools, bikes, boxes, and more.
 
 ## Rack ‘Em Up!
 
-Considering that the minimum size of a 2-car garage is typically 22’ X 20’, it’s crucial to take a hard look at the available space. A smaller table may fit while still allowing room for a car, but the existing shelving or storage could affect this.
+Considering that the minimum size of a 2-car garage is typically 22’ X 20’, it’s important to take a hard look at the available space. A smaller table may fit while still allowing room for a car, but the existing shelving or storage could affect this.
 
 ## Assessing Your Garage Space
 

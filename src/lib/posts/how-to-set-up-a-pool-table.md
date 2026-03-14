@@ -20,7 +20,7 @@ Let's get started.
 
 ## Tools and Materials You'll Need
 
-Before you roll up your sleeves, make sure you've got everything on hand. There's nothing worse than being halfway through and realizing you're missing a key tool.
+Before you roll up your sleeves, make sure you've got everything on hand. There's nothing worse than being halfway through and realizing you're missing a major tool.
 
 **Essential Tools:**
 - Adjustable wrench (various sizes)
@@ -116,7 +116,7 @@ Now we're getting into the actual assembly. Start by laying out all the pieces a
 
 ### Reinforce Weak Points
 
-Some tables have a center support for longer models. Install this according to the manufacturer's specifications. This support is crucial for preventing sagging in the middle of the table over time.
+Some tables have a center support for longer models. Install this according to the manufacturer's specifications. This support is important for preventing sagging in the middle of the table over time.
 
 ## Step 3: Install the Slate
 

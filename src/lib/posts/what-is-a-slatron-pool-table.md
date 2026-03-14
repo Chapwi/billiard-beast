@@ -11,7 +11,7 @@ faqs:
 image: "/images/can-a-slate-pool-table.webp"
 ---
 
-One of the most crucial factors to consider when purchasing a pool table is the playing surface’s material. Slate is the standard for professional pool tables, but there are other options out there, such as medium-density fiberboard (MDF), plastic, and slatron. In this article, I’ll be focusing on this last option as I answer the question: What is a slatron pool table?
+One of the most important factors to consider when purchasing a pool table is the playing surface’s material. Slate is the standard for professional pool tables, but there are other options out there, such as medium-density fiberboard (MDF), plastic, and slatron. In this article, I’ll be focusing on this last option as I answer the question: What is a slatron pool table?
 
 <strong>In short, a slatron pool table is a table with a playing surface made of particle board sandwiched between layers of tough plastic. Slatron is considered the most durable of non-slate pool table surfaces, but it’s generally considered inferior to slate tables.</strong>
 

@@ -10,9 +10,9 @@ While its generally true that you get what you pay for, there no need to spend 4
 
 If you’ve been searching for the best pool tables under $1000, this article is for you. We’ve put together a list of the best pool tables we could find at this price point to hopefully save you a lot of time and frustration of having to do it yourself! Lets get into it!
 
-## Key Features
+## Main Features
 
-## Key Features
+## Main Features
 
 ## Why Choose the Spartan?
 

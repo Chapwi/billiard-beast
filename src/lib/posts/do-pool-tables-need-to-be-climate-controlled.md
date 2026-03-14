@@ -45,7 +45,7 @@ Most quality bumpers, or cushions, are made with quality gum rubber. These piece
 
 ## How Climate Affects Play
 
-Heat causes the rubber to expand and cold causes it to contract. After enough of this, whether by heat or cold or both, the rubber starts to get brittle and loses its bounce. At which point you can either deal with the new dynamic or you can replace the bumpers. But, again, this isn’t the cheapest thing to do. It usually costs between $80 and $120, not including the cost of the new cushions.
+Heat causes the rubber to expand and cold causes it to contract. After enough of this, whether by heat or cold or both, the rubber starts to get brittle and loses its bounce. At which point you can either deal with the new active or you can replace the bumpers. But, again, this isn’t the cheapest thing to do. It usually costs between $80 and $120, not including the cost of the new cushions.
 
 ## Rails, Legs, and Frame
 

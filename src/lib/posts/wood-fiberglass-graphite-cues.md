@@ -37,7 +37,7 @@ Fiberglass pool cues are great for a number of reasons, durability being one of 
 
 Fiberglass pool cues are not made out of fiberglass alone. They are actually made from a wood core and then encased with fiberglass. The wood core is what gives the cue its strength and stiffness and the fiberglass encasement is what keeps the cue from warping. This also makes the cue more scratch and dent resistant.
 
-Some fiberglass cues have special finishes on them to help them glide through your bridge hand better. This coating is crucial if you want to play without using a glove or lots of hand chalk. Most low end fiberglass pool cues don’t have this coating and it shows in the way they feel in your hand.
+Some fiberglass cues have special finishes on them to help them glide through your bridge hand better. This coating is important if you want to play without using a glove or lots of hand chalk. Most low end fiberglass pool cues don’t have this coating and it shows in the way they feel in your hand.
 
 The wood cue has been the weapon of choice for more pool players than all the other materials combined. Everyone from beginners to those who play competitively can recognize the value a wood cue brings to the table.
 

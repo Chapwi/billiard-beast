@@ -63,7 +63,7 @@ This is a great way to get a feel for which cue length is right for you before y
 
 ## Conclusion
 
-In addition to the length of a pool cue, it’s essential to consider the balance and weight of the cue, which play significant roles in your playing experience. These factors are just as crucial as cue length and are intimately related to a player’s height, arm strength, and playing style.
+In addition to the length of a pool cue, it’s essential to consider the balance and weight of the cue, which play significant roles in your playing experience. These factors are just as important as cue length and are intimately related to a player’s height, arm strength, and playing style.
 
 ## Cue Balance
 

@@ -45,7 +45,7 @@ These guidelines should offer adequate protection for your cue, but there’s no
 
 ## In Conclusion
 
-If you decide that you don’t want to fly with your cue, you can instead ship it to your destination in advance. If you do this, you’ll want to follow the same principles of packing listed above - just using packing materials instead of clothing. Again, the key is to add as many layers of protection as possible between the cue and the outside world.
+If you decide that you don’t want to fly with your cue, you can instead ship it to your destination in advance. If you do this, you’ll want to follow the same principles of packing listed above - just using packing materials instead of clothing. Again, the main is to add as many layers of protection as possible between the cue and the outside world.
 
 If you’re shipping via the USPS, you’ll need to pack everything yourself, but if you take your cue in its case to a FedEx or UPS store, they should be able to pack it for you in a way that gives it maximum protection. Again, it’s a good idea to shell out a little extra for added insurance. You can even get tracking and require a signature upon delivery for more peace of mind.
 

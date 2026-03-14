@@ -15,7 +15,7 @@ But have you ever wondered why, whenever you scratch, the cue ball always goes s
 
 ## Design Basics of Coin-Operated Ball Return System
 
-<strong>Coin-operated pool tables recognize and separate the cue ball from the object balls using either magnets, optical sensors, or an oversized, undersized, or weighted cue ball. The method used in a given table depends on the manufacturer and when it was made. Some methods are considered less than ideal because they can change the dynamic and physics of the game.</strong>
+<strong>Coin-operated pool tables recognize and separate the cue ball from the object balls using either magnets, optical sensors, or an oversized, undersized, or weighted cue ball. The method used in a given table depends on the manufacturer and when it was made. Some methods are considered less than ideal because they can change the active and physics of the game.</strong>
 
 ## Oversized Cue Ball
 

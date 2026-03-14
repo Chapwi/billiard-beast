@@ -37,7 +37,7 @@ The amount of room you’ll need to play comfortably on a 6-foot pool table will
 
 ## What Kind of Player Are You?
 
-One key factor in deciding whether or not a 6-foot table is big enough for you is your ultimate purpose and intention. In other words, are you playing mainly for recreation or competition?
+One big factor in deciding whether or not a 6-foot table is big enough for you is your ultimate purpose and intention. In other words, are you playing mainly for recreation or competition?
 
 ## Ball Size & Weight
 
@@ -57,7 +57,7 @@ The most obvious difference with a smaller table is that sinking shots will gene
 
 ## Clustering
 
-One characteristic of smaller tables is that the balls tend to bunch together and hang out in clusters, even after a powerful break. There’s just not enough space for them to spread out very far. This isn’t exactly a negative, though – it just changes the dynamic of the game and can even add a new element of difficulty.Bank shots may become necessary to get around clusters; your strategy may need to allow your opponent to sink some of their balls just to get them out of the way; there may be more opportunities for defensive cue ball positioning, etc.
+One characteristic of smaller tables is that the balls tend to bunch together and hang out in clusters, even after a powerful break. There’s just not enough space for them to spread out very far. This isn’t exactly a negative, though – it just changes the active of the game and can even add a new element of difficulty.Bank shots may become necessary to get around clusters; your strategy may need to allow your opponent to sink some of their balls just to get them out of the way; there may be more opportunities for defensive cue ball positioning, etc.
 
 ## Ball Size & Weight
 

@@ -13,7 +13,7 @@ It’s not possible for everyone to have a full-size pool table in their home. S
 
 <strong>Mini pool tables are great for some people, but not for others. In general, a miniature pool table is better than no pool table at all. However, those who are used to playing on full-size tables find it hard to “downgrade” to a mini pool table. But their low cost and high portability make mini pool tables a great option for many people. It’s also a great way to work on your game at home, if you are limited by space or budget.</strong>
 
-## Key Features
+## Main Features
 
 If you’re unsure about whether to buy a mini pool table, read on. This article is a complete guide to mini pool tables, and it includes everything you need to know to make an informed decision. Plus, there’s even a recommendation for the best mini pool table at the end!
 
