@@ -109,6 +109,9 @@ Rail bridges are specialized techniques used in special situations when you need
 
 ---
 
+
+For a full breakdown of what to buy, check out our [how to aim](/how-to-aim-in-pool).
+
 ## Related Articles
 
 For more on this topic, check out [English in pool](/what-is-english-in-pool-a-simple-explanation/), [beginner's guide](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), and [billiard game types](/billiard-games/).

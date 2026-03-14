@@ -152,6 +152,9 @@ Learn more about [choosing the right cue for your game](/pool-cue-reviews/), [un
 
 **Worth checking out:** Top-tier chalk for serious players, take a look at the [Kamui Black Chalk](https://www.amazon.com/dp/B07DCKVX9C?tag=billiardbeast-20) on Amazon.
 
+
+For a full breakdown of what to buy, check out our [best pool cue tips](/best-pool-cue-tips).
+
 ## Related Articles
 
 For more on this topic, check out [what tips pros use](/what-cue-tips-do-the-pros-use/), [screw-on cue tips](/are-screw-on-pool-cue-tips-any-good/), [best pool chalk](/best-pool-chalk/), [what chalk is made of](/what-is-pool-chalk-made-of/), and [chalk color](/does-pool-chalk-color-matter/).

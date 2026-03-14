@@ -109,6 +109,9 @@ A standard pool table has 6 pockets: one in each corner and one in the middle of
 
 ---
 
+
+For a full breakdown of what to buy, check out our [how to aim in pool](/how-to-aim-in-pool).
+
 ## Related Articles
 
 For more on this topic, check out [8-ball rules](/8-ball-pool-rules-the-simple-version/), [9-ball rules](/how-to-play-9-ball-9-ball-rules-explained/), [10-ball rules](/how-to-play-10-ball-pool-rules-and-gameplay/), [cutthroat pool rules](/how-to-play-cutthroat-pool/), and [bank pool rules](/how-to-play-bank-pool/).

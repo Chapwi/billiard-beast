@@ -150,6 +150,9 @@ You don't often hear a pro pool player attributing his or her game to the cue ti
 
 </div>
 
+
+For a full breakdown of what to buy, check out our [best pool cue tips in 2026](/best-pool-cue-tips).
+
 ## Related Articles
 
 For more on this topic, check out [how long cue tips last](/how-long-does-a-pool-cue-tip-last/), [screw-on cue tips](/are-screw-on-pool-cue-tips-any-good/), [best pool chalk](/best-pool-chalk/), [what chalk is made of](/what-is-pool-chalk-made-of/), and [chalk color](/does-pool-chalk-color-matter/).

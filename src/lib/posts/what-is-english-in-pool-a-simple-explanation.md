@@ -77,6 +77,9 @@ I mention the terms “throw” and “swerve” above, which I define below. �
 
 **Worth checking out:** A quality cue helps you practice better, take a look at the [Players Technology Series HXT15 Cue](https://www.amazon.com/dp/B000F3S62A?tag=billiardbeast-20) on Amazon.
 
+
+For a full breakdown of what to buy, check out our [guide to aiming in pool](/how-to-aim-in-pool).
+
 ## Related Articles
 
 For more on this topic, check out [holding a pool cue](/how-to-hold-a-pool-cue-a-simple-guide-for-beginners/), [beginner's guide](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), and [billiard game types](/billiard-games/).
