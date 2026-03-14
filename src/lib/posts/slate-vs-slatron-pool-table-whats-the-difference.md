@@ -78,3 +78,10 @@ However, this is a double-edged sword, because a light table means a less sturdy
 However, with the proper care, a light slatron table is ideal for those who don’t want to deal with the hassles that come with a heavy slate table.
 
 ## The Pros and Cons
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), and [how long pool tables last](/how-long-do-pool-tables-last/).
+

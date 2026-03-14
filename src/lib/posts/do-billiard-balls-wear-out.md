@@ -62,3 +62,10 @@ That said, keeping your table clean can help delay the time it takes before your
 In summary, high quality billiard balls made from phenolic resin last longer than those made from polyester materials. Keeping your billiard balls away from adverse environmental conditions such as excessive heat or sunlight can increase their lifespan. And playing often will cause your billiard balls to wear out faster, regardless of their quality.
 
 All billiard balls will eventually wear out, regardless of what preventive measures you put in place. However, there are certain things you can do to extend their lifespan. Here’s what you should do to get the most out of your current set.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

@@ -70,3 +70,10 @@ There are a ton of different chalk colors available out there. Master, one of th
 <li><strong>Black</strong></li> <li><strong>Blue</strong></li> <li><strong>Brown</strong></li> <li><strong>Gold</strong></li> <li><strong>Green</strong></li> <li><strong>Gray</strong></li> <li><strong>Rust</strong></li> <li><strong>Sky Blue</strong></li> <li><strong>Spruce</strong></li>
 
 ## Should You Buy Cheap or Expensive Chalk?
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table felt guide](/pool-table-felt-guide/), [best felt color](/whats-the-best-color-for-pool-table-felt/), [how long felt lasts](/how-long-does-pool-table-felt-last/), [refelting costs](/how-much-does-it-cost-to-refelt-a-pool-table/), and [ironing pool table felt](/can-you-iron-pool-table-felt/).
+

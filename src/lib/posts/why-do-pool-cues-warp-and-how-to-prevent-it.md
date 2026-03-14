@@ -78,3 +78,10 @@ Sighting a pool cue is typically the most accurate way to check for warping. To 
 ## Rolling Your Cue on a Flat Surface
 
 Alternatively, you can roll your cue across a flat surface and check for wobble. However, this method isn’t the most reliable in that it requires a perfectly flat surface. And while pool tabletops are obviously flat and generally level, small imperfections or variations in the felt can cause your cue to wobble even if the shaft itself is straight.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

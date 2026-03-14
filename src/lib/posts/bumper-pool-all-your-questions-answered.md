@@ -82,3 +82,10 @@ Most standard tables have a total of 8 bumpers in the middle of the table in a c
 ## Bumper Pool Balls
 
 Bumper pool is played with ten balls total – 5 red and 5 white. One red ball and one white ball are each marked with a spot to signify the starting ball for each player. This will make more sense when we go over the rules below.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [snooker vs pool](/snooker-vs-pool-comparison/), [is snooker harder](/is-snooker-harder-than-pool/), [snooker cues for pool](/can-snooker-cues-be-used-for-pool/), [history of billiards](/evolution-of-billiards-from-kings-to-commoners/), and [billiard game types](/billiard-games/).
+

@@ -59,3 +59,10 @@ The cue ball position has more to do with breaking than racking so I won’t go 
 As you can see from the diagram above, the <strong>Foot String</strong> is the imaginary line that runs across the table connecting the two center diamonds towards the foot of the table. The <strong>Foot Spot</strong> is just the center of the Foot String. And the <strong>Apex Ball</strong> is the object ball at the very top of the triangle that sits on the Foot Spot.
 
 Knowing these terms will help learning to rack properly a bit easier. Plus, you’ll probably learn them anyways if you spend enough time at the pool hall.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [8-ball rules](/8-ball-pool-rules-the-simple-version/), [9-ball rules](/how-to-play-9-ball-9-ball-rules-explained/), [10-ball rules](/how-to-play-10-ball-pool-rules-and-gameplay/), and [cutthroat pool rules](/how-to-play-cutthroat-pool/).
+

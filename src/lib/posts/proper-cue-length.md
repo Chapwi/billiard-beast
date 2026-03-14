@@ -66,3 +66,10 @@ This is a great way to get a feel for which cue length is right for you before y
 In addition to the length of a pool cue, it’s essential to consider the balance and weight of the cue, which play significant roles in your playing experience. These factors are just as crucial as cue length and are intimately related to a player’s height, arm strength, and playing style.
 
 ## Cue Balance
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), and [best pool cue brands](/best-brands-of-pool-cues/).
+

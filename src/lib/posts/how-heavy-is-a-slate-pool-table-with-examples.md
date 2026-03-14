@@ -98,3 +98,10 @@ If weight is truly an issue, [MDF tables](/slate-vs-mdf-pool-table/) exist. You'
 For serious players who plan to keep a table for years? The weight is a feature, not a problem. Heavy slate tables play better. They last longer. They hold value. That 900-pound 8-footer might be the best investment you make for your rec room—and your game.
 
 Check the specs before buying. Know how much each slate piece weighs if you're moving it yourself (you shouldn't). And remember: weight correlates directly with how good that table will play and how long it will last. You get what you pay for, and you carry what you buy.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how long pool tables last](/how-long-do-pool-tables-last/), and [pool table room clearance](/how-far-does-a-pool-table-need-to-be-away-from-the-wall/).
+

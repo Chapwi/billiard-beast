@@ -58,3 +58,10 @@ However, as mentioned earlier, it’s not just the size of the table that matter
 While ideally we’d like to have plenty of space all the way around the pool table, sometimes it just doesn’t work out that way. Maybe you have a support pole in your basement that, for obvious reasons, can’t be moved and forever serves as an interference to your otherwise unobstructed access to the table. Or perhaps the room you have dedicated to your pool table doesn’t allow for five feet of clearance all the way around. It happens.
 
 If your table is already in place and space is tight, there’s really not much else you can do to rectify the situation. If you have an alternative area to put your table in, that’s always an option. But, of course, that’s a decision only you can make.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), and [how long pool tables last](/how-long-do-pool-tables-last/).
+

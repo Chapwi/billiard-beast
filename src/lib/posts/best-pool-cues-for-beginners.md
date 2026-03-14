@@ -489,3 +489,10 @@ Buy something from a real cue maker, not a department store. Stay in the $30-200
 Then stop reading gear reviews and go shoot some pool. In a year or two, you'll know exactly what you want in your next cue.
 
 Good luck out there. I'll see you at the tables.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), [best pool cue brands](/best-brands-of-pool-cues/), and [what a good cue costs](/how-much-does-a-good-pool-cue-cost/).
+

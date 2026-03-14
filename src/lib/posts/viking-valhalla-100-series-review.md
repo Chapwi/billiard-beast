@@ -94,3 +94,10 @@ If you fall in love with the game and want to upgrade in a year, you'll know exa
 Either way, you win.
 
 [Check current price on Amazon](https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20)
+
+---
+
+## Related Articles
+
+For more on this topic, check out [Collapsar CXL500 review](/collapsar-cxl500-review/), [Purex Technology review](/purex-technology-pool-cue-review/), [Viper pool cues](/are-viper-pool-cues-any-good-what-you-need-to-know/), [McDermott cues review](/mcdermott-cues/), and [how to play pool](/how-to-play-pool-the-beginners-guide/).
+

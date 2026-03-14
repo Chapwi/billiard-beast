@@ -92,3 +92,10 @@ Its not uncommon to see ferrules around 1/2″ or shorter.The material used for 
 ## Budget and Investment
 
 ## So, What Did We Learn Here?
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), and [best pool cue brands](/best-brands-of-pool-cues/).
+

@@ -66,3 +66,10 @@ Any time you put a pool table on a rug or carpeting, it’s going to take a litt
 ## May Present a Tripping Hazard
 
 If you get a rug that’s too thick, you can create a tripping hazard. This is why low or medium-pile rugs are preferable for use under pool tables. Most people won’t trip over a thin rug. Thick, fluffy rugs are a different story.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

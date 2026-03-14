@@ -62,3 +62,10 @@ Also, think about how many times you’ll have to buy another set of balls. The 
 ## Amarith Pool Balls Stay Clean and Shiny
 
 ## In Conclusion
+
+---
+
+## Related Articles
+
+For more on this topic, check out [billiard ball colors](/billiard-ball-colors/), [how many balls in pool](/how-many-balls-are-used-in-pool/), [cleaning billiard balls](/how-to-clean-billiard-balls/), [cue ball size](/is-the-cue-ball-bigger-or-smaller-than-the-object-balls/), and [cue ball red dots](/why-do-cue-balls-have-red-dots/).
+

@@ -72,3 +72,10 @@ However, the US Professional Pool Players Association (UPA) says something diffe
 ## Sinking the Cue Ball on an 8-Ball Shot
 
 Unless you’re a maverick or haven’t played much pool, you’ve probably potted a cue ball on an 8-ball shot. When shooting the 8-ball, most of the other balls are usually in the pockets, meaning the table is pretty clear. And a clear table means that there are no obstructions to stop the cue ball.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

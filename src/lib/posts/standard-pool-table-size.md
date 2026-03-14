@@ -104,3 +104,10 @@ Get the 8-foot, get a good cue, and actually play. Everything else follows from 
 ## Related Reading
 
 Check out our [full pool table reviews](/pool-table-reviews/) to see specific models at each size, and learn about [how to choose your first pool cue](/pool-cue-reviews/).
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), [how long pool tables last](/how-long-do-pool-tables-last/), and [pool table room clearance](/how-far-does-a-pool-table-need-to-be-away-from-the-wall/).
+

@@ -72,3 +72,10 @@ The best pool hall for you isn’t necessarily the one with the most tables or t
 If you play snooker or want to understand the differences between games, check [snooker vs pool comparison](/snooker-vs-pool-comparison/) to see how equipment and rules vary.
 
 Start at Q’s if you’re visiting LA for the first time and want a guaranteed solid room with enough atmosphere to make an evening of it. Then explore from there based on what you liked and what you’d change.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [Efren Reyes](/efren-reyes-magicians-legacy-world-billiards/), [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), and [billiard game types](/billiard-games/).
+

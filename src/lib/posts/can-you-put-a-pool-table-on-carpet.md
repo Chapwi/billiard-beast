@@ -56,3 +56,10 @@ You can check that the table is level by using a carpenter’s level at differen
 After leveling the table the first time, wait a week or two and then check it again to see if the table has settled more on the carpet.
 
 How long it takes for a pool table to settle on carpet depends. For plush carpet and a thick underlay padding, it can take months in some cases. The weight of the pool table also influences this. <strong>Most pool tables should be settled on carpet within a few weeks.</strong>
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

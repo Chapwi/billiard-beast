@@ -82,3 +82,10 @@ You don't need to know every detail of cue physics to pick the right taper. You 
 Visit a local pool hall or shop with different cues. Spend time with each taper. The one that feels right is the one that is right. Everything else is just engineering to explain why your preference actually makes sense.
 
 Check out our [pool cue reviews](/pool-cue-reviews/) for specific recommendations by taper type, and learn more about [different billiard games](/billiard-games/) to see which might suit your cue style best.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), and [best pool cue brands](/best-brands-of-pool-cues/).
+

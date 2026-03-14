@@ -58,3 +58,10 @@ One of the biggest pains when it comes to slate tables is how much they weigh. T
 ## You’re on a Budget
 
 If you’re trying to save some money but you still want a pool table, you may consider getting an MDF table. They’re not quite the investment that slate tables are. Plus, having an MDF pool table is better than not having a table at all!
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

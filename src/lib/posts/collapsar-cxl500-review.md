@@ -84,3 +84,10 @@ If you play in any environment where humidity or temperature varies, this cue re
 Our readers bought 17 of these without us ever recommending them. Now we are.
 
 [Check current price on Amazon](https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20)
+
+---
+
+## Related Articles
+
+For more on this topic, check out [Purex Technology review](/purex-technology-pool-cue-review/), [Viking Valhalla review](/viking-valhalla-100-series-review/), [Viper pool cues](/are-viper-pool-cues-any-good-what-you-need-to-know/), [McDermott cues review](/mcdermott-cues/), and [how to play pool](/how-to-play-pool-the-beginners-guide/).
+

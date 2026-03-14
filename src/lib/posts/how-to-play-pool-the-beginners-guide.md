@@ -69,3 +69,10 @@ The cue is used to push the cue-ball into the object balls with the goal of movi
 ## Racking Up
 
 The game begins with <strong>rack</strong>ing the balls into a pointed shape, with the front ball positioned on the <strong>foot-spot</strong>. The foot-spot is the center of the <strong>head-string</strong> which is an imaginary line that connects the second of the diamonds on the two sides of the table. Once the balls are tightly held and organized in the rack, the rack is carefully removed and we’re ready to break.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [8-ball rules](/8-ball-pool-rules-the-simple-version/), [9-ball rules](/how-to-play-9-ball-9-ball-rules-explained/), [10-ball rules](/how-to-play-10-ball-pool-rules-and-gameplay/), [cutthroat pool rules](/how-to-play-cutthroat-pool/), and [bank pool rules](/how-to-play-bank-pool/).
+

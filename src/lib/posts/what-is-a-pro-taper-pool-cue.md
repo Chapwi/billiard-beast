@@ -62,3 +62,10 @@ With a pro taper shaft, these problems are virtually nonexistent - unless, of co
 ## In Conclusion
 
 Pro taper cues are named as such because so many professional players prefer them. However, plenty of pros still use European taper cues. At the end of the day, it’s all about what you’re comfortable with and what lets your hard-earned skills shine through the best.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

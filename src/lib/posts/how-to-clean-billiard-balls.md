@@ -63,3 +63,10 @@ Only if you are sure that your billiard balls are not acrylic or polyester, and 
 If you’re unsure of the make of your billiard balls, avoid this step as heat and soap can affect acrylic or polyester products. Instead, soak the balls in <strong>room-temperature</strong> water with a small amount of white vinegar and then use your micro-fiber towel to wipe them down afterwards.
 
 ## Removing Yellow Stain
+
+---
+
+## Related Articles
+
+For more on this topic, check out [billiard ball colors](/billiard-ball-colors/), [how many balls in pool](/how-many-balls-are-used-in-pool/), [Aramith ball review](/are-aramith-pool-balls-worth-it/), [cue ball size](/is-the-cue-ball-bigger-or-smaller-than-the-object-balls/), and [cue ball red dots](/why-do-cue-balls-have-red-dots/).
+

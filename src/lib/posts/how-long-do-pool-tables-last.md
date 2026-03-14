@@ -128,3 +128,10 @@ MDF tables are starter tables. They work for casual play. But if you actually en
 Want to know what to look for when buying? Check out our [pool table reviews](/pool-table-reviews/) and [billiard games guide](/billiard-games/) for specific models and styles. And if you're just starting out, the [beginner's guide to pool](/how-to-play-pool-the-beginners-guide/) covers the fundamentals before you invest in equipment.
 
 Take care of your table. It'll take care of your game.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), and [pool table room clearance](/how-far-does-a-pool-table-need-to-be-away-from-the-wall/).
+

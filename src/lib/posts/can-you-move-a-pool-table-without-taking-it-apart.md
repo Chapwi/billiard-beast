@@ -62,3 +62,10 @@ One of the biggest problems with moving a fully-assembled slate table is the tem
 <strong>Moving an assembled slate table on its side is asking for damage. When tilted on its side, the slate rests all of its weight on the sides of the table. The sides may look sturdy, but they’re not designed to take that much weight and are easily damaged this way.</strong>
 
 If you’ve made it to this part of the article, you’ll know that moving your pool table a short distance is entirely possible but not without risk. The following is for informational purposes only. We don’t accept any responsibility for broken or damaged pool tables! Here’s how to move a pool table without taking it apart.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), and [how long pool tables last](/how-long-do-pool-tables-last/).
+

@@ -98,3 +98,10 @@ Slate doesn't warp, doesn't absorb moisture, and provides a genuinely flat playi
 **Learning to play?** Start with the [beginner's guide to pool](/how-to-play-pool-the-beginners-guide/).
 
 **Shopping for a table?** Learn about [standard pool table sizes and dimensions](/standard-pool-table-size/) before you commit to one.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [snooker vs pool](/snooker-vs-pool-comparison/), [is snooker harder](/is-snooker-harder-than-pool/), [snooker cues for pool](/can-snooker-cues-be-used-for-pool/), [billiard game types](/billiard-games/), and [bumper pool](/bumper-pool-all-your-questions-answered/).
+

@@ -72,3 +72,10 @@ The company makes cues that fall under six different categories which include th
 In 2017, Stephen Janes, following in his father’s footsteps, was named Cuemaker of the Year by the American Cuemakers Association, solidifying the family’s legacy in the world of cue making. Their handcrafted and beautifully designed cues continue to be regarded as some of the best cues in the industry.
 
 — [Browse Jacoby on Amazon](https://www.amazon.com/s?k=Jacoby+pool+cue&tag=billiardbeast-20)
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), and [what a good cue costs](/how-much-does-a-good-pool-cue-cost/).
+

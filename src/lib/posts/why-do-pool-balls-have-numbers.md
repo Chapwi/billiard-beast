@@ -64,3 +64,10 @@ English blackball is played with 15 object balls, but only one of them, the blac
 But the rules of these games don’t really require them to have numbered balls the way that games like 9-ball do. So why did pool balls get numbers? And when did it happen?
 
 The reason balls got numbers in the first place was likely so there could be more games invented. As I said above, the combination of colors, numbers, stripes, and solids allows for a wide variety of games that can all be played with the same set.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

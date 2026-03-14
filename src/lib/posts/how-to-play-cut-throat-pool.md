@@ -70,3 +70,10 @@ Since being the third person in Cutthroat usually putsyou in a particularly bad 
 If players do not want to rely on luck, then I recommend something called the lag. Lag in pool refers to players hitting balls from one side of the table so that it bounces off the opposite cushion with the goal being to get their ball as close to the cushion on the original side from which they shot.
 
 In this scenario, whichever player is able to get the closest to the cushion without having their ball bounce off of it is deemed the winner. This is something that can be done before any billiards game to decide who will go first.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

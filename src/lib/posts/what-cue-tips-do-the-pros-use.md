@@ -70,3 +70,10 @@ Of course, there are numerous exceptions to the above guidelines. Some very succ
 ## Consistency
 
 But, when you play enough and get your pool instincts ingrained, you start to get a feel for different tips and cues. This is part of growing as a pool player and developing your skill.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how long cue tips last](/how-long-does-a-pool-cue-tip-last/), [screw-on cue tips](/are-screw-on-pool-cue-tips-any-good/), [best pool chalk](/best-pool-chalk/), [what chalk is made of](/what-is-pool-chalk-made-of/), and [chalk color](/does-pool-chalk-color-matter/).
+

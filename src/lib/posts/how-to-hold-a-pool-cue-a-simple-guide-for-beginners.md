@@ -69,3 +69,10 @@ That’s it! For many new players, the closed bridge feels strange. That’s oka
 The closed bridge is a little more accurate once you get the hang of it, and is better than the open bridge for certain shots. The looped index finger keeps the cue from moving around, providing accuracy that is hard to master with an open bridge.Now there are some other bridge techniques you should know. These are only used in special situations, but they can be lifesavers if you know when to employ them.
 
 ## Rail Bridge
+
+---
+
+## Related Articles
+
+For more on this topic, check out [English in pool](/what-is-english-in-pool-a-simple-explanation/), [beginner's guide](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), and [billiard game types](/billiard-games/).
+

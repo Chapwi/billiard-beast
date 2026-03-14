@@ -72,3 +72,10 @@ So, when playing pool with a snooker cue, you can reasonably expect some issues,
 ## Squirt and Miscueing
 
 Since the tips of snooker cues are smaller than pool cues, your chances of unwanted squirt and miscueing increase. You need to be more precise when striking the cue ball with a snooker cue than you otherwise would with a pool cue. There’s less surface area on a snooker tip, which makes inaccurate shots more apparent.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [snooker vs pool](/snooker-vs-pool-comparison/), [is snooker harder](/is-snooker-harder-than-pool/), [history of billiards](/evolution-of-billiards-from-kings-to-commoners/), [billiard game types](/billiard-games/), and [bumper pool](/bumper-pool-all-your-questions-answered/).
+

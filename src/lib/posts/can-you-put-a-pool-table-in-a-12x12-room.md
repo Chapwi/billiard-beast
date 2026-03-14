@@ -48,3 +48,10 @@ This portable pool table is just over 4 ½ feet long, making it ideal for a 12x1
 It comes with two 48-inch cues and a set of balls designed to fit the table’s smaller size. If you’re not sure how a pool table will go over in your spare room, getting one of the small, cost-efficient ones is a good way to decide whether you want to try and upgrade to a larger table later on.
 
 ## Other Articles You May Be Interested In
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), and [how long pool tables last](/how-long-do-pool-tables-last/).
+

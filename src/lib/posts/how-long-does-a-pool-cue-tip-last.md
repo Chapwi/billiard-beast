@@ -145,3 +145,10 @@ For most players: medium tip, quality brand, replace every 9â€“12 months. Thatâ€
 ## See Also
 
 Learn more about [choosing the right cue for your game](/pool-cue-reviews/), [understanding cue mechanics](/what-cue-tips-do-the-pros-use/), and [different games to practice](/billiard-games/).
+
+---
+
+## Related Articles
+
+For more on this topic, check out [what tips pros use](/what-cue-tips-do-the-pros-use/), [screw-on cue tips](/are-screw-on-pool-cue-tips-any-good/), [best pool chalk](/best-pool-chalk/), [what chalk is made of](/what-is-pool-chalk-made-of/), and [chalk color](/does-pool-chalk-color-matter/).
+

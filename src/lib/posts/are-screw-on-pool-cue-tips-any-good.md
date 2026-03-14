@@ -64,3 +64,10 @@ Plus, the low cost is attractive to business owners hoping to cut down on their 
 ## How to Make the Best of Your Screw-On Cue Tip
 
 Maybe you bought a cue with a screw-on tip before you knew there was a difference in tip styles. This is common. Those just getting into the game want their own cue, even if it’s not from a big name-brand company. Not to worry. You don’t have to throw out your cue. You can make the most out of your screw-on tip. Here’s how.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how long cue tips last](/how-long-does-a-pool-cue-tip-last/), [what tips pros use](/what-cue-tips-do-the-pros-use/), [best pool chalk](/best-pool-chalk/), [what chalk is made of](/what-is-pool-chalk-made-of/), and [chalk color](/does-pool-chalk-color-matter/).
+

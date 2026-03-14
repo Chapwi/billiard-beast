@@ -54,3 +54,10 @@ However, depending on where you’re shipping it to, the extra features you purc
 ## In Conclusion
 
 For most countries and airlines, taking a pool cue on an airplane is a fairly simple process if you do it the right way. To avoid damage and ensure a smooth travel experience, it’s best to follow the rules exactly and pack your cue with care. But if you’re reading this at the airport with your cue in your carry-on, don’t fret - the folks at the airline’s customer service desk should be able to arrange for you to either check or ship your cue on the spot.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

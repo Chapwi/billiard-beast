@@ -70,3 +70,10 @@ In some unofficial circles, a scratch on a break is an automatic loss, but this 
 ## Gameplay Scratch Rules
 
 When a player pockets the cue ball, there are two common outcomes as a result of the foul. The first is ball-in-hand anywhere on the table. The opponent of the player who scratched gets to place the ball anywhere on the table and take a shot. This is meant to deter players from scratching intentionally in order to hinder their opponent’s performance.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

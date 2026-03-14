@@ -56,3 +56,10 @@ If you want to replace the rubber cushions at the same time as the felt (this is
 Similarly, it’s best to get your refelting done during a move, if possible. Moving a slate pool table involves disassembling the table and removing the felt anyway, so you may be able to save a little money by providing a new felt and having the movers install it when they set up the table again. Just make sure your pool table mover is okay with it!
 
 When shopping around for a professional refelting service, there are a few things to keep in mind.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table felt guide](/pool-table-felt-guide/), [best felt color](/whats-the-best-color-for-pool-table-felt/), [how long felt lasts](/how-long-does-pool-table-felt-last/), [ironing pool table felt](/can-you-iron-pool-table-felt/), and [how felt is attached](/is-pool-table-felt-glued-down/).
+

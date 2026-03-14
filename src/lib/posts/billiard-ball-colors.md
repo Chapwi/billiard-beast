@@ -135,3 +135,10 @@ If you’re not sure what you’ve got, measure the ball diameter or compare it 
 Pool balls use color and pattern (solid vs. striped) to distinguish groups. This makes the game immediately clear to new players. Snooker uses a different ball set and table size entirely. Carom uses three unnumbered balls and focuses on geometry. British blackball is a size variant between American pool and traditional billiards.
 
 For 99% of players reading this, you care about American pool balls. Learn the solid and stripe colors, understand that solids are 1-7 and stripes are 9-15, and remember that the 8-ball is last. Everything else follows from there.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how many balls in pool](/how-many-balls-are-used-in-pool/), [Aramith ball review](/are-aramith-pool-balls-worth-it/), [cleaning billiard balls](/how-to-clean-billiard-balls/), [cue ball size](/is-the-cue-ball-bigger-or-smaller-than-the-object-balls/), and [cue ball red dots](/why-do-cue-balls-have-red-dots/).
+

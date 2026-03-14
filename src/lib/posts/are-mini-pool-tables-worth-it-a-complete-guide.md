@@ -66,3 +66,10 @@ This is especially true for kids playing on a mini table. Chances are they won�
 While we’re on the subject of slate, let’s talk about how much mini pool tables weigh. Slate is the major component that makes full-size pool tables so heavy, so you may not be surprised to learn that mini pool tables are, on average, incredibly light.
 
 The smallest tabletop pool tables weigh under 10 pounds. Mid-size mini pool tables usually weigh between 25 and 50 pounds. The largest of the mini tables, those that are around 6-feet, generally weigh somewhere between 100 and 150 pounds.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), and [how long pool tables last](/how-long-do-pool-tables-last/).
+

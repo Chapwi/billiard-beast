@@ -72,3 +72,10 @@ One of the biggest contributors to the cost of high end pool cues is the shaft. 
 Squirt, or deflection, is the angle change of the cue ball that occurs any time you strike it off center. For instance, if you strike the cue ball to the left of center, the cue ball will travel somewhat to the right. How far to the right it travels is largely dependent upon the type of shaft you’re playing with.
 
 Another big contributor to the price of a pool cue is the style and design of the butt. While most of the performance is contributed to the shaft, the butt of the pool cue is the eye candy.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), and [best pool cue brands](/best-brands-of-pool-cues/).
+

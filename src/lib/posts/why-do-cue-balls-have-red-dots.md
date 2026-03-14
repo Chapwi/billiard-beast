@@ -104,3 +104,10 @@ A measles ball isn’t flashy. It won’t get you wins by itself. But if you’r
 ## See Also
 
 Check out our guides on [proper pool cue selection](/pool-cue-reviews/), [how to develop a solid stroke](/how-to-play-pool-the-beginners-guide/), and [the best games to practice](/billiard-games/).
+
+---
+
+## Related Articles
+
+For more on this topic, check out [billiard ball colors](/billiard-ball-colors/), [how many balls in pool](/how-many-balls-are-used-in-pool/), [Aramith ball review](/are-aramith-pool-balls-worth-it/), [cleaning billiard balls](/how-to-clean-billiard-balls/), and [cue ball size](/is-the-cue-ball-bigger-or-smaller-than-the-object-balls/).
+

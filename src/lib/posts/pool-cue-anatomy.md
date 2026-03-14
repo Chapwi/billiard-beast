@@ -77,3 +77,10 @@ This is the longest part of the pool cue, no matter what type of cue you have. O
 A distinct feature of the shaft is that it gets narrower the closer it gets to the tip. This is called taper. The purpose of the taper is to allow for the pool cue to easily slide through your fingers, while also allowing for enough weight for a stable stroke.
 
 ## Collar
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), and [best pool cue brands](/best-brands-of-pool-cues/).
+

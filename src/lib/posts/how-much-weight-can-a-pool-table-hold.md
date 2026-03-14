@@ -50,3 +50,10 @@ If you want to keep your table in good condition, avoid putting anything on it t
 Slate pool tables are heavy and they look like they can hold a bunch of weight. But in reality, they have too many components that are designed only for billiards and nothing else. Using them for storage or as a stepladder is something to avoid, if possible.
 
 ## Other Articles You May Be Interested In
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

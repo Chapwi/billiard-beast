@@ -63,3 +63,10 @@ The playing surface is warp resistant and the bumpers are K-66 rubber, which mak
 <li>Some Customers Found It Difficult To Level.</li> <li>Most Common Issues Are With Damaged Product Upon Delivery.</li>
 
 Most pool tables under $1000 are going to have a MDF (wood) play bed. MDF is a budget friendly option that helps keep pool table prices down. It is a wood product so it can warp over time if subjected to the right conditions or if not taken care of properly. This isn’t generally an issue as long as your table isn’t stored in wet/damp areas for extended periods of time.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

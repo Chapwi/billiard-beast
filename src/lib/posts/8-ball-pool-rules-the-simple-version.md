@@ -67,3 +67,10 @@ If the 8-ball is potted (sunk) on the break, the opposing player can ask for a r
 ## Assigning Solids and Stripes
 
 After the break is made, the next rule concerns assigning each player either solids or stripes. Before this happens, the table is considered ‘open’. This means that either player can sink or ‘pot’ solid or striped balls.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [9-ball rules](/how-to-play-9-ball-9-ball-rules-explained/), [10-ball rules](/how-to-play-10-ball-pool-rules-and-gameplay/), [cutthroat pool rules](/how-to-play-cutthroat-pool/), and [bank pool rules](/how-to-play-bank-pool/).
+

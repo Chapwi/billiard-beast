@@ -78,3 +78,10 @@ The last method, and perhaps the easiest, is to ask an expert. Chances are there
 There’s no question that ivory pool balls were much better than wooden or clay balls before the modern era. However, the synthetic pool balls that we have today are marvels of engineering and design.
 
 ## How Much Is an Ivory Cue Ball Worth?
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

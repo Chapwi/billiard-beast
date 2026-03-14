@@ -71,3 +71,10 @@ Place the cue ball wherever you like and then proceed to run the rack in one tur
 Cowboy pool is basically a game of 8 ball played backwards. You rack the balls in 8 ball fashion and then proceed to the break. After the break, you then begin to pocket your designated balls but not in the traditional manner.
 
 In standard 8 ball you strike the cue ball first which then hits your object ball hopefully into a pocket. With cowboy pool, you strike your object ball first, which then has to hit the cue ball before making its way into a pocket. This game is a great way to learn angles and position play.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

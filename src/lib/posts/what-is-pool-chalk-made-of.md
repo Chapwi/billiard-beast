@@ -80,3 +80,10 @@ Applying the chalk also gives the player a chance to get his mind right and thin
 Believe it or not, there’s a right and a wrong way to use pool chalk. And there’s some etiquette involved, too.
 
 ## Applying Chalk
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how long cue tips last](/how-long-does-a-pool-cue-tip-last/), [what tips pros use](/what-cue-tips-do-the-pros-use/), [screw-on cue tips](/are-screw-on-pool-cue-tips-any-good/), [best pool chalk](/best-pool-chalk/), and [chalk color](/does-pool-chalk-color-matter/).
+

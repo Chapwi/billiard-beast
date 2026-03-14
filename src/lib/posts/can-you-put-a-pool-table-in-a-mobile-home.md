@@ -52,3 +52,10 @@ Part of the reason for room size when it comes to pool tables is you need space 
 Here’s a quick-reference look at what pool table sizes are ideal for mobile home sizes. These are just averages based on the common floor plans available and assume the use of 58-inch cues. Your mobile home may be different, so make sure to measure!
 
 <li><strong>9-foot pool table:</strong> Can fit in most double wide mobile homes and nearly all triple wides.</li> <li><strong>8-foot table:</strong> Good for most double wide homes and above.</li> <li><strong>7-foot table:</strong> May fit in some single wide mobile homes, but not all. Easy fit in double and triple wide homes.</li> <li><strong>6-foot and below:</strong> Will fit in nearly all mobile homes.</li>
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

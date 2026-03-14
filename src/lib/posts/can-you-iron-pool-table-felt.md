@@ -66,3 +66,10 @@ Now, there are two main types of pool table cloth - worsted and woolen.
 Worsted cloth, sometimes referred to as American cloth, is spun and woven to give it a smooth texture with no fuzzy threads or nap sticking up. Since it is smooth and non-directional, worsted cloth allows balls to roll faster and longer over the playing surface (which is why it’s also often called speed cloth). For this reason, worsted cloth is considered the best and is the only cloth used in professional tournaments. It is usually found on tables 8’ or larger or on high-end tables — though some smaller coin-op tables do have it.
 
 ## Woolen Cloth
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table felt guide](/pool-table-felt-guide/), [best felt color](/whats-the-best-color-for-pool-table-felt/), [how long felt lasts](/how-long-does-pool-table-felt-last/), [refelting costs](/how-much-does-it-cost-to-refelt-a-pool-table/), and [how felt is attached](/is-pool-table-felt-glued-down/).
+

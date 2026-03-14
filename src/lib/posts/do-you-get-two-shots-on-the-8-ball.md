@@ -56,3 +56,10 @@ If you play American rules, you won’t be getting two shots on the 8 ball. In s
 Check with your opponent before you shoot when playing a friendly game. Chances are you’ll be able to come to an agreement on the rules you’ll play by within just a few minutes!
 
 ## Other Articles You May Be Interested In
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [8-ball rules](/8-ball-pool-rules-the-simple-version/), [9-ball rules](/how-to-play-9-ball-9-ball-rules-explained/), [10-ball rules](/how-to-play-10-ball-pool-rules-and-gameplay/), and [cutthroat pool rules](/how-to-play-cutthroat-pool/).
+

@@ -100,3 +100,10 @@ McDermott builds honest cues at fair prices. They're not the cheapest option in 
 The lifetime warranty is real. McDermott will fix or replace warped shafts, loose joints, and structural defects for as long as you own the cue. That's not a marketing claim you can make if your manufacturing isn't tight.
 
 If you know what series fits your budget and your game, you won't be disappointed.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), and [best pool cue brands](/best-brands-of-pool-cues/).
+

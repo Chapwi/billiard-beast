@@ -86,3 +86,10 @@ Avoid pure black unless you're going full noir aesthetic and don't mind playing 
 If you're unsure, get color samples. Most felt manufacturers sell small swatches. Stick them on your table under your room's actual lighting and play a few games. The color that feels right is the color that is right. Everything else is rationalization.
 
 Need help picking a table to go with that felt? Check our [pool table reviews](/pool-table-reviews/) for models that come in your preferred color. And if you're learning which games suit different table setups, [explore the main billiard games](/billiard-games/) to see how table color affects each one.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table felt guide](/pool-table-felt-guide/), [how long felt lasts](/how-long-does-pool-table-felt-last/), [refelting costs](/how-much-does-it-cost-to-refelt-a-pool-table/), [ironing pool table felt](/can-you-iron-pool-table-felt/), and [how felt is attached](/is-pool-table-felt-glued-down/).
+

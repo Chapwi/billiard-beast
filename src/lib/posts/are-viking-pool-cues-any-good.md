@@ -70,3 +70,10 @@ This pool cue comes in 12 different color styles so you can pick one you like. T
 It comes with a premium leather tip set in a high-impact ferrule. The shaft and forearm are both Hard Rock Maple, and the pin holding them together is stainless steel. The Irish linen wrap allows for a solid grip and the UV finish ensures protection and a smooth, classy look.
 
 It comes with an adjustable butt, and the bumper is made of quality rubber to protect the cue from cracking or chipping. Choose from 18 to 21-ounces on this standard 58-inch cue with a pro taper for control and accuracy.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

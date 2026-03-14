@@ -60,3 +60,10 @@ I recommend a 13mm medium cue tip. This is the best size because it’s not too 
 With a 13mm cue tip you can learn what kind of player you are; you’re not forced to play one style more than another, as you would with a larger or smaller tip.
 
 Players with a little more finesse, relying on English, tend to use smaller tips. Those who shoot with a little more force and who rely on bank shots tend to use larger tips.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

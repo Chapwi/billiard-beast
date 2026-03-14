@@ -52,3 +52,10 @@ Straight pool is a pool game that uses all 15 object balls and the cue ball. All
 ## In Conclusion
 
 I hope by now you have the information you need to make sure you’re playing with the right amount of pool balls. Also, don’t hesitate to make up some rules and games of your own, and use as many or as few balls as you like. Keep it fun and interesting! I hope this article has been helpful and feel free to check out our other super helpful articles just like this one for all of your billiard related needs!
+
+---
+
+## Related Articles
+
+For more on this topic, check out [billiard ball colors](/billiard-ball-colors/), [Aramith ball review](/are-aramith-pool-balls-worth-it/), [cleaning billiard balls](/how-to-clean-billiard-balls/), [cue ball size](/is-the-cue-ball-bigger-or-smaller-than-the-object-balls/), and [cue ball red dots](/why-do-cue-balls-have-red-dots/).
+

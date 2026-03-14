@@ -74,3 +74,10 @@ Coin-operated pool tables – often called “bar boxes” – feature internal 
 If the cue ball went straight to the ball trap any time somebody scratched, it would effectively be game over – you’d have to pump in more quarters to release the balls and start all over. Obviously, that would get old pretty quick.
 
 <em>Manufacturers realized this and designed tables with ball return mechanisms that could recognize or differentiate the cue ball and divert it on another track toward the head of the table.</em>
+
+---
+
+## Related Articles
+
+For more on this topic, check out [billiard ball colors](/billiard-ball-colors/), [how many balls in pool](/how-many-balls-are-used-in-pool/), [Aramith ball review](/are-aramith-pool-balls-worth-it/), [cleaning billiard balls](/how-to-clean-billiard-balls/), and [cue ball red dots](/why-do-cue-balls-have-red-dots/).
+

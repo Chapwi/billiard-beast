@@ -64,3 +64,10 @@ Now that you know what to look for in a vacuum cleaner and attachments, here are
 ## Clean in One Direction
 
 Once you’ve brushed the debris and residue loose, it’s time to start vacuuming. Use the vacuum attachment the same way you used the brush. Again, all straight lines, no circles or wiggles. Most people do half of the table at a time, working their way from the bumpers toward the middle down the length of the table, then doing the same on the other side.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table felt guide](/pool-table-felt-guide/), [best felt color](/whats-the-best-color-for-pool-table-felt/), [how long felt lasts](/how-long-does-pool-table-felt-last/), [refelting costs](/how-much-does-it-cost-to-refelt-a-pool-table/), and [ironing pool table felt](/can-you-iron-pool-table-felt/).
+

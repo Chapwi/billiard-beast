@@ -207,3 +207,10 @@ A: Folding legs don't make a bad table good, but they're practical for tight spa
 **Q: Should I just buy a mini pool table instead?**
 
 A: Not if you want an actual game. Mini tables (3 or 4 feet) are novelties. They're fun to have around, but the pockets are tiny, the felt is rough, and it's frustrating to play on. Get a real 6-footer and make the space work.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), [how long pool tables last](/how-long-do-pool-tables-last/), and [pool table room clearance](/how-far-does-a-pool-table-need-to-be-away-from-the-wall/).
+

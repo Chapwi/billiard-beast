@@ -108,3 +108,10 @@ My recommendations at each tier:
 The biggest mistake I see is people spending too much too early. A $30 Valhalla in a beginner's hands will produce better results than a $500 custom in those same hands after six months of practice. The cue doesn't make the player. The player makes the cue.
 
 Go shoot.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cue brands](/best-brands-of-pool-cues/), and [what a good cue costs](/how-much-does-a-good-pool-cue-cost/).
+

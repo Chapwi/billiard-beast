@@ -60,3 +60,10 @@ If you notice that you can’t draw the ball very well, then it’s likely that 
 In summary, a light pool equals faster cue ball speed and slower object ball speed after contact has been made. Heavy pool cues equal slower cue ball speed and faster object ball speed after contact has been made. If your cue is too light for your abilities, it may result in a lack of cue ball control. While if your cue is too heavy, it could result in the same.
 
 Finding the perfect cue weight for your abilities and style of play will take some time and a little bit of trial and error. Its not an exact science. Take your time and play around with cues of various weights to see what feels and plays best for you.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), and [best pool cue brands](/best-brands-of-pool-cues/).
+

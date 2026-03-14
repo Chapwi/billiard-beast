@@ -76,3 +76,10 @@ Some coin-op tables use a cue ball with the same diameter, but with a small weig
 The most common method of cue ball separation used today involves the use of magnets. This design was first patented in 1966 by the prominent pool table manufacturer Valley (now known as Valley-Dynamo). These tables require the use of a specially-made cue ball with metal inside.
 
 In most magnetic coin-op tables, the ball separator is a slightly sloped trench with two ball tracks side-by-side. As the balls enter the separator, a magnet on one side of the trench pulls the cue ball over to one track while the object balls continue down the other track. Other designs feature a magnetic sensor that triggers a deflection device when it detects the cue ball.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [billiard ball colors](/billiard-ball-colors/), [how many balls in pool](/how-many-balls-are-used-in-pool/), [Aramith ball review](/are-aramith-pool-balls-worth-it/), [cleaning billiard balls](/how-to-clean-billiard-balls/), and [cue ball size](/is-the-cue-ball-bigger-or-smaller-than-the-object-balls/).
+

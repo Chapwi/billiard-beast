@@ -52,3 +52,10 @@ If, however, you leave your cue in the hot trunk of your car very often, or lean
 All in all, a quality wood cue is a great choice for someone looking for ultimate playability and a good feel to their shot. And fortunately, buying one doesn’t mean breaking the bank. Today, a good quality cue can be purchased for around $100-$200. Keep in mind there are cheaper options, buy you typically get what you pay for.
 
 ## So What’s the Verdict?
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

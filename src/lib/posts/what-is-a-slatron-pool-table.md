@@ -76,3 +76,10 @@ For those looking for lightweight pool tables, there’s not much of a differenc
 At the end of the day, most people consider a slatron pool table to be a step up from an MDF pool table. They aren’t that much more expensive, they last a bit longer, and they’re less likely to warp in ideal conditions.
 
 ## Slatron vs Slate
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), and [how long pool tables last](/how-long-do-pool-tables-last/).
+

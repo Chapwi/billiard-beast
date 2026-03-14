@@ -60,3 +60,10 @@ The most obvious difference with a smaller table is that sinking shots will gene
 One characteristic of smaller tables is that the balls tend to bunch together and hang out in clusters, even after a powerful break. There’s just not enough space for them to spread out very far. This isn’t exactly a negative, though – it just changes the dynamic of the game and can even add a new element of difficulty.Bank shots may become necessary to get around clusters; your strategy may need to allow your opponent to sink some of their balls just to get them out of the way; there may be more opportunities for defensive cue ball positioning, etc.
 
 ## Ball Size & Weight
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

@@ -52,3 +52,10 @@ Once you decide to replace the felt on your pool table, you have a decision to m
 Before you decide, I’d suggest watching a video of felt replacement (like the one below) and decide if it’s something you want to tackle.
 
 If it looks like a little too much, you can always contact a professional to do it for you.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table felt guide](/pool-table-felt-guide/), [best felt color](/whats-the-best-color-for-pool-table-felt/), [refelting costs](/how-much-does-it-cost-to-refelt-a-pool-table/), [ironing pool table felt](/can-you-iron-pool-table-felt/), and [how felt is attached](/is-pool-table-felt-glued-down/).
+

@@ -62,3 +62,10 @@ Many pool tables have leather or imitation leather drop pockets. While leather i
 ## Slate
 
 Finally, we have the slate of the pool table. Slate is a type of rock that won’t warp with humidity like the playing surfaces of non-slate tables will. This is one reason why slate tables are so popular; they remain true even when exposed to humidity and extreme temperatures.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), and [how long pool tables last](/how-long-do-pool-tables-last/).
+

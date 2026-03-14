@@ -114,3 +114,10 @@ Is that worth the extra $50-70? If you play once a month at a friend's house, no
 Buy the [Viking Valhalla 100](https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20) if you want the most cue for the least money. Buy the [PureX Technology](https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20) if you want real performance technology at a budget price. Buy the [Collapsar CXL500](https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20) if carbon fiber at $85 sounds as ridiculous to you as it does to me (in a good way).
 
 Then stop shopping and go play pool.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues for the money](/best-pool-cues-for-the-money/), [best pool cue brands](/best-brands-of-pool-cues/), and [what a good cue costs](/how-much-does-a-good-pool-cue-cost/).
+

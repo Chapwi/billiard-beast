@@ -63,3 +63,10 @@ Slate tables are the standard because the balls seem to roll smoothly on their s
 In short, playing on a slate table just seems to make everything smoother. I don’t have any scientific evidence to back this up, but if you play pool enough on different tables, you’ll know what I mean.
 
 Now that we’ve discussed the big ones, here are a few other ways to tell if a pool table is slate or wood. These methods should be combined with one or more of the main tactics outlined above.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), and [how long pool tables last](/how-long-do-pool-tables-last/).
+

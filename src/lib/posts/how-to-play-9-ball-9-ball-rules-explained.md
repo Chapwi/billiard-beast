@@ -71,3 +71,10 @@ This is incredibly hard to do, but it’s definitely possible.
 It’s fairly common for players in a friendly game to determine who breaks first with a coin flip or a best-out-of-three roshambo. From then on, players alternate breaking. However, in professional tournaments or league play, it’s often decided by a player’s rating. If they have no rating or the same rating, a lag shot is often used.
 
 ## Lag Shot or “Lagging”
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [8-ball rules](/8-ball-pool-rules-the-simple-version/), [10-ball rules](/how-to-play-10-ball-pool-rules-and-gameplay/), [cutthroat pool rules](/how-to-play-cutthroat-pool/), and [bank pool rules](/how-to-play-bank-pool/).
+

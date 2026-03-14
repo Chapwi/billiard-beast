@@ -62,3 +62,10 @@ Unfortunately though, the peace of mind that comes from buying a brand name tabl
 Typically when buying a new pool table, the cost of shipping and assembly is included in the total price. And depending on what you buy, it may even come with everything you need to start playing immediately.
 
 But in the event these expenses aren’t covered in your purchase, or you buy a used table, what should you expect to pay for moving/assembly and the gear you need to get started? Lets take a look at that now.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), [billiard game types](/billiard-games/), and [best cues for beginners](/best-pool-cues-for-beginners/).
+

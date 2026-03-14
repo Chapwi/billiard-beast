@@ -59,3 +59,10 @@ When moving a pool table, mistakes can result in damage to the table, your home,
 <li><em>How to Avoid</em>: Always lift the table high enough that the legs are clear of the floor, or use furniture sliders or dollies to move it smoothly.</li>
 
 <li><em>How to Avoid</em>: Lift the table by its body or legs, not the rails. The rails can be damaged easily, which affects the table’s playability.</li>
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table reviews](/pool-table-reviews/), [best pool tables for small spaces](/best-pool-tables-for-small-spaces/), [standard pool table sizes](/standard-pool-table-size/), [how heavy slate pool tables are](/how-heavy-is-a-slate-pool-table-with-examples/), and [how long pool tables last](/how-long-do-pool-tables-last/).
+

@@ -54,3 +54,10 @@ So, if you are considering an MDF table, or you have one you want re-felted, che
 As a rule of thumb, it’s best to use whichever technique the manufacturer used to felt the table in the first place.
 
 ## In Conclusion
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool table felt guide](/pool-table-felt-guide/), [best felt color](/whats-the-best-color-for-pool-table-felt/), [how long felt lasts](/how-long-does-pool-table-felt-last/), [refelting costs](/how-much-does-it-cost-to-refelt-a-pool-table/), and [ironing pool table felt](/can-you-iron-pool-table-felt/).
+

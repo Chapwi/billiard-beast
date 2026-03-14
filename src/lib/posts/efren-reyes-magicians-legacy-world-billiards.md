@@ -149,3 +149,10 @@ That's the real magic. Not the shots. The inspiration.
 </div>
 
 </div>
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool halls in LA](/best-pool-halls-in-los-angeles/), [how to play pool](/how-to-play-pool-the-beginners-guide/), [pool table reviews](/pool-table-reviews/), [pool cue reviews](/pool-cue-reviews/), and [billiard game types](/billiard-games/).
+

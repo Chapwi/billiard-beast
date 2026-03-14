@@ -64,3 +64,10 @@ The best place to start when learning to use the dots on a pool table is to give
 For instance, if you’re standing at the head of the table, you would start at the left corner pocket closest to you, numbering it 0. The next dot on the side rail is number 1, then 2, then 3, and so on to the foot of the table (the side pocket is counted as dot number 4). Do this with the head rail as well, from left to right (0 to 4). The numbers on these rails will be directly mirrored on their parallel rails - the right-hand side rail will also be numbered 0-8 from the head to the foot, and the foot rail will be numbered 0-4 from left to right.
 
 This means some pockets are numbered twice, right? Well, not exactly. For basic one-rail banks and kicks, the only numbers you need are the ones on the rail you’re shooting from and the ones on the opposite rail you’re banking off of - if you’re banking off a side rail, you’ll use the side rail number scale, but if you’re banking off a short rail, you’ll use the short rail number scale.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [billiard ball colors](/billiard-ball-colors/), [how many balls in pool](/how-many-balls-are-used-in-pool/), [Aramith ball review](/are-aramith-pool-balls-worth-it/), [cleaning billiard balls](/how-to-clean-billiard-balls/), and [cue ball size](/is-the-cue-ball-bigger-or-smaller-than-the-object-balls/).
+

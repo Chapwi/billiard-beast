@@ -88,3 +88,10 @@ The best cue is the one that lets you forget you’re holding anything and focus
 ## Related Reading
 
 Learn more about [choosing the right pool cue for your game](/pool-cue-reviews/), and check out our guide to understanding [different billiard games and their requirements](/billiard-games/).
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), and [best pool cue brands](/best-brands-of-pool-cues/).
+

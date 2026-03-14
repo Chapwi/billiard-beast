@@ -92,3 +92,10 @@ For a full breakdown of cues at every price point, see our [best pool cues for t
 There are some disadvantages to playing with low deflection cues, but most of them have to do with player preference than anything inherent in the cue. Here are a few examples.
 
 <li><p><strong>More Expensive:</strong> Since low deflection cues require special construction compared to standard cues, they usually come with a higher price tag. This isn’t necessarily a bad thing, though. They also come with better tips, ferrules, and designs. As long as you do a little bit of research before you buy, you’ll get a quality cue that will last you a long time. Like anything else, you get what you pay for.</p></li> <li><p><strong>Trouble Jumping:</strong> Since LD cues have less mass in their shaft tips, you can expect it to be a little more difficult to perfect jump shots with them. Of course, if you’re really serious about pool you can always invest in a designated jump cue.</p></li> <li><p><strong>Feel and Sound:</strong> Some players have complained about the sound and feel of low deflection cues. They sometimes make a hollowed-out sound when hitting the cue ball, but this is more of a personal preference than anything else. The same goes for the lighter feel they have to them, especially near the tip. A 19-ounce cue will still weight 19 ounces, but the shaft may feel a little light, especially to those players that are used to standard shafts.</p></li> <li><p><strong>Difficult to Switch:</strong> As mentioned above, it can be difficult to switch to a low deflection cue after years of playing with a standard cue. It’s not impossible, but it does take a bit of practice to get used to the difference in squirt and compensation, especially when putting English on a ball.</p></li>
+
+---
+
+## Related Articles
+
+For more on this topic, check out [pool cue reviews](/pool-cue-reviews/), [best cues for beginners](/best-pool-cues-for-beginners/), [best pool cues under $100](/best-pool-cues-under-100/), [best pool cues for the money](/best-pool-cues-for-the-money/), and [best pool cue brands](/best-brands-of-pool-cues/).
+

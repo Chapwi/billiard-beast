@@ -177,3 +177,10 @@ A cube of Master chalk lasts maybe 50-100 hours of play. Taom Pyro lasts longerâ
 **What's the difference between Taom Pyro and Taom Soft?**
 
 Taom Pyro is harder and lasts forever. Taom Soft is closer to traditional chalkâ€”it feels more familiar if you've been using Master your whole life. Pyro is the workhorse. Soft is if you want premium quality with a classic feel.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [how long cue tips last](/how-long-does-a-pool-cue-tip-last/), [what tips pros use](/what-cue-tips-do-the-pros-use/), [screw-on cue tips](/are-screw-on-pool-cue-tips-any-good/), [what chalk is made of](/what-is-pool-chalk-made-of/), and [chalk color](/does-pool-chalk-color-matter/).
+

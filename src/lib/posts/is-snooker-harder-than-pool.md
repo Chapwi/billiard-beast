@@ -62,3 +62,10 @@ For many pool players, especially those outside of England, snooker just isn’t
 So, as you can imagine, those who have access to snooker and are able to play it often are likely to think that it’s an easier game. Whereas those that don’t are likely to consider that it’s harder. And, of course, we can’t forget about the ego. Many snooker and pool players will suggest that their game of choice is harder because it gives them a sense of fulfillment and bragging rights to do so.
 
 Of course, mastering any type of billiard game (or anything, for that matter) is difficult. So, maybe both groups are right. This brings me to the last subject, which is player perception.
+
+---
+
+## Related Articles
+
+For more on this topic, check out [snooker vs pool](/snooker-vs-pool-comparison/), [snooker cues for pool](/can-snooker-cues-be-used-for-pool/), [history of billiards](/evolution-of-billiards-from-kings-to-commoners/), [billiard game types](/billiard-games/), and [bumper pool](/bumper-pool-all-your-questions-answered/).
+
