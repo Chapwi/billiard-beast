@@ -52,13 +52,7 @@ Hang height matters too. The bottom of the fixture should sit 31-33 inches above
 
 <div class="product-pick__verdict">Does everything right, nothing fancy, lasts for years.</div>
 
-The [Wellmet 59-inch](https://www.amazon.com/s?k=Wellmet+59+inch+pool+table+light&tag=billiardbeast-20) is the light I'd recommend for most 8-foot home tables. Four shades, 59 inches long, matte black or brushed nickel finish, and it puts out even light across the full playing surface with zero hot spots.
-
-Each shade takes a standard E26 bulb (not included). With four 800-lumen LED bulbs, you're hitting 3,200 lumens total, which is right in the sweet spot. The shades are metal, not plastic, and they direct light downward without spilling it into the room. You get pool table lighting, not room lighting.
-
-Installation is straightforward if you have an existing ceiling box. Two mounting chains, adjustable height, maybe 30 minutes with a basic toolkit. The fixture weighs about 12 lbs, which any standard ceiling box can handle.
-
-At $140-$180, this is the Honda Civic of pool table lights. Does everything right, nothing fancy, lasts for years.
+The [Wellmet 59-inch](https://www.amazon.com/s?k=Wellmet+59+inch+pool+table+light&tag=billiardbeast-20) is the light I'd recommend for most 8-foot home tables. Four metal shades direct light downward with zero hot spots across the full playing surface. With four 800-lumen LED bulbs, you hit 3,200 lumens—right in the sweet spot. Installation takes 30 minutes with an existing ceiling box.
 
 <a href="https://www.amazon.com/s?k=Wellmet+59+inch+pool+table+light&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -77,11 +71,7 @@ At $140-$180, this is the Honda Civic of pool table lights. Does everything righ
 
 <div class="product-pick__verdict">The cheapest dedicated pool table light worth buying.</div>
 
-The [Hathaway Sharp Shooter](https://www.amazon.com/s?k=Hathaway+Sharp+Shooter+pool+table+light&tag=billiardbeast-20) is the cheapest dedicated pool table light worth buying. At 36 inches, it's sized for 7-foot tables and smaller. Don't hang this over an 8-foot table because the corners will be noticeably dim.
-
-Single shade design, green metal exterior with white interior reflector. Takes three E26 bulbs. With three 800-lumen LEDs you're at 2,400 lumens, which is adequate for casual play on a 7-foot table. For serious practice, you'd want more, but for a basement bar table setup this gets the job done.
-
-The green-and-brass color scheme is traditional billiard room styling. If that's your aesthetic, the Sharp Shooter looks the part at a fraction of what vintage-style fixtures cost.
+The [Hathaway Sharp Shooter](https://www.amazon.com/s?k=Hathaway+Sharp+Shooter+pool+table+light&tag=billiardbeast-20) is the cheapest dedicated pool table light worth buying at 36 inches for 7-foot tables. With three 800-lumen LEDs you hit 2,400 lumens—adequate for casual play. The traditional green-and-brass design looks like vintage billiard room styling at a fraction of specialty fixture cost.
 
 <a href="https://www.amazon.com/s?k=Hathaway+Sharp+Shooter+pool+table+light&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -100,11 +90,7 @@ The green-and-brass color scheme is traditional billiard room styling. If that's
 
 <div class="product-pick__verdict">The budget option that actually works for 9-foot tournament tables.</div>
 
-The [CZFEE 70-inch](https://www.amazon.com/s?k=CZFEE+70+inch+pool+table+light&tag=billiardbeast-20) is built for 9-foot tables and oversized 8-foot setups. At 70 inches, it covers more surface area than any other fixture under $250. Four independently angled shades let you dial in the light distribution.
-
-The construction is heavier gauge metal than the Wellmet (about 15 lbs total). Same E26 bulb standard, same chain-mount installation. Where it differs: the shade angle is adjustable, so you can tilt the outer shades slightly outward to fill the corners on a 9-foot table. That adjustability is rare at this price.
-
-If you're lighting a regulation 9-foot tournament table, this is the budget option that actually works. Most cheaper lights top out at 60 inches and leave 6-8 inches of playing surface in shadow on each end.
+The [CZFEE 70-inch](https://www.amazon.com/s?k=CZFEE+70+inch+pool+table+light&tag=billiardbeast-20) covers 9-foot tables with 70 inches of reach. Four independently angled shades let you tilt the outer shades to fill corners—rare adjustability at this price. Most cheaper lights top out at 60 inches and leave the ends in shadow.
 
 <a href="https://www.amazon.com/s?k=CZFEE+70+inch+pool+table+light&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -123,11 +109,7 @@ If you're lighting a regulation 9-foot tournament table, this is the budget opti
 
 <div class="product-pick__verdict">The lights work fine as lights. The premium is purely cosmetic.</div>
 
-[Holland Bar Stool](https://www.amazon.com/s?k=Holland+Bar+Stool+pool+table+light&tag=billiardbeast-20) makes licensed pool table lights with NFL, NHL, MLB, college, and other brand logos. If you want a Patriots logo or Yankees emblem glowing above your table, this is the company. They're the official licensee for most major sports leagues.
-
-The lights themselves are solid. Three-shade design, 42-55 inch options, chrome or black finish with the team logo on each shade. They use standard E26 bulbs and hang at standard height. Light quality is good but not exceptional. You're paying 40-60% premium over a comparable unbranded fixture for the logo.
-
-Worth it? Depends on how much the team branding matters to your game room. The lights work fine as lights. The premium is purely cosmetic. If your room already has a sports theme, these tie it together. If not, spend that money on a Wellmet and pocket the difference.
+[Holland Bar Stool](https://www.amazon.com/s?k=Holland+Bar+Stool+pool+table+light&tag=billiardbeast-20) makes licensed pool table lights with NFL, NHL, MLB logos in 42-55 inch options. Light quality is good but you're paying 40-60% premium for the branding. Worth it only if the team logo matters to your room aesthetic.
 
 <a href="https://www.amazon.com/s?k=Holland+Bar+Stool+pool+table+light&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -146,11 +128,7 @@ Worth it? Depends on how much the team branding matters to your game room. The l
 
 <div class="product-pick__verdict">Warm, attractive lighting that looks like it belongs in a dedicated billiard room.</div>
 
-The [Ram Gameroom 48-inch](https://www.amazon.com/s?k=Ram+Gameroom+Products+pool+table+light&tag=billiardbeast-20) bridges the gap between budget and premium. Three stained glass shades, 48 inches long, in a Tiffany-style design that looks like it belongs in a dedicated billiard room. Ram has been making game room furniture since 1976.
-
-The stained glass diffuses light more softly than metal shade fixtures. That's both the appeal and the trade-off. You get warm, attractive lighting without harsh shadows, but total lumen output is slightly lower because the glass absorbs some light. For casual home play, this doesn't matter. For tournament practice under exact conditions, stick with metal shades.
-
-At 48 inches, this is sized for 7-foot and 8-foot tables. The build quality is a step above the budget options: heavier chain, better mounting hardware, glass shades that won't dent or scratch.
+The [Ram Gameroom 48-inch](https://www.amazon.com/s?k=Ram+Gameroom+Products+pool+table+light&tag=billiardbeast-20) uses Tiffany-style stained glass shades for warm, attractive lighting—slight lumen loss from glass absorption but fine for casual play. Build quality is a step above budget options with heavier chain and better hardware.
 
 <a href="https://www.amazon.com/s?k=Ram+Gameroom+Products+pool+table+light&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>

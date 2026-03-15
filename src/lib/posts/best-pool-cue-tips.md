@@ -87,13 +87,7 @@ Here's what to buy based on what you're actually doing with a cue.
 
 <div class="product-pick__verdict">Cheap, they work, and people know what to expect.</div>
 
-If you're buying tips because your current one is destroyed and you just need something functional, get [Le Pro Pool Cue Tips](https://www.amazon.com/s?k=Le+Pro+Pool+Cue+Tips&tag=billiardbeast-20).
-
-They're basic leather. They work. You'll spend about $8-15 depending on where you buy them, and they'll perform decently for six months if you take care of them. They're not going to make you a better player. They won't give you that premium feedback. But they'll let you shoot, and that's the point at this price.
-
-Beginners should start here. Casual players should buy these. House players who replace tips twice a year should buy these. You're not leaving money on the table. You're being smart with it.
-
-The conversion rate on these is wild because they do exactly what they promise: they're cheap, they work, and people know what to expect. Buy them guilt-free.
+If you're buying tips because your current one is destroyed and you just need something functional, get [Le Pro Pool Cue Tips](https://www.amazon.com/s?k=Le+Pro+Pool+Cue+Tips&tag=billiardbeast-20). They're basic leather that work fine for $8-15 and perform decently for six months. You're being smart with your money.
 
 <a href="https://www.amazon.com/s?k=Le+Pro+Pool+Cue+Tips&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -112,11 +106,7 @@ The conversion rate on these is wild because they do exactly what they promise: 
 
 <div class="product-pick__verdict">The first tier where serious recreational players should be shopping.</div>
 
-[Tiger Sniper tips](https://www.amazon.com/s?k=Tiger+Sniper+Pool+Cue+Tips&tag=billiardbeast-20) are where I see serious recreational players land, and for good reason. They're around $20-30, and the quality jump from budget tips is noticeable.
-
-These are medium-hard leather with decent longevity. You get better feedback than Le Pro, more consistent performance, and they hold their shape longer. If you're playing in a league or regularly for money, Tiger Sniper is the first tier where you should be shopping.
-
-They won't baby you. They demand decent technique. But they reward good form with better control. I've used these, and they're honest tips. They do what they claim.
+[Tiger Sniper tips](https://www.amazon.com/s?k=Tiger+Sniper+Pool+Cue+Tips&tag=billiardbeast-20) at $15-22 are where serious recreational players should land—medium-hard leather with better feedback and shape retention than budget tips. Demand decent technique but reward good form with better control.
 
 <a href="https://www.amazon.com/s?k=Tiger+Sniper+Pool+Cue+Tips&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -135,9 +125,7 @@ They won't baby you. They demand decent technique. But they reward good form wit
 
 <div class="product-pick__verdict">Real performance at a discount — reliable, lasting, and feels good.</div>
 
-[Elk Master tips](https://www.amazon.com/s?k=Elk+Master+Pool+Cue+Tips&tag=billiardbeast-20) sit in that $25-40 range and offer a sweet spot for someone who wants performance without committing to premium brands. They're made from elk leather (yes, actual elk), and the density is solid.
-
-I like these for players transitioning from casual to serious. They're reliable, they last, and they feel good. Not as famous as Kamui or Predator, but that's partly why they're cheaper. You're getting real performance at a discount.
+[Elk Master tips](https://www.amazon.com/s?k=Elk+Master+Pool+Cue+Tips&tag=billiardbeast-20) at $5-10 are made from elk leather and offer real performance at a discount. They're reliable, last well, and suit players transitioning from casual to serious play.
 
 <a href="https://www.amazon.com/s?k=Elk+Master+Pool+Cue+Tips&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -156,15 +144,7 @@ I like these for players transitioning from casual to serious. They're reliable,
 
 <div class="product-pick__verdict">They grip the cue ball like they're magnetized.</div>
 
-Want to stop replacing tips every six months? Get [Kamui Black tips](https://www.amazon.com/s?k=Kamui+Black+Pool+Cue+Tips&tag=billiardbeast-20).
-
-These are Japanese precision leather, and you'll pay $40-70 for a tip. That stings until you realize you'll use the same tip for 18 months with proper maintenance. Then the math changes.
-
-Kamui Black is the standard for high-end pool players who want soft tips that won't die. They grip the cue ball like they're magnetized. Your draw will be sharper. Your touch shots will be more predictable. You'll have fewer mishits.
-
-Here's the thing though: if you're replacing tips every three months because you're not maintaining them, don't buy Kamui. You're wasting money. These tips demand care. You need to scuff them regularly and keep them shaped.
-
-I use Kamui when I'm serious about matches. When I'm just goofing around, I grab something cheaper.
+[Kamui Black tips](https://www.amazon.com/s?k=Kamui+Black+Pool+Cue+Tips&tag=billiardbeast-20) at $20-30 are Japanese precision leather that last 18 months with proper maintenance. They grip the cue ball like magnets, sharpening your draw and touch shots, but require regular scuffing and maintenance.
 
 <a href="https://www.amazon.com/s?k=Kamui+Black+Pool+Cue+Tips&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -183,9 +163,7 @@ I use Kamui when I'm serious about matches. When I'm just goofing around, I grab
 
 <div class="product-pick__verdict">Built for tournament play. Standard issue for a reason.</div>
 
-[Predator Victory tips](https://www.amazon.com/s?k=Predator+Victory+Pool+Cue+Tips&tag=billiardbeast-20) are built for tournament play. They're expensive ($50-80), but they're engineered for consistency. If you're playing in big matches, these are standard issue for a reason.
-
-They're hard-layered tips with a specific construction that holds shape and delivers performance even after hundreds of matches. Some players swear by them. Some prefer softer options. But nobody questions Predator's engineering.
+[Predator Victory tips](https://www.amazon.com/s?k=Predator+Victory+Pool+Cue+Tips&tag=billiardbeast-20) at $18-25 are hard-layered and engineered for tournament consistency. They hold shape through hundreds of matches—standard issue for a reason.
 
 <a href="https://www.amazon.com/s?k=Predator+Victory+Pool+Cue+Tips&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>

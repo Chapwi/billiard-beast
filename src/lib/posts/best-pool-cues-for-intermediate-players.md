@@ -61,13 +61,7 @@ Here's what matters in a cue at your level, ranked by actual impact on your game
 
 <div class="product-pick__verdict">The cue I'd hand most intermediate players without hesitation.</div>
 
-The [Lucasi Hybrid LHC97](https://www.amazon.com/s?k=Lucasi+Hybrid+LHC97+pool+cue&tag=billiardbeast-20) is the cue I'd hand most intermediate players. It uses Lucasi's Zero Flexpoint low-deflection shaft (11.75mm) with a Kamui Black soft tip. That combination alone makes it competitive with cues costing $100 more.
-
-Lucasi is made by CCSI, the same parent company behind Players and PureX. The Hybrid line sits above Players in their hierarchy, and the LHC97 specifically was designed for league players making the jump from recreational equipment. The shaft taper is a gentle European pro taper that feels natural for players coming from standard 13mm shafts.
-
-Weight runs 18.5-21 oz (adjustable). The butt uses genuine Irish linen wrap over a solid maple core with wood and synthetic inlays. The stainless steel radial joint is tight out of the box.
-
-What sets the LHC97 apart at this price: the shaft quality-to-cost ratio. The Zero Flexpoint shaft is legitimately good low-deflection engineering, not marketing fluff. In a blind test against shafts costing twice as much, most intermediate players can't tell the difference. Advanced players can. You're not an advanced player yet. That works in your favor here.
+The [Lucasi Hybrid LHC97](https://www.amazon.com/s?k=Lucasi+Hybrid+LHC97+pool+cue&tag=billiardbeast-20) uses a Zero Flexpoint low-deflection shaft (11.75mm) with Kamui Black tip—competitive with cues costing $100 more. Designed for league players jumping from recreational gear, with genuine Irish linen wrap and a tight stainless steel joint. The shaft quality-to-cost ratio is exceptional: legitimate LD engineering without marketing fluff.
 
 <a href="https://www.amazon.com/s?k=Lucasi+Hybrid+LHC97+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -86,13 +80,7 @@ What sets the LHC97 apart at this price: the shaft quality-to-cost ratio. The Ze
 
 <div class="product-pick__verdict">Their lacquer work at $250-$300 looks like $400+ from other brands.</div>
 
-The [McDermott G-Series](https://www.amazon.com/s?k=McDermott+G+series+pool+cue&tag=billiardbeast-20) is a wide line with models ranging from $200 to $500+. For intermediate players, the G200-G400 range ($200-$350) hits the sweet spot. These cues come with McDermott's i-2 shaft (12.75mm, lower deflection than standard maple) and a Dexter tip.
-
-McDermott has been building cues in Menomonee Falls, Wisconsin since 1975. Every G-Series cue comes with their lifetime warranty against warping. If the shaft warps, they replace it. Free. That warranty alone separates McDermott from competitors at this price.
-
-The G-Series feel is distinctive: slightly stiffer hit than the Lucasi, which some players prefer for power shots. The i-2 shaft isn't as low-deflection as Lucasi's Zero Flexpoint or Predator's offerings, but it's a meaningful step down from standard maple. The 12.75mm diameter also sits between the traditional 13mm and the thinner LD shafts, which makes it a less jarring transition.
-
-If you value fit and finish alongside performance, McDermott wins. Their lacquer work, inlay precision, and overall build quality at $250-$300 looks like $400+ from other brands.
+The [McDermott G-Series](https://www.amazon.com/s?k=McDermott+G+series+pool+cue&tag=billiardbeast-20) in the G200-G400 range ($200-$350) features an i-2 shaft (12.75mm, lower deflection than standard maple) with a lifetime warp warranty. The slightly stiffer hit and 12.75mm diameter make it a less jarring transition from standard cues. Lacquer work and build quality at this price looks like $400+ from other brands.
 
 <a href="https://www.amazon.com/s?k=McDermott+G+series+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -111,13 +99,7 @@ If you value fit and finish alongside performance, McDermott wins. Their lacquer
 
 <div class="product-pick__verdict">You'll eventually replace the butt. You'll keep the 314-3 shaft.</div>
 
-The [Predator Roadline](https://www.amazon.com/s?k=Predator+Roadline+pool+cue&tag=billiardbeast-20) is the entry point to Predator, arguably the most respected name in cue technology. Predator's shafts are the industry benchmark for low deflection. The Roadline ships with their 314-3 shaft, which tournament players have used to win world championships.
-
-That shaft is the whole story. The 314-3 is a 12.75mm, 10-piece spliced maple shaft that Predator has refined over two decades. The splicing process (cutting the maple into segments and re-gluing at opposing grain angles) cancels out the natural inconsistencies in wood. The result is a shaft that hits the same way every single time regardless of which direction you rotate it.
-
-The butt section is simpler than McDermott or Lucasi at similar prices. Predator put the engineering budget into the shaft, not the cosmetics. The Roadline butt uses basic linen wrap, straightforward stain work, and a Uni-Loc joint. It's not ugly. It's just honest about where the money went.
-
-For intermediate players who know they'll keep upgrading and want a shaft they can carry forward for years, the Roadline makes the most sense. You'll eventually replace the butt. You'll keep the 314-3 shaft.
+The [Predator Roadline](https://www.amazon.com/s?k=Predator+Roadline+pool+cue&tag=billiardbeast-20) entry point features the industry-benchmark 314-3 shaft: a 10-piece spliced maple design refined over two decades that hits identically every time, regardless of rotation. The butt is simpler (basic linen wrap, straightforward stain), with the engineering budget in the shaft, not cosmetics. You'll eventually replace the butt but keep the shaft for years.
 
 <a href="https://www.amazon.com/s?k=Predator+Roadline+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -136,13 +118,7 @@ For intermediate players who know they'll keep upgrading and want a shaft they c
 
 <div class="product-pick__verdict">70% of the Lucasi's performance at 65% of the price.</div>
 
-The [Players HXT-P2](https://www.amazon.com/s?k=Players+HXT+P2+pool+cue&tag=billiardbeast-20) is the budget pick for this list. At $150-$200, it's priced closer to our [under-$200 guide](/best-pool-cues-under-200/) territory, but the HXT-P2 specifically targets players stepping out of beginner gear.
-
-The HXT shaft uses CCSI's hybrid low-deflection technology at 12.75mm with a Kamui Black tip. The butt section features a wrapless design (some intermediate players prefer the feel of wood against skin over linen or leather) with a wood-to-wood joint.
-
-Performance sits between the standard Players G-line and the Lucasi Hybrid. You're getting roughly 70% of the Lucasi LHC97's shaft performance at 65% of the price. The trade-off is in the butt construction and cosmetics, not the hitting surface.
-
-For league players who want legitimate low-deflection performance and don't care about how the cue looks in the rack, the HXT-P2 is the practical choice.
+The [Players HXT-P2](https://www.amazon.com/s?k=Players+HXT+P2+pool+cue&tag=billiardbeast-20) features a 12.75mm hybrid LD shaft with Kamui Black tip and wrapless design. You get 70% of the Lucasi's performance at 65% of the price, with the trade-off in butt construction and cosmetics, not the hitting surface. The practical choice for league players who want LD performance without paying for looks.
 
 <a href="https://www.amazon.com/s?k=Players+HXT+P2+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -161,13 +137,7 @@ For league players who want legitimate low-deflection performance and don't care
 
 <div class="product-pick__verdict">The cue ball goes exactly where you point it. Then you realize it always did.</div>
 
-The [Cuetec Cynergy SVB](https://www.amazon.com/s?k=Cuetec+Cynergy+SVB+pool+cue&tag=billiardbeast-20) is the carbon fiber option. Named after Shane Van Boening (one of the best players alive, who plays with Cuetec), the SVB model pairs their Cynergy 15K carbon fiber shaft with a premium butt section.
-
-Carbon fiber eliminates wood's natural inconsistencies entirely. No grain. No moisture sensitivity. No warping. The shaft hits identically in every direction, every time, regardless of humidity or temperature. For intermediate players, this means one less variable to worry about. You can focus entirely on your stroke.
-
-The trade-off: carbon fiber feels different from wood. The hit is stiffer, the feedback through your bridge hand is less "warm." Some players love this. Others find it sterile. At $300-$400, this is a commitment you should try before making. Most pro shops let you test carbon shafts, and it's worth the trip.
-
-If you're coming from a standard maple shaft, the Cuetec Cynergy will feel like cheating for the first week. The cue ball goes exactly where you point it. Then you'll realize it was always going where you pointed it, you were just compensating for a worse shaft.
+The [Cuetec Cynergy SVB](https://www.amazon.com/s?k=Cuetec+Cynergy+SVB+pool+cue&tag=billiardbeast-20) pairs the 15K carbon fiber shaft with a premium butt. Carbon fiber eliminates wood's inconsistencies: no warping, identical hits every direction, every time. The trade-off is feel—stiffer hit, less warmth through the bridge. Try before committing; most pro shops let you test. It'll feel like cheating for a week, then you'll realize the shaft was always right and you were just compensating.
 
 <a href="https://www.amazon.com/s?k=Cuetec+Cynergy+SVB+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -186,13 +156,7 @@ If you're coming from a standard maple shaft, the Cuetec Cynergy will feel like 
 
 <div class="product-pick__verdict">A well-maintained Meucci sells for 60-70% of retail. That's rare.</div>
 
-The [Meucci 97-21B](https://www.amazon.com/s?k=Meucci+97+pool+cue&tag=billiardbeast-20) is the dark horse on this list. Meucci doesn't have Predator's marketing machine or McDermott's retail presence, but they've been building cues in Byhalia, Mississippi since the 1970s. Bob Meucci was one of the first cue makers to experiment with low-deflection shaft design.
-
-The 97-21B uses Meucci's Black Dot shaft, their proprietary LD offering. At 12.9mm it's thicker than most LD shafts, which makes it feel more familiar to players coming from standard 13mm cues. The extra width doesn't significantly impact deflection because Meucci uses a unique hollowed-core construction in the ferrule area.
-
-The butt is Meucci's signature aggressive styling: bold colors, prominent rings, distinctive visual identity. You'll either love how it looks or hate it. The playing quality is undeniable regardless.
-
-Meucci cues hold their resale value better than most brands in this price range. If you decide to upgrade later, a well-maintained Meucci sells for 60-70% of retail on AZBilliards or eBay. That's significantly better than Players or Lucasi resale.
+The [Meucci 97-21B](https://www.amazon.com/s?k=Meucci+97+pool+cue&tag=billiardbeast-20) features the Black Dot shaft (12.9mm LD) with hollowed-core ferrule for familiar feel without sacrificing deflection reduction. Meucci cues hold resale value better than competitors: a well-maintained 97-21B sells for 60-70% of retail versus 40-50% for Players or Lucasi. Signature aggressive styling you'll love or hate, but the playing quality is undeniable.
 
 <a href="https://www.amazon.com/s?k=Meucci+97+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>

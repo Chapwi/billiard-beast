@@ -58,15 +58,7 @@ Everything else is picking based on what you value: price, dust, feel, durabilit
 
 <div class="product-pick__verdict">It's everywhere. Every pool hall in America has a jar of blue Master cubes.</div>
 
-[Master Chalk](https://www.amazon.com/s?k=Master+pool+chalk&tag=billiardbeast-20) is the entry point. It's everywhere. Every pool hall in America has a jar of blue Master cubes next to the cue rack. For good reason.
-
-At $2-5 per cube, it's so cheap you don't think about it. You grab one, chalk up before your break, maybe hit it again between games. It works. The grip is solid. The color is that iconic pool-hall blue.
-
-The problem: it sheds. Dust everywhere. On your hands, your shirt, the felt. And it hardens up after a few hours of play. By the end of a tournament, you're applying it thick just to get traction. It doesn't last long. Mmaybe 50 hours of serious play before you're dealing with a stub.
-
-**Who should buy it:** You're at a local hall, playing for fun, not interested in gear minutiae. Your kids play pool. You want a backup chalk for your cue case. You're testing the water to see if better chalk even matters to you.
-
-**Honest opinion:** Master is fine. Genuinely. But once you try something better, you notice how much this one sheds. It's the cheapest way to learn that cheap chalk is cheap because it cuts corners on dust suppression.
+[Master Chalk](https://www.amazon.com/s?k=Master+pool+chalk&tag=billiardbeast-20) is everywhere at $2-5 per cube and works fine for casual play. The downside: it sheds dust everywhere and hardens after a few hours. Once you try something better, you notice the difference.
 
 <a href="https://www.amazon.com/s?k=Master+pool+chalk&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -85,15 +77,7 @@ The problem: it sheds. Dust everywhere. On your hands, your shirt, the felt. And
 
 <div class="product-pick__verdict">A lateral move from Master — better, but not a leap.</div>
 
-[Silver Cup](https://www.amazon.com/s?k=Silver+Cup+pool+chalk&tag=billiardbeast-20) is the alternative to Master. Similar price. Slightly different formula.
-
-It's a touch softer than Master, which means better compression onto the tip. Less dust than Master. Nnot Taom-level, but noticeably less. People who've been playing since the 80s often prefer it because they grew up with it.
-
-The tradeoff: it's harder to find. Master is on the shelf everywhere. Silver Cup you might order online. And the durability is similar to Master. Yyou're replacing it regularly.
-
-**Who should buy it:** You've played long enough to have a preference. You like traditional chalk feel over modern compression. You shop online anyway. You're the type who notices the small stuff.
-
-**Honest opinion:** It's a lateral move from Master. Better, but not a leap. If you're thinking about spending more, jump to Predator or Kamui. If you're sticking at $3-5, flip a coin between this and Master.
+[Silver Cup](https://www.amazon.com/s?k=Silver+Cup+pool+chalk&tag=billiardbeast-20) is softer than Master with better compression and noticeably less dust. It's a lateral move—better, but not a leap. If you're thinking about spending more, jump to Predator or Kamui.
 
 <a href="https://www.amazon.com/s?k=Silver+Cup+pool+chalk&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -112,17 +96,7 @@ The tradeoff: it's harder to find. Master is on the shelf everywhere. Silver Cup
 
 <div class="product-pick__verdict">The jump from Master to Predator is bigger than the jump from Predator to Taom.</div>
 
-This is where chalk gets real.
-
-[Predator 1080](https://www.amazon.com/s?k=Predator+1080+pool+chalk&tag=billiardbeast-20) costs 2-3x what Master costs. The jump is intentional. You're paying for compression engineering. The chalk compacts onto the cue tip instead of sitting on top like dust. Way less shedding. You chalk up once and it stays there.
-
-At $7-10, it's expensive enough that you notice the price, but not so expensive that you feel ripped off. It lasts longer than Master. Mmaybe 80-100 hours. The feel is modern but not alien if you're coming from traditional chalk.
-
-Predator makes a lot of cues. Their chalk formula is solid. It works at tournaments. It doesn't get weird in humidity. You won't hate it.
-
-**Who should buy it:** You're serious enough to have your own cue. You've noticed that cheap chalk affects your game. You want to upgrade without going full premium. You play in tournaments occasionally.
-
-**Honest opinion:** This is the move most players should make. The jump from Master to Predator is bigger than the jump from Predator to Taom. Worth it. Not flashy, but effective. If you only buy one piece of advice, buy Predator over Master and see what happens.
+[Predator 1080](https://www.amazon.com/s?k=Predator+1080+pool+chalk&tag=billiardbeast-20) uses compression engineering to compact onto the cue tip instead of sitting on top like dust at $7-10. The jump from Master to Predator is bigger than the jump from Predator to Taom—this is the move most players should make.
 
 <a href="https://www.amazon.com/s?k=Predator+1080+pool+chalk&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -141,15 +115,7 @@ Predator makes a lot of cues. Their chalk formula is solid. It works at tourname
 
 <div class="product-pick__verdict">Genuinely good. Compression is solid. Dust is minimal.</div>
 
-Pool chalk geography is wild. In the UK and Australia, [Blue Diamond](https://www.amazon.com/s?k=Blue+Diamond+pool+chalk&tag=billiardbeast-20) is everywhere. In the US, people act like it doesn't exist.
-
-It's genuinely good. Compression is solid. Dust is minimal. The formula is clean. At $8-12, it's in the Predator range price-wise, but different market positioning.
-
-The issue: availability. You're ordering it online or finding a specialty shop. Some people swear by it. Others say it's overhyped. Testing it yourself is worth it if you're curious about international gear.
-
-**Who should buy it:** You're into snooker and pool. You're buying from UK suppliers anyway. You want to try something outside the Predator/Taom duopoly. You like doing the research and finding equipment other people haven't tested.
-
-**Honest opinion:** It's good. Not as bulletproof as Taom or as everywhere as Predator. If it was more available in the US, it'd probably have a bigger following. Worth trying if you're experimenting, but not worth hunting for obsessively.
+[Blue Diamond](https://www.amazon.com/s?k=Blue+Diamond+pool+chalk&tag=billiardbeast-20) is the international standard at $8-12 with solid compression and minimal dust. It's good chalk, but harder to find in the US—worth trying if you're experimenting with international gear.
 
 <a href="https://www.amazon.com/s?k=Blue+Diamond+pool+chalk&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -168,17 +134,7 @@ The issue: availability. You're ordering it online or finding a specialty shop. 
 
 <div class="product-pick__verdict">80% of Taom Pyro's durability with a more approachable feel.</div>
 
-Here's where the premium stuff starts.
-
-[Taom Soft](https://www.amazon.com/s?k=Taom+Soft+pool+chalk&tag=billiardbeast-20) is Taom's answer to people who don't like how modern chalk feels. It's softer than Taom Pyro, closer to what traditional chalk feels like in your hand.
-
-Taom is a Finnish company that basically rewrote how pool chalk works. Taom Soft doesn't have the concrete-hard feel of Pyro. You get that softer, slightly more familiar texture while keeping the compression benefits of premium chalk.
-
-It still doesn't shed like Master. It still lasts longer. You get 80% of Taom Pyro's durability with a more approachable feel. The price is slightly lower than Pyro ($20-25 vs $25-30), but not dramatically.
-
-**Who should buy it:** You're upgrading to premium chalk but the Pyro feels too hard in your hand. You want the Taom engineering without completely changing your muscle memory. You've been playing for years and have strong preferences about how chalk should feel.
-
-**Honest opinion:** This is the bridge chalk. It exists because Taom Pyro is polarizing. Ssome people love how hard it is, others hate it. Soft splits the difference. If you're sensitive to equipment feel, try Soft first. If you want the best performer, get Pyro.
+[Taom Soft](https://www.amazon.com/s?k=Taom+Soft+pool+chalk&tag=billiardbeast-20) at $20-25 offers 80% of Pyro's durability with a softer feel closer to traditional chalk. It's the bridge chalk for players who want premium engineering without the concrete-hard Pyro feel.
 
 <a href="https://www.amazon.com/s?k=Taom+Soft+pool+chalk&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -197,15 +153,7 @@ It still doesn't shed like Master. It still lasts longer. You get 80% of Taom Py
 
 <div class="product-pick__verdict">Excellent, but requires more technique. Taom just works.</div>
 
-[Kamui](https://www.amazon.com/s?k=Kamui+0.98+pool+chalk&tag=billiardbeast-20) comes from snooker. The 0.98 is their pool-specific formula. It's engineered to compress onto the tip and stay locked there for an entire match.
-
-At $25-30, it's in Taom Pyro's price range. The performance is similar. Llong-lasting, minimal dust, solid compression. The difference is subtle: Kamui feels slightly smoother in hand. The application is different. Iit's easier to get a thin layer, which some players prefer.
-
-Kamui isn't for everyone. Pool players who switch from Predator to Kamui sometimes find it fussy. You have to apply it right or it feels weird. But played correctly, it's phenomenal.
-
-**Who should buy it:** You've played snooker or you're interested in it. You like equipment that's slightly different from what everyone else uses. You want maximum control over how thick your chalk layer is. You're fine with a learning curve.
-
-**Honest opinion:** Kamui is excellent. It's not more excellent than Taom Pyro. They're both premium, both expensive, both worth it. Kamui requires more technique. Taom just works. If you're indecisive, get Taom. If you like optimizing every detail, Kamui rewards that.
+[Kamui 0.98](https://www.amazon.com/s?k=Kamui+0.98+pool+chalk&tag=billiardbeast-20) is the snooker-derived premium at $25-30 with a smoother feel and more control over layer thickness. It requires more technique than Taom—both are excellent, but Taom just works while Kamui rewards optimization.
 
 <a href="https://www.amazon.com/s?k=Kamui+0.98+pool+chalk&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
@@ -224,19 +172,7 @@ Kamui isn't for everyone. Pool players who switch from Predator to Kamui sometim
 
 <div class="product-pick__verdict">This is the right chalk. Not the fun choice. Just the right choice.</div>
 
-[Taom Pyro](https://www.amazon.com/s?k=Taom+Pyro+pool+chalk&tag=billiardbeast-20) changed pool chalk. Full stop.
-
-It's round instead of cubic. It's engineered so hard that it barely sheds. You chalk up once per game, sometimes twice in a long match. The compression is perfect. Iit locks onto the leather and stays there. No dust on your pants. No mess on the table.
-
-At $25-30 per piece, it's expensive. But it lasts 150+ hours. Do the math: that's 10-15 cents per hour of play. Master is 5-10 cents per hour. You're paying slightly more per hour for a product that doesn't shed, doesn't require constant re-chalking, and makes you feel like you have your act together.
-
-The downside: it's hard. Physically hard. If you like the soft feel of traditional chalk, Pyro feels like chalking up with a marble. After a session, your hand feels it. This is purely psychological, but it matters to some people.
-
-Taom invented the round shape because it reduces breakage and waste. Genius move. The engineering is real. This is what good product design looks like. Eexpensive but actually justified.
-
-**Who should buy it:** You're playing seriously. You're in tournaments. You want your gear to be reliable and not one more thing to think about. You don't care if it's trendy. Yyou care if it works. You play enough that the per-hour cost difference matters.
-
-**Honest opinion:** This is the right chalk. It's not the fun choice. It's not the experimental choice. It's just the right choice. Buy it. Play better. Don't overthink it.
+[Taom Pyro](https://www.amazon.com/s?k=Taom+Pyro+pool+chalk&tag=billiardbeast-20) lasts 150+ hours at $25-30—just 10-15 cents per hour despite the premium price. It's engineered so hard it barely sheds and locks onto leather. The round shape reduces breakage. This is the right chalk for serious play.
 
 <a href="https://www.amazon.com/s?k=Taom+Pyro+pool+chalk&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
 </div>
