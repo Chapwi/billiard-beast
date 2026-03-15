@@ -422,6 +422,94 @@
     color: var(--orange);
   }
 
+  /* ─── Product pick cards ─── */
+  :global(.product-pick) {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-left: 3px solid var(--orange);
+    border-radius: var(--radius-sm);
+    padding: 1.5rem 1.5rem 1.25rem;
+    margin: 1.75rem 0;
+    position: relative;
+  }
+  :global(.product-pick h3) {
+    font-family: var(--font-body);
+    font-weight: 800;
+    font-size: 1.2rem;
+    color: #fff;
+    margin: 0 0 0.75rem 0;
+    line-height: 1.3;
+  }
+  :global(.product-pick__badge) {
+    display: inline-block;
+    font-family: var(--font-ui);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--orange);
+    background: rgba(242,101,34,0.12);
+    border: 1px solid rgba(242,101,34,0.3);
+    border-radius: var(--radius-pill);
+    padding: 0.2rem 0.7rem;
+    margin-bottom: 0.65rem;
+  }
+  :global(.product-pick__specs) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1rem;
+  }
+  :global(.product-pick__specs span) {
+    display: inline-block;
+    font-family: var(--font-ui);
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: var(--radius-pill);
+    padding: 0.18rem 0.6rem;
+    letter-spacing: 0.02em;
+  }
+  :global(.product-pick__verdict) {
+    font-family: var(--font-body);
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: #fff;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    padding-bottom: 0.75rem;
+    margin-bottom: 0.85rem;
+    line-height: 1.5;
+  }
+  :global(.product-pick p) {
+    font-size: 0.92rem;
+    line-height: 1.7;
+    color: var(--text-primary);
+    margin-bottom: 0.85rem;
+  }
+  :global(.product-pick__cta) {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-ui);
+    font-weight: 700;
+    font-size: 0.82rem;
+    color: #fff;
+    background: var(--orange);
+    padding: 0.55rem 1.2rem;
+    border-radius: var(--radius-pill);
+    text-decoration: none;
+    margin-top: 0.5rem;
+    transition: background var(--transition), transform var(--transition);
+  }
+  :global(.product-pick__cta:hover) {
+    background: var(--orange-dim);
+    transform: translateY(-1px);
+    text-decoration: none;
+    color: #fff;
+  }
+
   /* ─── Affiliate CTA box ─── */
   .affiliate-cta {
     display: flex;
@@ -574,5 +662,9 @@
       margin: 1.5rem 0 0.65rem;
     }
     :global(.prose p) { font-size: 0.95rem; line-height: 1.7; }
+    :global(.product-pick) { padding: 1.25rem 1rem 1rem; }
+    :global(.product-pick h3) { font-size: 1.05rem; }
+    :global(.product-pick__specs) { gap: 0.35rem; }
+    :global(.product-pick__cta) { width: 100%; justify-content: center; }
   }
 </style>
