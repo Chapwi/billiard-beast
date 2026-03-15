@@ -38,7 +38,19 @@ The BCA (Billiard Congress of America) recommends your light fixture span at lea
 
 Hang height matters too. The bottom of the fixture should sit 31-33 inches above the bed of the table (about 63 inches from the floor). This is the BCA standard and it's well-calibrated: low enough to concentrate light on the table, high enough that you won't clip it with your cue on jump shots or steep angles.
 
-## Best Overall: Wellmet 59-Inch 4-Light ($140-$180)
+<div class="product-pick">
+<div class="product-pick__badge">Best Overall</div>
+
+## Wellmet 59-Inch (~$160)
+
+<div class="product-pick__specs">
+<span>59" length</span>
+<span>4 shades</span>
+<span>E26 bulbs</span>
+<span>Matte black/brushed nickel</span>
+</div>
+
+<div class="product-pick__verdict">Does everything right, nothing fancy, lasts for years.</div>
 
 The [Wellmet 59-inch](https://www.amazon.com/s?k=Wellmet+59+inch+pool+table+light&tag=billiardbeast-20) is the light I'd recommend for most 8-foot home tables. Four shades, 59 inches long, matte black or brushed nickel finish, and it puts out even light across the full playing surface with zero hot spots.
 
@@ -48,7 +60,22 @@ Installation is straightforward if you have an existing ceiling box. Two mountin
 
 At $140-$180, this is the Honda Civic of pool table lights. Does everything right, nothing fancy, lasts for years.
 
-## Best Budget: Hathaway Sharp Shooter 36-Inch ($80-$110)
+<a href="https://www.amazon.com/s?k=Wellmet+59+inch+pool+table+light&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Budget</div>
+
+## Hathaway Sharp Shooter 36-Inch (~$95)
+
+<div class="product-pick__specs">
+<span>36" length</span>
+<span>3 shades</span>
+<span>E26 bulbs</span>
+<span>Classic green design</span>
+</div>
+
+<div class="product-pick__verdict">The cheapest dedicated pool table light worth buying.</div>
 
 The [Hathaway Sharp Shooter](https://www.amazon.com/s?k=Hathaway+Sharp+Shooter+pool+table+light&tag=billiardbeast-20) is the cheapest dedicated pool table light worth buying. At 36 inches, it's sized for 7-foot tables and smaller. Don't hang this over an 8-foot table because the corners will be noticeably dim.
 
@@ -56,7 +83,22 @@ Single shade design, green metal exterior with white interior reflector. Takes t
 
 The green-and-brass color scheme is traditional billiard room styling. If that's your aesthetic, the Sharp Shooter looks the part at a fraction of what vintage-style fixtures cost.
 
-## Best for Large Tables: CZFEE 70-Inch 4-Light ($160-$220)
+<a href="https://www.amazon.com/s?k=Hathaway+Sharp+Shooter+pool+table+light&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best for Large Tables</div>
+
+## CZFEE 70-Inch (~$190)
+
+<div class="product-pick__specs">
+<span>70" length</span>
+<span>4 adjustable shades</span>
+<span>E26 bulbs</span>
+<span>Heavy gauge metal</span>
+</div>
+
+<div class="product-pick__verdict">The budget option that actually works for 9-foot tournament tables.</div>
 
 The [CZFEE 70-inch](https://www.amazon.com/s?k=CZFEE+70+inch+pool+table+light&tag=billiardbeast-20) is built for 9-foot tables and oversized 8-foot setups. At 70 inches, it covers more surface area than any other fixture under $250. Four independently angled shades let you dial in the light distribution.
 
@@ -64,7 +106,22 @@ The construction is heavier gauge metal than the Wellmet (about 15 lbs total). S
 
 If you're lighting a regulation 9-foot tournament table, this is the budget option that actually works. Most cheaper lights top out at 60 inches and leave 6-8 inches of playing surface in shadow on each end.
 
-## Best Looking: Holland Bar Stool Co. ($250-$400)
+<a href="https://www.amazon.com/s?k=CZFEE+70+inch+pool+table+light&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Looking</div>
+
+## Holland Bar Stool Co. (~$325)
+
+<div class="product-pick__specs">
+<span>42-55" options</span>
+<span>3 shades</span>
+<span>Licensed sports logos</span>
+<span>Chrome or black</span>
+</div>
+
+<div class="product-pick__verdict">The lights work fine as lights. The premium is purely cosmetic.</div>
 
 [Holland Bar Stool](https://www.amazon.com/s?k=Holland+Bar+Stool+pool+table+light&tag=billiardbeast-20) makes licensed pool table lights with NFL, NHL, MLB, college, and other brand logos. If you want a Patriots logo or Yankees emblem glowing above your table, this is the company. They're the official licensee for most major sports leagues.
 
@@ -72,13 +129,31 @@ The lights themselves are solid. Three-shade design, 42-55 inch options, chrome 
 
 Worth it? Depends on how much the team branding matters to your game room. The lights work fine as lights. The premium is purely cosmetic. If your room already has a sports theme, these tie it together. If not, spend that money on a Wellmet and pocket the difference.
 
-## Best Mid-Range: Ram Gameroom 48-Inch ($180-$250)
+<a href="https://www.amazon.com/s?k=Holland+Bar+Stool+pool+table+light&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Mid-Range</div>
+
+## Ram Gameroom 48-Inch (~$215)
+
+<div class="product-pick__specs">
+<span>48" length</span>
+<span>3 stained glass shades</span>
+<span>Tiffany-style</span>
+<span>Heavy chain mount</span>
+</div>
+
+<div class="product-pick__verdict">Warm, attractive lighting that looks like it belongs in a dedicated billiard room.</div>
 
 The [Ram Gameroom 48-inch](https://www.amazon.com/s?k=Ram+Gameroom+Products+pool+table+light&tag=billiardbeast-20) bridges the gap between budget and premium. Three stained glass shades, 48 inches long, in a Tiffany-style design that looks like it belongs in a dedicated billiard room. Ram has been making game room furniture since 1976.
 
 The stained glass diffuses light more softly than metal shade fixtures. That's both the appeal and the trade-off. You get warm, attractive lighting without harsh shadows, but total lumen output is slightly lower because the glass absorbs some light. For casual home play, this doesn't matter. For tournament practice under exact conditions, stick with metal shades.
 
 At 48 inches, this is sized for 7-foot and 8-foot tables. The build quality is a step above the budget options: heavier chain, better mounting hardware, glass shades that won't dent or scratch.
+
+<a href="https://www.amazon.com/s?k=Ram+Gameroom+Products+pool+table+light&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 ## Quick Comparison
 

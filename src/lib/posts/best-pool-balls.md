@@ -44,9 +44,19 @@ Number visibility is the other thing people overlook. On a dark-colored felt, yo
 
 One more thing: ball-to-ball consistency within a set. In a cheap set, individual balls can vary by 1-2 grams in weight and 0.5mm in diameter. That variation affects how balls react on impact, especially in clusters. Premium sets hold much tighter tolerances. Aramith Premium specs guarantee weight consistency within 1 gram across all 16 balls. Their Tournament line tightens that to 0.5 grams.
 
-## Best Overall: Aramith Premium ($180-$220)
+<div class="product-pick">
+<div class="product-pick__badge">Best Overall</div>
 
-The [Aramith Premium](https://www.amazon.com/s?k=Aramith+Premium+pool+ball+set&tag=billiardbeast-20) is the ball set most serious home players should buy. Period. Full stop.
+### Aramith Premium ($180-$220)
+
+<div class="product-pick__specs">
+<span>Phenolic resin</span>
+<span>2.25" / 6 oz</span>
+<span>30-40+ year lifespan</span>
+<span>Belgian-made</span>
+</div>
+
+<div class="product-pick__verdict">The ball set most serious home players should buy. Period. Full stop.</div>
 
 Aramith (made by Saluc SA in Belgium) is the only major manufacturer using phenolic resin. They've been making pool balls since the 1960s and supply every major professional tour. The Premium set is their mid-range offering, positioned between the recreational Pro Cup line and the top-tier Tournament set.
 
@@ -56,7 +66,22 @@ The resin also matters for your felt. Aramith's phenolic surface creates less fr
 
 At $180-$220, the Premium set costs 4-5x what a budget polyester set runs. But the Premium lasts 10-20x longer. The math is clear.
 
-## Best Budget: Japer Bees ($30-$40)
+<a href="https://www.amazon.com/s?k=Aramith+Premium+pool+ball+set&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Budget</div>
+
+### Japer Bees ($30-$40)
+
+<div class="product-pick__specs">
+<span>Resin-blended polyester</span>
+<span>2.25" / 6 oz</span>
+<span>2-4 year lifespan</span>
+<span>Bright colors</span>
+</div>
+
+<div class="product-pick__verdict">The best polyester set under $50 that actually meets standard specs.</div>
 
 The [Japer Bees set](https://www.amazon.com/s?k=Japer+Bees+pool+ball+set&tag=billiardbeast-20) is the best polyester set under $50. If you're buying balls for a casual setup, a kids' table, or a beat-up bar table where Aramith would be overkill, Japer Bees delivers decent quality for the money.
 
@@ -66,7 +91,22 @@ Expect 2-4 years of decent play depending on frequency. If you play twice a week
 
 The honest comparison: Japer Bees balls at $35 play fine for 3 years. Aramith at $200 plays fine for 35 years. If you're keeping the table long-term, Aramith costs less per year. If the table might end up in a garage sale next year, Japer Bees is the smart buy.
 
-## Aramith Tournament ($300-$350)
+<a href="https://www.amazon.com/s?k=Japer+Bees+pool+ball+set&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Tournament Grade</div>
+
+### Aramith Tournament ($300-$350)
+
+<div class="product-pick__specs">
+<span>Phenolic resin + Duramith</span>
+<span>0.5g weight consistency</span>
+<span>40+ year lifespan</span>
+<span>Pro tour standard</span>
+</div>
+
+<div class="product-pick__verdict">What the pros play on. The difference from Premium is marginal for home use.</div>
 
 The [Aramith Tournament set](https://www.amazon.com/s?k=Aramith+Tournament+pool+ball+set&tag=billiardbeast-20) is what the pros play on. Same phenolic resin as the Premium but with tighter manufacturing tolerances and the Duramith treatment, Aramith's proprietary surface hardening process that adds even more impact resistance and polish retention.
 
@@ -74,7 +114,22 @@ For home use, the difference between Tournament and Premium is marginal. Both us
 
 Buy the Tournament set if you're a competitive league player who practices daily, or if you want the absolute best and the $100 premium over the Premium set doesn't bother you. For everyone else, the Premium is the right call.
 
-## Mid-Range: Vigma ($50-$80)
+<a href="https://www.amazon.com/s?k=Aramith+Tournament+pool+ball+set&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Mid-Range</div>
+
+### Vigma ($50-$80)
+
+<div class="product-pick__specs">
+<span>Premium polyester</span>
+<span>2.25" / 6 oz</span>
+<span>3-5 year lifespan</span>
+<span>Harder than standard</span>
+</div>
+
+<div class="product-pick__verdict">60% of Aramith's durability at 35% of the price.</div>
 
 The [Vigma set](https://www.amazon.com/s?k=Vigma+pool+ball+set&tag=billiardbeast-20) sits in the awkward middle ground between polyester and phenolic. At $50-$80, it's twice the price of Japer Bees but less than half the price of Aramith.
 
@@ -82,13 +137,31 @@ Vigma uses a "premium polyester resin" that's harder than standard polyester. Th
 
 The problem with Vigma is that it's close enough in price to Aramith that saving a few more months makes the upgrade possible. The $50-$80 you spend on Vigma buys you 60% of Aramith's durability at 35% of the price. The math works if you're budget-conscious. It doesn't work if you're planning to keep playing for a decade.
 
-## Budget Alternative: Iszy Billiards ($25-$35)
+<a href="https://www.amazon.com/s?k=Vigma+pool+ball+set&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Bare Minimum</div>
+
+### Iszy Billiards ($25-$35)
+
+<div class="product-pick__specs">
+<span>Standard polyester</span>
+<span>2.25" / 6 oz</span>
+<span>1-3 year lifespan</span>
+<span>Budget replacement</span>
+</div>
+
+<div class="product-pick__verdict">The cheapest set that actually meets standard specs.</div>
 
 The [Iszy Billiards set](https://www.amazon.com/s?k=Iszy+Billiards+pool+ball+set&tag=billiardbeast-20) is the cheapest set that actually meets standard specs. At $25-$35, it's the replacement set for tables that came with balls so bad they need upgrading immediately.
 
 Standard polyester, 2.25 inches, 6 oz. The finish is acceptable, the colors are clear enough, and the balls roll true out of the box. Durability is the weakest on this list: expect 1-3 years before visible wear depending on play volume. The numbers can fade faster than Japer Bees.
 
 If your table came with no-name balls from a big box store and you want something better without spending real money, Iszy gets you there. If you can stretch to $35-$40, the Japer Bees is a better buy.
+
+<a href="https://www.amazon.com/s?k=Iszy+Billiards+pool+ball+set&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 ## Quick Comparison
 

@@ -40,7 +40,19 @@ Fit means the cover actually stays on the table. A flat rectangle of fabric drap
 
 Water resistance doesn't mean waterproof. You want a cover that repels a spilled drink long enough for you to grab a towel, not one that creates a sealed environment (moisture needs to breathe or it'll cause mildew underneath). Look for "water-resistant" rather than "waterproof" in the product description.
 
-## Best Overall: Kohree Heavy Duty ($35-$50)
+<div class="product-pick">
+<div class="product-pick__badge">Best Overall</div>
+
+### Kohree Heavy Duty ($35-$50)
+
+<div class="product-pick__specs">
+<span>420D Oxford/PVC</span>
+<span>Elastic hem</span>
+<span>Reinforced stitching</span>
+<span>7/8/9 ft sizes</span>
+</div>
+
+<div class="product-pick__verdict">Nothing else on the market matches its combination of material weight and fit quality.</div>
 
 The [Kohree Heavy Duty cover](https://www.amazon.com/s?k=Kohree+heavy+duty+pool+table+cover&tag=billiardbeast-20) is the cover most pool table owners should buy. Available in 7, 8, and 9-foot sizes, it uses 420D Oxford fabric with PVC coating on the underside for water resistance.
 
@@ -50,7 +62,22 @@ At $35-$50, this costs about 1/10th what a refelting job runs. The cover weighs 
 
 The Kohree doesn't look fancy. It's a heavy-duty fabric cover that does its job. For the price, nothing else on the market matches its combination of material weight and fit quality.
 
-## Best Budget: GSE Games & Sports ($20-$30)
+<a href="https://www.amazon.com/s?k=Kohree+heavy+duty+pool+table+cover&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Budget</div>
+
+### GSE Games & Sports ($20-$30)
+
+<div class="product-pick__specs">
+<span>210-300D Nylon</span>
+<span>Elastic hem</span>
+<span>Basic water resistance</span>
+<span>7/8/9 ft sizes</span>
+</div>
+
+<div class="product-pick__verdict">Beats leaving the table uncovered by a wide margin.</div>
 
 The [GSE cover](https://www.amazon.com/s?k=GSE+Games+Sports+pool+table+cover&tag=billiardbeast-20) is the cheapest cover worth recommending. At $20-$30, it uses 210D-300D nylon with an elastic hem. It's thinner than the Kohree and won't last as long, but it beats leaving the table uncovered by a wide margin.
 
@@ -58,7 +85,22 @@ Available in 7, 8, and 9-foot sizes. The elastic is snug enough to stay on durin
 
 For a table in a dedicated game room with minimal traffic, the GSE is perfectly adequate. For a table in a family room where kids and pets are part of the equation, spend the extra $15-$20 on the Kohree.
 
-## Best Fitted: Covermates ($45-$65)
+<a href="https://www.amazon.com/s?k=GSE+Games+Sports+pool+table+cover&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best for Humid Climates</div>
+
+### Covermates ($45-$65)
+
+<div class="product-pick__specs">
+<span>300D Polyester</span>
+<span>Drawstring closure</span>
+<span>Mesh ventilation</span>
+<span>Multiple sizes</span>
+</div>
+
+<div class="product-pick__verdict">The mesh panel prevents moisture buildup that causes mildew in basement game rooms.</div>
 
 [Covermates](https://www.amazon.com/s?k=Covermates+pool+table+cover&tag=billiardbeast-20) specializes in furniture covers and their pool table version shows that expertise. This is a 300D polyester cover with a mesh ventilation panel and a drawstring closure (not elastic). The drawstring gives a tighter, more adjustable fit than elastic, especially on tables with non-standard rail profiles.
 
@@ -66,7 +108,22 @@ The mesh panel is the standout feature. It allows air circulation underneath the
 
 Covermates offers their cover in more size options than most competitors, including oversized fits for tables with wide rails. The fabric feels slightly lighter than the Kohree's 420D, but the construction quality and stitching are tighter. The drawstring adds 10 seconds to cover-on and cover-off versus elastic, but the fit is more secure.
 
-## Best Premium: Iszy Billiards Leatherette ($60-$90)
+<a href="https://www.amazon.com/s?k=Covermates+pool+table+cover&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Premium</div>
+
+### Iszy Billiards Leatherette ($60-$90)
+
+<div class="product-pick__specs">
+<span>Synthetic leather</span>
+<span>Elastic hem</span>
+<span>Water-resistant</span>
+<span>Wipes clean</span>
+</div>
+
+<div class="product-pick__verdict">The cover for an Olhausen or Brunswick in a finished living room.</div>
 
 The [Iszy Billiards leatherette cover](https://www.amazon.com/s?k=Iszy+Billiards+leatherette+pool+table+cover&tag=billiardbeast-20) is for tables in rooms where appearances matter. The leatherette (synthetic leather) exterior looks substantially better than nylon, especially on high-end tables where a fabric cover feels like throwing a tarp over a dining room table.
 
@@ -76,13 +133,31 @@ The Iszy cover uses elastic hem fitting and comes in 7, 8, and 9-foot sizes. The
 
 This is the cover for an [Olhausen or Brunswick](/best-pool-tables-for-home/) in a finished living room. Overkill for a basement bar table. Buy it if the cover's appearance matters to you. Skip it if function is all you care about.
 
-## Best Value Multi-Pack: NEXCOVER ($25-$35)
+<a href="https://www.amazon.com/s?k=Iszy+Billiards+leatherette+pool+table+cover&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Starter Bundle</div>
+
+### NEXCOVER ($25-$35)
+
+<div class="product-pick__specs">
+<span>210D Nylon</span>
+<span>Elastic hem</span>
+<span>Includes bench cover</span>
+<span>7/8 ft sizes</span>
+</div>
+
+<div class="product-pick__verdict">Saves $10-$15 versus buying each piece separately.</div>
 
 The [NEXCOVER](https://www.amazon.com/s?k=NEXCOVER+pool+table+cover&tag=billiardbeast-20) is worth mentioning because it ships with a matching bench cover and sometimes a table brush. At $25-$35 for the bundle, it's a decent starter package for someone setting up a game room from scratch.
 
 The table cover itself is 210D nylon, which puts it in the budget category. Elastic hem, basic water resistance, available in 7 and 8-foot sizes. Nothing exceptional about the cover alone, but the bundle pricing makes it competitive.
 
 If you're buying a table and need accessories, the NEXCOVER bundle with cover and bench cover saves you $10-$15 versus buying each piece separately.
+
+<a href="https://www.amazon.com/s?k=NEXCOVER+pool+table+cover&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 ## Quick Comparison
 

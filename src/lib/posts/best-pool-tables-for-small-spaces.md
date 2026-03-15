@@ -57,7 +57,19 @@ This takes five minutes. It saves you from a $400 mistake.
 
 ## The Best Small-Space Pool Tables (Real Recommendations)
 
-### Fat Cat Trueshot 6-Foot . Best Budget Option for Real Spaces
+<div class="product-pick">
+<div class="product-pick__badge">Best Budget Option</div>
+
+### Fat Cat Trueshot 6-Foot (~$300-400)
+
+<div class="product-pick__specs">
+<span>6-foot table</span>
+<span>Composite slate surface</span>
+<span>Folding legs</span>
+<span>Complete accessory kit</span>
+</div>
+
+<div class="product-pick__verdict">Budget-friendly folding table perfect for apartments and small spaces.</div>
 
 This is the table to buy if you're on a budget and you have maybe 12x15 feet to work with. It's a 6-footer. The slate is textured hard composite (not real slate, but fine for casual play). The pockets are forgiving without being sloppy.
 
@@ -67,9 +79,22 @@ Price hovers around $300-400 depending on sales. It comes with everything you ne
 
 Build quality is honest. It won't last 20 years with heavy play, but for an apartment? You'll get five solid years, easy. Maybe more if you're not brutal with it.
 
-**Get it here:** [Fat Cat Trueshot 6-foot](https://www.amazon.com/s?k=Fat+Cat+Trueshot+6+foot+pool+table&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Fat+Cat+Trueshot+6+foot+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
-### GoSports Mid-Size 6-Foot . Compact and Practical
+<div class="product-pick">
+<div class="product-pick__badge">Compact & Practical</div>
+
+### GoSports Mid-Size 6-Foot (~$250-350)
+
+<div class="product-pick__specs">
+<span>6-foot table</span>
+<span>Composite slate</span>
+<span>Smooth folding mechanism</span>
+<span>Apartment-friendly</span>
+</div>
+
+<div class="product-pick__verdict">Aggressive budget pricing with smooth fold mechanism—no-nonsense choice.</div>
 
 GoSports makes everything from cornhole to ping pong, and their 6-foot pool table is genuinely practical for apartment living. It folds up. The specs are reasonable.
 
@@ -79,9 +104,22 @@ In the $250-350 range, this is the aggressive budget option. You're not overpayi
 
 The folding mechanism is actually smooth, which matters more than it sounds. Some fold-leg tables are a nightmare to set up and break down. This isn't.
 
-**Get it here:** [GoSports Mid-Size 6-foot](https://www.amazon.com/s?k=GoSports+6+foot+pool+table+fold&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=GoSports+6+foot+pool+table+fold&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
-### Hathaway Fairmont 6-Foot . Best Portable Mid-Tier Option
+<div class="product-pick">
+<div class="product-pick__badge">Best Mid-Tier Portable</div>
+
+### Hathaway Fairmont 6-Foot (~$350-500)
+
+<div class="product-pick__specs">
+<span>6-foot table</span>
+<span>Better felt quality</span>
+<span>Folding legs</span>
+<span>Solid construction</span>
+</div>
+
+<div class="product-pick__verdict">Quality jump from budget—sweet spot of portability and playability.</div>
 
 You spend a little more ($350-500), and Hathaway gives you better felt and more solid construction. This is a step up from the budget crowd, but still designed with portability in mind.
 
@@ -93,9 +131,22 @@ Still folds. Still fits small spaces. Still reasonable price.
 
 If you can stretch your budget to $400-450, this is the sweet spot for quality versus portability.
 
-**Get it here:** [Hathaway Fairmont 6-foot](https://www.amazon.com/s?k=Hathaway+Fairmont+6+foot+pool+table&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Hathaway+Fairmont+6+foot+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
-### Mizerak Dynasty 6.5-Foot . When You Want Something Nicer
+<div class="product-pick">
+<div class="product-pick__badge">Practice Table</div>
+
+### Mizerak Dynasty 6.5-Foot (~$400-600)
+
+<div class="product-pick__specs">
+<span>6.5-foot table</span>
+<span>Real slate bed</span>
+<span>Solid wood construction</span>
+<span>Tight pockets</span>
+</div>
+
+<div class="product-pick__verdict">Real slate at mid-range price—rewards good technique and improves your game.</div>
 
 Here's where things get real.
 
@@ -109,9 +160,22 @@ Price: $400-600 depending on exact model and sales. That's real money, but it's 
 
 This is the table you buy if you're not just dabbling. You want to actually *practice*, actually improve. The Dynasty rewards good technique and punishes sloppy play. Budget tables are forgiving to a fault.
 
-**Get it here:** [Mizerak Dynasty 6.5-foot](https://www.amazon.com/s?k=Mizerak+Dynasty+6.5+foot+pool+table&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Mizerak+Dynasty+6.5+foot+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
-### Fat Cat Reno 7-Foot . If You Can Fit It
+<div class="product-pick">
+<div class="product-pick__badge">Professional Size</div>
+
+### Fat Cat Reno 7-Foot (~$500-700)
+
+<div class="product-pick__specs">
+<span>7-foot table</span>
+<span>Real slate</span>
+<span>Decent felt</span>
+<span>Professional angles</span>
+</div>
+
+<div class="product-pick__verdict">Professional-size play for serious improvement—only if space allows.</div>
 
 Only mention this if you've *actually* confirmed 13x16 feet of space.
 
@@ -121,7 +185,8 @@ Seven feet is the professional size. Angles play true. Bank shots behave like th
 
 But. Aand this is critical. Yyou need the space. Don't squeeze a 7-footer into a 13x15 foot room thinking you'll make it work. You won't. You'll hate it.
 
-**Get it here:** [Fat Cat Reno 7-foot](https://www.amazon.com/s?k=Fat+Cat+Reno+7+foot+pool+table&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Fat+Cat+Reno+7+foot+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 ## The Short Cue Workaround (And Why It's Limited)
 

@@ -46,19 +46,43 @@ If your room is tight, read our guide on [pool tables for small spaces](/best-po
 
 **The honest truth about tables under $500:** they all use MDF (medium-density fiberboard) instead of slate. MDF is a wood composite that plays fine when it's new but warps over time, especially in garages or rooms with humidity swings. If you play casually a few times a month and want something in the game room that looks the part, these work. If you play weekly or care about improving your game, skip to the next tier.
 
+<div class="product-pick">
+<div class="product-pick__badge">Best Under $500</div>
+
 ### Hathaway Fairmont 6-Foot ($350-$500)
 
-The [Hathaway Fairmont](https://www.amazon.com/s?k=Hathaway+Fairmont+6+foot+pool+table&tag=billiardbeast-20) is the best table under $500 that doesn't feel like a toy. The MDF bed is thicker than most budget tables (0.75 inches vs the 0.5 you see at department stores). The felt is real billiard cloth, not the sandpaper some cheap tables ship with. Leg levelers are included.
+<div class="product-pick__specs">
+<span>6 ft</span>
+<span>MDF bed</span>
+<span>~150 lbs</span>
+<span>Leg levelers</span>
+</div>
 
-It's 6 feet, which is small. You'll notice the difference if you've played on a full-size table. But for apartments, basements, dorm rooms, and kids' game rooms, it does the job for a couple of years before the MDF starts showing its age.
+<div class="product-pick__verdict">The best table under $500 that doesn't feel like a toy.</div>
+
+The MDF bed is thicker than most budget tables (0.75 inches vs the 0.5 you see at department stores). The felt is real billiard cloth, not the sandpaper some cheap tables ship with. Leg levelers are included. It's 6 feet, which is small, but it does the job for a couple of years before the MDF starts showing its age.
+
+<a href="https://www.amazon.com/s?k=Hathaway+Fairmont+6+foot+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Budget Slate-Look</div>
 
 ### Fat Cat Reno 7-Foot ($500-$700)
 
-This is where the conversation gets real. The [Fat Cat Reno](https://www.amazon.com/s?k=Fat+Cat+Reno+7+foot+pool+table&tag=billiardbeast-20) is the cheapest table we'd actually recommend for someone who plays regularly. At 7 feet, it's bar size, the same dimensions as the table at your local pub. The playing surface is slate-look composite with K-66 rubber bumpers, and the ball return works consistently.
+<div class="product-pick__specs">
+<span>7 ft</span>
+<span>Composite surface</span>
+<span>K-66 bumpers</span>
+<span>Ball return</span>
+</div>
 
-At $500-$700, it's straddling the line between budget and entry-level. You get a real game room table that won't embarrass you when friends come over. The felt will need replacing after 2-3 years of heavy use, but that's true of tables costing five times as much.
+<div class="product-pick__verdict">Where value peaks before you hit the slate jump.</div>
 
-If you're torn between this and spending more, the Fat Cat Reno is the table I'd recommend for anyone who wants to play regularly without committing $1,500. It's where value peaks before you hit the slate jump.
+The Fat Cat Reno is the cheapest table we'd actually recommend for someone who plays regularly. At 7 feet, it's bar size, the same dimensions as the table at your local pub. You get a real game room table that won't embarrass you when friends come over. The felt will need replacing after 2-3 years of heavy use, but that's true of tables costing five times as much.
+
+<a href="https://www.amazon.com/s?k=Fat+Cat+Reno+7+foot+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 ## Mid-Range Tier: $700-$2,000
 
@@ -66,55 +90,123 @@ If you're torn between this and spending more, the Fat Cat Reno is the table I'd
 
 At $700-$2,000 you're choosing between 7-foot bar-size tables and 8-foot home tables. Both use genuine slate. The difference is frame quality, felt quality, and how pretty the wood is.
 
+<div class="product-pick">
+<div class="product-pick__badge">Best Value Slate</div>
+
 ### Mizerak Donovan II 8-Foot Slate ($1,200-$1,500)
 
-The [Mizerak Donovan II](https://www.amazon.com/s?k=Mizerak+Donovan+II+8+foot+slate+pool+table&tag=billiardbeast-20) is the table I'd point most home buyers toward. It's 8 feet (regulation bar/home size), uses a genuine 1-inch 3-piece slate bed, and costs about $1,285 for the slate version. There's a cheaper slatron version at $850, but do yourself a favor and get the slate.
+<div class="product-pick__specs">
+<span>8 ft</span>
+<span>1" 3-piece slate</span>
+<span>K-66 bumpers</span>
+<span>~500 lbs</span>
+</div>
 
-Mizerak has been making tables since the 1970s. They're not a prestige brand. Nobody's going to walk into your game room and go "wow, a Mizerak." But the engineering is solid. K-66 rubber bumpers give you consistent rebounds. The pockets are cut to standard dimensions. The felt is serviceable wool-nylon blend.
+<div class="product-pick__verdict">The Honda Civic of pool tables. Not flashy. Works. Lasts.</div>
 
-The Donovan II is the "Honda Civic of pool tables." It's not flashy. It works. It lasts. Your money goes into the playing surface, not the nameplate.
+The Mizerak Donovan II is 8 feet (regulation bar/home size), uses a genuine 1-inch 3-piece slate bed, and costs about $1,285 for the slate version. Mizerak has been making tables since the 1970s. They're not a prestige brand, but the engineering is solid. K-66 rubber bumpers give you consistent rebounds. The pockets are cut to standard dimensions. Your money goes into the playing surface, not the nameplate.
+
+<a href="https://www.amazon.com/s?k=Mizerak+Donovan+II+8+foot+slate+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Tightest Tolerances</div>
 
 ### Imperial Eliminator 8-Foot ($1,000-$1,400)
 
-The [Imperial Eliminator](https://www.amazon.com/s?k=Imperial+Eliminator+8+foot+pool+table&tag=billiardbeast-20) competes directly with the Mizerak. Same size, same 1-inch slate bed, similar price. Where it differs: the cabinet design is slightly more streamlined, and owners report very consistent cushion response out of the box.
+<div class="product-pick__specs">
+<span>8 ft</span>
+<span>1" slate</span>
+<span>K-66 bumpers</span>
+<span>~500 lbs</span>
+</div>
 
-Imperial has been building game room furniture for over 100 years. They make tables for both home and commercial use, which means their manufacturing tolerances are tighter than some budget brands. The Eliminator specifically gets praised for its slate flatness. Several forum reviewers have measured it with precision levels and found less than 0.01-inch deviation across the 8-foot surface.
+<div class="product-pick__verdict">Less than 0.01-inch deviation across the 8-foot surface.</div>
 
-If you're choosing between this and the Donovan II, play on both if you can. They're close enough that personal preference matters more than specs.
+The Imperial Eliminator competes directly with the Mizerak. Same size, same 1-inch slate bed, similar price. The cabinet design is slightly more streamlined, and owners report very consistent cushion response out of the box. Imperial has been building game room furniture for over 100 years and makes tables for both home and commercial use, which means their manufacturing tolerances are tighter than some budget brands. Forum reviewers have measured the Eliminator with precision levels and consistently found exceptional flatness.
+
+<a href="https://www.amazon.com/s?k=Imperial+Eliminator+8+foot+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Under $2,000</div>
 
 ### Playcraft Cross Creek 8-Foot ($1,500-$1,900)
 
-The [Playcraft Cross Creek](https://www.amazon.com/s?k=Playcraft+Cross+Creek+8+foot+slate+pool+table&tag=billiardbeast-20) is the top of the mid-range. You're still under $2,000, but you're getting a table that looks and plays like something more expensive. Solid hardwood frame (not laminate), 1-inch matched slate, professional-grade K-66 cushions.
+<div class="product-pick__specs">
+<span>8 ft</span>
+<span>1" matched slate</span>
+<span>Hardwood frame</span>
+<span>700-800 lbs</span>
+</div>
 
-Playcraft tables tend to weigh more than competitors at this price. Expect 700-800 lbs assembled. That weight comes from thicker frame members and more solid construction. If you're putting this on a [second floor](/are-pool-tables-too-heavy-for-the-second-floor/), check your joists first.
+<div class="product-pick__verdict">The table you buy when you want something that could pass for a $3,000 table.</div>
 
-The Cross Creek is the table you buy when you want something that could pass for a $3,000 table. The finish quality and wood detailing punch above its weight class.
+The Playcraft Cross Creek is the top of the mid-range. You're still under $2,000, but you're getting a table that looks and plays like something more expensive. Solid hardwood frame (not laminate), 1-inch matched slate, professional-grade K-66 cushions. Playcraft tables tend to weigh more than competitors at this price due to thicker frame members and more solid construction. The finish quality and wood detailing punch above its weight class.
+
+<a href="https://www.amazon.com/s?k=Playcraft+Cross+Creek+8+foot+slate+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 ## Premium Tier: $2,000-$5,000
 
 **This is where furniture meets function.** Every table at this level uses quality 3-piece slate. What you're paying for now is wood species, finish craftsmanship, cushion precision, warranty, and brand reputation. These are tables your grandchildren will play on.
 
+<div class="product-pick">
+<div class="product-pick__badge">Living Room Friendly</div>
+
 ### American Heritage Billiards Savannah ($2,000-$3,000)
 
-[American Heritage](https://www.amazon.com/s?k=American+Heritage+Billiards+pool+table&tag=billiardbeast-20) makes tables that split the difference between game room and living room. The Savannah uses solid hardwood construction with a hand-rubbed finish that looks like actual furniture, not a game table your wife wants hidden in the basement.
+<div class="product-pick__specs">
+<span>8 ft</span>
+<span>3-piece slate</span>
+<span>Solid hardwood</span>
+<span>Hand-rubbed finish</span>
+</div>
 
-The playing surface is standard 1-inch 3-piece slate with Simonis-compatible cloth. The cushion rubber is tournament-spec. Where American Heritage stands out is the aesthetic. If the pool table needs to live in a shared space rather than a dedicated game room, these tables don't stick out like a sore thumb.
+<div class="product-pick__verdict">The pool table that doesn't stick out like a sore thumb in a shared space.</div>
+
+American Heritage makes tables that split the difference between game room and living room. The Savannah uses solid hardwood construction with a hand-rubbed finish that looks like actual furniture. The playing surface is standard 1-inch 3-piece slate with Simonis-compatible cloth and tournament-spec cushion rubber. Where American Heritage stands out is the aesthetic—if the pool table needs to live in a shared space rather than a dedicated game room, these tables blend in seamlessly.
+
+<a href="https://www.amazon.com/s?k=American+Heritage+Billiards+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Lifetime Investment</div>
 
 ### Olhausen Gabriel 8-Foot ($2,500-$3,500)
 
-This is the entry point for Olhausen, and it's worth every dollar. Olhausen has been building tables in Portland, Tennessee since the 1970s. Every table is made in the USA. They use their proprietary Accu-Fast cushion system, which tournament players consistently rank as one of the most responsive in the business.
+<div class="product-pick__specs">
+<span>8 ft</span>
+<span>Precision-honed slate</span>
+<span>USA-made</span>
+<span>Lifetime warranty</span>
+</div>
 
-The [Olhausen Gabriel](https://www.amazon.com/s?k=Olhausen+pool+table&tag=billiardbeast-20) is marketed as "one of the best values in America" and the pool community generally agrees. You get solid hardwood construction, precision-honed slate, and Olhausen's lifetime warranty, the best warranty in pool tables. If anything goes wrong with materials or workmanship, they fix it. Forever. That's not marketing language. They actually do it.
+<div class="product-pick__verdict">It'll last longer than the house it's sitting in.</div>
 
-The Gabriel won't win any design awards. It's a clean, traditional table. But it plays like a table costing twice as much, and it'll last longer than the house it's sitting in.
+This is the entry point for Olhausen, and it's worth every dollar. Olhausen has been building tables in Portland, Tennessee since the 1970s. Every table is made in the USA with their proprietary Accu-Fast cushion system, which tournament players consistently rank as one of the most responsive in the business. You get solid hardwood construction, precision-honed slate, and Olhausen's lifetime warranty—the best in pool tables. If anything goes wrong with materials or workmanship, they fix it. Forever. The Gabriel is a clean, traditional design that plays like a table costing twice as much.
+
+<a href="https://www.amazon.com/s?k=Olhausen+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Modern Design</div>
 
 ### Brunswick Glenwood 8-Foot ($2,500-$4,000)
 
-[Brunswick](https://www.amazon.com/s?k=Brunswick+pool+table&tag=billiardbeast-20) is the oldest name in billiards. They've been making tables since 1845. The Glenwood is their mid-range home table, and it carries that heritage brand weight. The playing surface is what you'd expect at this price: matched 3-piece slate, tournament cushions, premium cloth.
+<div class="product-pick__specs">
+<span>8 ft</span>
+<span>Matched 3-piece slate</span>
+<span>Tournament cushions</span>
+<span>Premium cloth</span>
+</div>
 
-Where Brunswick differs from Olhausen: their tables are manufactured overseas (not USA-made), but the engineering and QC are still strong. The Glenwood's aesthetic leans more modern than the Gabriel. Cleaner lines, less ornate woodwork. If your game room has a contemporary feel, the Glenwood fits better than most traditional designs.
+<div class="product-pick__verdict">The oldest name in billiards since 1845, with a modern game room aesthetic.</div>
 
-Brunswick's warranty is comparable to Olhausen's. Both companies stand behind their product for the life of the original owner.
+Brunswick is the oldest name in billiards. They've been making tables since 1845. The Glenwood is their mid-range home table, and it carries that heritage brand weight with matched 3-piece slate, tournament cushions, and premium cloth. Where Brunswick differs from Olhausen: their tables are manufactured overseas (not USA-made), but the engineering and QC are still strong. The Glenwood's aesthetic leans more modern than traditional designs, with cleaner lines and less ornate woodwork. Brunswick's warranty is comparable to Olhausen's—both companies stand behind their product for the life of the original owner.
+
+<a href="https://www.amazon.com/s?k=Brunswick+pool+table&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 ## Quick Comparison
 

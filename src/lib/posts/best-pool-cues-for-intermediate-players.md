@@ -47,7 +47,19 @@ Here's what matters in a cue at your level, ranked by actual impact on your game
 
 ## The Picks
 
-### Lucasi Hybrid LHC97 (~$225-$275)
+<div class="product-pick">
+<div class="product-pick__badge">Best All-Around</div>
+
+### Lucasi Hybrid LHC97 (~$250)
+
+<div class="product-pick__specs">
+<span>11.75mm Zero Flexpoint shaft</span>
+<span>Kamui Black soft tip</span>
+<span>18.5-21 oz</span>
+<span>Irish linen wrap</span>
+</div>
+
+<div class="product-pick__verdict">The cue I'd hand most intermediate players without hesitation.</div>
 
 The [Lucasi Hybrid LHC97](https://www.amazon.com/s?k=Lucasi+Hybrid+LHC97+pool+cue&tag=billiardbeast-20) is the cue I'd hand most intermediate players. It uses Lucasi's Zero Flexpoint low-deflection shaft (11.75mm) with a Kamui Black soft tip. That combination alone makes it competitive with cues costing $100 more.
 
@@ -57,7 +69,22 @@ Weight runs 18.5-21 oz (adjustable). The butt uses genuine Irish linen wrap over
 
 What sets the LHC97 apart at this price: the shaft quality-to-cost ratio. The Zero Flexpoint shaft is legitimately good low-deflection engineering, not marketing fluff. In a blind test against shafts costing twice as much, most intermediate players can't tell the difference. Advanced players can. You're not an advanced player yet. That works in your favor here.
 
-### McDermott G-Series (~$200-$350)
+<a href="https://www.amazon.com/s?k=Lucasi+Hybrid+LHC97+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Warranty + Finish</div>
+
+### McDermott G-Series (~$275)
+
+<div class="product-pick__specs">
+<span>12.75mm i-2 shaft</span>
+<span>Dexter tip</span>
+<span>Lifetime warp warranty</span>
+<span>Made in Wisconsin</span>
+</div>
+
+<div class="product-pick__verdict">Their lacquer work at $250-$300 looks like $400+ from other brands.</div>
 
 The [McDermott G-Series](https://www.amazon.com/s?k=McDermott+G+series+pool+cue&tag=billiardbeast-20) is a wide line with models ranging from $200 to $500+. For intermediate players, the G200-G400 range ($200-$350) hits the sweet spot. These cues come with McDermott's i-2 shaft (12.75mm, lower deflection than standard maple) and a Dexter tip.
 
@@ -67,7 +94,22 @@ The G-Series feel is distinctive: slightly stiffer hit than the Lucasi, which so
 
 If you value fit and finish alongside performance, McDermott wins. Their lacquer work, inlay precision, and overall build quality at $250-$300 looks like $400+ from other brands.
 
-### Predator Roadline (~$250-$350)
+<a href="https://www.amazon.com/s?k=McDermott+G+series+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Shaft Investment</div>
+
+### Predator Roadline (~$300)
+
+<div class="product-pick__specs">
+<span>12.75mm 314-3 shaft</span>
+<span>10-piece spliced maple</span>
+<span>Uni-Loc joint</span>
+<span>Linen wrap</span>
+</div>
+
+<div class="product-pick__verdict">You'll eventually replace the butt. You'll keep the 314-3 shaft.</div>
 
 The [Predator Roadline](https://www.amazon.com/s?k=Predator+Roadline+pool+cue&tag=billiardbeast-20) is the entry point to Predator, arguably the most respected name in cue technology. Predator's shafts are the industry benchmark for low deflection. The Roadline ships with their 314-3 shaft, which tournament players have used to win world championships.
 
@@ -77,7 +119,22 @@ The butt section is simpler than McDermott or Lucasi at similar prices. Predator
 
 For intermediate players who know they'll keep upgrading and want a shaft they can carry forward for years, the Roadline makes the most sense. You'll eventually replace the butt. You'll keep the 314-3 shaft.
 
-### Players HXT-P2 (~$150-$200)
+<a href="https://www.amazon.com/s?k=Predator+Roadline+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Budget Low-Deflection</div>
+
+### Players HXT-P2 (~$175)
+
+<div class="product-pick__specs">
+<span>12.75mm HXT shaft</span>
+<span>Kamui Black tip</span>
+<span>Wrapless design</span>
+<span>Wood-to-wood joint</span>
+</div>
+
+<div class="product-pick__verdict">70% of the Lucasi's performance at 65% of the price.</div>
 
 The [Players HXT-P2](https://www.amazon.com/s?k=Players+HXT+P2+pool+cue&tag=billiardbeast-20) is the budget pick for this list. At $150-$200, it's priced closer to our [under-$200 guide](/best-pool-cues-under-200/) territory, but the HXT-P2 specifically targets players stepping out of beginner gear.
 
@@ -87,7 +144,22 @@ Performance sits between the standard Players G-line and the Lucasi Hybrid. You'
 
 For league players who want legitimate low-deflection performance and don't care about how the cue looks in the rack, the HXT-P2 is the practical choice.
 
-### Cuetec Cynergy SVB (~$300-$400)
+<a href="https://www.amazon.com/s?k=Players+HXT+P2+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Carbon Fiber</div>
+
+### Cuetec Cynergy SVB (~$350)
+
+<div class="product-pick__specs">
+<span>12.5mm carbon fiber shaft</span>
+<span>No warping ever</span>
+<span>Matte grip finish</span>
+<span>18-21 oz</span>
+</div>
+
+<div class="product-pick__verdict">The cue ball goes exactly where you point it. Then you realize it always did.</div>
 
 The [Cuetec Cynergy SVB](https://www.amazon.com/s?k=Cuetec+Cynergy+SVB+pool+cue&tag=billiardbeast-20) is the carbon fiber option. Named after Shane Van Boening (one of the best players alive, who plays with Cuetec), the SVB model pairs their Cynergy 15K carbon fiber shaft with a premium butt section.
 
@@ -97,7 +169,22 @@ The trade-off: carbon fiber feels different from wood. The hit is stiffer, the f
 
 If you're coming from a standard maple shaft, the Cuetec Cynergy will feel like cheating for the first week. The cue ball goes exactly where you point it. Then you'll realize it was always going where you pointed it, you were just compensating for a worse shaft.
 
-### Meucci 97-21B (~$200-$300)
+<a href="https://www.amazon.com/s?k=Cuetec+Cynergy+SVB+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Resale Value</div>
+
+### Meucci 97-21B (~$250)
+
+<div class="product-pick__specs">
+<span>12.9mm Black Dot shaft</span>
+<span>Hollowed-core ferrule</span>
+<span>Signature styling</span>
+<span>Mississippi-made</span>
+</div>
+
+<div class="product-pick__verdict">A well-maintained Meucci sells for 60-70% of retail. That's rare.</div>
 
 The [Meucci 97-21B](https://www.amazon.com/s?k=Meucci+97+pool+cue&tag=billiardbeast-20) is the dark horse on this list. Meucci doesn't have Predator's marketing machine or McDermott's retail presence, but they've been building cues in Byhalia, Mississippi since the 1970s. Bob Meucci was one of the first cue makers to experiment with low-deflection shaft design.
 
@@ -106,6 +193,9 @@ The 97-21B uses Meucci's Black Dot shaft, their proprietary LD offering. At 12.9
 The butt is Meucci's signature aggressive styling: bold colors, prominent rings, distinctive visual identity. You'll either love how it looks or hate it. The playing quality is undeniable regardless.
 
 Meucci cues hold their resale value better than most brands in this price range. If you decide to upgrade later, a well-maintained Meucci sells for 60-70% of retail on AZBilliards or eBay. That's significantly better than Players or Lucasi resale.
+
+<a href="https://www.amazon.com/s?k=Meucci+97+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 ## Quick Comparison
 

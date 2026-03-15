@@ -30,7 +30,19 @@ So instead of writing another generic roundup based on spec sheets, I'm going to
 
 ## The top 6 pool cues under $100 (ranked by actual sales)
 
-### 1. [Viking Valhalla 100 Series](/viking-valhalla-100-series-review/) (~$30) , [Check Price on Amazon](https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20)
+<div class="product-pick">
+<div class="product-pick__badge">Best Budget Seller</div>
+
+### Viking Valhalla 100 Series (~$30)
+
+<div class="product-pick__specs">
+<span>Solid maple shaft</span>
+<span>13mm tip</span>
+<span>Irish linen wrap</span>
+<span>18–21 oz options</span>
+</div>
+
+<div class="product-pick__verdict">Best-selling budget cue with premium wrap at throwaway prices.</div>
 
 This cue has no business being this good at thirty dollars.
 
@@ -44,7 +56,22 @@ One thing to do before you play: take some 220 grit sandpaper and rough up the t
 
 **Who should buy it:** Anyone testing the waters. Anyone who plays casually at a friend's house. Anyone who wants a backup cue. Anyone who hates spending money on something they might not use.
 
-### 2. [PureX Technology Pool Cue](/purex-technology-pool-cue-review/) (~$75) , [Check Price on Amazon](https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Performance King</div>
+
+### PureX Technology Pool Cue (~$75)
+
+<div class="product-pick__specs">
+<span>Low-deflection shaft</span>
+<span>12.75mm tip</span>
+<span>Irish linen wrap</span>
+<span>18.5–19 oz</span>
+</div>
+
+<div class="product-pick__verdict">Rare low-deflection technology at under-$100 price point for developing players.</div>
 
 If the Valhalla is the value king, PureX Technology is the performance king under $100.
 
@@ -58,7 +85,22 @@ Our readers bought 43 of these in 2025, generating over $3,200 in sales. That's 
 
 **Who should buy it:** Players who shoot at least weekly and want to invest in something they'll keep for a while. The sweet spot between "testing the waters" and "I'm serious about this."
 
-### 3. [Collapsar CXL500](/collapsar-cxl500-review/) (~$85) , [Check Price on Amazon](https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Carbon Fiber Value</div>
+
+### Collapsar CXL500 (~$85)
+
+<div class="product-pick__specs">
+<span>Carbon fiber shaft</span>
+<span>13mm tip</span>
+<span>Warp-resistant technology</span>
+<span>Modern design</span>
+</div>
+
+<div class="product-pick__verdict">Carbon fiber performance at maple-shaft pricing—rare technology for the money.</div>
 
 The dark horse of budget cues.
 
@@ -70,7 +112,22 @@ The look is modern . Bblack carbon with clean lines. It doesn't pretend to be a 
 
 **Who should buy it:** Players who want cutting-edge shaft technology without paying cutting-edge prices. Also good for anyone who plays in garages, basements, or anywhere with temperature swings . Ccarbon fiber handles humidity better than maple.
 
-### 4. Viper Sinister 5 Series (~$25) , [Check Price on Amazon](https://www.amazon.com/s?k=Viper+Sinister+pool+cue&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Bare Essentials</div>
+
+### Viper Sinister 5 Series (~$25)
+
+<div class="product-pick__specs">
+<span>Solid wood shaft</span>
+<span>13mm tip</span>
+<span>Basic construction</span>
+<span>Standard finish</span>
+</div>
+
+<div class="product-pick__verdict">No frills, but consistent—perfect for bar players and tight budgets.</div>
 
 The absolute cheapest cue on this list, and it still works.
 
@@ -80,7 +137,22 @@ Construction is basic: solid wood, simple finish, standard tip. The wrap is noth
 
 **Who should buy it:** Bar players. People on a seriously tight budget. Anyone who needs a cue tonight.
 
-### 5. Players G-2401 (~$65) , [Check Price on Amazon](https://www.amazon.com/s?k=Players+G-2401+pool+cue&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Viper+Sinister+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Reliable Choice</div>
+
+### Players G-2401 (~$65)
+
+<div class="product-pick__specs">
+<span>Solid maple shaft</span>
+<span>13mm tip</span>
+<span>Plastic wrap</span>
+<span>18 oz</span>
+</div>
+
+<div class="product-pick__verdict">Legendary consistency and quality control—the Toyota of budget cues.</div>
 
 Players is the Toyota of pool cues. Not exciting. Not flashy. Reliable to a fault.
 
@@ -90,13 +162,31 @@ At $65, it sits in an awkward spot . Mmore than twice the Valhalla and almost as
 
 **Who should buy it:** Players (the brand) loyalists, or anyone who's been recommended this cue by a friend and trusts the advice.
 
-### 6. Pure X HXT62 (~$90) — [Check Price on Amazon](https://www.amazon.com/s?k=Pure+X+HXT62+pool+cue&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Players+G-2401+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Upgraded Performance</div>
+
+### Pure X HXT62 (~$90)
+
+<div class="product-pick__specs">
+<span>HXT low-deflection shaft</span>
+<span>Kamui premium tip</span>
+<span>Precision engineering</span>
+<span>Tournament-quality feel</span>
+</div>
+
+<div class="product-pick__verdict">Top-tier technology at ceiling of budget range—plays like a $150 cue.</div>
 
 The step-up from the PureX Technology line. The HXT62 adds a Kamui tip (premium Japanese pigskin layered tip) and an upgraded HXT low-deflection shaft. At around $90, it's right at the ceiling of our under-$100 range, and it plays like a $150 cue.
 
 Eight of our readers bought these in 2025, generating over $700 in sales. The people who buy PureX tend to be more informed players who know what low-deflection means and actively seek it out. If that's you, this is the top of the budget range done right.
 
 **Who should buy it:** Intermediate-leaning players who want the best performance possible without breaking $100.
+
+<a href="https://www.amazon.com/s?k=Pure+X+HXT62+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 ## Why I ranked these by sales data instead of specs
 

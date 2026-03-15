@@ -233,7 +233,20 @@ Many modern cases use hybrid materials. Ffor example, hard ABS shell with nylon 
 
 ### Budget Tier ($25-$75)
 
-**Casemaster Vinyl Case (1x1)** , [Check Price on Amazon](https://www.amazon.com/s?k=Casemaster+vinyl+pool+cue+case+1x1&tag=billiardbeast-20)
+<div class="product-pick">
+<div class="product-pick__badge">Budget Starter</div>
+
+### Casemaster Vinyl Case 1x1 (~$35-45)
+
+<div class="product-pick__specs">
+<span>Vinyl exterior</span>
+<span>Foam padding</span>
+<span>Shoulder strap</span>
+<span>Single-cue capacity</span>
+</div>
+
+<div class="product-pick__verdict">Lightweight starter case for casual players and beginners.</div>
+
 - Lightweight and compact
 - Basic foam padding
 - Shoulder strap included
@@ -241,7 +254,23 @@ Many modern cases use hybrid materials. Ffor example, hard ABS shell with nylon 
 - Price: ~$35-$45
 - Best for: Casual players, beginners
 
-**Viper by GLD Products Soft Case (2x2)** , [Check Price on Amazon](https://www.amazon.com/s?k=Viper+GLD+pool+cue+case+2x2&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Casemaster+vinyl+pool+cue+case+1x1&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Value Pick</div>
+
+### Viper Soft Case 2x2 (~$50-65)
+
+<div class="product-pick__specs">
+<span>Durable vinyl exterior</span>
+<span>Adequate padding</span>
+<span>Storage pockets</span>
+<span>2-cue capacity</span>
+</div>
+
+<div class="product-pick__verdict">Budget-friendly with solid value—good for league players on tight budgets.</div>
+
 - Durable vinyl exterior
 - Adequate padding
 - Organized storage pockets
@@ -249,9 +278,25 @@ Many modern cases use hybrid materials. Ffor example, hard ABS shell with nylon 
 - Price: ~$50-$65
 - Best for: League players on a budget, 1-2 cues
 
+<a href="https://www.amazon.com/s?k=Viper+GLD+pool+cue+case+2x2&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
 ### Mid-Range Tier ($75-$200)
 
-**Casemaster Crown Royal Leather Case (2x2)** , [Check Price on Amazon](https://www.amazon.com/s?k=Casemaster+Crown+Royal+leather+cue+case&tag=billiardbeast-20)
+<div class="product-pick">
+<div class="product-pick__badge">Signature Style</div>
+
+### Casemaster Crown Royal Leather Case 2x2 (~$80-120)
+
+<div class="product-pick__specs">
+<span>Premium leather design</span>
+<span>Decent protection</span>
+<span>Classic styling</span>
+<span>2-cue capacity</span>
+</div>
+
+<div class="product-pick__verdict">Iconic aesthetic with moderate protection for style-conscious players.</div>
+
 - Signature leather design
 - Decent protection
 - Classic styling
@@ -259,7 +304,23 @@ Many modern cases use hybrid materials. Ffor example, hard ABS shell with nylon 
 - Price: ~$80-$120
 - Best for: Players wanting style with moderate protection
 
-**Predator Deluxe Soft Case (2x4)** , [Check Price on Amazon](https://www.amazon.com/s?k=Predator+pool+cue+case+2x4&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Casemaster+Crown+Royal+leather+cue+case&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Trusted Brand</div>
+
+### Predator Deluxe Soft Case 2x4 (~$120-160)
+
+<div class="product-pick__specs">
+<span>Quality padding and organization</span>
+<span>Durable nylon exterior</span>
+<span>Multiple storage compartments</span>
+<span>2-4 cue capacity</span>
+</div>
+
+<div class="product-pick__verdict">Trusted billiards brand with excellent padding and organization.</div>
+
 - Trusted brand in billiards
 - Quality padding and organization
 - Durable nylon exterior
@@ -267,7 +328,23 @@ Many modern cases use hybrid materials. Ffor example, hard ABS shell with nylon 
 - Price: ~$120-$160
 - Best for: Regular players, league competitors, 2-4 cues
 
-**InStroke Deluxe Nylon Case (2x4)** , [Check Price on Amazon](https://www.amazon.com/s?k=InStroke+pool+cue+case+nylon+2x4&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Predator+pool+cue+case+2x4&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Heavy-Duty Protection</div>
+
+### InStroke Deluxe Nylon Case 2x4 (~$100-150)
+
+<div class="product-pick__specs">
+<span>Ballistic nylon exterior</span>
+<span>Excellent padding</span>
+<span>Quality zippers and hardware</span>
+<span>2-4 cue capacity</span>
+</div>
+
+<div class="product-pick__verdict">Professional-grade durability with superior padding and organization.</div>
+
 - Heavy-duty ballistic nylon
 - Excellent padding
 - Quality zippers and hardware
@@ -275,9 +352,25 @@ Many modern cases use hybrid materials. Ffor example, hard ABS shell with nylon 
 - Price: ~$100-$150
 - Best for: Players wanting durability and organization
 
+<a href="https://www.amazon.com/s?k=InStroke+pool+cue+case+nylon+2x4&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
 ### Premium Tier ($200-$400+)
 
-**Predator Icon Hard Case (2x4)** , [Check Price on Amazon](https://www.amazon.com/s?k=Predator+Icon+hard+pool+cue+case&tag=billiardbeast-20)
+<div class="product-pick">
+<div class="product-pick__badge">Premium Hard Shell</div>
+
+### Predator Icon Hard Case 2x4 (~$250-350)
+
+<div class="product-pick__specs">
+<span>ABS hard shell construction</span>
+<span>Airline-approved design</span>
+<span>TSA-friendly lock option</span>
+<span>2-4 cue capacity</span>
+</div>
+
+<div class="product-pick__verdict">Tournament-grade protection for serious competitors and frequent travelers.</div>
+
 - Premium ABS hard shell construction
 - Excellent impact protection
 - Airline-approved design
@@ -286,7 +379,23 @@ Many modern cases use hybrid materials. Ffor example, hard ABS shell with nylon 
 - Price: ~$250-$350
 - Best for: Serious competitors, frequent flyers, cue collectors
 
-**Casemaster Elite Hard Case (3x5)** , [Check Price on Amazon](https://www.amazon.com/s?k=Casemaster+Elite+hard+pool+cue+case&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Predator+Icon+hard+pool+cue+case&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Tournament Grade</div>
+
+### Casemaster Elite Hard Case 3x5 (~$200-350)
+
+<div class="product-pick__specs">
+<span>Rigid hard shell construction</span>
+<span>Waterproof design</span>
+<span>Multiple compartments</span>
+<span>3-5 cue capacity</span>
+</div>
+
+<div class="product-pick__verdict">Professional tournament case with wheels—for serious collectors.</div>
+
 - Rigid construction with soft interior
 - Multiple compartments
 - Waterproof design
@@ -295,13 +404,32 @@ Many modern cases use hybrid materials. Ffor example, hard ABS shell with nylon 
 - Price: ~$200-$350
 - Best for: Tournament players, multiple cue owners, serious amateurs
 
-**McDermott Premium Hard Case (2x4)** , [Check Price on Amazon](https://www.amazon.com/s?k=McDermott+hard+pool+cue+case&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=Casemaster+Elite+hard+pool+cue+case&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Brand Protection</div>
+
+### McDermott Premium Hard Case 2x4 (~$180-280)
+
+<div class="product-pick__specs">
+<span>Hard shell with quality interior</span>
+<span>Excellent shock absorption</span>
+<span>Professional-grade padding</span>
+<span>2-4 cue capacity</span>
+</div>
+
+<div class="product-pick__verdict">McDermott-designed protection optimized for their premium cues.</div>
+
 - Branded McDermott protection
 - Hard shell with quality interior
 - Excellent shock absorption
 - Professional-grade padding
 - Price: ~$180-$280
 - Best for: McDermott cue owners, serious players, tournament use
+
+<a href="https://www.amazon.com/s?k=McDermott+hard+pool+cue+case&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 ---
 

@@ -73,7 +73,19 @@ My advice: 13mm if you're learning or casual. 12.75mm if your cue came with it a
 
 Here's what to buy based on what you're actually doing with a cue.
 
-### Budget: Le Pro Pool Cue Tips
+<div class="product-pick">
+<div class="product-pick__badge">Best Budget</div>
+
+### Le Pro Pool Cue Tips (~$8-15)
+
+<div class="product-pick__specs">
+<span>$8-15</span>
+<span>Medium hardness</span>
+<span>6-12 month lifespan</span>
+<span>Basic leather</span>
+</div>
+
+<div class="product-pick__verdict">Cheap, they work, and people know what to expect.</div>
 
 If you're buying tips because your current one is destroyed and you just need something functional, get [Le Pro Pool Cue Tips](https://www.amazon.com/s?k=Le+Pro+Pool+Cue+Tips&tag=billiardbeast-20).
 
@@ -83,7 +95,22 @@ Beginners should start here. Casual players should buy these. House players who 
 
 The conversion rate on these is wild because they do exactly what they promise: they're cheap, they work, and people know what to expect. Buy them guilt-free.
 
-### Mid-Range: Tiger Sniper Tips
+<a href="https://www.amazon.com/s?k=Le+Pro+Pool+Cue+Tips&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Mid-Range</div>
+
+### Tiger Sniper Tips (~$15-22)
+
+<div class="product-pick__specs">
+<span>$15-22</span>
+<span>Medium-hard</span>
+<span>8-12 month lifespan</span>
+<span>Better feedback</span>
+</div>
+
+<div class="product-pick__verdict">The first tier where serious recreational players should be shopping.</div>
 
 [Tiger Sniper tips](https://www.amazon.com/s?k=Tiger+Sniper+Pool+Cue+Tips&tag=billiardbeast-20) are where I see serious recreational players land, and for good reason. They're around $20-30, and the quality jump from budget tips is noticeable.
 
@@ -91,13 +118,43 @@ These are medium-hard leather with decent longevity. You get better feedback tha
 
 They won't baby you. They demand decent technique. But they reward good form with better control. I've used these, and they're honest tips. They do what they claim.
 
-### The Elk Master Option
+<a href="https://www.amazon.com/s?k=Tiger+Sniper+Pool+Cue+Tips&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Value Performer</div>
+
+### Elk Master (~$5-10)
+
+<div class="product-pick__specs">
+<span>$5-10</span>
+<span>Soft</span>
+<span>3-6 month lifespan</span>
+<span>Elk leather</span>
+</div>
+
+<div class="product-pick__verdict">Real performance at a discount — reliable, lasting, and feels good.</div>
 
 [Elk Master tips](https://www.amazon.com/s?k=Elk+Master+Pool+Cue+Tips&tag=billiardbeast-20) sit in that $25-40 range and offer a sweet spot for someone who wants performance without committing to premium brands. They're made from elk leather (yes, actual elk), and the density is solid.
 
 I like these for players transitioning from casual to serious. They're reliable, they last, and they feel good. Not as famous as Kamui or Predator, but that's partly why they're cheaper. You're getting real performance at a discount.
 
-### Premium: Kamui Black
+<a href="https://www.amazon.com/s?k=Elk+Master+Pool+Cue+Tips&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Best Premium</div>
+
+### Kamui Black (~$20-30)
+
+<div class="product-pick__specs">
+<span>$20-30</span>
+<span>Soft</span>
+<span>4-6 month lifespan</span>
+<span>Japanese precision leather</span>
+</div>
+
+<div class="product-pick__verdict">They grip the cue ball like they're magnetized.</div>
 
 Want to stop replacing tips every six months? Get [Kamui Black tips](https://www.amazon.com/s?k=Kamui+Black+Pool+Cue+Tips&tag=billiardbeast-20).
 
@@ -109,17 +166,30 @@ Here's the thing though: if you're replacing tips every three months because you
 
 I use Kamui when I'm serious about matches. When I'm just goofing around, I grab something cheaper.
 
-### Professional: Predator Victory Tips and Moori Tips
+<a href="https://www.amazon.com/s?k=Kamui+Black+Pool+Cue+Tips&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Tournament Standard</div>
+
+### Predator Victory (~$18-25)
+
+<div class="product-pick__specs">
+<span>$18-25</span>
+<span>Medium</span>
+<span>6-10 month lifespan</span>
+<span>Hard-layered construction</span>
+</div>
+
+<div class="product-pick__verdict">Built for tournament play. Standard issue for a reason.</div>
 
 [Predator Victory tips](https://www.amazon.com/s?k=Predator+Victory+Pool+Cue+Tips&tag=billiardbeast-20) are built for tournament play. They're expensive ($50-80), but they're engineered for consistency. If you're playing in big matches, these are standard issue for a reason.
 
 They're hard-layered tips with a specific construction that holds shape and delivers performance even after hundreds of matches. Some players swear by them. Some prefer softer options. But nobody questions Predator's engineering.
 
-[Moori tips](https://www.amazon.com/s?k=Moori+Pool+Cue+Tips&tag=billiardbeast-20) are the other premium Japanese option. The name to drop if you want to sound like you know what you're talking about. They're $60-100, and they're genuinely excellent. Harder than Kamui, more forgiving than Predator Victory in some ways.
+<a href="https://www.amazon.com/s?k=Predator+Victory+Pool+Cue+Tips&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
-Moori's got that prestige factor. If you're using Moori, people know you care about your game. Are they objectively better than Kamui or Predator? No. They're different. But they're engineered beautifully.
-
-Only buy these if you're playing regularly in competitive settings and you understand maintenance. Otherwise, you're paying for branding.
 
 ## How to Install and Maintain Your Tips
 

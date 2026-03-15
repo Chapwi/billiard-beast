@@ -34,13 +34,43 @@ I've organized this by actual price tiers: under $50, $50-100, $100-200, $200-50
 
 At this price, you're buying a tool. Not a statement piece. The goal is a straight stick that holds chalk and doesn't embarrass you.
 
-**Best pick: [Viking Valhalla 100 Series](/viking-valhalla-100-series-review/) (~$30)** , [Buy on Amazon](https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20)
+<div class="product-pick">
+<div class="product-pick__badge">Best Under $50</div>
 
-This is the most popular cue our readers buy. Forty-nine units sold in 2025. At $30, it comes with an Irish linen wrap that has no business being at this price point. Available in weights from 18 to 21 oz. Straight out of the box. Scuff the tip before your first game and you're set.
+### Viking Valhalla 100 Series (~$30)
 
-**Runner up: Viper Sinister (~$25)** , [Buy on Amazon](https://www.amazon.com/s?k=Viper+Sinister+pool+cue&tag=billiardbeast-20)
+<div class="product-pick__specs">
+<span>~$30</span>
+<span>Irish linen wrap</span>
+<span>18-21 oz</span>
+<span>Maple shaft</span>
+</div>
 
-Five bucks cheaper, simpler construction, basic wrap. Gets the job done. If $5 matters, this works. If comfort matters, spend the extra five.
+<div class="product-pick__verdict">The most popular cue our readers buy. Forty-nine units sold in 2025.</div>
+
+[Viking Valhalla 100 Series](/viking-valhalla-100-series-review/) is the most popular cue our readers buy. Forty-nine units sold in 2025. At $30, it comes with an Irish linen wrap that has no business being at this price point. Available in weights from 18 to 21 oz. Straight out of the box. Scuff the tip before your first game and you're set.
+
+<a href="https://www.amazon.com/s?k=Viking+Valhalla+100+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Runner Up Under $50</div>
+
+### Viper Sinister (~$25)
+
+<div class="product-pick__specs">
+<span>~$25</span>
+<span>Basic wrap</span>
+<span>Standard maple</span>
+<span>Budget entry</span>
+</div>
+
+<div class="product-pick__verdict">Five bucks cheaper. If $5 matters, this works.</div>
+
+[Viper Sinister](/viper-sinister-review/) is five bucks cheaper, has simpler construction, and a basic wrap. Gets the job done. If $5 matters, this works. If comfort matters, spend the extra five.
+
+<a href="https://www.amazon.com/s?k=Viper+Sinister+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 **What you get at this tier:** A straight cue. Your own stick to build muscle memory with. No more warped house cues at the bar. That alone is worth the price of entry.
 
@@ -50,19 +80,64 @@ Five bucks cheaper, simpler construction, basic wrap. Gets the job done. If $5 m
 
 This is the sweet spot for most players. The performance jump from under-$50 to this range is the biggest in all of pool equipment. You go from "functional tool" to "real pool cue."
 
-**Best pick: [PureX Technology](/purex-technology-pool-cue-review/) (~$75)** , [Buy on Amazon](https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20)
+<div class="product-pick">
+<div class="product-pick__badge">Best $50-$100</div>
 
-Low-deflection shaft technology at $75. Made by the same company that produces Lucasi (their premium brand). Our second most popular cue, 43 units sold in 2025, and the highest total revenue of any cue on the site ($3,215). The 12.75mm tip is slightly smaller than standard, giving you more precision potential. The shaft is solid maple with internal engineering to reduce cue ball deflection on english shots.
+### PureX Technology (~$75)
+
+<div class="product-pick__specs">
+<span>~$75</span>
+<span>12.75mm LD shaft</span>
+<span>Solid maple</span>
+<span>Same maker as Lucasi</span>
+</div>
+
+<div class="product-pick__verdict">Low-deflection shaft technology at $75. Our second most popular cue.</div>
+
+[PureX Technology](/purex-technology-pool-cue-review/) offers low-deflection shaft technology at $75. Made by the same company that produces Lucasi (their premium brand). Our second most popular cue, 43 units sold in 2025, and the highest total revenue of any cue on the site ($3,215). The 12.75mm tip is slightly smaller than standard, giving you more precision potential. The shaft is solid maple with internal engineering to reduce cue ball deflection on english shots.
 
 Read our [full PureX review](/purex-technology-pool-cue-review/) for the deep dive on why this cue punches way above its weight class.
 
-**Also excellent: [Collapsar CXL500](/collapsar-cxl500-review/) (~$85)** , [Buy on Amazon](https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20)
+<a href="https://www.amazon.com/s?k=PureX+Technology+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
-Carbon fiber shaft at $85. Carbon fiber doesn't warp. Ever. If you play in a garage, basement, or anywhere with humidity swings, this removes an entire category of worry. Most carbon fiber cues start at $200+. The Collapsar undercuts everyone. Seventeen units sold in 2025.
+<div class="product-pick">
+<div class="product-pick__badge">Carbon Fiber Dark Horse</div>
 
-**Budget alternative: Players G-2401 (~$65)** , [Buy on Amazon](https://www.amazon.com/s?k=Players+G-2401+pool+cue&tag=billiardbeast-20)
+### Collapsar CXL500 (~$85)
 
-Solid maple, standard joint, straight and balanced. The Toyota of pool cues. Nothing exciting, nothing wrong.
+<div class="product-pick__specs">
+<span>~$85</span>
+<span>Carbon fiber shaft</span>
+<span>No warping</span>
+<span>Humidity-proof</span>
+</div>
+
+<div class="product-pick__verdict">Carbon fiber at $85. Most carbon fiber cues start at $200+.</div>
+
+[Collapsar CXL500](/collapsar-cxl500-review/) offers carbon fiber shaft at $85. Carbon fiber doesn't warp. Ever. If you play in a garage, basement, or anywhere with humidity swings, this removes an entire category of worry. Most carbon fiber cues start at $200+. The Collapsar undercuts everyone. Seventeen units sold in 2025.
+
+<a href="https://www.amazon.com/s?k=Collapsar+CXL500+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">No-Frills Pick</div>
+
+### Players G-2401 (~$65)
+
+<div class="product-pick__specs">
+<span>~$65</span>
+<span>Standard maple</span>
+<span>Standard joint</span>
+<span>Balanced</span>
+</div>
+
+<div class="product-pick__verdict">The Toyota of pool cues. Nothing exciting, nothing wrong.</div>
+
+[Players G-2401](/players-g-2401-review/) is solid maple, standard joint, straight and balanced. The Toyota of pool cues. Nothing exciting, nothing wrong.
+
+<a href="https://www.amazon.com/s?k=Players+G-2401+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 **What you gain over the under-$50 tier:** Low-deflection or carbon fiber shaft technology. Better tips. Better wood quality. The cue ball starts going where you aim it instead of somewhere in the neighborhood.
 
@@ -70,17 +145,62 @@ Solid maple, standard joint, straight and balanced. The Toyota of pool cues. Not
 
 At this level, the cues start looking as good as they play. Better wood selection, nicer wraps, tighter joints, and construction that you can feel in your hands.
 
-**Best pick: Players G-3401 (~$120)** , [Buy on Amazon](https://www.amazon.com/s?k=Players+G-3401+pool+cue&tag=billiardbeast-20)
+<div class="product-pick">
+<div class="product-pick__badge">Best $100-$200</div>
 
-The sweet spot for committed beginners. 19 oz, 13mm tip, solid maple, Irish linen wrap, moderate taper. Everything you need, nothing you don't. If you told me to buy one cue for someone who plays twice a week and wants to get better, I'd hand them this.
+### Players G-3401 (~$120)
 
-**Premium feel: McDermott ES-1 (~$150)** , [Buy on Amazon](https://www.amazon.com/s?k=McDermott+ES-1+pool+cue&tag=billiardbeast-20)
+<div class="product-pick__specs">
+<span>~$120</span>
+<span>13mm tip</span>
+<span>19 oz</span>
+<span>Maple / Irish linen</span>
+</div>
 
-McDermott's entry-level offering. You're paying for the name, the finish, and the leather wrap. The quality control is excellent. If walking up to the table with a cue that looks and feels like money matters to you, this is where that starts.
+<div class="product-pick__verdict">The sweet spot for committed beginners.</div>
 
-**Performance pick: Lucasi Hybrid LH7 (~$180)** — [Buy on Amazon](https://www.amazon.com/s?k=Lucasi+Hybrid+LH7+pool+cue&tag=billiardbeast-20)
+[Players G-3401](/players-g-3401-review/) is the sweet spot for committed beginners. 19 oz, 13mm tip, solid maple, Irish linen wrap, moderate taper. Everything you need, nothing you don't. If you told me to buy one cue for someone who plays twice a week and wants to get better, I'd hand them this.
 
-Lucasi makes some of the straightest cues in the business. The LH7 hybrid plays like it costs $300. Less pretty than the McDermott, plays better. Your call on which tradeoff matters more.
+<a href="https://www.amazon.com/s?k=Players+G-3401+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Premium Feel</div>
+
+### McDermott ES-1 (~$150)
+
+<div class="product-pick__specs">
+<span>~$150</span>
+<span>Leather wrap</span>
+<span>Quality control</span>
+<span>Excellent finish</span>
+</div>
+
+<div class="product-pick__verdict">Walking up to the table with a cue that looks and feels like money.</div>
+
+[McDermott ES-1](/mcdermott-es-1-review/) is McDermott's entry-level offering. You're paying for the name, the finish, and the leather wrap. The quality control is excellent. If walking up to the table with a cue that looks and feels like money matters to you, this is where that starts.
+
+<a href="https://www.amazon.com/s?k=McDermott+ES-1+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
+
+<div class="product-pick">
+<div class="product-pick__badge">Performance Pick</div>
+
+### Lucasi Hybrid LH7 (~$180)
+
+<div class="product-pick__specs">
+<span>~$180</span>
+<span>Hybrid shaft</span>
+<span>Straightest cues</span>
+<span>Less pretty, plays better</span>
+</div>
+
+<div class="product-pick__verdict">The LH7 plays like it costs $300.</div>
+
+[Lucasi Hybrid LH7](/lucasi-hybrid-lh7-review/) is made by a company that produces some of the straightest cues in the business. The LH7 hybrid plays like it costs $300. Less pretty than the McDermott, plays better. Your call on which tradeoff matters more.
+
+<a href="https://www.amazon.com/s?k=Lucasi+Hybrid+LH7+pool+cue&tag=billiardbeast-20" class="product-pick__cta" target="_blank" rel="noopener noreferrer nofollow">Check Price on Amazon →</a>
+</div>
 
 **What you gain over $50-100:** Noticeably better construction quality. Tighter joints. Better balance. Wraps that feel good after an hour of play. These cues don't just work — they feel like they were made for you.
 
