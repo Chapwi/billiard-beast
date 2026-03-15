@@ -15,6 +15,13 @@ faqs:
     answer: "Look for tables with warp-resistant MDF construction, K-66 rubber bumpers for consistent shots, and included leveling features. Read customer reviews for durability feedback and check the warranty length (180-day is typical)."
   - question: "Is an MDF pool table suitable for serious or competitive play?"
     answer: "No. MDF tables are fine for casual home play and practice, but serious and competitive players should invest in slate tables. Slate provides the flat, true surface needed for consistent, tournament-level play."
+items:
+  - name: "Fat Cat Trueshot Pool Table"
+  - name: "Traditional Parlor Style 7-Foot Pool Table"
+  - name: "Contemporary Engineered Wood Pool Table"
+  - name: "Titan Pool Table"
+  - name: "Kirkwood Pool Table"
+  - name: "Hustler Pool Table"
 ---
 
 While its generally true that you get what you pay for, there no need to spend 4-5k on a pool table when you can get one that plays just the same for $1000. There are lots of great options in this price range, and hopefully by the end of this article you will have found one that works for you!
