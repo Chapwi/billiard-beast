@@ -476,9 +476,8 @@
     font-family: var(--font-body);
     font-weight: 700;
     font-size: 0.95rem;
-    color: #fff;
-    border-bottom: 1px solid rgba(255,255,255,0.08);
-    padding-bottom: 0.75rem;
+    color: var(--text-muted);
+    font-style: italic;
     margin-bottom: 0.85rem;
     line-height: 1.5;
   }
@@ -488,7 +487,16 @@
     color: var(--text-primary);
     margin-bottom: 0.85rem;
   }
-  :global(.product-pick__cta) {
+  /* De-emphasize inline links inside cards so CTA is the clear action */
+  :global(.prose .product-pick a:not(.product-pick__cta)) {
+    color: var(--text-primary);
+    text-decoration-color: rgba(255,255,255,0.15);
+  }
+  :global(.prose .product-pick a:not(.product-pick__cta):hover) {
+    color: var(--orange);
+    text-decoration-color: rgba(242,101,34,0.4);
+  }
+  :global(.prose .product-pick__cta) {
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
@@ -500,13 +508,15 @@
     padding: 0.55rem 1.2rem;
     border-radius: var(--radius-pill);
     text-decoration: none;
+    text-decoration-color: transparent;
     margin-top: 0.5rem;
     transition: background var(--transition), transform var(--transition);
   }
-  :global(.product-pick__cta:hover) {
+  :global(.prose .product-pick__cta:hover) {
     background: var(--orange-dim);
     transform: translateY(-1px);
     text-decoration: none;
+    text-decoration-color: transparent;
     color: #fff;
   }
 
