@@ -555,12 +555,16 @@
     .article-body-wrap { grid-template-columns: 1fr 280px; gap: 2rem; }
   }
   @media (max-width: 768px) {
-    .article-header { padding: 1.25rem 1rem 0; }
-    .article-meta-row { margin-bottom: 0.75rem; }
-    .article-title { font-size: 1.65rem; margin-bottom: 0.25rem; }
-    .article-title-block { gap: 1rem; padding-bottom: 0.75rem; }
+    .article-header { padding: 1rem 1rem 0; }
+    .article-meta-row { margin-bottom: 0.5rem; }
+    .article-title { font-size: 1.65rem; line-height: 1.2; margin-bottom: 0; }
+    .article-title-block {
+      flex-direction: column;
+      gap: 0.5rem;
+      padding-bottom: 0.75rem;
+    }
     .article-hero { padding: 0 1rem; }
-    .article-hero__caption { display: none; } /* caption is cramped on mobile — description lives in meta for SEO */
+    .article-hero__caption { display: none; }
     .article-body-wrap { grid-template-columns: 1fr; padding: 1.25rem 1rem 2rem; }
     .article-sidebar { display: none; }
     .affiliate-cta { flex-direction: column; text-align: center; }
