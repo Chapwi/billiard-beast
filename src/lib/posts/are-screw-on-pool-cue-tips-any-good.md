@@ -6,7 +6,7 @@ description: Are screw-on pool cue tips any good? We cover the pros, cons, and h
 faqs:
   - question: "Are Screw On Pool Cue Tips Any Good?"
     answer: "For most pool players who strive to get good and use decent equipment, screw-on tips are not good. They tend to come loose over time, which can affect how the tip interacts with the cue ball during shots. Even the threads in the ferrule can become damaged and loosen."
-image: "/images/the-ultimate-guide-to-choosing-a-pool-cue-tip.webp"
+image: "/images/where-did-the-3-ball-go-again_.webp"
 ---
 
 <em>For most pool players who strive to get good and use decent equipment, screw-on tips are not good. They tend to come loose over time, which can affect how the tip interacts with the cue ball during shots. Even the threads in the ferrule can become damaged and loosen.</em>

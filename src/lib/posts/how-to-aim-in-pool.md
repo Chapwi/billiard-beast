@@ -3,7 +3,7 @@ title: "How to Aim in Pool: The Complete Guide"
 date: "2026-03-14"
 dateModified: "2026-03-14"
 description: "Master pool aiming with the ghost ball method, contact points, and eye dominance. Learn practical techniques to sink more balls."
-image: "/images/canva-pool-table-and-cues.webp"
+image: "/images/how-to-get-better-at-pool.webp"
 faqs:
   - question: "What is the ghost ball method in pool?"
     answer: "The ghost ball method involves imagining an invisible ball in line with the pocket. You aim to place the cue ball so it contacts the object ball at the exact point where the ghost ball sits. This is the most reliable aiming system for beginners and pros alike."

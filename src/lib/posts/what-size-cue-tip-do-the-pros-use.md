@@ -8,7 +8,7 @@ faqs:
     answer: "By playing for hours and hours with different tips. It’s like this: The tip doesn’t make the player, the player makes the tip. This is why I recommend that you don’t buy a particular tip size or brand just because you heard a pro player uses it."
   - question: "What Size Cue Tip Should You Use if You’re a Beginner?"
     answer: "You want to have a solid foundation of skills on which you can build. So if you’re just learning to play pool, avoid jumping around from cue tip to cue tip until you feel good with one."
-image: "/images/the-ultimate-guide-to-choosing-a-pool-cue-tip.webp"
+image: "/images/718080-sports-pool-balls-billiards-hd-720p.jpg"
 ---
 
 Pool is a game of precision. If football is a game of inches, then pool is a game of millimeters. And you can’t be a great player if you’re only precise on half of your shots. You have to be precise on the vast majority of your shots if you’re going to get really good. So, with all the talk about tip sizes and their benefits/drawbacks, it’s not uncommon for people to ask: What size pool cue tips do the pros use?

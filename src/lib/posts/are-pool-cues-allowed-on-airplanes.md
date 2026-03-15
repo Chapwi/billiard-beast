@@ -6,7 +6,7 @@ description: Can you bring a pool cue on a plane? We explain TSA rules, airline 
 faqs:
   - question: "Are Pool Cues Allowed on Airplanes?"
     answer: "Pool cues are allowed on airplanes, but only if they’re checked - they are not permitted in the cabin. Some countries and airlines have different rules, but it’s always safest to follow TSA rules to avoid snags. When bringing a pool cue on an airplane, you’ll also want to protect it with a pool cue case, and using a few simple packing guidelines."
-image: "/images/canva-pool-cue.webp"
+image: "/images/how-are-snooker-pool-cues-treated-in-terms-of-airline-luggage-restrictions.avif"
 ---
 
 <strong>Pool cues are allowed on airplanes, but only if they’re checked - they are not permitted in the cabin. Some countries and airlines have different rules, but it’s always safest to follow TSA rules to avoid snags. When bringing a pool cue on an airplane, you’ll also want to protect it with a pool [cue case](/best-pool-cue-cases/), and using a few simple packing guidelines.</strong>

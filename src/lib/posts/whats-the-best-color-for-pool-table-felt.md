@@ -3,7 +3,7 @@ title: What's the Best Color for Pool Table Felt?
 date: "2023-08-17"
 dateModified: "2026-03-13"
 description: What's the best color for pool table felt? We cover the most popular cloth colors, visibility, room aesthetics, and which holds up best.
-image: "/images/pool-table-blue-felt.png"
+image: "/images/billiard-table-1835310_1920.jpg"
 faqs:
   - question: "What's the best felt color for a serious player?"
     answer: "Tournament Green or Tournament Blue are the standard for competitive play. Both colors are easy on the eyes during long sessions and provide consistent contrast against the balls. Green is the traditional choice, blue is becoming equally popular. Most pros are comfortable with both, so it comes down to personal preference and what you grew up playing on."

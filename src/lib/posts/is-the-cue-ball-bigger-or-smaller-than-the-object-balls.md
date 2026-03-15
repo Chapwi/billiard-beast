@@ -7,7 +7,7 @@ slug: is-the-cue-ball-bigger-or-smaller-than-the-object-balls
 faqs:
   - question: "Is the Cue Ball Bigger or Smaller Than the Object Balls?"
     answer: "There seems to be a lot of myth and confusion surrounding the topic of cue ball size relative to the object balls. And if you play on a lot of public pool tables, especially in bars, recreation centers, or arcades, you may have noticed (or at least suspected) that the cue ball seemed slightly different than the rest of the balls. So with this article, I'll attempt to cut through the mystery and..."
-image: "/images/canva-billiards-billiard-balls-on-the-table.webp"
+image: "/images/718080-sports-pool-balls-billiards-hd-720p.jpg"
 ---
 
 Walk into any decent pool hall and you'll probably notice something: the white ball feels slightly different in your hand than the colored ones. Heavier? Bigger? You're not crazy, but it depends on what table you're shooting on.

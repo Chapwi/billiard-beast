@@ -7,7 +7,7 @@ slug: do-pool-tables-need-to-be-climate-controlled
 faqs:
   - question: "Do Pool Tables Need to be Climate Controlled?"
     answer: "If you’re thinking about purchasing a pool table, or you already own one and are planning to move to a new home, you may be concerned with climate control. There are plenty of horror stories out there about pool tables warping or falling apart when not properly cared for. Other stories suggest that a pool table will be fine when left exposed to the element. Which stories are true? Do pool table..."
-image: "/images/canva-close-up-of-billiard-table.webp"
+image: "/images/billiard-table-1835310_1920.jpg"
 ---
 
 You hear the horror stories. A guy keeps his table in an unheated garage and the felt wrinkles. Another player puts theirs on a porch and the slate warps. So what’s the real deal? Does your pool table actually need a climate-controlled room, or are these just cautionary tales?

@@ -3,7 +3,7 @@ title: How to Move a Pool Table a Few Feet
 date: "2023-08-25"
 dateModified: "2026-03-11"
 description: How to move a pool table a few feet without disassembling it. We explain the safest methods for sliding or rolling a heavy table short distances.
-image: "/images/how-much-does-it-cost-to-move-a-pool-table_-1.webp"
+image: "/images/how-much-does-an-8-foot-slate-pool-table-weigh_.webp"
 faqs:
   - question: "What do pool tables usually weigh?"
     answer: "Most pool tables weigh between 800 to 1200 pounds, making them difficult to move without proper equipment and assistance."

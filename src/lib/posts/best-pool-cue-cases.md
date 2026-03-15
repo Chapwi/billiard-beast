@@ -3,7 +3,7 @@ title: "Best Pool Cue Cases in 2026: Protect Your Investment"
 date: "2026-03-12"
 dateModified: "2026-03-14"
 description: "Compare soft, hard, tube, and backpack pool cue cases. Expert guide to materials, brands, features, and travel tips for protecting your cues."
-image: "/images/canva-pool-sticks-cross.webp"
+image: "/images/pool-hall-1091644_1920.jpg"
 faqs:
   - question: "What's the difference between soft cases and hard cases?"
     answer: "Soft cases are lightweight and affordable but offer limited impact protection. Hard cases provide maximum protection and durability but are heavier and more expensive."

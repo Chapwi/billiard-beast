@@ -4,7 +4,7 @@ date: "2026-03-14"
 dateModified: "2026-03-14"
 slug: "best-pool-tables-under-2000"
 description: "Best pool tables under $2,000 in 2026 — real slate, solid frames, and playability that won't embarrass you. Six tables worth your money."
-image: "/images/canva-billiards-room.webp"
+image: "/images/americanlegendkirkwood89_22billiardtable_pooltable_al3010w_8_700x.webp"
 faqs:
   - question: "What's the best pool table under $2,000?"
     answer: "The Mizerak Donovan II 8-foot slate ($1,200-$1,500) is the best value. Genuine 3-piece slate, K-66 cushions, and solid construction for roughly half the price of premium brands like Olhausen."

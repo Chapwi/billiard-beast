@@ -4,7 +4,7 @@ date: "2026-03-14"
 dateModified: "2026-03-14"
 slug: "best-pool-cues-for-intermediate-players"
 description: "The best pool cues for intermediate players in 2026. What to upgrade, what actually matters at your level, and 6 specific cues from $150 to $400."
-image: "/images/canva-pool-sticks-cross.webp"
+image: "/images/snooker-3317540_1920.jpg"
 faqs:
   - question: "What pool cue should an intermediate player buy?"
     answer: "The Lucasi Hybrid LHC97 (~$250) or McDermott G-Series (~$200-$350) are the best options for most intermediate players. Both offer low-deflection shafts, quality construction, and performance that won't hold you back as you improve."

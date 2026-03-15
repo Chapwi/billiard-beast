@@ -6,7 +6,7 @@ description: What happens if you hit your opponent's ball in pool? We explain th
 faqs:
   - question: "Pool Rules: What Happens if You Hit Your Opponent’s Ball In?"
     answer: "Nearly every pool player has been there at one time or another. You’re attempting a precise shot. One of your balls is close to a few of your opponent’s balls, but you think you can make it. But then, the unexpected happens, and the pool gods are not on your side. What happens if you hit your opponent’s ball in?"
-image: "/images/canva-billiard-balls-on-a-billiard-table.webp"
+image: "/images/billiards-vs-pool-vs-snooker_-whats-the-difference_.webp"
 ---
 
 Nearly every pool player has been there at one time or another. You’re attempting a precise shot. One of your balls is close to a few of your opponent’s balls, but you think you can make it. But then, the unexpected happens, and the pool gods are not on your side. What happens if you hit your opponent’s ball in?

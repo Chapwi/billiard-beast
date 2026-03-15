@@ -10,7 +10,7 @@ faqs:
     answer: "Most players do well spending $30-150. The $30 Viking Valhalla is enough for casual play. The $75-100 range (PureX, Collapsar) gets you real technology. Above $150 you're paying for premium materials and aesthetics, which matter but aren't necessary for good play."
   - question: "Are expensive pool cues worth it?"
     answer: "Depends on how much you play. The performance jump from $30 to $100 is significant. From $100 to $300, noticeable but smaller. Above $300, you're mostly paying for feel, aesthetics, and bragging rights. A $150 cue in skilled hands beats a $500 cue in unskilled hands every time."
-image: "/images/canva-pool-sticks-cross.webp"
+image: "/images/billiards-4464686_1920.jpg"
 items:
   - name: "Viking Valhalla 100 Series"
   - name: "Viper Sinister"

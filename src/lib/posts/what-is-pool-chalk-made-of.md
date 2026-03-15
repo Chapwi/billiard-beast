@@ -7,7 +7,7 @@ slug: what-is-pool-chalk-made-of
 faqs:
   - question: "What is Pool Chalk Made Of?"
     answer: "Pool chalk is an often overlooked part of the game. Once you've played pool enough, chalking the cue tip turns from a conscious action to an unconscious one. But, the curious among us may wonder what's in it. Read on to find the answer to the question: What is pool chalk made of?"
-image: "/images/canva-billiards-balls-and-cue-on-billiards-table.-billiard-sport-concept.webp"
+image: "/images/bumper-pool-gear-patrol-970.jpg"
 ---
 
 You grab a cube of chalk and brush your cue tip before every shot. It's automatic. But have you ever thought about what that stuff actually is?

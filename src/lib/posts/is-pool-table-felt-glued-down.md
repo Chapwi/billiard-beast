@@ -6,7 +6,7 @@ description: Is pool table felt glued down or stapled? We explain how felt is at
 faqs:
   - question: "Is Pool Table Felt Glued Down?"
     answer: "Unless you’ve seen a pool table assembled or re-felted, how the felt is secured can be quite the mystery. It’s impossible to tell by just looking at the fully assembled table. The surface underneath the felt, or cloth, is so smooth it may not seem like there could be anything under there holding it down. This makes people wonder: Is pool table felt glued down?"
-image: "/images/pool-table-blue-felt.png"
+image: "/images/pool-table-garage.jpg"
 ---
 
 Unless you’ve seen a pool table assembled or re-felted, how the felt is secured can be quite the mystery. It’s impossible to tell by just looking at the fully assembled table. The surface underneath the felt, or cloth, is so smooth it may not seem like there could be anything under there holding it down. This makes people wonder: Is pool table felt glued down?

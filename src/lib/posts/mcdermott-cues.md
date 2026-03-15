@@ -10,7 +10,7 @@ faqs:
     answer: "McDermott offers several series: H-Series ($750–$2,100) for performance enthusiasts, Select Series ($695–$1,350) for balanced quality, G-Series for mid-range options, and specialty cues like Lucky Cues ($62–$175) for beginners. Each series targets different skill levels and budgets."
   - question: "Where can I buy genuine McDermott cues?"
     answer: "Genuine McDermott cues are available through authorized retailers including Amazon, specialty pool equipment stores, and the official McDermott website. Always verify the seller's authenticity to ensure you receive a genuine product with proper warranty coverage."
-image: "/images/american-made.webp"
+image: "/images/canva-selective-focus-on-billiard-ball-number-fifteen.webp"
 product:
   name: "McDermott Pool Cues"
   brand: "McDermott"

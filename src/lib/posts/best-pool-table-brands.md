@@ -4,7 +4,7 @@ date: "2026-03-14"
 dateModified: "2026-03-14"
 slug: "best-pool-table-brands"
 description: "The best pool table brands in 2026 ranked by build quality, warranty, and value. Olhausen, Brunswick, Diamond, and more."
-image: "/images/canva-billiards-room.webp"
+image: "/images/sloan-pool-table_2048x2048.webp"
 faqs:
   - question: "What is the best pool table brand?"
     answer: "Olhausen is the best overall pool table brand for home use, made in the USA with a lifetime warranty and tournament-quality construction starting at $2,500. For budget buyers, Mizerak offers the best slate tables under $1,500. Diamond makes the best tournament tables."

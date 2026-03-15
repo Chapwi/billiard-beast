@@ -4,7 +4,7 @@ date: "2026-03-14"
 dateModified: "2026-03-14"
 slug: "best-pool-table-covers"
 description: "The best pool table covers in 2026 for 7ft, 8ft, and 9ft tables. Heavy-duty fitted covers that actually keep dust, spills, and UV damage off your felt."
-image: "/images/canva-billiards-room.webp"
+image: "/images/holman327pooltable.webp"
 faqs:
   - question: "Do I really need a pool table cover?"
     answer: "If your table has a slate bed, yes. A cover protects the felt from dust, UV fading, spills, and pet hair. Refelting costs $300-$500. A $30-$60 cover that extends felt life by 2-3 years pays for itself many times over."

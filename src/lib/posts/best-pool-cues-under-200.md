@@ -4,7 +4,7 @@ date: "2026-03-14"
 dateModified: "2026-03-14"
 slug: "best-pool-cues-under-200"
 description: "The best pool cues under $200 in 2026 — from $100 Players sticks to $180 Lucasi hybrids. Real picks for players ready to step up from bar cues."
-image: "/images/canva-pool-sticks-cross.webp"
+image: "/images/high-angle-arrangement-with-triangle-pool-balls.jpg"
 faqs:
   - question: "What is the best pool cue under $200?"
     answer: "The Players G-3401 (~$120) is the best all-around cue under $200. Solid maple construction, 13mm tip, Irish linen wrap, and it plays like a cue twice the price. For more performance, the Lucasi Hybrid LH7 (~$180) edges it out on deflection and hit quality."

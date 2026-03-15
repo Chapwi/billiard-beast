@@ -3,7 +3,7 @@ title: "Best Pool Cues for Beginners in 2026: A Complete Buyer's Guide"
 date: "2026-03-12"
 dateModified: "2026-03-14"
 description: "Find the perfect beginner pool cue with our buyer's guide. Learn weight, tips, wrap materials, and top recommendations in every price range."
-image: "/images/canva-pool-table-and-cues.webp"
+image: "/images/canva-below-view-of-friends-playing-billiard-in-a-pool-hall.webp"
 faqs:
   - question: "What weight should a beginner pool cue be?"
     answer: "Beginners should use 18-19 oz cues. Heavier cues tire your arm and make precise shots harder, while lighter ones can feel unpredictable."

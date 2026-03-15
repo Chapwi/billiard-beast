@@ -14,7 +14,7 @@ faqs:
     answer: "Yes—some players rely on the visual dots so much that switching back to a standard cue ball feels off. The fix is simple: alternate between measles balls and regular cue balls during practice to build confidence with both."
   - question: "How much do measles balls cost?"
     answer: "A quality measles ball runs $15–$30, depending on the brand. It’s a cheap investment for your practice sessions."
-image: "/images/canva-billiard-balls-1.webp"
+image: "/images/kirkwood7.5pooltable.webp"
 ---
 
 You’ve probably seen it at your local pool hall. Tthat weird white cue ball covered in red dots. It’s not some novelty item. That’s a measles ball, and it’s one of the smartest training tools you can throw in your cue bag.

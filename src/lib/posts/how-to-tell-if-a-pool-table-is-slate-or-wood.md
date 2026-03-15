@@ -3,7 +3,7 @@ title: How to Tell if a Pool Table is Slate or Wood
 date: "2023-08-17"
 dateModified: "2026-03-14"
 description: How to tell if a pool table has a slate or wood bed — 4 simple tests you can do at home before buying a used pool table.
-image: "/images/can-a-slate-pool-table.webp"
+image: "/images/holman327pooltable.webp"
 faqs:
   - question: "How much does a slate pool table weigh compared to a wood one?"
     answer: "Slate tables typically weigh 650-1,000 pounds due to the heavy slate bed and sturdy frame needed to support it. Wood (MDF) tables weigh only 100-300 pounds, making them much lighter."

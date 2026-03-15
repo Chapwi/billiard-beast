@@ -3,7 +3,7 @@ title: Pool Cue Shaft Taper Explained
 date: "2023-08-30"
 dateModified: "2026-03-13"
 description: "Pool cue shaft taper explained: pro taper vs. European taper, how taper affects deflection and feel, and which is right for your game."
-image: "/images/cue-anatomy.webp"
+image: "/images/how-tall-is-a-pool-table_.webp"
 faqs:
   - question: "What's the difference between pro taper and European taper?"
     answer: "Pro taper has a constant diameter from the tip to around 14-15 inches down the shaft, then tapers gradually toward the butt. European (straight) taper is cone-shaped, meaning it tapers continuously from the tip all the way to the butt. This affects how the cue feels, how much deflection you'll experience, and how you need to adjust your stroke."

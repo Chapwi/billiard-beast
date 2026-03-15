@@ -6,7 +6,7 @@ description: How much does pool table refelting cost in 2026? We break down prof
 faqs:
   - question: "How Much Does it Cost to Refelt a Pool Table? (2026 Prices)"
     answer: "As sturdy and durable as most pool tables are, they do tend to get worn down and beat up over time. And in most cases, the felt is the first thing to go. Depending on how often you play, how well you maintain the table, and where the table resides, you may even need to change the felt every few years. If you’ve never had your table refelted before and it’s beginning to look a little worse for w..."
-image: "/images/pool-table-blue-felt.png"
+image: "/images/dudas-billiards-bar-960.jpg"
 ---
 
 As sturdy and durable as most pool tables are, they do tend to get worn down and beat up over time. And in most cases, the felt is the first thing to go. Depending on how often you play, how well you maintain the table, and where the table resides, you may even need to change the felt every few years. If you’ve never had your table refelted before and it’s beginning to look a little worse for wear, you may be wondering, “how much does it cost to refelt a pool table?”

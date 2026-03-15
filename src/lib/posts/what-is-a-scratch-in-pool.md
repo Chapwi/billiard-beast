@@ -8,7 +8,7 @@ faqs:
     answer: "If you’ve ever played pool chances are it has happened to you. A shot goes amiss, and your heart sinks as the cue ball heads straight for a pocket. There goes the game. Your opponent can put the ball anywhere on the table. Or can he? Is placement limited to behind the head string? Or to the side of the table where the cue ball scratched? What exactly is a scratch in pool?"
   - question: "What Happens if you Scratch on the 8-Ball?"
     answer: "A scratch is broadly defined as a cue ball driven off the table or pocketed. For most of the game, these actions are considered standard fouls and result in ball-in-hand for the opponent either on the entire table or behind the head string."
-image: "/images/canva-billiards-kick-off-white-ball-queue-glove-1.webp"
+image: "/images/pool-cue-cross-1418024-1279x851.webp"
 ---
 
 If you’ve ever played pool chances are it has happened to you. A shot goes amiss, and your heart sinks as the cue ball heads straight for a pocket. There goes the game. Your opponent can put the ball anywhere on the table. Or can he? Is placement limited to behind the head string? Or to the side of the table where the cue ball scratched? What exactly is a scratch in pool?

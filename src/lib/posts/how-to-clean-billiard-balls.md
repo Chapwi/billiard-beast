@@ -3,7 +3,7 @@ title: "How to Clean Billiard Balls: Step by Step"
 date: "2023-08-22"
 dateModified: "2026-03-11"
 description: "How to clean billiard balls: a step-by-step guide. From dish soap to ball polishers, learn the best methods to restore shine and grip."
-image: "/images/canva-billiard-balls-on-a-billiard-table.webp"
+image: "/images/are-pool-tables-a-good-investment___-1.webp"
 faqs:
   - question: "Can I clean billiard balls in a dishwasher?"
     answer: "No, never use a dishwasher. The heat damages phenolic resin or polyester-resin materials, dulling shine and reducing durability. It can cause permanent damage to your balls."

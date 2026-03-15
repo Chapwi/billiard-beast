@@ -15,7 +15,7 @@ faqs:
     answer: "The quality of chalk you use is only going to matter to a point. Most chalks, no matter their price range, perform the same function: allowing you to add friction between the cue tip and the cue ball."
   - question: "What Different Color Chalks Are Available?"
     answer: "There are a ton of different chalk colors available out there. Master, one of the most well-known pool chalk companies, has many different color options. These include:"
-image: "/images/canva-billiards-balls-and-cue-on-billiards-table.-billiard-sport-concept.webp"
+image: "/images/pool-16723_1280.jpg"
 ---
 
 You walk into a pool hall and see stacks of blue chalk cubes. You grab blue because that's what everyone uses. But have you ever thought about *why*?

@@ -10,7 +10,7 @@ faqs:
     answer: "Throughout the rest of this article we’ll discuss how we know this to be true, and give you some tips on how to get your pool table upstairs!"
   - question: "What is the Maximum all-in Weight?"
     answer: "The pool table shouldn’t be the only thing that you factor into your calculations. Even if it fits within your floor’s load limit, what about any other furniture you may also have around it? When calculating how much weight your floor will hold, always take into account things like couches, TVs, fridges, and other bulky items."
-image: "/images/why-are-pool-tables-so-heavy_.webp"
+image: "/images/kirkwood7pooltable-2.webp"
 ---
 
 Having a pool table in your home is a dream come true for most pool enthusiasts. But what if the only place you have for it is in the upstairs of your home? Will the second floor support it?

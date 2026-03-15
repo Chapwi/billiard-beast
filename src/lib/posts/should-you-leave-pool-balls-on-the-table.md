@@ -6,7 +6,7 @@ description: Should you leave pool balls on the table when not in use? We explai
 faqs:
   - question: "Should You Leave Pool Balls on the Table?"
     answer: "You’ve just finished playing a few games with your friends. It’s time to call it a night, so you and your pals put the cues away and make sure the chalk is in its right place. But what about the pool balls? Do you put them in the pockets or just leave them as they lie? Should you invest in a case for your balls? The easiest thing to do would be to leave them on the table, ready for the next gam..."
-image: "/images/canva-billiard-balls-on-a-billiard-table.webp"
+image: "/images/kirkwood7pooltable-2.webp"
 ---
 
 You’ve just finished playing a few games with your friends. It’s time to call it a night, so you and your pals put the cues away and make sure the chalk is in its right place. But what about the pool balls? Do you put them in the pockets or just leave them as they lie? Should you invest in a case for your balls? The easiest thing to do would be to leave them on the table, ready for the next game. But <em>should</em> you leave pool balls on the table?

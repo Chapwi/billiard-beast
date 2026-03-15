@@ -3,7 +3,7 @@ title: Best Pool Cue Tips in 2026
 date: "2026-03-14"
 dateModified: "2026-03-14"
 description: "Master pool with the right cue tip. Compare leather, wood & performance tips for every skill level and budget."
-image: "/images/canva-pool-table-and-cues.webp"
+image: "/images/8-easy-tips.webp"
 faqs:
   - question: "What's the difference between hard and soft pool cue tips?"
     answer: "Soft tips grip the cue ball better and offer more control for draw shots, while hard tips deliver more power and are better for jump shots. Soft tips wear faster."

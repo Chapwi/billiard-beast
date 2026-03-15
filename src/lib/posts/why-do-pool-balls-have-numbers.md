@@ -8,7 +8,7 @@ faqs:
     answer: "A fun way to kill some time is to think about playing your favorite pool games on balls that didn’t have numbers. If you really wanted to, you could tape over your pool balls and play a few games like this. The tape would affect how the balls moved and probably wouldn’t be much fun. So maybe it’s best as a mental exercise."
   - question: "When Did Pool Balls Get Numbers?"
     answer: "Many different kinds of billiard games are still played today with balls that are only colored and not numbered. Snooker balls are all of solid color, and none are numbered."
-image: "/images/canva-billiard-balls-1.webp"
+image: "/images/kirkwood727pooltable.webp"
 ---
 
 Pool balls have both colors and numbers. They also have variations in the colors in the form of solids and stripes. Not every billiard game has numbered balls. Snooker balls, for instance, don’t have any numbers. So when you really think about it, you could get away with playing many games without the numbers. So why do pool balls have numbers?
