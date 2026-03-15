@@ -10,7 +10,9 @@
   $: title       = data.title       || DEFAULT_TITLE;
   $: description = data.description || DEFAULT_DESCRIPTION;
   $: image       = data.image       || DEFAULT_IMAGE;
-  $: canonicalUrl = data.url ? `${SITE_URL}${data.url.pathname}` : SITE_URL;
+  $: canonicalUrl = data.url
+    ? `${SITE_URL}${data.url.pathname.endsWith('/') ? data.url.pathname : data.url.pathname + '/'}`
+    : `${SITE_URL}/`;
   $: isArticle   = data.url ? (data.url.pathname !== '/') : false;
   $: schema      = data.schema;
 
