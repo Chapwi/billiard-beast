@@ -51,9 +51,6 @@
       <div class="article-title-block">
         <div class="article-title-col">
           <h1 class="article-title">{meta.title}</h1>
-          {#if meta.description}
-            <p class="article-subtitle">{meta.description}</p>
-          {/if}
           <!-- Hashtag pills -->
           {#if tags.length > 0}
             <div class="article-tags">
@@ -87,7 +84,7 @@
       <img src={meta.image} alt={meta.title} loading="eager" />
       {#if meta.description}
         <div class="article-hero__caption">
-          <span class="drop-cap-D">D</span>{meta.description.slice(1)}
+          <span class="drop-cap">{meta.description[0]}</span>{meta.description.slice(1)}
         </div>
       {/if}
     </div>
@@ -98,16 +95,6 @@
 
     <!-- Left column: article content -->
     <div class="article-content">
-
-      <!-- In-content ad (after intro — improves AdSense RPM significantly) -->
-      <div class="ad-slot ad-slot--inline" aria-label="Advertisement">
-        <ins class="adsbygoogle"
-          style="display:block"
-          data-ad-client="ca-pub-5746515442496455"
-          data-ad-slot="auto"
-          data-ad-format="auto"
-          data-full-width-responsive="true"></ins>
-      </div>
 
       <!-- MDsvex renders here -->
       <div class="prose">
@@ -267,17 +254,6 @@
     color: #fff;
     margin-bottom: 0.5rem;
   }
-  .article-subtitle {
-    font-family: var(--font-accent);
-    font-weight: 900;
-    font-style: italic;
-    font-size: clamp(0.85rem, 1.5vw, 1.05rem);
-    color: var(--orange);
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    margin-bottom: 1rem;
-  }
-
   /* Tags */
   .article-tags {
     display: flex;
@@ -349,7 +325,7 @@
     line-height: 1.6;
     border-radius: 0 0 var(--radius-sm) var(--radius-sm);
   }
-  .drop-cap-D {
+  .drop-cap {
     font-family: var(--font-body);
     font-weight: 800;
     font-size: 3.5rem;

@@ -4,7 +4,7 @@ date: "2026-03-14"
 dateModified: "2026-03-14"
 slug: "best-pool-table-lights"
 description: "The best pool table lights in 2026 for 7ft, 8ft, and 9ft tables. LED and fluorescent options from $80 to $500 that actually eliminate shadows."
-image: "/images/canva-billiards-room.webp"
+image: "/images/canva-billiards-sunset.webp"
 faqs:
   - question: "How long should a pool table light be?"
     answer: "Your light should be at least two-thirds the length of your table. For a 7-foot table, get a 48-inch light minimum. For 8-foot, 54-58 inches. For 9-foot, at least 60 inches. Too short creates shadows in the corners."
