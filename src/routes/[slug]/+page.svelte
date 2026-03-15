@@ -22,10 +22,6 @@
     return Math.max(3, Math.round(words / wpm)) + ' min read';
   })();
 
-  // Hashtags from article slug
-  $: tags = meta.slug
-    ? meta.slug.split('-').filter(w => w.length > 3).slice(0, 5)
-    : [];
 </script>
 
 <article class="article-page">
@@ -51,28 +47,19 @@
       <div class="article-title-block">
         <div class="article-title-col">
           <h1 class="article-title">{meta.title}</h1>
-          <!-- Hashtag pills -->
-          {#if tags.length > 0}
-            <div class="article-tags">
-              {#each tags as tag}
-                <span class="tag">#{tag}</span>
-              {/each}
-            </div>
-          {/if}
         </div>
         <!-- Author -->
         <div class="article-author">
-          <span class="author-by">by</span>
-          <span class="author-name">Joe</span>
           <img
             src="/images/joe-masked.webp"
             alt="Joe"
             class="author-avatar"
-            width="48"
-            height="48"
+            width="36"
+            height="36"
             loading="lazy"
             onerror="this.style.display='none'"
           />
+          <span class="author-name">Joe</span>
         </div>
       </div>
     </div>
@@ -254,47 +241,23 @@
     color: #fff;
     margin-bottom: 0.5rem;
   }
-  /* Tags */
-  .article-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-  .tag {
-    display: inline-block;
-    padding: 0.15rem 0.65rem;
-    border: 1px solid rgba(255,255,255,0.2);
-    border-radius: var(--radius-pill);
-    font-family: var(--font-ui);
-    font-size: 0.72rem;
-    color: var(--text-muted);
-    letter-spacing: 0.02em;
-  }
-
   /* Author */
   .article-author {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    gap: 0.35rem;
+    gap: 0.5rem;
     flex-shrink: 0;
-    text-align: center;
-  }
-  .author-by {
-    font-family: var(--font-ui);
-    font-size: 0.75rem;
-    color: var(--text-muted);
   }
   .author-name {
     font-family: var(--font-ui);
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     font-weight: 600;
-    color: var(--text-primary);
+    color: var(--text-muted);
     white-space: nowrap;
   }
   .author-avatar {
-    width: 48px;
-    height: 48px;
+    width: 36px;
+    height: 36px;
     border-radius: 50%;
     object-fit: cover;
     border: 2px solid rgba(255,255,255,0.15);
@@ -592,10 +555,20 @@
     .article-body-wrap { grid-template-columns: 1fr 280px; gap: 2rem; }
   }
   @media (max-width: 768px) {
-    .article-body-wrap { grid-template-columns: 1fr; }
-    .article-sidebar { display: none; } /* hide sidebar on mobile; ads serve inline */
-    .article-title-block { flex-direction: column; }
-    .article-author { flex-direction: row; }
+    .article-header { padding: 1.25rem 1rem 0; }
+    .article-meta-row { margin-bottom: 0.75rem; }
+    .article-title { font-size: 1.65rem; margin-bottom: 0.25rem; }
+    .article-title-block { gap: 1rem; padding-bottom: 0.75rem; }
+    .article-hero { padding: 0 1rem; }
+    .article-hero__caption { display: none; } /* caption is cramped on mobile — description lives in meta for SEO */
+    .article-body-wrap { grid-template-columns: 1fr; padding: 1.25rem 1rem 2rem; }
+    .article-sidebar { display: none; }
     .affiliate-cta { flex-direction: column; text-align: center; }
+    :global(.prose h2) {
+      text-transform: none;
+      font-size: 1.15rem;
+      margin: 1.5rem 0 0.65rem;
+    }
+    :global(.prose p) { font-size: 0.95rem; line-height: 1.7; }
   }
 </style>
